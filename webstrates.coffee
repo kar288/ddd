@@ -224,7 +224,7 @@ app.get '/new', (req, res) ->
 getPermissionsForWebstrate = (username, provider, webstrate, snapshot) ->
     if snapshot.data? and snapshot.data[0]? and snapshot.data[0] == 'html'
         if snapshot.data[1]? and snapshot.data[1]['data-auth']?
-            try 
+            try
                 authData = JSON.parse snapshot.data[1]['data-auth']
                 for user in authData
                     if user.username == username && user.provider == provider
@@ -265,6 +265,19 @@ app.get '/:id', (req, res) ->
                             for op in ops
                                 ot.apply data, op
                             res.send (jsonml.toXML data.data, ["area", "base", "br", "col", "embed", "hr", "img", "input", "keygen", "link", "menuitem", "meta", "param", "source", "track", "wbr"])
+                else if Number(req.query.v) < 0
+                  version = snapshot.v + Number(req.query.v)
+                  if version < 0
+                    res.send "'" + req.params.id + "' does not exist in version " + req.query.v + ". Highest version is " + snapshot.v + ".", 404
+                  else
+                    console.log 'aaaaaaaaaaaa', version, req.params.id
+                    backend.getOps 'webstrates', req.params.id, 0, version, (err, ops) ->
+                        ops.sort (a,b) ->
+                            return a.v - b.v
+                        data = {v:0}
+                        for op in ops
+                            ot.apply data, op
+                        res.send (jsonml.toXML data.data, ["area", "base", "br", "col", "embed", "hr", "img", "input", "keygen", "link", "menuitem", "meta", "param", "source", "track", "wbr"])
                 else if req.query.v == 'head'
                     res.send (jsonml.toXML snapshot.data, ["area", "base", "br", "col", "embed", "hr", "img", "input", "keygen", "link", "menuitem", "meta", "param", "source", "track", "wbr"])
                 else if req.query.v == ''
@@ -304,7 +317,7 @@ app.get '/:id', (req, res) ->
                 res.sendFile __dirname+'/html/_client.html'
     else
         res.redirect '/frontpage'
-        
+
 app.get '/', (req, res) ->
     res.redirect '/frontpage'
 
@@ -318,7 +331,7 @@ wss.on 'connection', (client) ->
         console.log error
     callback()
 
-  stream._read = -> # Ignore. 
+  stream._read = -> # Ignore.
 
   stream.headers = client.upgradeReq.headers
   stream.remoteAddress = client.upgradeReq.connection.remoteAddress
