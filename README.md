@@ -1,4 +1,4 @@
-Project based on Webstrates, can be run in the same way:
+Project based on [Webstrates](https://github.com/cklokmose/Webstrates), can be run in the same way:
 
 Installation
 ============
