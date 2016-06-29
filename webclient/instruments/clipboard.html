@@ -1,0 +1,31 @@
+<html style=""><head>
+    <style id="instrument-style">.sub-instrument { margin: 5px; padding: 5px; border: white 1px solid; }</style><script id="instrument-script">clipboardCode()</script>
+
+  </head>
+  <body id="clipboard"><h5>clipboard</h5>
+	<div id="sub-instrument-container"><div class="sub-instrument" id="copy">copy</div><div class="sub-instrument" id="delete">delete</div><div class="sub-instrument" id="cut">cut</div><div class="sub-instrument" id="paste">paste</div><div class="sub-instrument" id="stop">x</div></div>
+	<div id="instrument-helpers">
+      <div class="clipboard" id="active">"delete"</div>
+      <div id="tmp"></div>
+      <div id="sub-instrument-build">el.innerHTML = subInstrument;if (subInstrument&nbsp;=== 'stop') {&nbsp;&nbsp;el.innerHTML&nbsp;= 'x';}</div>
+  	</div>
+  <div id="info">
+    <div id="cursor">""</div>
+    <div id="active-object">""</div>
+  </div>
+<style id="instrument-general-style">body {
+  font-family: Verdana;
+  width: 80px;
+}
+#sub-instrument-build,
+#instrument-helpers,
+#info {
+  display: none;
+}
+#stop {
+ line-height: 10px;
+}
+.sub-instrument {
+  cursor: pointer;
+}</style>
+</body></html>

@@ -1,0 +1,56 @@
+<html><head>
+    <script>instrumentEditor()</script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+  </head>
+  <body>
+    <div class="row">
+      <div class="col s6">
+        <h4>Edit instrument</h4>
+        <label>Instrument name
+          <input name="name" value="new_instrument" id="instrumentName">
+        </label>
+        <label>
+          Subinstruments:
+          <div contenteditable="true" id="subinstruments" style="height: 100px; border: 1px solid grey;">textInsert stop</div>
+        </label>
+        <label>
+          Subinstruments style:
+          <div contenteditable="true" id="subinstruments-style" style="height: 100px; overflow-y: scroll; border: 1px solid grey;">.sub-instrument { border: white 1px solid; margin: 2px; padding: 10px; }</div>
+        </label>
+        <label>
+          Extra sub instrument building rules
+          <div contenteditable="true" id="sub-instrument-build" style="overflow: scroll; height: 100px; border: 1px solid grey;">el.innerHTML = subInstrument;  </div>
+        </label>
+        <label>
+          Sample Object
+          <div contenteditable="true" id="sample" style="height: 40px; border: 1px solid grey;">&lt;div id="sample"&gt;Sample&lt;/div&gt;</div>
+        </label>
+        <label>
+          Act on elements JS:
+          <div contenteditable="true" id="subinstruments-style" style="height: 100px; border: 1px solid grey;">
+          </div>
+        </label>
+        <div class="btn" id="open" onclick="openInstrument()">
+          Open
+        </div>
+        <div class="btn" id="change" onclick="changeInstrument()">
+          Change
+        </div>
+        <div class="btn" id="clear">
+          Clear
+        </div>
+      </div>
+      <div class="col s6">
+        <h5>
+          Current instrument:
+        </h5>
+        <iframe id="instrument" src="textInserter"></iframe>
+        <h5>
+          New instrument template:
+        </h5>
+        <iframe id="new_instrument" src="new_instrument"></iframe>
+      </div>
+    </div>
+
+
+</body></html>

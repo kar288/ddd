@@ -1,0 +1,27 @@
+<html><head></head><body id="resizer"><h5>resizer</h5>
+	<div id="sub-instrument-container"><div class="sub-instrument" id="+">+</div><div class="sub-instrument" id="-">-</div><div class="sub-instrument" id="stop">x</div></div>
+	<div id="instrument-helpers">
+      <div class="resizer" id="active">"+"</div>
+      <div id="tmp">{}</div>
+      <div id="sub-instrument-build">el.innerHTML = subInstrument</div>
+  	</div>
+  <div id="info">
+    <div id="cursor">""</div>
+    <div id="active-object">""</div>
+  </div>
+<style id="instrument-style">.sub-instrument {width: 1.5em; font-size: 1em;line-height: 1.5em;margin: 2px;border: grey 1px solid;float: left;text-align: center;}</style><style id="instrument-general-style">body {
+  font-family: Verdana;
+  width: 80px;
+}
+#sub-instrument-build,
+#instrument-helpers,
+#info {
+  display: none;
+}
+#stop {
+ line-height: 10px;
+}
+.sub-instrument {
+  cursor: pointer;
+}</style><script id="instrument-script">resizerCode();</script>
+</body></html>

@@ -1,0 +1,41 @@
+<html><head>
+  </head>
+  <body id="colorPicker">
+    <h5>colorPicker</h5>
+	<div id="sub-instrument-container">
+    <div class="sub-instrument" id="black" style="background-color: black;"></div><div class="sub-instrument" id="white" style="background-color: white;"></div><div class="sub-instrument" id="orange" style="background-color: orange;"></div><div class="sub-instrument" id="purple" style="background-color: purple;"></div><div class="sub-instrument" id="green" style="background-color: green;"></div><div class="sub-instrument" id="pink" style="background-color: pink;"></div><div class="sub-instrument" id="aliceblue" style="background-color: aliceblue;"></div><div class="sub-instrument" id="#490A3D" style="background-color: rgb(73, 10, 61);"></div><div class="sub-instrument" id="#BD1550" style="background-color: rgb(189, 21, 80);"></div><div class="sub-instrument" id="#E97F02" style="background-color: rgb(233, 127, 2);"></div><div class="sub-instrument" id="#F8CA00" style="background-color: rgb(248, 202, 0);"></div><div class="sub-instrument" id="#8A9B0F" style="background-color: rgb(138, 155, 15);"></div><div class="sub-instrument" id="stop">x</div></div>
+	<div id="instrument-helpers">
+      <div class="colorPicker" id="active">"green"</div>
+      <div id="tmp">""</div>
+      <div id="sub-instrument-build">el.style.backgroundColor = subInstrument;if (subInstrument === 'stop') {&nbsp; el.innerHTML = 'x';}</div>
+  	</div>
+  <div id="info">
+    <div id="cursor">""</div>
+    <div id="active-object">""</div>
+  </div>
+<style id="instrument-general-style">.sub-instrument {
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin: 2px;
+}
+body {
+  font-family: Verdana;
+  width: 80px;
+}
+#sub-instrument-build,
+#instrument-helpers,
+#info {
+  display: none;
+}
+#stop {
+ line-height: 10px;
+}
+.sub-instrument {
+  cursor: pointer;
+}
+</style>
+<script id="instrument-script">colorPickerCode();</script>
+
+
+</body></html>

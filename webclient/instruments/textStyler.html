@@ -1,0 +1,26 @@
+<html><head></head><body id="textStyler"><h5>textStyler</h5>
+	<div id="sub-instrument-container"><div class="sub-instrument" id="bold">b</div><div class="sub-instrument" id="italic">I</div><div class="sub-instrument" id="verdana">verdana</div><div class="sub-instrument" id="georgia">georgia</div><div class="sub-instrument" id="stop">x</div></div>
+	<div id="instrument-helpers">
+      <div class="textStyler" id="active">"bold"</div>
+      <div id="tmp">""</div>
+      <div id="sub-instrument-build">el.innerHTML = subInstrument;if (subInstrument === 'italic') {&nbsp; el.innerHTML = 'I';} else if (subInstrument === 'bold') {&nbsp; el.innerHTML = 'b';}</div>
+  	</div>
+  <div id="info">
+    <div id="cursor">{"x":58,"y":507}</div>
+    <div id="active-object">"bold"</div>
+  </div>
+<style id="instrument-style">.sub-instrument { margin: 5px; padding: 5px; border: white 1px solid; text-align: center; } #verdana {font-family: Verdana;} #bold { font-weight: bold;} #georgia {font-family: Georgia; }#italic{ font-style: italic;} </style><style id="instrument-general-style">body {
+  font-family: Verdana;
+  width: 80px;
+}
+#sub-instrument-build,
+#instrument-helpers,
+#info {
+  display: none;
+}
+#stop {
+ line-height: 10px;
+}
+.sub-instrument {
+  cursor: pointer;
+}</style><script id="instrument-script">textStylerCode();</script></body></html>

@@ -1,0 +1,35 @@
+<html><head>
+    <style id="instrument-style">.sub-instrument { border: white 1px solid; margin: 2px; padding: 10px; }</style><script id="instrument-script">objectCode(); textInserterCode();</script>
+
+  </head>
+  <body id="textInserter"><div id="pairing-button" style="height: 30px; width: 100%; box-shadow: grey 1px 1px 5px; cursor: pointer;"><div class="activated" instrument="clipboard"></div></div><h5>textInserter</h5>
+	   <div id="sub-instrument-container"><div class="sub-instrument" id="textInsert">textInsert</div><div class="sub-instrument" id="stop">x</div></div>
+	<div id="instrument-helpers">
+      <div id="active" class="textInserter">"stop"</div>
+      <div id="tmp">{}</div>
+      <div id="sub-instrument-build">el.innerHTML = subInstrument;  </div>
+  	</div>
+  <div id="info">
+    <div id="cursor">""</div>
+    <div id="active-object">""</div>
+  </div>
+
+
+
+<div><div id="sample" contenteditable="false"><span style="color: orange;">Sample</span></div></div><style id="instrument-general-style">
+      body {
+        font-family: Verdana;
+        width: 80px;
+      }
+      #sub-instrument-build,
+      #instrument-helpers,
+      #info {
+        display: none;
+      }
+      #stop {
+       line-height: 10px;
+      }
+      .sub-instrument {
+        cursor: pointer;
+    }
+    </style></body></html>

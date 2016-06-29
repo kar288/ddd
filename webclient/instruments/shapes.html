@@ -1,0 +1,29 @@
+<html><head></head><body id="shapes">
+  <div id="pairing-button" style="height: 30px; width: 100%; box-shadow: grey 1px 1px 5px; cursor: pointer;"><div class="activated" instrument="clipboard"></div></div>
+  <h5>shapes</h5>
+	<div id="sub-instrument-container"><div class="sub-instrument" id="rectangle">rectangle</div><div class="sub-instrument" id="circle">circle</div><div class="sub-instrument" id="stop">x</div></div>
+	<div id="instrument-helpers">
+      <div class="shapes" id="active">"stop"</div>
+      <div id="tmp">{}</div>
+      <div id="sub-instrument-build">el.innerHTML = subInstrument</div>
+  	</div>
+  <div id="info">
+    <div id="cursor">""</div>
+    <div id="active-object">""</div>
+  </div>
+<div>Sample: <div id="sample" style="height: 20px; width: 20px; background-color: rgb(189, 21, 80);"></div></div><style id="instrument-style"></style><style id="instrument-general-style">body {
+  font-family: Verdana;
+  width: 80px;
+}
+#sub-instrument-build,
+#instrument-helpers,
+#info {
+  display: none;
+}
+#stop {
+ line-height: 10px;
+}
+.sub-instrument {
+  cursor: pointer;
+}</style><script id="instrument-script">shapesCode();objectCode();</script>
+</body></html>

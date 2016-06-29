@@ -1,0 +1,49 @@
+<html><head>
+
+</head><body id="opener" style="
+    width: inherit;
+">
+  <h5>opener</h5>
+  <div class="row">
+    <div class="col s6">
+	<div id="sub-instrument-container"><div class="sub-instrument" id="name:">name:</div><div class="sub-instrument" id="name" contenteditable="true"><div style="text-align: start;">mover</div></div><div class="sub-instrument" id="open">open</div></div>
+	<div id="instrument-helpers">
+      <div class="opener" id="active">"open"</div>
+      <div id="tmp">"draw"</div>
+      <div id="sub-instrument-build">el.innerHTML = subInstrument; if (subInstrument === 'name') {el.setAttribute('contenteditable', true);}&nbsp;</div>
+  	</div>
+  <div id="info">
+    <div id="cursor">""</div>
+    <div id="active-object">""</div>
+  </div>
+</div>
+<div class="col s6">
+  <div id="ids"><h5>
+  Instruments:
+</h5><div id="instruments"><div>colorPicker</div><div>mover</div><div>resizer</div><div>textStyler</div><div>colorPicker_9</div><div>resizer_9</div><div>frontpage_9</div><div>textInserter</div><div>clipboard</div><div>opener</div><div>shapes</div><div>draw</div><div>textStyler_9</div><div>clipboard_9</div><div>start_9</div><div>textInserter_9</div><div>draw_9</div><div>shapes_9</div><div>sessionBase_9</div><div>new_instrument_9</div><div>opener_9</div><div>mover_9</div></div><h5>
+  Objects:
+</h5><div id="objects"><div>objectBase</div><div>objectBase_9</div></div><h5>
+  Editors:
+</h5><div id="editors"><div>editorBase</div><div>editorBase_9</div><div>instrument_editor</div><div>instrument_editor_9</div></div>
+</div>
+<div class="update btn small" onclick="">update</div></div>
+  </div>
+<style id="instrument-style">.sub-instrument { margin: 5px; padding: 5px; border: white 1px solid; text-align: center; } #name {border: grey 1px solid;} #open {cursor: pointer}</style><style id="instrument-general-style">body {
+  font-family: Verdana;
+  width: 80px;
+}
+#sub-instrument-build,
+#instrument-helpers,
+#info {
+  display: none;
+}
+#stop {
+ line-height: 10px;
+}
+.sub-instrument {
+  cursor: pointer;
+}</style><script id="instrument-script">
+  openerCode();
+
+</script>
+</body></html>

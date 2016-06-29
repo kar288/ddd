@@ -1,0 +1,30 @@
+<html><head></head><body id="draw">
+  <div id="pairing-button" style="height: 30px; width: 84px; box-shadow: grey 1px 1px 5px; cursor: pointer; left: 37px; top: 11px;" contenteditable="false">
+    </div>
+  <h5>draw</h5>
+	<div id="sub-instrument-container"><div class="sub-instrument" id="start">start</div><div class="sub-instrument" id="stop">x</div></div>
+	<div id="instrument-helpers">
+      <div class="draw" id="active">"start"</div>
+      <div id="tmp">{}</div>
+      <div id="sub-instrument-build">el.innerHTML = subInstrument</div>
+  	</div>
+  <div id="info">
+    <div id="cursor">""</div>
+    <div id="active-object">""</div>
+  </div>
+<div>Sample: <div id="sample" style="width: 24px; height: 24px; background-color: rgb(248, 202, 0);"></div></div><style id="instrument-style">.sub-instrument {padding: 10px; margin: 2px; border: grey 1px solid;}</style><style id="instrument-general-style">body {
+  font-family: Verdana;
+  width: 80px;
+}
+#sub-instrument-build,
+#instrument-helpers,
+#info {
+  display: none;
+}
+#stop {
+ line-height: 10px;
+}
+.sub-instrument {
+  cursor: pointer;
+}</style><script id="instrument-script">drawCode();objectCode();</script>
+</body></html>

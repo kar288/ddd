@@ -1,0 +1,31 @@
+<html><head>
+    <style id="instrument-style">.sub-instrument {border: white 1px solid;padding: 10px; margin: 5px;}</style><script id="instrument-script">moverCode();</script>
+
+  </head>
+  <body id="mover"><h5>mover</h5>
+	<div id="sub-instrument-container"><div class="sub-instrument" id="move">move</div><div class="sub-instrument" id="stop">x</div></div>
+	<div id="instrument-helpers">
+      <div class="mover" id="active">"move"</div>
+      <div id="tmp">{}</div>
+      <div id="sub-instrument-build">el.innerHTML = subInstrument;if (subInstrument&nbsp;=== 'stop') {&nbsp; el.innerHTML = 'x';}</div>
+  	</div>
+  <div id="info">
+    <div id="cursor">""</div>
+    <div id="active-object">""</div>
+  </div>
+<style id="instrument-general-style">body {
+  font-family: Verdana;
+  width: 80px;
+}
+#sub-instrument-build,
+#instrument-helpers,
+#info {
+  display: none;
+}
+#stop {
+ line-height: 10px;
+}
+.sub-instrument {
+  cursor: pointer;
+}</style>
+</body></html>
