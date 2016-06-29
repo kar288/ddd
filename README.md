@@ -12,7 +12,7 @@ To install:
  * From the repository root do:
     * npm install
     * cake build
-    * mongorestore --db=webstrate --collection=webstrates dump/webstrate/webstrates.bson
+    * cake restoreDB
     * coffee webstrates.coffee
 
 Alternatively [use Vagrant](utils/vagrant) to create and run a VM configured with Webstrates.

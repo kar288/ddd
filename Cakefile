@@ -7,4 +7,11 @@ task 'build', 'Build the .js files', (options) ->
 		else
 		    console.log stdout + stderr
 		    console.log "Compiled client coffeescript files to javascript!"
-		
+
+task 'restoreDB', 'Restore database from dump', (options) ->
+	exec "mongo webstrate --eval 'db.dropDatabase()' && mongorestore --db=webstrate --collection=webstrates dump/webstrate/webstrates.bson", (err, stdout, stderr) ->
+		if err
+		    throw err
+		else
+		    console.log stdout + stderr
+		    console.log "Restored database from dump!"
