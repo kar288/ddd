@@ -1,9 +1,4 @@
-Webstrates
-=========
-
-Webstrates is a research prototype enabling collaborative editing of websites through DOM manipulations realized by [Operational Transformation](http://en.wikipedia.org/wiki/Operational_transformation) using [ShareJS](https://github.com/share/ShareJS). Webstrates observes changes to the DOM using [MutationObservers](https://developer.mozilla.org/en/docs/Web/API/MutationObserver).
-
-Webstrates itself is a webserver and transparent web client  that persists and synchronizes any changes done to the Document Object Model (DOM) of any page served between clients of the same page, including changes to inlined JavaScript or CSS. By using [transclusions](https://en.wikipedia.org/wiki/Transclusion) through iFrames we achieve an application-to-document like relationship between two webstrates. The 'application', however, is a malleable and collaborative object as well, as any change to its DOM will persist and be shared between clients. With examples built upon Webstrates we have demonstrated how transclusion combined with the use of CSS injection and the principles of [instrumental interaction](https://www.lri.fr/~mbl/INSTR/eintroduction.html) can allow multiple users to collaborate same webstrate through highly personalized and extensible editors. You can find the academic paper and videos of Webstrates in action at [webstrates.net](http://www.webstrates.net).
+Project based on Webstrates, can be run in the same way:
 
 Installation
 ============
@@ -18,9 +13,13 @@ To install:
     * npm install
     * cake build
     * coffee webstrates.coffee
-	
+
 Alternatively [use Vagrant](utils/vagrant) to create and run a VM configured with Webstrates.
- 
+
+From the webstrates directory run:
+
+mongorestore --db=webstrate --collection=webstrates dump/webstrate/webstrates.bson
+
 Basic Usage
 ===========
 Webstrates serves (and creates) any named webpage you ask for.<br>
@@ -65,7 +64,7 @@ document.addEventListener('loaded', function(e) {
 	//The Webstrates client has now finished loading data from the server
 });
 ````
-	
+
 If the webstrate is transcluded in an iframe the webstrate will trigger a *transcluded* event on the *iframe* element in the parent webstrate.
 
 ```javascript
@@ -75,7 +74,7 @@ some_iframe.addEventListener('transcluded', function(e) {
 ```
 
 ###Events on text nodes
-Webstrates does finegrained synchronization on text nodes, however to update a textnode in the browser, the whole text is replaces. To allow more finegrained interaction with text Webstrates raises the following two events on textnodes: 
+Webstrates does finegrained synchronization on text nodes, however to update a textnode in the browser, the whole text is replaces. To allow more finegrained interaction with text Webstrates raises the following two events on textnodes:
 
 ```javascript
 textNode.addEventListener("insertText", function(e) {
@@ -87,7 +86,7 @@ textNode.addEventListener("deleteText", function(e) {
 	e.detail.position; //Stores the position of the delete
 });
 ```
-	
+
 ###Authentication
 
 ####Server level basic authentication
@@ -99,9 +98,9 @@ To enable basic authentication on the Webstrates server add the following to *co
 	"password": "some_password"
 }
 ```
-	
+
 ####Per webstrate access rights (VERY EXPERIMENTAL)
-It is possible to enable per webstrate access rights using [GitHub](https://github.com) as authentication provider. 
+It is possible to enable per webstrate access rights using [GitHub](https://github.com) as authentication provider.
 This requires registering an OAuth application with GitHub [here](https://github.com/settings/applications/new).
 
 Add the following to your *config.json*:
@@ -122,7 +121,7 @@ Add the following to your *config.json*:
 	}
 }
 ```
-	
+
 Access rights are added to a webstrate as an attribute on the *HTML* tag.
 
 ```html
