@@ -168,7 +168,6 @@ var defaultPreventer = function(e) {
 };
 
 var defaultOnMove = function(doc, on) {
-  console.log(doc.body.id, on);
   if (!on) {
     $(doc.body).on('mousemove touchmove', defaultPreventer);
     $(doc.html).addClass('no-scroll');
@@ -214,6 +213,20 @@ var toScrollFrame = function(iFrame, mask){
   });
 
   return true;
+};
+
+var getPos = function(e) {
+  var pos = {
+    x: e.pageX,
+    y: e.pageY
+  };
+  if (e.originalEvent.touches) {
+    pos = {
+      x: e.originalEvent.touches[0].pageX,
+      y: e.originalEvent.touches[0].pageY
+    };
+  }
+  return pos;
 };
 
  //add single-touch scrolling to example page

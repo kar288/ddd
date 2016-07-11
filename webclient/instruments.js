@@ -2,6 +2,32 @@
 
 var instrumentCode = function(extraFunction) {
   objectCodeInternal();
+
+  $('#innerText').click(function(e) {
+    var menu = $('#menu');
+    if (menu.hasClass('active')) {
+      $('#stop').trigger('click');
+      menu.find('#innerText').text('activate');
+    } else {
+      $('#start').trigger('click');
+      menu.find('#innerText').text('deactivate');
+    }
+  });
+
+  $('.expander-other-instruments').on('click tap', function(e) {
+    $('.other-instruments').toggleClass('hidden');
+  });
+
+  $('.other-instruments').find('div').on('click tap', function(e) {
+    if (parent.document !== document) {
+      $('.other-instruments').toggleClass('hidden');
+      var name = document.body.id;
+      $(parent.document)
+        .find('iframe[src="' + name + '"]')
+        .attr('src', $(this).text());
+    }
+  });
+
   $('.sub-instrument').on('click tap', function(e) {
     var active = this.id;
     setVariable('active', active);
@@ -34,10 +60,15 @@ var instrumentCode = function(extraFunction) {
         $('.sub-instrument').removeClass('selected');
         activeElement.addClass('selected');
       }
+    } else {
+      $('#menu').css('backgroundColor', 'red');
+      $('#menu').addClass('active');
     }
     if (active !== 'stop') {
       return;
     }
+    $('#menu').css('backgroundColor', 'white');
+    $('#menu').removeClass('active');
     if (isInEditor(this)) {
       $(parent.document).find('iframe').each(function(i, el) {
         var controller = $(el.contentDocument).find('.i-' + document.body.id);
@@ -61,21 +92,31 @@ var instrumentCode = function(extraFunction) {
 };
 
 var highlighterCode = function() {
+  // var doc = '';
+  // var id = '';
+  var newEl = null;
   window.actOnElement = function(el, pos) {
     var active = getVariable('active');
-    var tmp = getVariable('tmp');
+    // var tmp = getVariable('tmp');
     if (active === 'stop') {
-      setVariable('tmp', '');
+      // setVariable('tmp', '');
+      // doc = '';
+      // id = '';
+      newEl = null;
       return;
     }
     if (!el) {
-      if (!tmp) {
+      if (newEl === null) {
         return;
       }
-      var [doc, id] = tmp.split(' ');
-      var elDoc = parent.document
-        .getElementById('object-' + doc).contentWindow.document;
-      var newEl = elDoc.getElementById(id);
+      // if (!tmp) {
+      //   return;
+      // }
+      // var [doc, id] = tmp.split(' ');
+      // var elDoc = parent.document
+      //   .getElementById('object-' + doc).contentWindow.document;
+      // var newEl = elDoc.getElementById(id);
+      var elDoc = newEl.ownerDocument;
       var selection = elDoc.getSelection();
       if (!selection || selection.type !== 'Range') {
         return;
@@ -90,62 +131,72 @@ var highlighterCode = function() {
       newEl.setAttribute('contenteditable', false);
       return;
     } else {
-      setVariable('tmp', el.ownerDocument.body.id + ' ' + el.id);
+      // doc = el.ownerDocument.body.id;
+      // id = el.id;
+      newEl = el;
+      // setVariable('tmp', el.ownerDocument.body.id + ' ' + el.id);
     }
   };
 
   instrumentCode();
 };
 
-var moverCode = function() {
-  window.actOnElement = function(el, pos) {
-    if (!el || isInDocument(el, document) || $(el).is('body') || isEmpty(pos)) {
-      setVariable('tmp', {});
-      return;
-    }
+var moverCodeInternal = function(el, pos, start, state, container) {
+  if (!el || $(el).is('body') || isEmpty(pos)) {
+    return {};
+  }
 
-    var state = getVariable('active');
-    if (state == 'stop') {
-      return;
-    }
-    var style = getComputedStyle(el);
-    var start = getVariable('tmp') || {};
-    if ($(el).parents('svg').length) {
-      if (isEmpty(start)) {
-        var xforms = el.getAttribute('transform') || 'translate(0, 0)';
-        var parts  = /translate\((.*)[ ]*,[ ]*(.*)\)/.exec(xforms);
-        var first = parseInt(parts[1]);
-        var second = parseInt(parts[2]);
-        if (isNaN(first) || isNaN(second)) {
-          return;
-        }
-        start.x = pos.x - first;
-        start.y = pos.y - second;
-        setVariable('tmp', start);
-      } else {
-        el.setAttribute('transform',
-          'translate(' +
-            (pos.x - start.x) +
-          ', ' +
-            (pos.y - start.y) +
-          ')');
+  if (state == 'stop') {
+    return start;
+  }
+  var style = getComputedStyle(el);
+  if ($(el).parents('svg').length) {
+    if (isEmpty(start)) {
+      var xforms = el.getAttribute('transform') || 'translate(0, 0)';
+      var parts  = /translate\((.*)[ ]*,[ ]*(.*)\)/.exec(xforms);
+      var first = parseInt(parts[1]);
+      var second = parseInt(parts[2]);
+      if (isNaN(first) || isNaN(second)) {
+        return start;
       }
+      start.x = pos.x - first;
+      start.y = pos.y - second;
     } else {
-      if (isEmpty(start)) {
-        $(el.ownerDocument.body).append(el);
-        var left = parseInt(style.getPropertyValue('left'));
-        var top = parseInt(style.getPropertyValue('top'));
-        if (isNaN(left) || isNaN(top)) {
-          return;
-        }
-        start.x = pos.x - left;
-        start.y = pos.y - top;
-        setVariable('tmp', start);
-      } else {
-        el.style.left = pos.x - start.x + 'px';
-        el.style.top = pos.y - start.y + 'px';
-      }
+      el.setAttribute('transform',
+        'translate(' +
+          (pos.x - start.x) +
+        ', ' +
+          (pos.y - start.y) +
+        ')');
     }
+  } else {
+    if (isEmpty(start)) {
+      if (container) {
+        $(container).append(el);
+      } else {
+        $(el.ownerDocument.body).append(el);
+      }
+
+      var left = parseInt(style.getPropertyValue('left'));
+      var top = parseInt(style.getPropertyValue('top'));
+      if (isNaN(left) || isNaN(top)) {
+        return start;
+      }
+      start.x = pos.x - left;
+      start.y = pos.y - top;
+    } else {
+      el.style.left = pos.x - start.x + 'px';
+      el.style.top = pos.y - start.y + 'px';
+    }
+  }
+  return start;
+};
+
+var moverCode = function() {
+  var start = {};
+  window.actOnElement = function(el, pos) {
+    var state = getVariable('active');
+    start = moverCodeInternal(el, pos, start, state);
   };
 
   window.turnOn = function(doc) {
@@ -160,9 +211,10 @@ var moverCode = function() {
 };
 
 var searchCode = function() {
+  var docId = '';
   if (isInEditor(this)) {
     $('.sub-instrument#search').on('click tap', function(e) {
-      var docId = getVariable('tmp');
+      // var docId = getVariable('tmp');
       var text = $('#text').text();
       if (!docId) {
         $.ajax('/api/search?query=' + text).done(function(response) {
@@ -198,13 +250,14 @@ var searchCode = function() {
       $(targetDoc.body).highlight(text);
     });
     $('#stop').on('click tap', function(e) {
-      var docId = getVariable('tmp');
+      // var docId = getVariable('tmp');
       if (!docId) {
         return;
       }
       var targetDoc = $(parent.document).find('#object-' + docId)[0].contentDocument;
       $(targetDoc.body).removeHighlight();
-      setVariable('tmp', '');
+      // setVariable('tmp', '');
+      docId = '';
       removeOthers('search');
     });
   }
@@ -215,7 +268,8 @@ var searchCode = function() {
     if (!el) {
       return;
     }
-    setVariable('tmp', el.ownerDocument.body.getAttribute('id'));
+    // setVariable('tmp', el.ownerDocument.body.getAttribute('id'));
+    docId = el.ownerDocument.body.getAttribute('id');
   };
   instrumentCode();
 };
@@ -254,22 +308,26 @@ var textObjectCreatorCode = function() {
 };
 
 var colorPickerCode = function() {
+  var newEl = null;
+  var elDoc = null;
   window.actOnElement = function(el, pos) {
-    var tmp = getVariable('tmp');
-    if (isEmpty(tmp)) {
-      tmp = '';
-    }
-    var [doc, id] = tmp.split(' ');
+    // var tmp = getVariable('tmp');
+    // if (isEmpty(tmp)) {
+      // tmp = '';
+    // }
+    // var [doc, id] = tmp.split(' ');
+
     var color = $('.selected').attr('id');
     if (color === 'stop' || color === 'active') {
       return;
     }
     if (!el || isInDocument(el, document)) {
-      if (parent && doc && id) {
-        var elDoc = parent.document
-          .getElementById(doc).contentWindow.document;
+      if (elDoc) {
+        // var elDoc = parent.document
+          // .getElementById(doc).contentWindow.document;
         var selection = elDoc.getSelection();
-        el = elDoc.getElementById(id);
+        el = newEl;
+        // el = elDoc.getElementById(id);
         if (selection.type === 'Range') {
           // el.style.color = color;
           el.setAttribute('contenteditable', true);
@@ -282,39 +340,44 @@ var colorPickerCode = function() {
           el.style.backgroundColor = color;
         }
       }
-      setVariable('tmp', '');
+      // setVariable('tmp', '');
+      newEl = null;
+      elDoc = null;
       return;
     }
-    setVariable('tmp', 'object-' + el.ownerDocument.body.id + ' ' + el.id);
+    newEl = el;
+    elDoc = el.ownerDocument;
+    // setVariable('tmp', 'object-' + el.ownerDocument.body.id + ' ' + el.id);
 
   };
 
   instrumentCode();
 };
 
-var historyCode = function() {
-  window.actOnElement = function(el, pos) {
-    if (!el || isInDocument(el, document)) {
-      return;
-    }
-    var state = getVariable('active');
-    if (state === 'redo') {
-      return;
-    }
-    var tmp = $('#tmp');
-    var iframe = document.createElement('iframe');
-    // iframe.setAttribute('src', el.ownerDocument.body.id);
-    iframe.setAttribute('src', el.ownerDocument.body.id + '?v=-1');
-    tmp.html(iframe);
-    // iframe.addEventListener('transcluded', function(e) {
-    //   debugger;
-    // });
-  };
-
-  instrumentCode();
-};
+// var historyCode = function() {
+//   window.actOnElement = function(el, pos) {
+//     if (!el || isInDocument(el, document)) {
+//       return;
+//     }
+//     var state = getVariable('active');
+//     if (state === 'redo') {
+//       return;
+//     }
+//     var tmp = $('#tmp');
+//     var iframe = document.createElement('iframe');
+//     // iframe.setAttribute('src', el.ownerDocument.body.id);
+//     iframe.setAttribute('src', el.ownerDocument.body.id + '?v=-1');
+//     tmp.html(iframe);
+//     // iframe.addEventListener('transcluded', function(e) {
+//     //   debugger;
+//     // });
+//   };
+//
+//   instrumentCode();
+// };
 
 var textInserterCode = function() {
+  var selected = [];
   window.actOnElement = function(el, pos) {
     if (!el || isInDocument(el, document)) {
       return;
@@ -325,7 +388,7 @@ var textInserterCode = function() {
       return;
     }
 
-    var selected = getVariable('tmp') || [];
+    // var selected = getVariable('tmp') || [];
     selected.push(el.ownerDocument.body.id + ' ' + el.id);
     el.setAttribute('contenteditable', true);
     var convertProperties = {
@@ -362,11 +425,11 @@ var textInserterCode = function() {
         i++;
       }
     });
-    setVariable('tmp', selected);
+    // setVariable('tmp', selected);
   };
 
   var clearContentEditable = function(docIds) {
-      var selected = getVariable('tmp');
+      // var selected = getVariable('tmp');
       var keep = [];
       var remove = [];
       selected.forEach(function(selEl) {
@@ -388,7 +451,8 @@ var textInserterCode = function() {
           }
         }
       });
-      setVariable('tmp', keep);
+      // setVariable('tmp', keep);
+      selected = keep;
   };
 
   // window.turnOn = function(doc) {
@@ -401,7 +465,7 @@ var textInserterCode = function() {
   };
 
   $('#stop').on('click tap', function(e) {
-    var selected = getVariable('tmp');
+    // var selected = getVariable('tmp');
     var docIds = [];
     selected.forEach(function(selEl) {
       var [doc, id] = selEl.split(' ');
@@ -413,48 +477,63 @@ var textInserterCode = function() {
   instrumentCode();
 };
 
+var drawShape = function(el, pos, state, style, shape, firstPos) {
+  if (!el || state === 'stop' || state === 'active' || isEmpty(pos)) {
+    shape = null;
+    firstPos = null;
+    return {shape: shape, firstPos: firstPos};
+  }
+  var size = 10;
+  if (firstPos === null) {
+    var id = 'shape-' + randomTimeString();
+    firstPos = pos;
+    shape = el.ownerDocument.createElement('div');
+    shape.setAttribute('id', id);
+    var svg = $($(el.ownerDocument).find('svg')[0]).clone();
+    svg.html('');
+    svg.prependTo(shape);
+    // var i = 0;
+    //
+    // while (style[i]) {
+    //   var property = style[i];
+    //   $(shape).css(
+    //     property,
+    //     getComputedStyle(sample).getPropertyValue(property)
+    //   );
+    //   i++;
+    // }
+    $.each(style, function(prop, value) {
+      $(shape).css(prop, value);
+    });
+    shape.style.position = 'absolute';
+    $(shape).addClass('shape');
+    el.appendChild(shape);
+  } else {
+    size = Math.max(10, (Math.abs(pos.x - firstPos.x)));
+  }
+  if (shape) {
+    shape.style.width = size + 'px';
+    shape.style.height = size + 'px';
+    var basePosition = $(shape.parentElement).position();
+    console.log($(shape.parentElement).position());
+    shape.style.top = (firstPos.y - basePosition.top - size / 2) + 'px';
+    shape.style.left = (firstPos.x - basePosition.left - size / 2) + 'px';
+    if (state === 'circle') {
+      shape.style.borderRadius = size / 2 + 'px';
+    }
+  }
+  return {shape: shape, firstPos: firstPos};
+};
+
 var shapesCode = function() {
+  var shape = null;
+  var firstPos = null;
   window.actOnElement = function(el, pos) {
     var state = $('.selected').attr('id');
-    if (!el || state === 'stop' || state === 'active' || isEmpty(pos)) {
-      setVariable('tmp', {});
-      return;
-    }
-
-    var firstPos = getVariable('tmp');
-    var shape = null;
-    var size = 10;
-    if (isEmpty(firstPos)) {
-      var id = 'shape-' + randomTimeString();
-      setVariable('tmp', Object.assign(pos, {id: id}));
-      shape = el.ownerDocument.createElement('div');
-      shape.setAttribute('id', id);
-      var i = 0;
-      var sample = $('#sample')[0];
-      while (sample.style[i]) {
-        var property = sample.style[i];
-        $(shape).css(
-          property,
-          getComputedStyle(sample).getPropertyValue(property)
-        );
-        i++;
-      }
-      shape.style.position = 'absolute';
-      el.ownerDocument.body.appendChild(shape);
-    } else {
-      size = Math.max(10, (Math.abs(pos.x - firstPos.x)));
-      shape = el.ownerDocument.getElementById(firstPos.id);
-    }
-    if (shape) {
-      shape.style.width = size + 'px';
-      shape.style.height = size + 'px';
-      shape.style.top = (firstPos.y - size / 2) + 'px';
-      shape.style.left = (firstPos.x - size / 2) + 'px';
-      if (state === 'rectangle') {
-      } else if (state === 'circle') {
-        shape.style.borderRadius = size / 2 + 'px';
-      }
-    }
+    var style = {'background-color': $('#sample').css('background-color')};
+    var result = drawShape(el, pos, state, style, shape, firstPos);
+    shape = result.shape;
+    firstPos = result.firstPos;
   };
 
   window.turnOn = function(doc) {
@@ -469,59 +548,86 @@ var shapesCode = function() {
 };
 
 var resizerCode = function() {
+  var newEl = null;
   window.actOnElement = function(el, pos) {
-    if (!el || isInDocument(el, document)) {
-      setVariable('tmp', {});
-      return;
-    }
-    if ($(el).is('body')) {
-      el = $(parent.document).find('#object-' + el.getAttribute('id'))[0];
-      if ($(el).is('body')) {
+    if (!el && newEl) {
+      el = newEl;
+      newEl = null;
+
+      var state = $('.selected').attr('id');
+      if (!state || state === 'stop' || state === 'active') {
         return;
       }
-    }
-    var state = $('.selected').attr('id');
-    if (state === 'stop' || state === 'active') {
+
+      var doc = el.ownerDocument;
+      var selection = doc.getSelection();
+      if (selection.type === 'Range' && selection.baseNode.nodeType === 3) {
+        console.log('selectoin');
+        console.log(selection);
+        console.log(selection.type);
+        el.setAttribute('contenteditable', true);
+        el.ownerDocument.execCommand('styleWithCSS', true, null);
+        if (state === 'more-diagonal') {
+          el.ownerDocument.execCommand('fontSize', false, 7);
+        } else if (state === 'less-diagonal') {
+          el.ownerDocument.execCommand('fontSize', false, 2);
+        }
+        el.setAttribute('contenteditable', false);
+        return;
+      }
+      if ($(el).is('body')) {
+        el = $(parent.document).find('#object-' + el.getAttribute('id'))[0];
+        if ($(el).is('body')) {
+          return;
+        }
+      }
+      var style = getComputedStyle(el);
+      var height = parseFloat(style.getPropertyValue('height'));
+      var width = parseFloat(style.getPropertyValue('width'));
+      var change = {horizontal: 1, vertical: 1};
+      if (state.indexOf('vertical') >= 0) {
+        change.horizontal = 0;
+      } else if (state.indexOf('horizontal') >= 0) {
+        change.vertical = 0;
+      }
+      if (state.indexOf('more') >= 0) {
+        height += change.vertical;
+        width += change.horizontal;
+      } else if (state.indexOf('less') >= 0) {
+        height -= change.vertical;
+        width -= change.horizontal;
+      }
+      el.style.height = height + 'px';
+      el.style.width = width + 'px';
       return;
     }
-    var style = getComputedStyle(el);
-    var height = parseFloat(style.getPropertyValue('height'));
-    var width = parseFloat(style.getPropertyValue('width'));
-    var change = {horizontal: 1, vertical: 1};
-    if (state.indexOf('vertical') >= 0) {
-      change.horizontal = 0;
-    } else if (state.indexOf('horizontal') >= 0) {
-      change.vertical = 0;
+    if (!newEl) {
+      newEl = el;
     }
-    if (state.indexOf('more') >= 0) {
-      height += change.vertical;
-      width += change.horizontal;
-    } else if (state.indexOf('less') >= 0) {
-      height -= change.vertical;
-      width -= change.horizontal;
-    }
-    el.style.height = height + 'px';
-    el.style.width = width + 'px';
   };
 
   instrumentCode();
 };
 
 var textStylerCode = function() {
+  var newEl = null;
+  var elDoc = null;
   window.actOnElement = function(el, pos) {
-    var tmp = getVariable('tmp');
+    // var tmp = getVariable('tmp');
     if (!el || isInDocument(el, document)) {
-      if (!isEmpty(tmp)) {
-        var [doc, id] = tmp.split(' ');
+      // if (!isEmpty(tmp)) {
+      if (newEl && elDoc) {
+        // var [doc, id] = tmp.split(' ');
         var state = $('.selected').attr('id');
         if (!state) {
           return;
         }
-        if (parent && doc && id) {
-          var elDoc = parent.document
-            .getElementById('object-' + doc).contentWindow.document;
+        // if (parent && doc && id) {
+          // var elDoc = parent.document
+            // .getElementById('object-' + doc).contentWindow.document;
           var selection = elDoc.getSelection();
-          el = elDoc.getElementById(id);
+          // el = elDoc.getElementById(id);
+          el = newEl;
           el.setAttribute('contenteditable', true);
           if (state === 'bold') {
             el.ownerDocument.execCommand('bold');
@@ -537,12 +643,16 @@ var textStylerCode = function() {
             el.ownerDocument.execCommand('fontName', false, 'georgia');
           }
           el.setAttribute('contenteditable', false);
-          setVariable('tmp', '');
+          // setVariable('tmp', '');
+          newEl = null;
+          elDoc = null;
           return;
-        }
+        // }
       }
     } else {
-      setVariable('tmp', el.ownerDocument.body.id + ' ' + el.id);
+      newEl = el;
+      elDoc = el.ownerDocument;
+      // setVariable('tmp', el.ownerDocument.body.id + ' ' + el.id);
     }
   };
 
@@ -552,10 +662,13 @@ var textStylerCode = function() {
 var drawCode = function() {
   window.path = null;
   window.points = [];
+  var basePosition = {top: 0, left: 0};
   var strokeWidth = 3;
   function midPointBtw(p1, p2) {
     return {x: (p1.x + p2.x) / 2, y: (p1.y + p2.y) / 2};
   }
+  var points = [];
+  var pathId = '';
   function generatePath(points) {
     var newPoints = [];
     newPoints.push(points[0]);
@@ -613,80 +726,109 @@ var drawCode = function() {
 
     return pathString;
   }
-  window.touchstart = function(doc, pos) {
+  window.touchstart = function(el, doc, pos, style) {
     if (isEmpty(pos)) {
       return;
     }
 
     var ns = 'http://www.w3.org/2000/svg';
+    var svg = $(el).find('svg');
+    if (!svg.length) {
+      svg = doc.querySelector('svg');
+      if (!svg) {
+        svg = doc.createElementNS(ns, 'svg');
+        svg.setAttribute('xmlns', ns);
+        svg.style.overflow = 'visible';
+        svg.style.width = '1px';
+        svg.style.height = '1px';
+        svg.style.position = 'absolute';
+        doc.body.appendChild(svg);
+      }
+    } else {
+      svg = svg[0];
+      basePosition = $(svg).position();
+    }
+
+    // debugger;
+
     var path = doc.createElementNS(ns, 'path');
-    var x = pos.x;
-    var y = pos.y;
+    var x = pos.x - basePosition.left;
+    var y = pos.y - basePosition.top;
     if (x === undefined) {
       debugger;
     }
     var point = {x: x, y: y, force: 1};
-    var points = [point];
-    var pathId = 'path-' + randomTimeString();
+    points = [point];
+    pathId = 'path-' + randomTimeString();
     var convertProperties = {
       'width': 'stroke-width',
       'background-color': 'stroke',
     };
 
     path.setAttribute('d', generatePath(points));
-    var i = 0;
-    var sample = $('#sample')[0];
-    while (sample.style[i]) {
-      var property = sample.style[i];
-      path.setAttribute(
-        convertProperties[property] || property,
-        getComputedStyle(sample).getPropertyValue(property)
-      );
-      i++;
+    if (!style) {
+      var i = 0;
+      var sample = $('#sample')[0];
+      while (sample.style[i]) {
+        var property = sample.style[i];
+        path.setAttribute(
+          convertProperties[property] || property,
+          getComputedStyle(sample).getPropertyValue(property)
+        );
+        i++;
+      }
+    } else {
+      $.each(style, function(prop, value) {
+        path.setAttribute(prop, value);
+      });
     }
     path.setAttribute('id', pathId);
-    var svg = doc.querySelector('svg');
-    if (!svg) {
-      var svg = document.createElementNS(ns, 'svg');
-      svg.setAttribute('xmlns', ns);
-      svg.style.overflow = 'visible';
-      svg.style.width = '1px';
-      svg.style.height = '1px';
-      svg.style.position = 'absolute';
-      doc.body.appendChild(svg);
-    }
+
     svg.appendChild(path);
-    setVariable('tmp', {pathId: pathId, points: points});
+    // setVariable('tmp', {pathId: pathId, points: points});
   };
-  window.touchmove = function(doc, pos) {
-    var tmp = getVariable('tmp');
-    var pathId = tmp.pathId;
+  window.touchmove = function(el, doc, pos) {
+    // var tmp = getVariable('tmp');
+    // var pathId = pathId;
     var path = doc.getElementById(pathId);
-    var points = tmp.points;
-    var point = {x: pos.x, y: pos.y, force: 1};
+    // var points = points;
+    // console.log(basePosition);
+    var point = {
+      x: pos.x - basePosition.left,
+      y: pos.y - basePosition.top,
+      force: 1
+    };
     points.push(point);
     var pathString = path.getAttribute('d');
     path.setAttribute('d', generatePath(points));
-    setVariable('tmp', {pathId: pathId, points: points});
+    // setVariable('tmp', {pathId: pathId, points: points});
   };
-  window.actOnElement = function(el, pos) {
+  // POS SHOULD BE AN OBJECT????
+  window.actOnElement = function(el, pos, state, style) {
     if (!pos) {
-      setVariable('tmp', {});
+      basePosition = {top: 0, left: 0};
+      points = [];
+      pathId = '';
     }
-    if (!el || isInDocument(el, document)) {
+    if (!el) {
+      console.log('not el');
       return;
     }
 
     var doc = el.ownerDocument;
-    var state = getVariable('active');
+    if (!state) {
+      state = getVariable('active');
+    }
     if (state === 'stop') {
-      setVariable('tmp', '');
+      basePosition = {top: 0, left: 0};
+      points = [];
+      pathId = '';
       return;
     }
-    if (isEmpty(getVariable('tmp'))) {
-      touchstart(doc, pos);
+    if (pathId === '') {
+      touchstart(el, doc, pos, style);
     } else {
-      touchmove(doc, pos);
+      touchmove(el, doc, pos);
     }
   };
 

@@ -139,10 +139,13 @@ var observer = new MutationObserver(function(mutations) {
     var object = ownerDocument.getElementById(objectID);
     if (
       object &&
-      ($(object).parent('#menu').length || $(object).hasClass('sub-instrument'))
+      ($(object).parent('#menu').length ||
+      $(object).hasClass('sub-instrument') ||
+      object.id === 'menu')
     ) {
       return;
     }
+    // debugger;
     $(ownerDocument).find('#pairing-button')
       .find('.active')
       .each(function(i, el) {
@@ -161,26 +164,32 @@ var activeInstrumentObserver = new MutationObserver(function(mutations) {
     var target = mutation.target;
     var ownerDocument = target.ownerDocument;
     var activeSubInstrument = getVariable('active', ownerDocument);
-    if (activeSubInstrument !== 'start') {
-      return;
+    if (activeSubInstrument === 'start' || activeSubInstrument === 'stop') {
+      var activeInstrumentID = target.ownerDocument.body.id;
+      var iframes = $('iframe');
+      iframes.each(function(i, el) {
+        var doc = el.contentDocument;
+        var button = $(doc).find('#pairing-button');
+        if (activeSubInstrument === 'start' &&
+          button.length &&
+          !$(doc).find('.i-' + activeInstrumentID).length &&
+          activeInstrumentID !== 'opener'
+        ) {
+          var instrument = el.contentDocument.createElement('div');
+          $(instrument).text(activeInstrumentID);
+          instrument.setAttribute('class', 'i-' + activeInstrumentID);
+          // instrument.style.opacity = 0.4;
+          $(instrument).addClass('active');
+          button.prepend(instrument);
+        } else if (activeSubInstrument === 'stop' &&
+          button.length &&
+          $(doc).find('.i-' + activeInstrumentID).length &&
+          activeInstrumentID !== 'opener'
+        ) {
+          $(doc).find('.i-' + activeInstrumentID).remove();
+        }
+      });
     }
-    var activeInstrumentID = target.ownerDocument.body.id;
-    var iframes = $('iframe');
-    iframes.each(function(i, el) {
-      // debugger;
-      var doc = el.contentDocument;
-      var button = $(doc).find('#pairing-button');
-      if (button.length &&
-        !$(doc).find('.i-' + activeInstrumentID).length &&
-        activeInstrumentID !== 'opener'
-      ) {
-        var instrument = el.contentDocument.createElement('div');
-        $(instrument).text(activeInstrumentID);
-        instrument.setAttribute('class', 'i-' + activeInstrumentID);
-        instrument.style.opacity = 0.4;
-        button.prepend(instrument);
-      }
-    });
   });
 });
 

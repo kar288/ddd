@@ -91,8 +91,8 @@ var objectCodeInternal = function() {
   // }
   pairingButtonListener();
 
-  var bodyHeight = $('body').height();
-  $('svg').height(bodyHeight);
+  // var bodyHeight = $('body').height();
+  // $('svg').height(bodyHeight);
 
   $(document).on('mousedown touchstart', function(e) {
     // console.log($(e.target));
@@ -103,7 +103,7 @@ var objectCodeInternal = function() {
       setVariable('active-object', id);
     }
     setVariable('originIsInEditor', isInEditor(nearest));
-    setVariable('cursor', {x: e.clientX, y: e.clientY});
+    setVariable('cursor', getPos(e));
   });
 
   $(document).on('mousemove touchmove', function(e) {
@@ -111,17 +111,7 @@ var objectCodeInternal = function() {
     if (!getVariable('active-object')) {
       return;
     }
-    var pos = {
-      x: e.clientX,
-      y: e.clientY
-    };
-    if (e.originalEvent.touches) {
-      pos = {
-        x: e.originalEvent.touches[0].pageX,
-        y: e.originalEvent.touches[0].pageY
-      };
-    }
-    setVariable('cursor', pos);
+    setVariable('cursor', getPos(e));
   });
 
   $(document).on('mouseup touchend', function(e) {

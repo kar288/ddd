@@ -72,7 +72,6 @@ var startCode = function() {
           });
         });
       } else {
-        debugger;
         window.location.href = '/new?prototype=editorBase&id=' + name;
       }
     });

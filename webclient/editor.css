@@ -1,3 +1,88 @@
+.other-instruments {
+  /*display: none;*/
+  background-color: white;
+  overflow-y: scroll;
+  height: 8em;
+}
+
+.shape {
+  overflow: hidden;
+}
+
+#start, #stop {
+  display: none;
+}
+
+#colorPicker .sub-instrument {
+  margin: 0;
+}
+
+#textSizer {
+  line-height: 25px;
+}
+
+#textSizer .sub-tool {
+  width: 25px;
+}
+
+.tool {
+  float: left;
+  padding: 20px;
+}
+
+.sub-tool {
+  float: left;
+  padding: 2px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.setting {
+  padding: 2px;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* Internet Explorer/Edge */
+  user-select: none;           /* Non-prefixed version, currently
+                                  not supported by any browser */
+}
+
+.pressed {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hidden {
+  display: none;
+}
+
+.instrument-container {
+  padding: 20px;
+  height: 250px;
+  width: 250px;
+  border: 1px solid grey;
+  background-color: white;
+  position: absolute;
+  top: 50px;
+  left: 0;
+}
+
+.instrument-container > iframe {
+  height: 100%;
+  width: 100%;
+}
+
+#innerText {
+  text-align: center;
+}
+
+div[class*="i-"].active {
+  display: none;
+}
+
 .no-scroll {
   max-width:100%;
   max-height:100%;
@@ -87,6 +172,7 @@ h5 {
 body:not(.ddd_editor) {
   /*overflow: hidden;*/
   padding-top: 2em;
+  background-color: white;
 }
 
 .editor-container {
@@ -167,7 +253,7 @@ body:not(.ddd_editor) {
   #menu {
     /*position: absolute;*/
     /*top: 0;*/
-    font-size: 2em;
+    font-size: 1em;
   }
   body {
     font-size: 3em;

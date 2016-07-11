@@ -19,7 +19,15 @@ var copyCode = function(newEl, selection) {
   $('#history').prepend(historyNode);
 };
 
+var recursiveChangeIds = function(el, id) {
+  el.id += id;
+  $(el).children().each(function(i, el) {
+    recursiveChangeIds(this, id);
+  });
+};
+
 var pasteCode = function(newEl, selection) {
+  var elDoc = newEl.ownerDocument;
   var toPaste = $('#history>.selected');
   if (!toPaste.length) {
     toPaste = document.getElementById('history').children[0];
@@ -31,7 +39,7 @@ var pasteCode = function(newEl, selection) {
     return;
   }
   var copyToPaste = toPaste.cloneNode(true);
-  copyToPaste.id += randomTimeString();
+  recursiveChangeIds(copyToPaste, randomTimeString());
   $(copyToPaste).removeClass('selected');
   if (copyToPaste.getBBox) {
     $(elDoc.body).find('svg').append(copyToPaste);
@@ -83,33 +91,45 @@ var clipboardCode = function() {
     $('#history>*').removeClass('selected');
     $(this).toggleClass('selected');
   });
+  var doc = '';
+  var id = '';
   window.actOnElement = function(el, pos) {
     if (el) {
       // debugger;
       var selection = el.ownerDocument.getSelection();
       if (selection && selection.type === 'Range') {
-        setVariable('tmp', el.ownerDocument.body.id);
+        // setVariable('tmp', el.ownerDocument.body.id);
+        doc = el.ownerDocument.body.id;
       } else {
-        setVariable('tmp', el.ownerDocument.body.id + ' ' + el.id);
+        doc = el.ownerDocument.body.id;
+        id = el.id;
+        // setVariable('tmp', el.ownerDocument.body.id + ' ' + el.id);
       }
       return;
     }
     // debugger;
-    var tmp = getVariable('tmp');
-    if (!tmp) {
+    // var tmp = getVariable('tmp');
+    // if (!tmp) {
+      // return;
+    // }
+    if (!doc && !id) {
       return;
     }
 
-    var [doc, id] = tmp.split(' ');
-    setVariable('tmp', '');
+    // var [doc, id] = tmp.split(' ');
+    // setVariable('tmp', '');
     var iframe = parent.document.getElementById('object-' + doc);
     if (!iframe) {
+      doc = '';
+      id = '';
       return;
     }
     var elDoc = iframe.contentDocument;
     var newEl = elDoc.getElementById(id);
     var state = $('.selected').attr('id');
     if (state === 'stop' || state === 'active') {
+      doc = '';
+      id = '';
       return;
     }
 
@@ -117,6 +137,8 @@ var clipboardCode = function() {
     if (newEl || (newSelection && newSelection.type === 'Range')) {
       functions[state](newEl, newSelection);
     }
+    doc = '';
+    id = '';
     return;
 
     // var isBody = $(el).is('body');
