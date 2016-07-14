@@ -136,6 +136,7 @@ var observer = new MutationObserver(function(mutations) {
     var ownerDocument = target.ownerDocument;
     var objectID = getVariable('active-object', ownerDocument);
     var cursor = getVariable('cursor', ownerDocument);
+    var cursorMover = getVariable('cursorMover', ownerDocument);
     var object = ownerDocument.getElementById(objectID);
     if (
       object &&
@@ -145,7 +146,6 @@ var observer = new MutationObserver(function(mutations) {
     ) {
       return;
     }
-    // debugger;
     $(ownerDocument).find('#pairing-button')
       .find('.active')
       .each(function(i, el) {
@@ -154,7 +154,11 @@ var observer = new MutationObserver(function(mutations) {
         if (!f || typeof actOnElements[name] === 'object') {
           return;
         }
-        actOnElements[name](object, cursor);
+        if (name === 'mover') {
+          actOnElements[name](object, cursorMover);
+        } else {
+          actOnElements[name](object, cursor);
+        }
       });
   });
 });

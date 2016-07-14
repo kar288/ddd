@@ -8,9 +8,11 @@ var instrumentCode = function(extraFunction) {
     if (menu.hasClass('active')) {
       $('#stop').trigger('click');
       menu.find('#innerText').text('activate');
+      log('activate', document.body.id);
     } else {
       $('#start').trigger('click');
       menu.find('#innerText').text('deactivate');
+      log('deactivate', document.body.id);
     }
   });
 
@@ -21,16 +23,22 @@ var instrumentCode = function(extraFunction) {
   $('.other-instruments').find('div').on('click tap', function(e) {
     if (parent.document !== document) {
       $('.other-instruments').toggleClass('hidden');
-      var name = document.body.id;
-      $(parent.document)
-        .find('iframe[src="' + name + '"]')
-        .attr('src', $(this).text());
+      $(window.frameElement).attr('src', $(this).text());
+    } else {
+      $('.other-instruments').toggleClass('hidden');
+      location.href = '/' + $(this).text();
     }
   });
 
   $('.sub-instrument').on('click tap', function(e) {
     var active = this.id;
     setVariable('active', active);
+    log(
+      'sub-instrument',
+      active,
+      this.ownerDocument.body.id,
+      $(this.ownerDocument).find('#menu').hasClass('active')
+    );
   });
 
   $('#opener-button').on('click tap', function() {
@@ -141,12 +149,12 @@ var highlighterCode = function() {
   instrumentCode();
 };
 
-var moverCodeInternal = function(el, pos, start, state, container) {
+var moverCodeInternal = function(el, pos, start, state) {
   if (!el || $(el).is('body') || isEmpty(pos)) {
     return {};
   }
 
-  if (state == 'stop') {
+  if (state === 'stop') {
     return start;
   }
   var style = getComputedStyle(el);
@@ -159,9 +167,11 @@ var moverCodeInternal = function(el, pos, start, state, container) {
       if (isNaN(first) || isNaN(second)) {
         return start;
       }
+      log('start moving', el.id, 'from', start);
       start.x = pos.x - first;
       start.y = pos.y - second;
     } else {
+      log('moved', el.id, 'to', pos);
       el.setAttribute('transform',
         'translate(' +
           (pos.x - start.x) +
@@ -171,20 +181,18 @@ var moverCodeInternal = function(el, pos, start, state, container) {
     }
   } else {
     if (isEmpty(start)) {
-      if (container) {
-        $(container).append(el);
-      } else {
-        $(el.ownerDocument.body).append(el);
-      }
+      $(el.parentElement).append(el);
 
       var left = parseInt(style.getPropertyValue('left'));
       var top = parseInt(style.getPropertyValue('top'));
       if (isNaN(left) || isNaN(top)) {
         return start;
       }
+      log('start moving', el.id, 'from', start);
       start.x = pos.x - left;
       start.y = pos.y - top;
     } else {
+      log('moved', el.id, 'to', pos);
       el.style.left = pos.x - start.x + 'px';
       el.style.top = pos.y - start.y + 'px';
     }
@@ -336,6 +344,7 @@ var colorPickerCode = function() {
           el.setAttribute('contenteditable', false);
         } else if ($(el).parents('svg').length) {
           el.setAttribute('stroke', color);
+          el.setAttribute('fill', color);
         } else {
           el.style.backgroundColor = color;
         }
@@ -391,6 +400,7 @@ var textInserterCode = function() {
     // var selected = getVariable('tmp') || [];
     selected.push(el.ownerDocument.body.id + ' ' + el.id);
     el.setAttribute('contenteditable', true);
+    $(el).find('svg').css('display', 'none');
     var convertProperties = {
       'color': 'foreColor'
     };
@@ -404,6 +414,7 @@ var textInserterCode = function() {
     el.ownerDocument.execCommand('styleWithCSS', true, null);
     $(el).on('click', function(e) {
       var i = 0;
+
       var sample = $('#sample').find('span')[0];
       while (sample.style[i]) {
         var property = sample.style[i];
@@ -447,7 +458,8 @@ var textInserterCode = function() {
             .getElementById('object-' + doc).contentWindow.document
             .getElementById(id);
           if (el) {
-            el.setAttribute('contenteditable', false);
+            $(el).attr('contenteditable', false);
+            $(el).find('svg').css('display', 'block');
           }
         }
       });
@@ -492,16 +504,6 @@ var drawShape = function(el, pos, state, style, shape, firstPos) {
     var svg = $($(el.ownerDocument).find('svg')[0]).clone();
     svg.html('');
     svg.prependTo(shape);
-    // var i = 0;
-    //
-    // while (style[i]) {
-    //   var property = style[i];
-    //   $(shape).css(
-    //     property,
-    //     getComputedStyle(sample).getPropertyValue(property)
-    //   );
-    //   i++;
-    // }
     $.each(style, function(prop, value) {
       $(shape).css(prop, value);
     });
@@ -514,10 +516,12 @@ var drawShape = function(el, pos, state, style, shape, firstPos) {
   if (shape) {
     shape.style.width = size + 'px';
     shape.style.height = size + 'px';
-    var basePosition = $(shape.parentElement).position();
-    console.log($(shape.parentElement).position());
-    shape.style.top = (firstPos.y - basePosition.top - size / 2) + 'px';
-    shape.style.left = (firstPos.x - basePosition.left - size / 2) + 'px';
+    // var basePosition = $(shape.parentElement).offset();
+    // console.log(basePosition);
+    // console.log(firstPos);
+    console.log(firstPos);
+    shape.style.top = (firstPos.y - size / 2) + 'px';
+    shape.style.left = (firstPos.x - size / 2) + 'px';
     if (state === 'circle') {
       shape.style.borderRadius = size / 2 + 'px';
     }
@@ -746,14 +750,14 @@ var drawCode = function() {
       }
     } else {
       svg = svg[0];
-      basePosition = $(svg).position();
+      // basePosition = $(svg).offset();
     }
 
-    // debugger;
-
     var path = doc.createElementNS(ns, 'path');
-    var x = pos.x - basePosition.left;
-    var y = pos.y - basePosition.top;
+    console.log(basePosition);
+    console.log(pos);
+    var x = pos.x ;
+    var y = pos.y ;
     if (x === undefined) {
       debugger;
     }
@@ -811,7 +815,7 @@ var drawCode = function() {
       pathId = '';
     }
     if (!el) {
-      console.log('not el');
+      // console.log('not el');
       return;
     }
 

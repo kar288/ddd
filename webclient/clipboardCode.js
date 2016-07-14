@@ -94,6 +94,10 @@ var clipboardCode = function() {
   var doc = '';
   var id = '';
   window.actOnElement = function(el, pos) {
+    if ($(el).is('body')) {
+      return;
+    }
+    
     if (el) {
       // debugger;
       var selection = el.ownerDocument.getSelection();
@@ -134,7 +138,7 @@ var clipboardCode = function() {
     }
 
     var newSelection = elDoc.getSelection();
-    if (newEl || (newSelection && newSelection.type === 'Range')) {
+    if (state && (newEl || (newSelection && newSelection.type === 'Range'))) {
       functions[state](newEl, newSelection);
     }
     doc = '';

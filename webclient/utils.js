@@ -215,7 +215,7 @@ var toScrollFrame = function(iFrame, mask){
   return true;
 };
 
-var getPos = function(e) {
+var getPos = function(e, container) {
   var pos = {
     x: e.pageX,
     y: e.pageY
@@ -226,6 +226,26 @@ var getPos = function(e) {
       y: e.originalEvent.touches[0].pageY
     };
   }
+  if (container) {
+    var parent = container;
+    var basePosition = $(parent).offset();
+    var right = parent.getBoundingClientRect().right;
+    var bottom = parent.getBoundingClientRect().bottom;
+    var width = parseInt($(parent).css('width'));
+    var height = parseInt($(parent).css('height'));
+    if (pos.x > right) {
+      pos.x = width;
+    } else {
+      pos.x -= basePosition.left;
+    }
+    if (pos.y > bottom) {
+      pos.y = height;
+    } else {
+      pos.y -= basePosition.top;
+    }
+  }
+  pos.x = Math.max(pos.x, 0);
+  pos.y = Math.max(pos.y, 0);
   return pos;
 };
 

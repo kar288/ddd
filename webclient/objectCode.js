@@ -96,14 +96,41 @@ var objectCodeInternal = function() {
 
   $(document).on('mousedown touchstart', function(e) {
     // console.log($(e.target));
-    var nearest = $(e.target).closest('[id]')[0];
+    var target = e.target;
+    if ($(target).is('img')) {
+      console.log('IS IMAGE');
+      target = $(target).closest('.shape')[0];
+    }
+    var nearest = $(target).closest('[id]')[0];
     if (nearest) {
       var id = nearest.getAttribute('id');
-
       setVariable('active-object', id);
+      log('acted on', id);
     }
-    setVariable('originIsInEditor', isInEditor(nearest));
-    setVariable('cursor', getPos(e));
+
+    var closestShape = $(target).closest('.shape');
+    if (closestShape.length) {
+      closestShape = closestShape[0];
+    } else {
+      closestShape = $('.content')[0];
+    }
+    setVariable('cursor', getPos(e, closestShape));
+
+    if ($(target).hasClass('content')) {
+      return;
+    }
+
+    closestShape = $(target).parents('.shape');
+    if (closestShape.length) {
+      closestShape = closestShape[0];
+    } else {
+      closestShape = $('.content')[0];
+    }
+    if ($(target.parentElement).is('body')) {
+      closestShape = document.body;
+    }
+    // console.log(closestShape, e.target);
+    setVariable('cursorMover', getPos(e, closestShape));
   });
 
   $(document).on('mousemove touchmove', function(e) {
@@ -111,7 +138,29 @@ var objectCodeInternal = function() {
     if (!getVariable('active-object')) {
       return;
     }
-    setVariable('cursor', getPos(e));
+    var activeObject =  $('#' + getVariable('active-object'));
+    var closestShape = activeObject.closest('.shape');
+    if (closestShape.length) {
+      closestShape = closestShape[0];
+    } else {
+      closestShape = $('.content')[0];
+    }
+    setVariable('cursor', getPos(e, closestShape));
+    if ($(activeObject).hasClass('content')) {
+      return;
+    }
+    closestShape = activeObject.parents('.shape');
+    if (closestShape.length) {
+      closestShape = closestShape[0];
+    } else {
+      closestShape = $('.content')[0];
+    }
+
+    if ($(activeObject[0].parentElement).is('body')) {
+      closestShape = document.body;
+    }
+    console.log(closestShape, activeObject[0]);
+    setVariable('cursorMover', getPos(e, closestShape));
   });
 
   $(document).on('mouseup touchend', function(e) {

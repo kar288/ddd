@@ -1,3 +1,32 @@
+.content {
+  overflow: hidden;
+  position: relative;
+  bottom: 0;
+  width: 800px;
+  height: 500px;
+  margin: calc(100vh - 545px) auto 0 auto;
+  border: 1px solid black;
+}
+
+body {
+  overflow: hidden;
+}
+
+img {
+  user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* Internet Explorer/Edge */
+  user-select: none;
+}
+
 .other-instruments {
   /*display: none;*/
   background-color: white;
