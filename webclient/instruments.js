@@ -270,9 +270,9 @@ var searchCode = function() {
     });
   }
   window.actOnElement = function(el, pos) {
-    if ($(el).attr('id') === 'pairing-button') {
-      console.log('bla');
-    }
+    // if ($(el).attr('id') === 'pairing-button') {
+    //   console.log('bla');
+    // }
     if (!el) {
       return;
     }
@@ -519,7 +519,7 @@ var drawShape = function(el, pos, state, style, shape, firstPos) {
     // var basePosition = $(shape.parentElement).offset();
     // console.log(basePosition);
     // console.log(firstPos);
-    console.log(firstPos);
+    // console.log(firstPos);
     shape.style.top = (firstPos.y - size / 2) + 'px';
     shape.style.left = (firstPos.x - size / 2) + 'px';
     if (state === 'circle') {
@@ -566,9 +566,9 @@ var resizerCode = function() {
       var doc = el.ownerDocument;
       var selection = doc.getSelection();
       if (selection.type === 'Range' && selection.baseNode.nodeType === 3) {
-        console.log('selectoin');
-        console.log(selection);
-        console.log(selection.type);
+        // console.log('selectoin');
+        // console.log(selection);
+        // console.log(selection.type);
         el.setAttribute('contenteditable', true);
         el.ownerDocument.execCommand('styleWithCSS', true, null);
         if (state === 'more-diagonal') {
@@ -754,8 +754,8 @@ var drawCode = function() {
     }
 
     var path = doc.createElementNS(ns, 'path');
-    console.log(basePosition);
-    console.log(pos);
+    // console.log(basePosition);
+    // console.log(pos);
     var x = pos.x ;
     var y = pos.y ;
     if (x === undefined) {

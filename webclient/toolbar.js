@@ -167,7 +167,7 @@ var toolbarInit = function() {
         $(selected).css('background-color', color);
         $(selected).attr('stroke', color);
         $(selected).attr('fill', color);
-        log('changed color', selected, color);
+        log('changed color', selected.id, color);
       }
     } else {
       log('changed color', color);
@@ -337,7 +337,7 @@ var toolbarInit = function() {
       }
 
       var pos = toolbarGetPos(e);
-      console.log(closestShape);
+      // console.log(closestShape);
       actOnElement(closestShape, pos, 'active', {
         'stroke-width': width + 'px',
         'stroke': settings.color,
@@ -381,7 +381,7 @@ var toolbarInit = function() {
     }
 
     if (isDown && !isPinching) {
-      console.log(selected);
+      // console.log(selected);
       start = moverCodeInternal(selected, pos, start, '');
     }
   });

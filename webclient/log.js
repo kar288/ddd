@@ -11,5 +11,5 @@ var log = function() {
       message += token;
     }
   });
-  // console.log(message);
+  console.log(message);
 };

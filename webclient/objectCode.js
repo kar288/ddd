@@ -95,10 +95,8 @@ var objectCodeInternal = function() {
   // $('svg').height(bodyHeight);
 
   $(document).on('mousedown touchstart', function(e) {
-    // console.log($(e.target));
     var target = e.target;
     if ($(target).is('img')) {
-      console.log('IS IMAGE');
       target = $(target).closest('.shape')[0];
     }
     var nearest = $(target).closest('[id]')[0];
@@ -129,7 +127,6 @@ var objectCodeInternal = function() {
     if ($(target.parentElement).is('body')) {
       closestShape = document.body;
     }
-    // console.log(closestShape, e.target);
     setVariable('cursorMover', getPos(e, closestShape));
   });
 
@@ -159,7 +156,6 @@ var objectCodeInternal = function() {
     if ($(activeObject[0].parentElement).is('body')) {
       closestShape = document.body;
     }
-    console.log(closestShape, activeObject[0]);
     setVariable('cursorMover', getPos(e, closestShape));
   });
 
