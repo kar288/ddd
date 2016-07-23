@@ -102,6 +102,10 @@ var objectCodeInternal = function() {
     var nearest = $(target).closest('[id]')[0];
     if (nearest) {
       var id = nearest.getAttribute('id');
+      if ($(nearest).hasClass('instrument-container')) {
+        $(nearest).children().css('pointer-events', 'none');
+      }
+
       setVariable('active-object', id);
       log('acted on', id);
     }
@@ -127,6 +131,7 @@ var objectCodeInternal = function() {
     if ($(target.parentElement).is('body')) {
       closestShape = document.body;
     }
+
     setVariable('cursorMover', getPos(e, closestShape));
   });
 
@@ -156,10 +161,14 @@ var objectCodeInternal = function() {
     if ($(activeObject[0].parentElement).is('body')) {
       closestShape = document.body;
     }
+    console.log(activeObject, closestShape, getPos(e, closestShape));
     setVariable('cursorMover', getPos(e, closestShape));
   });
 
   $(document).on('mouseup touchend', function(e) {
+    $('#' + getVariable('active-object'))
+      .children()
+      .css('pointer-events', 'auto');
     setVariable('active-object', '');
     setVariable('cursor', '');
     setVariable('selection', getSelectionSimple());

@@ -2,14 +2,16 @@
   overflow: hidden;
   position: relative;
   bottom: 0;
-  width: 800px;
-  height: 500px;
-  margin: calc(100vh - 545px) auto 0 auto;
+  width: 801px;
+  height: 451px;
+  margin: calc(100vh - 500px) auto 0 auto;
   border: 1px solid black;
 }
 
 body {
   overflow: hidden;
+  -webkit-user-select: none; /* disable selection/Copy of UIWebView */
+  -webkit-touch-callout: none; /* disable the IOS popup when long-press on a link */
 }
 
 img {
@@ -56,7 +58,7 @@ img {
 
 .tool {
   float: left;
-  padding: 20px;
+  padding: 20px 20px 20px 0;
 }
 
 .sub-tool {

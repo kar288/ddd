@@ -516,10 +516,6 @@ var drawShape = function(el, pos, state, style, shape, firstPos) {
   if (shape) {
     shape.style.width = size + 'px';
     shape.style.height = size + 'px';
-    // var basePosition = $(shape.parentElement).offset();
-    // console.log(basePosition);
-    // console.log(firstPos);
-    // console.log(firstPos);
     shape.style.top = (firstPos.y - size / 2) + 'px';
     shape.style.left = (firstPos.x - size / 2) + 'px';
     if (state === 'circle') {
@@ -566,9 +562,6 @@ var resizerCode = function() {
       var doc = el.ownerDocument;
       var selection = doc.getSelection();
       if (selection.type === 'Range' && selection.baseNode.nodeType === 3) {
-        // console.log('selectoin');
-        // console.log(selection);
-        // console.log(selection.type);
         el.setAttribute('contenteditable', true);
         el.ownerDocument.execCommand('styleWithCSS', true, null);
         if (state === 'more-diagonal') {

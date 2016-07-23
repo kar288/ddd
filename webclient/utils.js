@@ -66,8 +66,6 @@ var isInDocument = function(el, document) {
   return el.ownerDocument === document;
 };
 
-
-
 var getParams = function(searchString) {
   var parse = function(params, pairs) {
     var pair = pairs[0];
@@ -249,4 +247,8 @@ var getPos = function(e, container) {
   return pos;
 };
 
+var touch = false;
+if ("ontouchstart" in document.documentElement) {
+  touch = true;
+}
  //add single-touch scrolling to example page

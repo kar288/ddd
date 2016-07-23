@@ -66,6 +66,7 @@ httpsServer = https.createServer options, app
 # httpsServer.listen 443, "localhost"
 
 # Serve all static files (including source coffee files)
+app.use(express.static('images'));
 app.use('/client_src', express.static('client_src'));
 app.use(express.static('html'))
 app.use(express.static('webclient'))
@@ -198,6 +199,9 @@ share.use (request, next) ->
         next("Forbidden")
     else
         next()
+
+# app.get '/*.jpg', (req, res) ->
+#   res.json({'names': 'fdsfs'})
 
 app.get '/favicon.ico', (req, res) ->
     res.status(404).send("")

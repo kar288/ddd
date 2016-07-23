@@ -5,8 +5,12 @@ var copyCode = function(newEl, selection) {
   var copy = null;
   if (newEl) {
     copy = newEl.cloneNode(true);
-    copy.style.top = 0;
-    copy.style.left = 0;
+    if ($(copy).is('path')) {
+      $(copy).attr('transform', 'translate(0, 0)');
+    } else {
+      copy.style.top = 0;
+      copy.style.left = 0;
+    }
     copy.id += '-';
   } else if (selection) {
     copy = elDoc.createElement('p');
@@ -97,9 +101,8 @@ var clipboardCode = function() {
     if ($(el).is('body')) {
       return;
     }
-    
+
     if (el) {
-      // debugger;
       var selection = el.ownerDocument.getSelection();
       if (selection && selection.type === 'Range') {
         // setVariable('tmp', el.ownerDocument.body.id);

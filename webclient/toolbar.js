@@ -65,6 +65,33 @@ var toolbarGetPos = function(e) {
   return getPos(e, parent);
 };
 
+var setStyling = function() {
+  // document.execCommand('styleWithCSS', true, null);
+  // document.execCommand('foreColor', false, settings.color);
+  // if (settings.bold) {
+  //   document.execCommand('bold');
+  // }
+  // if (settings.italic) {
+  //   document.execCommand('italic');
+  // }
+  // if (settings.underline) {
+  //   document.execCommand('underline');
+  // }
+  // debugger;
+  document.execCommand('styleWithCSS', true, null);
+  // document.execCommand('removeFormat');
+  document.execCommand('foreColor', false, $('#colorPicker').css('color'));
+  if ($('#bold').hasClass('pressed')) {
+    document.execCommand('bold');
+  }
+  if ($('#italic').hasClass('pressed')) {
+    document.execCommand('italic');
+  }
+  if ($('#underline').hasClass('pressed')) {
+    document.execCommand('underline');
+  }
+};
+
 var selectObject = function(object) {
   if ($(object).attr('contenteditable') === 'true') {
     return;
@@ -107,14 +134,18 @@ var selectObject = function(object) {
   if (closestShape) {
     if ($(closestShape).find('img').length === 0 && closestShape === selected) {
       $(closestShape).find('svg').css('display', 'none');
-      $(closestShape).attr('contenteditable', true);
-      document.execCommand('styleWithCSS', true, null);
-      document.execCommand('foreColor', false, settings.color);
-      if (settings.bold) {
-        document.execCommand('bold');
+
+      //set selection?
+      if (closestShape.innerText === '') {
+        console.log("CHANGING RANGE");
+        var range = rangy.createRange();
+        range.selectNodeContents(selected);
+        var sel = rangy.getSelection();
+        sel.setSingleRange(range);
       }
-      $(closestShape).attr('contenteditable', false);
+      // console.log(document.getSelection(), settings);
       $(closestShape).attr('contenteditable', true);
+      // setStyling();
     }
 
     $(closestShape).css('opacity', 1);
@@ -148,10 +179,10 @@ var toolbarInit = function() {
   } else if ($('medium').hasClass('pressed')) {
     settings.size = 'large';
   }
-  $('#colorPicker').on('click', function() {
+  $('#colorPicker').on('tap', function(e) {
     $('#colorPicker').find('#sub-instrument-container').toggleClass('hidden');
   });
-  $('#colorPicker').find('.sub-instrument').on('click', function() {
+  $('#colorPicker').find('.sub-instrument').on('tap', function() {
     var color = this.id;
     $('#colorPicker').css('color', color);
     settings.color = color;
@@ -174,7 +205,7 @@ var toolbarInit = function() {
     }
   });
 
-  $('#clear').on('click', function() {
+  $('#clear').on(touch ? 'tap' : 'click', function() {
     selectObject();
     $('.action').removeClass('selected');
     mode = null;
@@ -189,7 +220,7 @@ var toolbarInit = function() {
   }
 
   // event listeners
-  $('.action').on('click', function() {
+  $('.action').on('tap', function(e) {
     selectObject();
     if ($(this).hasClass('selected')) {
       $('.action').removeClass('selected');
@@ -202,21 +233,21 @@ var toolbarInit = function() {
     mode = this.id;
     log('mode', mode);
   });
-  $('#delete').on('click', function() {
+  $('#delete').on('tap', function() {
     if (selected) {
       $(selected).remove();
       selectObject();
       log('deleted', selected ? selected.id : null);
     }
   });
-  $('#copy').on('click', function() {
+  $('#copy').on('tap', function() {
     if (selected) {
       copyCode(selected, null);
       log('copied', selected ? selected.id : null);
     }
     selectObject();
   });
-  $('#paste').on('click', function() {
+  $('#paste').on('tap', function() {
     if (selected) {
       pasteCode(selected, null);
     } else {
@@ -228,14 +259,14 @@ var toolbarInit = function() {
     }
     log('pasted', selected ? selected.id : null);
   });
-  $('#cut').on('click', function() {
+  $('#cut').on('tap', function() {
     if (selected) {
       cutCode(selected, null);
       log('cut', selected ? selected.id : null);
     }
     selectObject();
   });
-  $('.setting').on('click', function() {
+  $('.setting').on('tap', function() {
     if (this.parentElement.id === 'textSizer') {
       $('#textSizer').find('.setting').removeClass('pressed');
       $(this).addClass('pressed');
@@ -269,9 +300,9 @@ var toolbarInit = function() {
     }
     if (this.id === 'format-clear') {
       if (document.getSelection().type === 'Range') {
-        selected.setAttribute('contenteditable', true);
+        // selected.setAttribute('contenteditable', true);
         document.execCommand('removeFormat');
-        selected.setAttribute('contenteditable', false);
+        // selected.setAttribute('contenteditable', false);
         log('changed style', 'selection', 'format-clear');
       }
       $('.setting').removeClass('pressed');
@@ -284,8 +315,8 @@ var toolbarInit = function() {
     $(this).toggleClass('pressed');
     settings[this.id] = $(this).hasClass('pressed');
 
-    if (document.getSelection().type === 'Range') {
-      selected.setAttribute('contenteditable', true);
+    // if (document.getSelection().type === 'Range') {
+      // selected.setAttribute('contenteditable', true);
       document.execCommand('styleWithCSS', true, null);
       if (state === 'bold') {
         document.execCommand('bold');
@@ -296,175 +327,200 @@ var toolbarInit = function() {
       } else if (state === 'no-format') {
         document.execCommand('removeFormat');
       }
-      selected.setAttribute('contenteditable', false);
-
+      // selected.setAttribute('contenteditable', false);
+      // setStyling();
       log('changed style', 'selection', state);
-    }
+    // }
     $('#format-clear').removeClass('pressed');
   });
 
 /*******************************************************************************
                                 MOUSEDOWN
 *******************************************************************************/
-  $(document).on('mousedown touchstart', function(e) {
-    var isContentElement = $(e.target).hasClass('content');
-    if (!$(e.target).parents('.content').length && !isContentElement) {
-      return;
+var start = function(e) {
+  var isContentElement = $(e.target).hasClass('content');
+  if (!$(e.target).parents('.content').length && !isContentElement) {
+    return;
+  }
+
+  var closestShape = $(e.target).closest('.shape');
+  if (closestShape.length) {
+    closestShape = closestShape[0];
+  } else {
+    closestShape = $('.content')[0];
+  }
+
+  if (mode === 'square' || mode === 'circle') {
+    // toolDrawShape(e, mode);
+    isDown = true;
+    isDownElement = closestShape;
+    return;
+  }
+
+  if (mode === 'draw') {
+    isDown = true;
+    isDownElement = closestShape;
+    var width = 3;
+    if (settings.size === 'medium') {
+      width = 9;
+    } else if (settings.size === 'large') {
+      width = 27;
     }
 
-    var closestShape = $(e.target).closest('.shape');
-    if (closestShape.length) {
-      closestShape = closestShape[0];
-    } else {
-      closestShape = $('.content')[0];
-    }
+    var pos = toolbarGetPos(e);
+    // console.log(closestShape);
+    actOnElement(closestShape, pos, 'active', {
+      'stroke-width': width + 'px',
+      'stroke': settings.color,
+      'fill': settings.color
+    });
+    return;
+  }
 
-    if (mode === 'square' || mode === 'circle') {
-      // toolDrawShape(e, mode);
-      isDown = true;
-      isDownElement = closestShape;
-      return;
-    }
+  if (isContentElement) {
+    selectObject(null);
+    return;
+  }
 
-    if (mode === 'draw') {
-      isDown = true;
-      isDownElement = closestShape;
-      var width = 3;
-      if (settings.size === 'medium') {
-        width = 9;
-      } else if (settings.size === 'large') {
-        width = 27;
-      }
+  selectObject(e.target);
+};
 
-      var pos = toolbarGetPos(e);
-      // console.log(closestShape);
-      actOnElement(closestShape, pos, 'active', {
-        'stroke-width': width + 'px',
-        'stroke': settings.color,
-        'fill': settings.color
-      });
-      return;
-    }
-
-    if (isContentElement) {
-      selectObject(null);
-      return;
-    }
-
-    selectObject(e.target);
-  });
-
-
+if (!touch) {
+  $(document).on('mousedown', start);
+} else {
+  $(document).on('touchstart', start);
+}
 
 /*******************************************************************************
                                 MOUSEMOVE
 *******************************************************************************/
-  $(document).on('mousemove touchmove', function(e) {
-    // var isContentElement = $(e.target).hasClass('content');
-    // if (!$(e.target).parents('.content').length && !isContentElement) {
-    //   return;
-    // }
+var move = function(e) {
+  // var isContentElement = $(e.target).hasClass('content');
+  // if (!$(e.target).parents('.content').length && !isContentElement) {
+  //   return;
+  // }
 
-    var pos = toolbarGetPos(e);
-    var target = e.target;
-    if ($(target).is('img')) {
-      target = target.parentElement;
-    }
-    if (isDown && (mode === 'square' || mode === 'circle')) {
-      toolDrawShape(e, mode, pos, target);
-      return;
-    }
+  var pos = toolbarGetPos(e);
+  var target = e.target;
+  if ($(target).is('img')) {
+    target = target.parentElement;
+  }
+  if (isDown && (mode === 'square' || mode === 'circle')) {
+    toolDrawShape(e, mode, pos, target);
+    return;
+  }
 
-    if (isDown && mode === 'draw') {
-      actOnElement(target, pos, 'active', {});
-      return;
-    }
+  if (isDown && mode === 'draw') {
+    actOnElement(target, pos, 'active', {});
+    return;
+  }
 
-    if (isDown && !isPinching) {
-      // console.log(selected);
-      start = moverCodeInternal(selected, pos, start, '');
-    }
-  });
+  if (isDown && !isPinching) {
+    // console.log(selected);
+    start = moverCodeInternal(selected, pos, start, '');
+  }
+};
+
+if (!touch) {
+  $(document).on('mousemove', move);
+} else {
+  $(document).on('touchmove', move);
+}
 
 
 /*******************************************************************************
                                 MOUSEUP
 *******************************************************************************/
-  $(document).on('mouseup touchend', function(e) {
-    var tmpSettings = {};
-    if ($(e.target).parents('.shape').length) {
-      var selection = getSelection();
-      if (selection.rangeCount) {
-        var end = selection.getRangeAt(0).endContainer;
-        if (end.nodeType === Node.TEXT_NODE) {
-          end = $(end).closest('span');
-        }
-        if ($(end).css('font-weight')) {
-          tmpSettings.bold = $(end).css('font-weight') === 'bold';
-        }
-        if ($(end).css('font-style')) {
-          tmpSettings.italic = $(end).css('font-style') === 'italic';
-        }
-        if ($(end).css('text-decoration')) {
-          tmpSettings.underline = $(end).css('text-decoration') === 'underline';
-        }
-        var color = $(end).css('color');
-        if (color) {
-          tmpSettings.color = color;
-        }
-        var fontSize = parseInt($(end).css('font-size'));
-        if (fontSize <= 14 ) {
-          tmpSettings.size = 'small';
-        } else if (fontSize >= 32) {
-          tmpSettings.size = 'large';
-        } else {
-          tmpSettings.size = 'medium';
-        }
+
+var endFunction = function(e) {
+  // console.log(e.target);
+  var tmpSettings = {};
+  // if ($(e.target).parents('.shape').length) {
+    var selection = getSelection();
+    if (selected && selected.innerText === '') {
+      setStyling();
+    }
+    if (selection.rangeCount && selected && selected.innerText !== '') {
+      // debugger;
+      var end = selection.getRangeAt(0).endContainer;
+      if (end.nodeType === Node.TEXT_NODE) {
+        end = $(end).closest('span');
       }
-    } else if ($(e.target).is('path')) {
-      tmpSettings.color = $(e.target).attr('stroke');
-      var strokeWidth = parseInt($(e.target).css('stroke-width'));
-      if (strokeWidth <= 3 ) {
+      if ($(end).css('font-weight')) {
+        tmpSettings.bold = $(end).css('font-weight') === 'bold';
+      }
+      if ($(end).css('font-style')) {
+        tmpSettings.italic = $(end).css('font-style') === 'italic';
+      }
+      if ($(end).css('text-decoration')) {
+        tmpSettings.underline = $(end).css('text-decoration') === 'underline';
+      }
+      var color = $(end).css('color') || 'black';
+      if (color) {
+        tmpSettings.color = color;
+      }
+      var fontSize = parseInt($(end).css('font-size'));
+      if (fontSize <= 14 ) {
         tmpSettings.size = 'small';
-      } else if (strokeWidth >= 27) {
+      } else if (fontSize >= 32) {
         tmpSettings.size = 'large';
       } else {
         tmpSettings.size = 'medium';
       }
     }
-
-    if ($(e.target).hasClass('content')) {
-      pressButtons(settings);
+  if ($(e.target).is('path')) {
+  // } else if ($(e.target).is('path')) {
+    tmpSettings.color = $(e.target).attr('stroke');
+    var strokeWidth = parseInt($(e.target).css('stroke-width'));
+    if (strokeWidth <= 3 ) {
+      tmpSettings.size = 'small';
+    } else if (strokeWidth >= 27) {
+      tmpSettings.size = 'large';
     } else {
-      pressButtons(tmpSettings);
+      tmpSettings.size = 'medium';
     }
+  }
 
-    if (isPinching) {
-      isPinching = false;
-      startDimensions = {'width': null, 'height': null};
-    }
+  if ($(e.target).hasClass('content')) {
+    pressButtons(settings);
+  } else {
+    pressButtons(tmpSettings);
+  }
 
-    if (mode === 'draw') {
-      isDown = false;
-      isDownElement = null;
-      actOnElement(null, null, 'stop', {});
-      return;
-    }
+  if (isPinching) {
+    isPinching = false;
+    startDimensions = {'width': null, 'height': null};
+  }
 
-    if (mode === 'square' || mode === 'circle') {
-      toolDrawShape(null, mode);
-      isDown = false;
-      isDownElement = null;
-      return;
-    }
+  if (mode === 'draw') {
+    isDown = false;
+    isDownElement = null;
+    actOnElement(null, null, 'stop', {});
+    return;
+  }
 
-    if (isDown) {
-      isDown = false;
-      isDownElement = null;
-      start = moverCodeInternal(null, {}, start, 'active', $('.container'));
-      return;
-    }
-  });
+  if (mode === 'square' || mode === 'circle') {
+    toolDrawShape(null, mode);
+    isDown = false;
+    isDownElement = null;
+    return;
+  }
+
+  if (isDown) {
+    isDown = false;
+    isDownElement = null;
+    start = moverCodeInternal(null, {}, start, 'active', $('.container'));
+    return;
+  }
+};
+
+if (!touch) {
+  $(document).on('mouseup', endFunction);
+} else {
+  $(document).on('touchend', endFunction);
+}
+
+
 
 /*******************************************************************************
                                   HAMMER
@@ -473,7 +529,7 @@ var toolbarInit = function() {
     document, { touchAction: 'auto', cssProps: { userSelect: true } }
   );
   hammertime.get('pinch').set({enable: true});
-  hammertime.on('pan swipe rotate pinch tap doubletap press', function(e) {
+  hammertime.on('pan swipe rotate pinch touchstart doubletouchstart press', function(e) {
     e.preventDefault();
     $('#event').text(e.type);
     if (e.type === 'pinch') {
