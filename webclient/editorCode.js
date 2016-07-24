@@ -5,7 +5,17 @@ var turnOffs = {};
 var turnOns = {};
 var config = {characterData: true, subtree: true, childList: true};
 
+// $(window).load(function() {
+  // debugger;
+//   var images = getVariableFromUrl('images');
+//   if (images) {
+//     restartEditor();
+//     return;
+//   }
+// });
+
 var transcludedInEditor = function(e) {
+  // debugger;
   var iframe = $(this)[0];
   var d = iframe.contentDocument;
   var w = iframe.contentWindow;

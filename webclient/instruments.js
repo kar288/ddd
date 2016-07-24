@@ -16,21 +16,27 @@ var instrumentCode = function(extraFunction) {
     }
   });
 
-  $('.expander-other-instruments').on('click tap', function(e) {
+  $('.expander-other-instruments').on(touch ? 'tap' : 'click', function(e) {
     $('.other-instruments').toggleClass('hidden');
   });
 
-  $('.other-instruments').find('div').on('click tap', function(e) {
+  $('.other-instruments').find('div').on(touch ? 'tap' : 'click', function(e) {
+    var name = $(this).text();
+    var parts = location.pathname.split('-');
+    if (parts.length > 1) {
+      name += '-' + parts[1] + '-' + parts[2];
+    }
+
     if (parent.document !== document) {
       $('.other-instruments').toggleClass('hidden');
-      $(window.frameElement).attr('src', $(this).text());
+      $(window.frameElement).attr('src', name);
     } else {
       $('.other-instruments').toggleClass('hidden');
-      location.href = '/' + $(this).text();
+      location.href = '/' + name;
     }
   });
 
-  $('.sub-instrument').on('click tap', function(e) {
+  $('.sub-instrument').on(touch ? 'tap' : 'click', function(e) {
     var active = this.id;
     setVariable('active', active);
     log(
@@ -41,7 +47,7 @@ var instrumentCode = function(extraFunction) {
     );
   });
 
-  $('#opener-button').on('click tap', function() {
+  $('#opener-button').on(touch ? 'tap' : 'click', function() {
     var opener = $('.opener-iframe');
     if (opener.length) {
       opener.remove();
@@ -221,7 +227,7 @@ var moverCode = function() {
 var searchCode = function() {
   var docId = '';
   if (isInEditor(this)) {
-    $('.sub-instrument#search').on('click tap', function(e) {
+    $('.sub-instrument#search').on(touch ? 'tap' : 'click', function(e) {
       // var docId = getVariable('tmp');
       var text = $('#text').text();
       if (!docId) {
@@ -257,7 +263,7 @@ var searchCode = function() {
       $(targetDoc.body).removeHighlight();
       $(targetDoc.body).highlight(text);
     });
-    $('#stop').on('click tap', function(e) {
+    $('#stop').on(touch ? 'tap' : 'click', function(e) {
       // var docId = getVariable('tmp');
       if (!docId) {
         return;
@@ -303,7 +309,7 @@ var createObjectById = function(id) {
 };
 
 var textObjectCreatorCode = function() {
-  $('.sub-instrument#create').on('click tap', function(e) {
+  $('.sub-instrument#create').on(touch ? 'tap' : 'click', function(e) {
     $.ajax('/fileNames').done(function(response) {
       response.names.forEach(function(name, i) {
         if (!name.endsWith('.txt') || i <= -1 || i > 100) {
@@ -476,7 +482,7 @@ var textInserterCode = function() {
     clearContentEditable([docId]);
   };
 
-  $('#stop').on('click tap', function(e) {
+  $('#stop').on(touch ? 'tap' : 'click', function(e) {
     // var selected = getVariable('tmp');
     var docIds = [];
     selected.forEach(function(selEl) {
@@ -893,12 +899,12 @@ var openerCode = function() {
         instrumentNode.innerText = name;
         instrumentShortcuts.appendChild(instrumentNode);
         if (document.body.id === 'new') {
-          $(instrumentNode).on('click tap', function() {
+          $(instrumentNode).on(touch ? 'tap' : 'click', function() {
             $('.selected').removeClass('selected');
             $(this).addClass('selected');
           });
         } else if (document.body.id === 'opener') {
-          $(instrumentNode).on('click tap', function() {
+          $(instrumentNode).on(touch ? 'tap' : 'click', function() {
             openObjectByName($(this).attr('id'));
           });
         }
@@ -927,12 +933,12 @@ var openerCode = function() {
         node.innerText = id;
 
         if (document.body.id === 'new') {
-          $(node).on('click tap', function() {
+          $(node).on(touch ? 'tap' : 'click', function() {
             $('.selected').removeClass('selected');
             $(this).addClass('selected');
           });
         } else if (document.body.id === 'opener') {
-          $(node).on('click tap', function() {
+          $(node).on(touch ? 'tap' : 'click', function() {
             openObjectByName($(this).attr('id'));
           });
         }

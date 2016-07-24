@@ -199,7 +199,7 @@ var toScrollFrame = function(iFrame, mask){
       // debugger;
       var menu = $(this).find('#menu');
       menu.css('top', mouseY - e.targetTouches[0].pageY);
-      console.log(mouseY - e.targetTouches[0].pageY);
+      // console.log(mouseY - e.targetTouches[0].pageY);
     //   e.preventDefault(); //prevent whole page dragging
     //
     //   var box = jQuery(mask);
@@ -251,4 +251,106 @@ var touch = false;
 if ("ontouchstart" in document.documentElement) {
   touch = true;
 }
+
+var restartCanvas = function(doc, restart) {
+  doc = doc ? doc : document;
+  var images = getVariableFromUrl('images');
+  if (images) {
+    $(doc).find('.instrument-container').remove();
+    $(doc).find('#content').find('div').remove();
+    $(doc).find('#content').find('svg').find('*').remove();
+    var loadedImages = 0;
+    var imageParts = images.split(',');
+    imageParts.forEach(function(image) {
+      image = parseInt(image);
+      var shape = doc.createElement('div');
+      shape.id = 'image-' + image;
+      $(shape).addClass('shape');
+      $(shape).addClass('image');
+      $(shape).css({
+        'height': '200px',
+        'width': '200px',
+        'position': 'absolute',
+        'top': Math.floor(Math.random() * (451 - 200)) + 'px',
+        'left': Math.floor(Math.random() * (801 - 200)) +  'px'
+      });
+      $(doc).find('#content').append(shape);
+
+      var imageEl = document.createElement('img');
+      $(imageEl).addClass('noselect');
+      $(imageEl).attr('src', '/' + image + '.jpg');
+      $(imageEl).attr('height', '100%');
+      $(imageEl).attr('width', '100%');
+      $(shape).append(imageEl);
+
+      // $(imageEl).on('load', function() {
+      //   loadedImages++;
+      //   if (loadedImages >= imageParts.length && restart) {
+      //     // this.location = location.pathname;
+      //   }
+      // }.bind(doc));
+
+      var svg = $(doc).find('svg')[0].cloneNode(true);
+      svg.id = 'image-svg-' + image;
+      $(shape).append(svg);
+    });
+  }
+};
+
+var includeInstruments = function(doc) {
+  $('.instrument-container').each(function(i, el) {
+    var newInstrument = el.cloneNode(true);
+    $(doc.body).append(newInstrument);
+  });
+};
+
+var restartEditor = function() {
+  var participant = getVariableFromUrl('participant');
+  var task = getVariableFromUrl('task');
+  var doneIframes = 0;
+  var iframes = $('iframe');
+
+  iframes.each(function(i, el) {
+    var name = $(el).attr('src');
+    var newSrc = 'new?' +
+      'id=' + name + '-' + participant + '-' + task +
+      '&prototype=' + name;
+    $(el).on('transcluded', function() {
+      doneIframes++;
+      if (doneIframes >= iframes.length) {
+        var doc = $('#object-outline')[0].contentDocument;
+        restartCanvas(doc);
+        if (task === 'B') {
+          includeInstruments(doc);
+        }
+        location = location.pathname + '?mainEditor=1';
+      }
+    });
+    $(el).attr('src', newSrc);
+  });
+};
  //add single-touch scrolling to example page
+
+var started = false;
+ $(window).load(function() {
+   if (started) {
+     return;
+   }
+
+   var pathname = location.pathname;
+   if (pathname.indexOf('toolbar') === -1 && pathname.indexOf('editor') === -1) {
+     return;
+   }
+
+   started = true;
+   var images = getVariableFromUrl('images');
+   if (images) {
+     if (pathname.indexOf('toolbar') === -1) {
+       restartEditor();
+       return;
+     }
+
+     restartCanvas(null /* doc */, true /* restart */);
+     return;
+   }
+ });

@@ -200,8 +200,52 @@ share.use (request, next) ->
     else
         next()
 
-# app.get '/*.jpg', (req, res) ->
-#   res.json({'names': 'fdsfs'})
+generateTasks = (participant) ->
+  array = [0..81]
+  i = array.length
+  j = 0
+  tasks = []
+
+  while i -= 1
+    do (i) ->
+      j = Math.floor(Math.random() * (i+1));
+      temp = array[i];
+      array[i] = array[j];
+      array[j] = temp;
+
+  ids = [
+    {'prototype': 'toolbar', 'id': 'toolbar', 'task': 'A'},
+    {'prototype': 'editor', 'id': 'editor', 'task': 'B'},
+    {'prototype': 'editor', 'id': 'editor-distributed', 'task': 'C'}
+  ]
+  imageCount = 6
+
+  for i in [0..2]
+    do (i) ->
+      task = 'localhost:7007/new?id=' + ids[i]['id'] + '-' + participant +
+        '&prototype=' + ids[i]['prototype'] +
+        '&participant=' + participant +
+        '&task=' + ids[i]['task'] +
+        '&images='
+      for j in [0..imageCount - 1]
+        do (j) ->
+          task += (array[(i * imageCount + j)] + 1)
+          if j < imageCount - 1
+            task += ','
+      tasks.push(task)
+  console.log(tasks)
+  return tasks
+
+app.get '/generateTasks', (req, res) ->
+  participant = req.query.participant
+  tasks = generateTasks(participant)
+  res.json({'tasks': tasks})
+
+app.get '/generateTasksAll', (req, res) ->
+  tasks = []
+  tasks = tasks.concat(generateTasks(i)) for i in [1..18]
+  console.log(tasks)
+  res.json({'tasks': tasks})
 
 app.get '/favicon.ico', (req, res) ->
     res.status(404).send("")
@@ -307,11 +351,20 @@ app.get '/new', (req, res) ->
             res.redirect '/' + webstrateId
       else
         backend.submit 'webstrates', webstrateId, {v:0, create:{type:'json0', data:prototypeSnapshot.data}}, (err) ->
+          extra = '?'
+          if req.query.images
+            extra += 'images=' + req.query.images
+          if req.query.participant
+            extra += '&participant=' + req.query.participant
+          if req.query.task
+            extra += '&task=' + req.query.task
+            if req.query.task == 'B' || req.query.task == 'C'
+              extra += '&mainEditor=1'
           console.log err
           # if err?
               # res.status(409).send("Webstrate already exsist")
           # else
-          res.redirect '/' + webstrateId
+          res.redirect '/' + webstrateId + extra
   else
       res.redirect '/' + shortId.generate()
 

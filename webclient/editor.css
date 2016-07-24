@@ -90,6 +90,10 @@ img {
   display: none;
 }
 
+.ddd_editor .instrument-container {
+  position: initial !important;
+}
+
 .instrument-container {
   padding: 20px;
   height: 250px;

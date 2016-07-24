@@ -161,7 +161,7 @@ var objectCodeInternal = function() {
     if ($(activeObject[0].parentElement).is('body')) {
       closestShape = document.body;
     }
-    console.log(activeObject, closestShape, getPos(e, closestShape));
+    // console.log(activeObject, closestShape, getPos(e, closestShape));
     setVariable('cursorMover', getPos(e, closestShape));
   });
 
