@@ -17,6 +17,7 @@ limitations under the License.
 https = require 'https'
 {Duplex} = require 'stream'
 express = require 'express'
+bodyParser = require 'body-parser'
 argv = require('optimist').argv
 livedb = require('livedb')
 livedbMongo = require 'livedb-mongo'
@@ -57,6 +58,8 @@ options =
 
 # Create express app and websocket server
 app = express()
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
 app.server = http.createServer app
 # app.server = https.createServer options, app
 wss = new WebSocketServer {server: app.server}
@@ -201,7 +204,9 @@ share.use (request, next) ->
         next()
 
 generateTasks = (participant) ->
-  array = [0..81]
+  array = []
+  array.push(i) for i in [0..81] when i != 4 and i != 10
+
   i = array.length
   j = 0
   tasks = []
@@ -216,25 +221,45 @@ generateTasks = (participant) ->
   ids = [
     {'prototype': 'toolbar', 'id': 'toolbar', 'task': 'A'},
     {'prototype': 'editor', 'id': 'editor', 'task': 'B'},
-    {'prototype': 'editor', 'id': 'editor-distributed', 'task': 'C'}
+    {'prototype': 'editor', 'id': 'editor', 'task': 'C'},
+    {'prototype': 'toolbar', 'id': 'toolbar-sample', 'task': 'A'},
+    {'prototype': 'editor', 'id': 'editor-sample', 'task': 'B'},
+    {'prototype': 'editor', 'id': 'editor-sample', 'task': 'C'}
   ]
   imageCount = 6
 
-  for i in [0..2]
+  for i in [0..5]
     do (i) ->
-      task = 'localhost:7007/new?id=' + ids[i]['id'] + '-' + participant +
+      task = 'localhost:7007/new?id=' + ids[i]['id'] + '-' + ids[i]['task'] +
         '&prototype=' + ids[i]['prototype'] +
         '&participant=' + participant +
         '&task=' + ids[i]['task'] +
         '&images='
-      for j in [0..imageCount - 1]
-        do (j) ->
-          task += (array[(i * imageCount + j)] + 1)
-          if j < imageCount - 1
-            task += ','
+      if ids[i]['id'].endsWith('sample')
+        task += '5,11'
+      else
+        for j in [0..imageCount - 1]
+          do (j) ->
+            task += (array[(i * imageCount + j)] + 1)
+            if j < imageCount - 1
+              task += ','
       tasks.push(task)
-  console.log(tasks)
+  # console.log(tasks)
   return tasks
+
+app.post '/log', (req, res) ->
+  # console.log req.body
+  # b = JSON.parse( req.body )
+  messages = req.body['messages[]']
+  if messages && messages.length && messages.join
+    fileName = './logs' + req.body.name + '.txt'
+    text = messages.join('\n') + '\n'
+    fs.writeFile fileName, text, { flag: 'a' }, (err) ->
+      if err
+        console.log err
+      res.json({'success': true})
+  else
+    res.json({'success': false})
 
 app.get '/generateTasks', (req, res) ->
   participant = req.query.participant
@@ -244,7 +269,7 @@ app.get '/generateTasks', (req, res) ->
 app.get '/generateTasksAll', (req, res) ->
   tasks = []
   tasks = tasks.concat(generateTasks(i)) for i in [1..18]
-  console.log(tasks)
+  # console.log(tasks)
   res.json({'tasks': tasks})
 
 app.get '/favicon.ico', (req, res) ->
@@ -252,12 +277,12 @@ app.get '/favicon.ico', (req, res) ->
 
 app.get '/fileNames', (req, res) ->
   files = fs.readdirSync(docsDirectory)
-  console.log files
+  # console.log files
   res.json({'names': files})
 
 app.get '/file', (req, res) ->
   if req.query.id?
-    console.log req.query.id
+    # console.log req.query.id
     name = docsDirectory + req.query.id
     fs.readFile name, 'utf8', (err, data) ->
       if err
@@ -524,26 +549,26 @@ app.get '/:id', (req, res) ->
                 data = {v:0}
                 for op in ops
                     ot.apply data, op
-                console.log(data)
-                console.log snapshot
+                # console.log(data)
+                # console.log snapshot
                 mongoDB.collection 'webstrates', (err, collection) ->
                   collection.update {'_id': snapshot.docName}, {$set: {'_v': data.v, '_data': data.data}}, (err, el) ->
-                    console.log el
+                    # console.log el
                     mongoDB.collection 'webstrates_ops', (err, webstrates_ops) ->
-                      console.log webstrates_ops
+                      # console.log webstrates_ops
                       # webstrates_ops.remove({'name': snapshot.docName, 'v': {$gt: version}}) (err, numberOfRemovedDocs) ->
                       # # webstrate_ops.find({'name': snapshot.docName, 'v': {$gt: version}}).toArray (err, items) ->
                       #   console.log numberOfRemovedDocs
 
                 res.send (jsonml.toXML data.data, ["area", "base", "br", "col", "embed", "hr", "img", "input", "keygen", "link", "menuitem", "meta", "param", "source", "track", "wbr"])
         else
-            console.log "ELSE"
+            # console.log "ELSE"
             if not permissionCache[userId]?
                 permissionCache[userId] = {}
             backend.fetch 'webstrates', req.params.id, (err, snapshot) ->
                 webstrate = req.params.id
-                console.log webstrate
-                console.log snapshot
+                # console.log webstrate
+                # console.log snapshot
                 permissions = getPermissionsForWebstrate username, provider, webstrate, snapshot
                 permissionCache[userId][webstrate] = permissions
                 if permissions.indexOf("r") < 0

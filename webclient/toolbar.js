@@ -1,7 +1,4 @@
 var settings = {
-  'underline': false,
-  'italic': false,
-  'bold': false,
   'color': '#000000',
   'size': false
 };
@@ -52,6 +49,7 @@ var toolDrawShape = function(e, mode, pos, el) {
   );
   shape = result.shape;
   firstPos = result.firstPos;
+  return shape;
 };
 
 var toolbarGetPos = function(e) {
@@ -65,39 +63,8 @@ var toolbarGetPos = function(e) {
   return getPos(e, parent);
 };
 
-var setStyling = function() {
-  // document.execCommand('styleWithCSS', true, null);
-  // document.execCommand('foreColor', false, settings.color);
-  // if (settings.bold) {
-  //   document.execCommand('bold');
-  // }
-  // if (settings.italic) {
-  //   document.execCommand('italic');
-  // }
-  // if (settings.underline) {
-  //   document.execCommand('underline');
-  // }
-  // debugger;
-  document.execCommand('styleWithCSS', true, null);
-  // document.execCommand('removeFormat');
-  document.execCommand('foreColor', false, $('#colorPicker').css('color'));
-  if ($('#bold').hasClass('pressed')) {
-    document.execCommand('bold');
-  }
-  if ($('#italic').hasClass('pressed')) {
-    document.execCommand('italic');
-  }
-  if ($('#underline').hasClass('pressed')) {
-    document.execCommand('underline');
-  }
-};
-
 var selectObject = function(object) {
-  if ($(object).attr('contenteditable') === 'true') {
-    return;
-  }
-  $('.shape').attr('contenteditable', false);
-  $('svg').css('display', 'block');
+  // $('svg').css('display', 'block');
   if (!object) {
     $('.shape').css('opacity', 1);
     $('path').css('opacity', 1);
@@ -105,7 +72,6 @@ var selectObject = function(object) {
     $('img').css('opacity', 1);
     selected = null;
     log('selected', selected ? selected.id : null);
-    getSelection().removeAllRanges();
     return;
   }
 
@@ -132,29 +98,16 @@ var selectObject = function(object) {
   }
 
   if (closestShape) {
-    if ($(closestShape).find('img').length === 0 && closestShape === selected) {
-      $(closestShape).find('svg').css('display', 'none');
-
-      //set selection?
-      if (closestShape.innerText === '') {
-        console.log("CHANGING RANGE");
-        var range = rangy.createRange();
-        range.selectNodeContents(selected);
-        var sel = rangy.getSelection();
-        sel.setSingleRange(range);
-      }
-      // console.log(document.getSelection(), settings);
-      $(closestShape).attr('contenteditable', true);
-      // setStyling();
-    }
+    // if ($(closestShape).find('img').length === 0 && closestShape === selected) {
+      // $(closestShape).find('svg').css('display', 'none');
+    // }
 
     $(closestShape).css('opacity', 1);
 
     if ($(object).is('img')) {
-    // debugger;
       $(object).css('opacity', 1);
       selected = closestShape;
-      // log('selected', selected ? selected.id : null);
+      log('selected', selected ? selected.id : null);
     }
 
     if ($(object).is('div') || $(object).is('span')) {
@@ -166,40 +119,29 @@ var selectObject = function(object) {
 };
 
 var toolbarInit = function() {
+  $(window).bind('beforeunload', function(e) {
+    log();
+  });
+
+  preventContextMenu();
   drawCode();
   selectObject();
   // init settings
   settings.color = $('#colorPicker').css('color');
-  $('#textStyler').find('.setting').each(function(i, el) {
-    settings[this.id] = $(this).hasClass('pressed');
-  });
-  settings.size = 'small';
-  if ($('medium').hasClass('pressed')) {
-    settings.size = 'medium';
-  } else if ($('medium').hasClass('pressed')) {
-    settings.size = 'large';
-  }
+  settings.size = $('#size').text();
   $('#colorPicker').on('tap', function(e) {
     $('#colorPicker').find('#sub-instrument-container').toggleClass('hidden');
   });
   $('#colorPicker').find('.sub-instrument').on('tap', function() {
-    var color = this.id;
+    var color = $(this).css('background-color');
     $('#colorPicker').css('color', color);
     settings.color = color;
 
-    document.execCommand('styleWithCSS', true, null);
-    document.execCommand('foreColor', false, color);
     if (selected) {
-      if (getSelection().type === 'Range' || $(selected).attr('contenteditable') === 'true') {
-        document.execCommand('styleWithCSS', true, null);
-        document.execCommand('foreColor', false, color);
-        log('changed color', 'selection', color);
-      } else {
-        $(selected).css('background-color', color);
-        $(selected).attr('stroke', color);
-        $(selected).attr('fill', color);
-        log('changed color', selected.id, color);
-      }
+      $(selected).css('background-color', color);
+      $(selected).attr('stroke', color);
+      $(selected).attr('fill', color);
+      log('changed color', selected.id, color);
     } else {
       log('changed color', color);
     }
@@ -220,7 +162,7 @@ var toolbarInit = function() {
   }
 
   // event listeners
-  $('.action').on('tap', function(e) {
+  $('.action').on(touch ? 'tap' : 'click', function(e) {
     selectObject();
     if ($(this).hasClass('selected')) {
       $('.action').removeClass('selected');
@@ -235,19 +177,23 @@ var toolbarInit = function() {
   });
   $('#delete').on('tap', function() {
     if (selected) {
-      $(selected).remove();
-      selectObject();
+      $(this).toggleClass('selected');
+      cutCode(selected, null);
+      $(this).toggleClass('selected');
       log('deleted', selected ? selected.id : null);
     }
   });
   $('#copy').on('tap', function() {
     if (selected) {
+      $(this).toggleClass('selected');
       copyCode(selected, null);
+      $(this).toggleClass('selected');
       log('copied', selected ? selected.id : null);
     }
     selectObject();
   });
   $('#paste').on('tap', function() {
+    $(this).toggleClass('selected');
     if (selected) {
       pasteCode(selected, null);
     } else {
@@ -257,40 +203,35 @@ var toolbarInit = function() {
         pasteCode($('.content')[0], null);
       }
     }
+    $(this).toggleClass('selected');
     log('pasted', selected ? selected.id : null);
   });
   $('#cut').on('tap', function() {
     if (selected) {
+      $(this).toggleClass('selected');
       cutCode(selected, null);
+      $(this).toggleClass('selected');
       log('cut', selected ? selected.id : null);
     }
     selectObject();
   });
-  $('.setting').on('tap', function() {
+  $('.setting').on(touch ? 'tap' : 'click', function() {
     if (this.parentElement.id === 'textSizer') {
-      $('#textSizer').find('.setting').removeClass('pressed');
-      $(this).addClass('pressed');
-      settings.size  = this.id;
-      var size = 2;
-      var width = 3;
-      if (this.id === 'medium') {
-        size = 4;
-        width = 9;
-      } else if (this.id === 'large') {
-        size = 6;
-        width = 27;
+      var size = parseInt($('#size').text());
+      if (this.id === 'more') {
+        size += 1;
+      } else {
+        size -= 1;
       }
+      if (size < 3 || size > 50) {
+        return;
+      }
+      $('#size').text(size + 'px');
+      settings.size  = size;
       if (selected) {
-        if ($(selected).is('div')) {
-          selected.setAttribute('contenteditable', true);
-          document.execCommand('styleWithCSS', true, null);
-          document.execCommand('fontsize', false, size);
-          selected.setAttribute('contenteditable', false);
-          selected.focus();
-          log('changed size', 'selection', size);
-        } else if ($(selected).is('path')) {
-          $(selected).attr('stroke-width', width);
-          log('changed width', selected.id, width);
+        if ($(selected).is('path')) {
+          $(selected).attr('stroke-width', size);
+          log('changed width', selected.id, size);
         }
       }
       return;
@@ -298,40 +239,6 @@ var toolbarInit = function() {
     if (this.parentElement.id === 'colorPicker') {
       return;
     }
-    if (this.id === 'format-clear') {
-      if (document.getSelection().type === 'Range') {
-        // selected.setAttribute('contenteditable', true);
-        document.execCommand('removeFormat');
-        // selected.setAttribute('contenteditable', false);
-        log('changed style', 'selection', 'format-clear');
-      }
-      $('.setting').removeClass('pressed');
-      settings.underline = false;
-      settings.italic = false;
-      settings.bold = false;
-      return;
-    }
-    var state = this.id;
-    $(this).toggleClass('pressed');
-    settings[this.id] = $(this).hasClass('pressed');
-
-    // if (document.getSelection().type === 'Range') {
-      // selected.setAttribute('contenteditable', true);
-      document.execCommand('styleWithCSS', true, null);
-      if (state === 'bold') {
-        document.execCommand('bold');
-      } else if (state === 'italic') {
-        document.execCommand('italic');
-      } else if (state === 'underline') {
-        document.execCommand('underline');
-      } else if (state === 'no-format') {
-        document.execCommand('removeFormat');
-      }
-      // selected.setAttribute('contenteditable', false);
-      // setStyling();
-      log('changed style', 'selection', state);
-    // }
-    $('#format-clear').removeClass('pressed');
   });
 
 /*******************************************************************************
@@ -350,6 +257,21 @@ var start = function(e) {
     closestShape = $('.content')[0];
   }
 
+  if (!isPinching && selected) {
+    if (closestShape.length) {
+      closestShape = closestShape[0];
+    } else {
+      closestShape = $('.content')[0];
+    }
+    if ($(e.target).is('img')) {
+      closestShape = $('.content')[0];
+    }
+    if (!isDownElement || !mode) {
+      isDownElement = closestShape;
+    }
+    isDown = true;
+  }
+
   if (mode === 'square' || mode === 'circle') {
     // toolDrawShape(e, mode);
     isDown = true;
@@ -360,15 +282,11 @@ var start = function(e) {
   if (mode === 'draw') {
     isDown = true;
     isDownElement = closestShape;
-    var width = 3;
-    if (settings.size === 'medium') {
-      width = 9;
-    } else if (settings.size === 'large') {
-      width = 27;
-    }
+    var width = settings.size;
 
     var pos = toolbarGetPos(e);
     // console.log(closestShape);
+    log('draw', closestShape.id, pos);
     actOnElement(closestShape, pos, 'active', {
       'stroke-width': width + 'px',
       'stroke': settings.color,
@@ -406,12 +324,14 @@ var move = function(e) {
     target = target.parentElement;
   }
   if (isDown && (mode === 'square' || mode === 'circle')) {
-    toolDrawShape(e, mode, pos, target);
+    var shape = toolDrawShape(e, mode, pos, target);
+    selectObject(shape);
     return;
   }
 
   if (isDown && mode === 'draw') {
     actOnElement(target, pos, 'active', {});
+    log('draw', target.id, pos);
     return;
   }
 
@@ -433,43 +353,14 @@ if (!touch) {
 *******************************************************************************/
 
 var endFunction = function(e) {
-  // console.log(e.target);
+  e.preventDefault();
+
+  if ($(e.target).parents('#colorPicker').length === 0) {
+    $('#colorPicker').find('#sub-instrument-container').addClass('hidden');
+  }
+
   var tmpSettings = {};
-  // if ($(e.target).parents('.shape').length) {
-    var selection = getSelection();
-    if (selected && selected.innerText === '') {
-      setStyling();
-    }
-    if (selection.rangeCount && selected && selected.innerText !== '') {
-      // debugger;
-      var end = selection.getRangeAt(0).endContainer;
-      if (end.nodeType === Node.TEXT_NODE) {
-        end = $(end).closest('span');
-      }
-      if ($(end).css('font-weight')) {
-        tmpSettings.bold = $(end).css('font-weight') === 'bold';
-      }
-      if ($(end).css('font-style')) {
-        tmpSettings.italic = $(end).css('font-style') === 'italic';
-      }
-      if ($(end).css('text-decoration')) {
-        tmpSettings.underline = $(end).css('text-decoration') === 'underline';
-      }
-      var color = $(end).css('color') || 'black';
-      if (color) {
-        tmpSettings.color = color;
-      }
-      var fontSize = parseInt($(end).css('font-size'));
-      if (fontSize <= 14 ) {
-        tmpSettings.size = 'small';
-      } else if (fontSize >= 32) {
-        tmpSettings.size = 'large';
-      } else {
-        tmpSettings.size = 'medium';
-      }
-    }
   if ($(e.target).is('path')) {
-  // } else if ($(e.target).is('path')) {
     tmpSettings.color = $(e.target).attr('stroke');
     var strokeWidth = parseInt($(e.target).css('stroke-width'));
     if (strokeWidth <= 3 ) {
@@ -503,6 +394,13 @@ var endFunction = function(e) {
     toolDrawShape(null, mode);
     isDown = false;
     isDownElement = null;
+    shape = selected;
+    if (selected) {
+      $('.selected').removeClass('selected');
+      mode = null;
+    }
+
+    selectObject(shape);
     return;
   }
 
@@ -528,39 +426,37 @@ if (!touch) {
   var hammertime = new Hammer(
     document, { touchAction: 'auto', cssProps: { userSelect: true } }
   );
+  var dimensionConversion = {
+    'height': 'top',
+    'width': 'left'
+  };
   hammertime.get('pinch').set({enable: true});
-  hammertime.on('pan swipe rotate pinch touchstart doubletouchstart press', function(e) {
-    e.preventDefault();
-    $('#event').text(e.type);
-    if (e.type === 'pinch') {
-      isPinching = true;
-      if ($(selected).hasClass('shape')) {
-        Object.keys(startDimensions).forEach(function(dimension) {
-          if (!startDimensions[dimension]) {
-            startDimensions[dimension] = parseInt($(selected).css(dimension));
-          }
-          var newVal = Math.max(startDimensions[dimension] * e.scale, 200);
-          $(selected).css(dimension, newVal + 'px');
+  if (location.pathname.indexOf('toolbar')) {
+    hammertime.on('pan swipe rotate pinch touchstart doubletouchstart press', function(e) {
+      e.preventDefault();
+      $('#event').text(e.type);
+      if (e.type === 'pinch') {
+        isPinching = true;
+        if ($(selected).hasClass('shape')) {
+          Object.keys(startDimensions).forEach(function(dimension) {
+            var direction = e.scale > 1 ? 2 : -2;
+            var dimensionVal = parseInt($(selected).css(dimension));
+            var newVal = Math.max(dimensionVal + direction, 50);
+            var offset =
+              parseInt($(selected).css(dimensionConversion[dimension]));
+            console.log('changing', dimensionConversion[dimension], $(selected).css(dimensionConversion[dimension]), offset + (direction / 2) + 'px');
+            $(selected).css(
+              dimensionConversion[dimension],
+              offset - (direction / 2) + 'px'
+            );
+            $(selected).css(dimension, newVal + 'px');
 
-          log('changed size', dimension, selected.id, newVal);
-        });
+            log('changed size', dimension, selected.id, newVal);
+          });
+        }
+      } else if (e.type === 'press') {
+
       }
-    } else if (e.type === 'press') {
-      if (!isPinching) {
-        var closestShape = $(e.target).parents('.shape');
-        if (closestShape.length) {
-          closestShape = closestShape[0];
-        } else {
-          closestShape = $('.content')[0];
-        }
-        if ($(e.target).is('img')) {
-          closestShape = $('.content')[0];
-        }
-        if (!isDownElement || !mode) {
-          isDownElement = closestShape;
-        }
-        isDown = true;
-      }
-    }
-  });
+    });
+  }
 };

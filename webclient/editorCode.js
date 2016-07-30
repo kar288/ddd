@@ -45,54 +45,56 @@ var transcludedInEditor = function(e) {
     $(this)[0].contentDocument,
     ['#opener-button, .opener-iframe {display: none;}']
   );
-  var hammertime = new Hammer(
-    $(this)[0].contentDocument.body, {
-      cssProps: {
-        userSelect: true
-      }
-    }
-  );
-  var params = getParams(location.search);
-  var active = params.active;
-  if (!active || isEmpty(active)) {
-    active = $('.editor-container').map(function(i, el) {
-      return el.getAttribute('object');
-    }).toArray();
-  }
-  active = new Set(active);
-  hammertime.on('swipe', function(ev) {
-    var id = ev.target.ownerDocument.body.id;
-    var object = $(parent.document)
-      .find('.editor-container[object=object-' + id + ']');
-    object.addClass(mobileHiddenClass);
-    $(parent.document).find('.editor-container')
-      .removeClass(mobileShownClass);
-    var nextObject = null;
-
-    while (!nextObject) {
-      if (ev.direction === Hammer.DIRECTION_LEFT) {
-        object = object.next('.editor-container');
-      } else if (ev.direction === Hammer.DIRECTION_RIGHT) {
-        object = object.prev('.editor-container');
-      }
-      if (!object || object.length === 0) {
-        var index = 0;
-        var containers = $('.editor-container');
-        if (ev.direction === Hammer.DIRECTION_RIGHT) {
-          index = containers.length - 1;
-        }
-        object = $(containers[index]);
-      }
-      if (active.has(object.attr('object'))) {
-        nextObject = object;
-      }
-    }
-    nextObject.addClass(mobileShownClass);
-    nextObject.removeClass(mobileHiddenClass);
-  });
+  // var hammertime = new Hammer(
+  //   $(this)[0].contentDocument.body, {
+  //     cssProps: {
+  //       userSelect: true
+  //     }
+  //   }
+  // );
+  // var params = getParams(location.search);
+  // var active = params.active;
+  // if (!active || isEmpty(active)) {
+  //   active = $('.editor-container').map(function(i, el) {
+  //     return el.getAttribute('object');
+  //   }).toArray();
+  // }
+  // active = new Set(active);
+  // hammertime.on('swipe', function(ev) {
+  //   var id = ev.target.ownerDocument.body.id;
+  //   var object = $(parent.document)
+  //     .find('.editor-container[object=object-' + id + ']');
+  //   object.addClass(mobileHiddenClass);
+  //   $(parent.document).find('.editor-container')
+  //     .removeClass(mobileShownClass);
+  //   var nextObject = null;
+  //
+  //   while (!nextObject) {
+  //     if (ev.direction === Hammer.DIRECTION_LEFT) {
+  //       object = object.next('.editor-container');
+  //     } else if (ev.direction === Hammer.DIRECTION_RIGHT) {
+  //       object = object.prev('.editor-container');
+  //     }
+  //     if (!object || object.length === 0) {
+  //       var index = 0;
+  //       var containers = $('.editor-container');
+  //       if (ev.direction === Hammer.DIRECTION_RIGHT) {
+  //         index = containers.length - 1;
+  //       }
+  //       object = $(containers[index]);
+  //     }
+  //     if (active.has(object.attr('object'))) {
+  //       nextObject = object;
+  //     }
+  //   }
+  //   nextObject.addClass(mobileShownClass);
+  //   nextObject.removeClass(mobileHiddenClass);
+  // });
 };
 
 var editorCode = function(iframe) {
+  preventContextMenu();
+
   if (!$('body').hasClass('ddd_editor')) {
     return;
   }
@@ -118,6 +120,7 @@ var editorCode = function(iframe) {
   );
 
   $(window).bind('beforeunload', function(e) {
+    log();
     $('.' + mobileHiddenClass).removeClass(mobileHiddenClass);
     $('.' + mobileShownClass).removeClass(mobileShownClass);
   });
@@ -139,6 +142,9 @@ var editorCode = function(iframe) {
     });
   }
 };
+
+var prevPos = null;
+var prevMover = null;
 
 var observer = new MutationObserver(function(mutations) {
   mutations.forEach(function(mutation) {
@@ -165,8 +171,29 @@ var observer = new MutationObserver(function(mutations) {
           return;
         }
         if (name === 'mover') {
+          // if (prevMover && cursorMover && cursorMover.x === prevMover.x && cursorMover.y === prevMover.y) {
+          //   return;
+          // }
+          prevMover = cursorMover;
+          if (object) {
+            log('action', name, object.id, cursorMover);
+          } else {
+            prevMover = null;
+          }
+
           actOnElements[name](object, cursorMover);
         } else {
+          if (prevPos && cursor && cursor.x === prevPos.x && cursor.y === prevPos.y) {
+            
+            return;
+          }
+          prevPos = cursor;
+          if (object) {
+            log('action', name, object.id, cursor);
+          } else {
+            prevPos = null;
+          }
+
           actOnElements[name](object, cursor);
         }
       });

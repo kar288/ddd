@@ -135,11 +135,18 @@ var objectCodeInternal = function() {
     setVariable('cursorMover', getPos(e, closestShape));
   });
 
+var previous = 0;
   $(document).on('mousemove touchmove', function(e) {
     // e.preventDefault();
     if (!getVariable('active-object')) {
       return;
     }
+    // var now = new Date().getTime();
+    // if (now - previous < 45) {
+    //   return;
+    // }
+    // console.log(now - previous);
+    // previous = now;
     var activeObject =  $('#' + getVariable('active-object'));
     var closestShape = activeObject.closest('.shape');
     if (closestShape.length) {
@@ -166,9 +173,13 @@ var objectCodeInternal = function() {
   });
 
   $(document).on('mouseup touchend', function(e) {
-    $('#' + getVariable('active-object'))
-      .children()
-      .css('pointer-events', 'auto');
+    var el = $('#' + getVariable('active-object'));
+    if ($(el).hasClass('instrument-container')) {
+      $(el)
+        .children()
+        .css('pointer-events', 'auto');
+    }
+    e.preventDefault();
     setVariable('active-object', '');
     setVariable('cursor', '');
     setVariable('selection', getSelectionSimple());

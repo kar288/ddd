@@ -3,14 +3,14 @@
 var instrumentCode = function(extraFunction) {
   objectCodeInternal();
 
-  $('#innerText').click(function(e) {
+  $('#innerText').on(touch ? 'tap' : 'click', function(e) {
     var menu = $('#menu');
     if (menu.hasClass('active')) {
-      $('#stop').trigger('click');
+      $('#stop').trigger(touch ? 'tap' : 'click');
       menu.find('#innerText').text('activate');
       log('activate', document.body.id);
     } else {
-      $('#start').trigger('click');
+      $('#start').trigger(touch ? 'tap' : 'click');
       menu.find('#innerText').text('deactivate');
       log('deactivate', document.body.id);
     }
@@ -23,15 +23,20 @@ var instrumentCode = function(extraFunction) {
   $('.other-instruments').find('div').on(touch ? 'tap' : 'click', function(e) {
     var name = $(this).text();
     var parts = location.pathname.split('-');
-    if (parts.length > 1) {
-      name += '-' + parts[1] + '-' + parts[2];
-    }
+    parts[0] = name;
+    name = parts.join('-');
 
     if (parent.document !== document) {
       $('.other-instruments').toggleClass('hidden');
+      if ($('#menu').hasClass('active')) {
+        $('#innerText').trigger(touch ? 'tap' : 'click');
+      }
       $(window.frameElement).attr('src', name);
     } else {
       $('.other-instruments').toggleClass('hidden');
+      if ($('#menu').hasClass('active')) {
+        $('#innerText').trigger(touch ? 'tap' : 'click');
+      }
       location.href = '/' + name;
     }
   });
@@ -75,6 +80,12 @@ var instrumentCode = function(extraFunction) {
         activeElement.addClass('selected');
       }
     } else {
+      // if (isInEditor(this)) {
+      //   $(parent.document).find('iframe').each(function(i, el) {
+      //     var menu = $(el.contentDocument).find('#menu').hasClass('active')
+      //     console.log(el.id, );
+      //   });
+      // }
       $('#menu').css('backgroundColor', 'red');
       $('#menu').addClass('active');
     }
@@ -83,6 +94,7 @@ var instrumentCode = function(extraFunction) {
     }
     $('#menu').css('backgroundColor', 'white');
     $('#menu').removeClass('active');
+
     if (isInEditor(this)) {
       $(parent.document).find('iframe').each(function(i, el) {
         var controller = $(el.contentDocument).find('.i-' + document.body.id);
@@ -105,58 +117,12 @@ var instrumentCode = function(extraFunction) {
   }
 };
 
-var highlighterCode = function() {
-  // var doc = '';
-  // var id = '';
-  var newEl = null;
-  window.actOnElement = function(el, pos) {
-    var active = getVariable('active');
-    // var tmp = getVariable('tmp');
-    if (active === 'stop') {
-      // setVariable('tmp', '');
-      // doc = '';
-      // id = '';
-      newEl = null;
-      return;
-    }
-    if (!el) {
-      if (newEl === null) {
-        return;
-      }
-      // if (!tmp) {
-      //   return;
-      // }
-      // var [doc, id] = tmp.split(' ');
-      // var elDoc = parent.document
-      //   .getElementById('object-' + doc).contentWindow.document;
-      // var newEl = elDoc.getElementById(id);
-      var elDoc = newEl.ownerDocument;
-      var selection = elDoc.getSelection();
-      if (!selection || selection.type !== 'Range') {
-        return;
-      }
-      newEl.setAttribute('contenteditable', true);
-      elDoc.execCommand('styleWithCSS', true, null);
-      elDoc.execCommand(
-        'backColor',
-        false,
-        $('#sample').css('background-color')
-      );
-      newEl.setAttribute('contenteditable', false);
-      return;
-    } else {
-      // doc = el.ownerDocument.body.id;
-      // id = el.id;
-      newEl = el;
-      // setVariable('tmp', el.ownerDocument.body.id + ' ' + el.id);
-    }
-  };
-
-  instrumentCode();
-};
+//hack
+var firstElMover = null;
 
 var moverCodeInternal = function(el, pos, start, state) {
   if (!el || $(el).is('body') || isEmpty(pos)) {
+    firstElMover = null;
     return {};
   }
 
@@ -173,9 +139,9 @@ var moverCodeInternal = function(el, pos, start, state) {
       if (isNaN(first) || isNaN(second)) {
         return start;
       }
-      log('start moving', el.id, 'from', start);
       start.x = pos.x - first;
       start.y = pos.y - second;
+      log('start moving', el.id, 'from', start);
     } else {
       log('moved', el.id, 'to', pos);
       el.setAttribute('transform',
@@ -187,20 +153,52 @@ var moverCodeInternal = function(el, pos, start, state) {
     }
   } else {
     if (isEmpty(start)) {
-      $(el.parentElement).append(el);
+      firstElMover = el;
+      if (!$(el).hasClass('instrument-container')) {
+        $(el.parentElement).append(el);
+      }
 
       var left = parseInt(style.getPropertyValue('left'));
       var top = parseInt(style.getPropertyValue('top'));
       if (isNaN(left) || isNaN(top)) {
         return start;
       }
-      log('start moving', el.id, 'from', start);
       start.x = pos.x - left;
       start.y = pos.y - top;
+      log('start moving', el.id, 'from', start);
     } else {
       log('moved', el.id, 'to', pos);
-      el.style.left = pos.x - start.x + 'px';
-      el.style.top = pos.y - start.y + 'px';
+      //tmp hack for experiment
+      if ($(firstElMover).hasClass('instrument-container')) {
+        // $(el.parentElement).append(el);
+        var newX = pos.x - start.x;
+        var newY = pos.y - start.y;
+        var leftMargin = 360;
+        var rightMargin = 1560;
+        var topMargin = 380;
+        var h = parseInt($(firstElMover).css('height'));
+        var w = parseInt($(firstElMover).css('width'));
+        var lowerBoundary = newY + h;
+        var rightBoundary = newX + w;
+        var good = true;
+        if (lowerBoundary > topMargin && rightBoundary > leftMargin && rightBoundary < rightMargin) {
+          good = false;
+        }
+
+        if (good) {
+          el.style.left = newX + 'px';
+          el.style.top = newY + 'px';
+        }
+
+        if (rightBoundary < 0 || newY > 1080 || lowerBoundary < 0 || newX > 1920) {
+          el.style.left = start.x + 'px';
+          el.style.top = start.y + 'px';
+        }
+      } else {
+        el.style.left = pos.x - start.x + 'px';
+        el.style.top = pos.y - start.y + 'px';
+      }
+
     }
   }
   return start;
@@ -224,273 +222,32 @@ var moverCode = function() {
   instrumentCode();
 };
 
-var searchCode = function() {
-  var docId = '';
-  if (isInEditor(this)) {
-    $('.sub-instrument#search').on(touch ? 'tap' : 'click', function(e) {
-      // var docId = getVariable('tmp');
-      var text = $('#text').text();
-      if (!docId) {
-        $.ajax('/api/search?query=' + text).done(function(response) {
-          var resultsContainer = $('#resultsContainer');
-          resultsContainer.html('');
-          var ids = response.ids;
-          ids.splice(10);
-          ids.forEach(function(id) {
-            var el = document.createElement('div');
-            el.setAttribute('id', id.id);
-            $(el).html(id.id);
-            resultsContainer.append(el);
-            var snippets = document.createElement('div');
-            snippets.setAttribute('id', 'snippet-' + id.id);
-            id.positions.forEach(function(position) {
-              var snippet = document.createElement('p');
-              $(snippet).html(position);
-              $(snippets).append(snippet);
-            });
-            resultsContainer.append(snippets);
-            resultsContainer.append(document.createElement('hr'));
-            $(document.body).highlight(text);
-          });
-        });
-        return;
-      }
-      var targetEl = $(parent.document).find('#object-' + docId)[0];
-      if (!targetEl) {
-        return;
-      }
-      var targetDoc = targetEl.contentDocument;
-      $(targetDoc.body).removeHighlight();
-      $(targetDoc.body).highlight(text);
-    });
-    $('#stop').on(touch ? 'tap' : 'click', function(e) {
-      // var docId = getVariable('tmp');
-      if (!docId) {
-        return;
-      }
-      var targetDoc = $(parent.document).find('#object-' + docId)[0].contentDocument;
-      $(targetDoc.body).removeHighlight();
-      // setVariable('tmp', '');
-      docId = '';
-      removeOthers('search');
-    });
-  }
-  window.actOnElement = function(el, pos) {
-    // if ($(el).attr('id') === 'pairing-button') {
-    //   console.log('bla');
-    // }
-    if (!el) {
-      return;
-    }
-    // setVariable('tmp', el.ownerDocument.body.getAttribute('id'));
-    docId = el.ownerDocument.body.getAttribute('id');
-  };
-  instrumentCode();
-};
-
-var createObjectById = function(id) {
-  var iframe = document.createElement('iframe');
-  iframe.setAttribute(
-    'src',
-    'new?prototype=objectBase&id=' + id.replace('.txt', '')
-  );
-  $(document.body).append(iframe);
-  $(iframe).on('transcluded', function(e) {
-    var iframeDoc = this.contentDocument;
-    var textContainer = iframeDoc.createElement('div');
-    iframeDoc.body.setAttribute('id', name.replace('.txt', ''));
-    $(iframeDoc.body).append(textContainer);
-    $.ajax('/file?id=' + id).done(function(response) {
-      $(textContainer).html(response.text);
-      // $(this).remove();
-    }.bind(iframe));
-  }.bind(iframe));
-  return iframe;
-};
-
-var textObjectCreatorCode = function() {
-  $('.sub-instrument#create').on(touch ? 'tap' : 'click', function(e) {
-    $.ajax('/fileNames').done(function(response) {
-      response.names.forEach(function(name, i) {
-        if (!name.endsWith('.txt') || i <= -1 || i > 100) {
-          return;
-        }
-        createObjectById(name);
-      });
-    });
-  });
-};
-
 var colorPickerCode = function() {
   var newEl = null;
   var elDoc = null;
   window.actOnElement = function(el, pos) {
-    // var tmp = getVariable('tmp');
-    // if (isEmpty(tmp)) {
-      // tmp = '';
-    // }
-    // var [doc, id] = tmp.split(' ');
-
-    var color = $('.selected').attr('id');
+    var color = $('.selected').css('background-color');
     if (color === 'stop' || color === 'active') {
       return;
     }
     if (!el || isInDocument(el, document)) {
       if (elDoc) {
-        // var elDoc = parent.document
-          // .getElementById(doc).contentWindow.document;
-        var selection = elDoc.getSelection();
         el = newEl;
-        // el = elDoc.getElementById(id);
-        if (selection.type === 'Range') {
-          // el.style.color = color;
-          el.setAttribute('contenteditable', true);
-          el.ownerDocument.execCommand('styleWithCSS', true, null);
-          el.ownerDocument.execCommand('foreColor', false, color);
-          el.setAttribute('contenteditable', false);
-        } else if ($(el).parents('svg').length) {
+        if ($(el).parents('svg').length) {
           el.setAttribute('stroke', color);
           el.setAttribute('fill', color);
         } else {
           el.style.backgroundColor = color;
         }
+        log('changed color to', color);
       }
-      // setVariable('tmp', '');
       newEl = null;
       elDoc = null;
       return;
     }
     newEl = el;
     elDoc = el.ownerDocument;
-    // setVariable('tmp', 'object-' + el.ownerDocument.body.id + ' ' + el.id);
-
   };
-
-  instrumentCode();
-};
-
-// var historyCode = function() {
-//   window.actOnElement = function(el, pos) {
-//     if (!el || isInDocument(el, document)) {
-//       return;
-//     }
-//     var state = getVariable('active');
-//     if (state === 'redo') {
-//       return;
-//     }
-//     var tmp = $('#tmp');
-//     var iframe = document.createElement('iframe');
-//     // iframe.setAttribute('src', el.ownerDocument.body.id);
-//     iframe.setAttribute('src', el.ownerDocument.body.id + '?v=-1');
-//     tmp.html(iframe);
-//     // iframe.addEventListener('transcluded', function(e) {
-//     //   debugger;
-//     // });
-//   };
-//
-//   instrumentCode();
-// };
-
-var textInserterCode = function() {
-  var selected = [];
-  window.actOnElement = function(el, pos) {
-    if (!el || isInDocument(el, document)) {
-      return;
-    }
-
-    var state = getVariable('active');
-    if (state === 'stop') {
-      return;
-    }
-
-    // var selected = getVariable('tmp') || [];
-    selected.push(el.ownerDocument.body.id + ' ' + el.id);
-    el.setAttribute('contenteditable', true);
-    $(el).find('svg').css('display', 'none');
-    var convertProperties = {
-      'color': 'foreColor'
-    };
-    function convertOtherProperties(property, value) {
-      if (property === 'font-weight') {
-        return value;
-      }
-      return '';
-    }
-
-    el.ownerDocument.execCommand('styleWithCSS', true, null);
-    $(el).on('click', function(e) {
-      var i = 0;
-
-      var sample = $('#sample').find('span')[0];
-      while (sample.style[i]) {
-        var property = sample.style[i];
-        var newProperty = convertProperties[property];
-        var value = getComputedStyle(sample).getPropertyValue(property);
-        if (newProperty) {
-          e.target.ownerDocument.execCommand(
-            newProperty,
-            false,
-            value
-          );
-        } else {
-          e.target.ownerDocument.execCommand(
-            convertOtherProperties(property, value),
-            false,
-            null
-          );
-        }
-        i++;
-      }
-    });
-    // setVariable('tmp', selected);
-  };
-
-  var clearContentEditable = function(docIds) {
-      // var selected = getVariable('tmp');
-      var keep = [];
-      var remove = [];
-      selected.forEach(function(selEl) {
-        var [doc, id] = selEl.split(' ');
-        if (docIds.indexOf(doc) >= 0) {
-          remove.push(selEl);
-        } else {
-          keep.push(selEl);
-        }
-      });
-      remove.forEach(function(selEl) {
-        var [doc, id] = selEl.split(' ');
-        if (isInEditor(this)) {
-          var el = parent.document
-            .getElementById('object-' + doc).contentWindow.document
-            .getElementById(id);
-          if (el) {
-            $(el).attr('contenteditable', false);
-            $(el).find('svg').css('display', 'block');
-          }
-        }
-      });
-      // setVariable('tmp', keep);
-      selected = keep;
-  };
-
-  // window.turnOn = function(doc) {
-  //   defaultOnMove(doc, false);
-  // };
-
-  window.turnOff = function(doc) {
-    var docId = doc.body.id;
-    clearContentEditable([docId]);
-  };
-
-  $('#stop').on(touch ? 'tap' : 'click', function(e) {
-    // var selected = getVariable('tmp');
-    var docIds = [];
-    selected.forEach(function(selEl) {
-      var [doc, id] = selEl.split(' ');
-      docIds.push(doc);
-    });
-    clearContentEditable(docIds);
-  });
 
   instrumentCode();
 };
@@ -503,6 +260,7 @@ var drawShape = function(el, pos, state, style, shape, firstPos) {
   }
   var size = 10;
   if (firstPos === null) {
+    log('shape started', pos);
     var id = 'shape-' + randomTimeString();
     firstPos = pos;
     shape = el.ownerDocument.createElement('div');
@@ -520,12 +278,13 @@ var drawShape = function(el, pos, state, style, shape, firstPos) {
     size = Math.max(10, (Math.abs(pos.x - firstPos.x)));
   }
   if (shape) {
+    log('shape continued', size, state);
     shape.style.width = size + 'px';
     shape.style.height = size + 'px';
     shape.style.top = (firstPos.y - size / 2) + 'px';
     shape.style.left = (firstPos.x - size / 2) + 'px';
     if (state === 'circle') {
-      shape.style.borderRadius = size / 2 + 'px';
+      shape.style.borderRadius = 10000000 + 'px';
     }
   }
   return {shape: shape, firstPos: firstPos};
@@ -554,109 +313,59 @@ var shapesCode = function() {
 };
 
 var resizerCode = function() {
-  var newEl = null;
+  // var prevPos = null;
   window.actOnElement = function(el, pos) {
-    if (!el && newEl) {
-      el = newEl;
-      newEl = null;
-
-      var state = $('.selected').attr('id');
-      if (!state || state === 'stop' || state === 'active') {
-        return;
-      }
-
-      var doc = el.ownerDocument;
-      var selection = doc.getSelection();
-      if (selection.type === 'Range' && selection.baseNode.nodeType === 3) {
-        el.setAttribute('contenteditable', true);
-        el.ownerDocument.execCommand('styleWithCSS', true, null);
-        if (state === 'more-diagonal') {
-          el.ownerDocument.execCommand('fontSize', false, 7);
-        } else if (state === 'less-diagonal') {
-          el.ownerDocument.execCommand('fontSize', false, 2);
-        }
-        el.setAttribute('contenteditable', false);
-        return;
-      }
-      if ($(el).is('body')) {
-        el = $(parent.document).find('#object-' + el.getAttribute('id'))[0];
-        if ($(el).is('body')) {
-          return;
-        }
-      }
-      var style = getComputedStyle(el);
-      var height = parseFloat(style.getPropertyValue('height'));
-      var width = parseFloat(style.getPropertyValue('width'));
-      var change = {horizontal: 1, vertical: 1};
-      if (state.indexOf('vertical') >= 0) {
-        change.horizontal = 0;
-      } else if (state.indexOf('horizontal') >= 0) {
-        change.vertical = 0;
-      }
-      if (state.indexOf('more') >= 0) {
-        height += change.vertical;
-        width += change.horizontal;
-      } else if (state.indexOf('less') >= 0) {
-        height -= change.vertical;
-        width -= change.horizontal;
-      }
-      el.style.height = height + 'px';
-      el.style.width = width + 'px';
+    if (!el) {
+      // prevPos = null;
       return;
     }
-    if (!newEl) {
-      newEl = el;
-    }
-  };
 
-  instrumentCode();
-};
+    // if (prevPos && pos.x === prevPos.x && pos.y === prevPos.y) {
+    //   return;
+    // }
+    //
+    // prevPos = pos;
 
-var textStylerCode = function() {
-  var newEl = null;
-  var elDoc = null;
-  window.actOnElement = function(el, pos) {
-    // var tmp = getVariable('tmp');
-    if (!el || isInDocument(el, document)) {
-      // if (!isEmpty(tmp)) {
-      if (newEl && elDoc) {
-        // var [doc, id] = tmp.split(' ');
-        var state = $('.selected').attr('id');
-        if (!state) {
-          return;
-        }
-        // if (parent && doc && id) {
-          // var elDoc = parent.document
-            // .getElementById('object-' + doc).contentWindow.document;
-          var selection = elDoc.getSelection();
-          // el = elDoc.getElementById(id);
-          el = newEl;
-          el.setAttribute('contenteditable', true);
-          if (state === 'bold') {
-            el.ownerDocument.execCommand('bold');
-          } else if (state === 'italic') {
-            el.ownerDocument.execCommand('italic');
-          } else if (state === 'underline') {
-            el.ownerDocument.execCommand('underline');
-          } else if (state === 'no-format') {
-            el.ownerDocument.execCommand('removeFormat');
-          } else if (state === 'verdana') {
-            el.ownerDocument.execCommand('fontName', false, 'verdana');
-          } else if (state === 'georgia') {
-            el.ownerDocument.execCommand('fontName', false, 'georgia');
-          }
-          el.setAttribute('contenteditable', false);
-          // setVariable('tmp', '');
-          newEl = null;
-          elDoc = null;
-          return;
-        // }
-      }
-    } else {
-      newEl = el;
-      elDoc = el.ownerDocument;
-      // setVariable('tmp', el.ownerDocument.body.id + ' ' + el.id);
+    if ($(el).hasClass('content')) {
+      return;
     }
+    var state = $('.selected').attr('id');
+    if (!state) {
+      return;
+    }
+
+    log('resizer', state, el.id);
+    if ($(el).is('path')) {
+      var scale = $(el).attr('transform') || 'scale(1)';
+      console.log(parseFloat(scale));
+      return;
+    }
+    var style = getComputedStyle(el);
+    var height = parseFloat(style.getPropertyValue('height'));
+    var width = parseFloat(style.getPropertyValue('width'));
+    var top = parseFloat(style.getPropertyValue('top'));
+    var left = parseFloat(style.getPropertyValue('left'));
+    var change = {horizontal: 1, vertical: 1};
+    if (state.indexOf('vertical') >= 0) {
+      change.horizontal = 0;
+    } else if (state.indexOf('horizontal') >= 0) {
+      change.vertical = 0;
+    }
+    var direction = 1;
+    if (state.indexOf('less') >= 0) {
+      direction = -1;
+    }
+    height += change.vertical * direction;
+    width += change.horizontal * direction;
+    top -= change.vertical / 2 * direction;
+    left -= change.horizontal / 2 * direction;
+    if (height < 10 || width < 10) {
+      return;
+    }
+    el.style.height = height + 'px';
+    el.style.width = width + 'px';
+    el.style.top = top + 'px';
+    el.style.left = left + 'px';
   };
 
   instrumentCode();
@@ -763,6 +472,11 @@ var drawCode = function() {
     var point = {x: x, y: y, force: 1};
     points = [point];
     pathId = 'path-' + randomTimeString();
+    var properties = [
+      {'html': 'background-color', 'svg': 'stroke'},
+      {'html': 'background-color', 'svg': 'fill'},
+      {'html': 'width', 'svg': 'stroke-width'}
+    ];
     var convertProperties = {
       'width': 'stroke-width',
       'background-color': 'stroke',
@@ -772,16 +486,28 @@ var drawCode = function() {
     if (!style) {
       var i = 0;
       var sample = $('#sample')[0];
-      while (sample.style[i]) {
-        var property = sample.style[i];
-        path.setAttribute(
-          convertProperties[property] || property,
-          getComputedStyle(sample).getPropertyValue(property)
-        );
-        i++;
-      }
+      properties.forEach(function(prop, i) {
+        var style = sample.style;
+          console.log(prop.svg, style[prop.html]);
+        var val = style[prop.html];
+        if (prop.html === 'width') {
+          // val = parseInt(val) / 2 + 'px';
+        }
+        path.setAttribute(prop.svg, val);
+      });
+      // console.log(sample.style[properties[0].html]);
+      // console.log(sample.style[properties[2].html]);
+      // while (sample.style[i]) {
+      //   var property = sample.style[i];
+      //   path.setAttribute(
+      //     convertProperties[property] || property,
+      //     getComputedStyle(sample).getPropertyValue(property)
+      //   );
+      //   i++;
+      // }
     } else {
       $.each(style, function(prop, value) {
+        console.log(prop, value);
         path.setAttribute(prop, value);
       });
     }
@@ -818,7 +544,19 @@ var drawCode = function() {
       return;
     }
 
+    if ($(el).is('path')) {
+      var tmp = $(el).closest('.shape')[0];
+      if (tmp === undefined) {
+        tmp = $('#content')[0];
+      }
+      el = tmp;
+    }
+
+    log('draw', el.id, pos);
+
     var doc = el.ownerDocument;
+
+    // console.log(el, doc);
     if (!state) {
       state = getVariable('active');
     }
@@ -841,220 +579,6 @@ var drawCode = function() {
 
   window.turnOff = function(doc) {
     defaultOnMove(doc, true);
-  };
-
-  instrumentCode();
-};
-
-var openerCode = function() {
-  var instrumentNames = new Set([
-    'resizer',
-    'mover',
-    'draw',
-    'clipboard',
-    'shapes',
-    'textStyler',
-    'textInserter',
-    'opener',
-    'search',
-    'colorPicker',
-    'highlighter'
-  ]);
-
-  var reservedDocuments = new Set([
-    'frontpage',
-    'editorBase',
-    'newObject',
-    'new_instrument',
-    'sessionBase',
-    'objectBase',
-    'textObjectCreator',
-    'start',
-    'instrument_editor',
-    'newDocument'
-  ]);
-
-  var objectNames = new Set();
-
-  if (!isInEditor(parent)) {
-    $('.shortcuts').remove();
-    $.ajax('/api/names').done(function(response) {
-      var shortcuts = document.createElement('div');
-      shortcuts.setAttribute('class', 'row shortcuts');
-      document.body.appendChild(shortcuts);
-
-      var instrumentShortcuts = document.createElement('div');
-      instrumentShortcuts.setAttribute('class', 'col s6');
-      instrumentShortcuts.setAttribute('id', 'instrument-shortcuts');
-      shortcuts.appendChild(instrumentShortcuts);
-
-      var instrumentTitle = document.createElement('h5');
-      instrumentTitle.innerText = 'Instruments:';
-      instrumentShortcuts.appendChild(instrumentTitle);
-
-      instrumentNames.forEach(function(name) {
-        var instrumentNode = document.createElement('div');
-        instrumentNode.setAttribute('id', name);
-        instrumentNode.setAttribute('class', 'name');
-        instrumentNode.innerText = name;
-        instrumentShortcuts.appendChild(instrumentNode);
-        if (document.body.id === 'new') {
-          $(instrumentNode).on(touch ? 'tap' : 'click', function() {
-            $('.selected').removeClass('selected');
-            $(this).addClass('selected');
-          });
-        } else if (document.body.id === 'opener') {
-          $(instrumentNode).on(touch ? 'tap' : 'click', function() {
-            openObjectByName($(this).attr('id'));
-          });
-        }
-      });
-
-      var otherShortcuts = document.createElement('div');
-      otherShortcuts.setAttribute('class', 'col s6');
-      otherShortcuts.setAttribute('id', 'instrument-shortcuts');
-      shortcuts.appendChild(otherShortcuts);
-
-      var othersTitle = document.createElement('h5');
-      othersTitle.innerText = 'Documents:';
-      otherShortcuts.setAttribute('id', 'other-shortcuts');
-      otherShortcuts.appendChild(othersTitle);
-
-      objectNames = new Set(response.ids);
-
-      response.ids.forEach(function(id) {
-        if (instrumentNames.has(id) || reservedDocuments.has(id)) {
-          return;
-        }
-
-        var node = document.createElement('div');
-        node.setAttribute('id', id);
-        node.setAttribute('class', 'name');
-        node.innerText = id;
-
-        if (document.body.id === 'new') {
-          $(node).on(touch ? 'tap' : 'click', function() {
-            $('.selected').removeClass('selected');
-            $(this).addClass('selected');
-          });
-        } else if (document.body.id === 'opener') {
-          $(node).on(touch ? 'tap' : 'click', function() {
-            openObjectByName($(this).attr('id'));
-          });
-        }
-        otherShortcuts.appendChild(node);
-      });
-    });
-  }
-
-  var openObjectByName = function(text, basedOn) {
-    if (parent.document !== document) {
-      if (!isInEditor(this)) {
-        $(parent).bind('beforeunload', function(e) {
-          $(parent.document.body).find('.opener-iframe').remove();
-        });
-
-        parent.location.href = '/' + text;
-        return;
-      }
-      var params = getParams(parent.location.search);
-      var name = normalizeName(text);
-      if (params.active && params.active.indexOf(name) === -1) {
-        if (!Array.isArray(params.active)) {
-          params.active = [params.active];
-        }
-        params.active.push('object-' + name);
-      }
-      parent.history.pushState(
-        '',
-        'Webstrates',
-        parent.location.origin + parent.location.pathname + stringFromParams(params)
-      );
-      if ($(parent.document.body).find('[object=object-' + normalizeName(text) + ']').length) {
-        parent.document.styleSheets[0].insertRule(
-          '.editor-container[object=object-' + name + '] {display: block !important;}', 0
-        );
-        return;
-      }
-      // setVariable('tmp', text);
-      var elContainer = parent.document.createElement('div');
-      elContainer.setAttribute('class', 'editor-container');
-      elContainer.setAttribute('object', 'object-' + normalizeName(text));
-
-      var iframe = parent.document.createElement('iframe');
-      if (objectNames.has(text)) {
-        iframe.setAttribute('src', normalizeName(text));
-      } else {
-        if (basedOn) {
-          iframe.setAttribute(
-            'src',
-            'new?prototype=' + basedOn + '&id=' + text
-          );
-          $(document.body).append(iframe);
-        } else {
-          iframe = createObjectById(text);
-        }
-      }
-      iframe.setAttribute('id', 'object-' + normalizeName(text));
-      iframe.style.width = '200px';
-      // iframe.style.display = 'none';
-      $(elContainer).prepend(iframe);
-
-      var shortcut = parent.document.createElement('div');
-      shortcut.setAttribute('class', 'shortcut');
-      shortcut.setAttribute('object', 'object-' + normalizeName(text));
-      $(shortcut).text(normalizeName(text));
-      $(elContainer).prepend(shortcut);
-
-      $(parent.document.body).prepend(elContainer);
-
-      $(iframe).on('transcluded', function(e) {
-        var iFrameDoc = $(this.contentDocument);
-        if (!iFrameDoc.find('#info').length) {
-          var objectHelpers = $(document)
-            .find('#info')[0]
-            .cloneNode(true);
-          iFrameDoc[0].body.appendChild(objectHelpers);
-        }
-        iFrameDoc[0].body.setAttribute('id', normalizeName(text));
-        parent.window.editorCode(this);
-      });
-    }
-  };
-  // getObjectNames();
-  // $('.update').on('click', function(e) {
-  //   getObjectNames();
-  // });
-
-  var editorClicking = function() {
-    $('#editors').find('div').each(function(el) {
-      $(this).on('click', function() {
-        if (parent.document !== document) {
-          parent.location.href = $(this).text();
-        } else {
-          window.location.href = $(this).text();
-        }
-      });
-    });
-  };
-
-  var normalizeName = function(text) {
-    return text.replace('.txt', '').replace('.', '-');
-  };
-
-  editorClicking();
-  $('#open').on('click', function() {
-    var basedOnElements = $('.name.selected');
-    var basedOn;
-    if (basedOnElements.length) {
-      basedOn = $(basedOnElements[0]).text();
-    }
-    openObjectByName($('#name').text(), basedOn);
-  });
-  window.actOnElement = function(el, pos) {
-    if (!el || isInDocument(el, document)) {
-      return;
-    }
   };
 
   instrumentCode();

@@ -1,9 +1,14 @@
 /*jshint esversion: 6 */
 
 var copyCode = function(newEl, selection) {
+  if ($(newEl).hasClass('content')) {
+    return;
+  }
+  var elDoc = newEl.ownerDocument;
   var historyNode = document.createElement('div');
   var copy = null;
   if (newEl) {
+    log('copied', newEl.id);
     copy = newEl.cloneNode(true);
     if ($(copy).is('path')) {
       $(copy).attr('transform', 'translate(0, 0)');
@@ -12,7 +17,7 @@ var copyCode = function(newEl, selection) {
       copy.style.left = 0;
     }
     copy.id += '-';
-  } else if (selection) {
+  } else if (selection && selection.type === 'Range') {
     copy = elDoc.createElement('p');
     copySelection.textContent = newSelection.toString();
     copySelection.id = 'selection-';
@@ -42,6 +47,7 @@ var pasteCode = function(newEl, selection) {
   if (!toPaste) {
     return;
   }
+  log('pasted', toPaste.id);
   var copyToPaste = toPaste.cloneNode(true);
   recursiveChangeIds(copyToPaste, randomTimeString());
   $(copyToPaste).removeClass('selected');
@@ -53,10 +59,20 @@ var pasteCode = function(newEl, selection) {
 };
 
 var cutCode = function(newEl, selection) {
+  if ($(newEl).hasClass('content')) {
+    return;
+  }
   var historyNode = document.createElement('div');
   var copy = null;
   if (newEl) {
+    log('cut', newEl.id);
     copy = newEl;
+    if ($(copy).is('path')) {
+      $(copy).attr('transform', 'translate(0, 0)');
+    } else {
+      copy.style.top = 0;
+      copy.style.left = 0;
+    }
   } else {
     copy = document.createElement('p');
     copy.innerHTML = selection.toString();
@@ -69,10 +85,20 @@ var cutCode = function(newEl, selection) {
 };
 
 var deleteCode = function(newEl, selection) {
+  if ($(newEl).hasClass('content')) {
+    return;
+  }
   var historyNode = document.createElement('div');
   var copy = null;
   if (newEl) {
     copy = newEl;
+    log('deleted', newEl.id);
+    if ($(copy).is('path')) {
+      $(copy).attr('transform', 'translate(0, 0)');
+    } else {
+      copy.style.top = 0;
+      copy.style.left = 0;
+    }
   } else {
     copy = document.createElement('p');
     copy.innerHTML = selection.toString();
