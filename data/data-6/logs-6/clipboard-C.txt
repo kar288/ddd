@@ -1,0 +1,18 @@
+1470147427440: 	acted on	innerText
+1470147427541: 	sub-instrument	start	clipboard	true
+1470147427549: 	activate	clipboard
+1470147428394: 	acted on	delete
+1470147428433: 	sub-instrument	delete	clipboard	true
+1470147430621: 	deleted	shape-1470147413344
+1470147431474: 	acted on	innerText
+1470147431558: 	sub-instrument	stop	clipboard	false
+1470147431563: 	deactivate	clipboard
+1470147826040: 	acted on	innerText
+1470147826092: 	sub-instrument	start	clipboard	true
+1470147826101: 	activate	clipboard
+1470147826595: 	acted on	delete
+1470147826639: 	sub-instrument	delete	clipboard	true
+1470147829014: 	deleted	shape-1470147819851
+1470147829169: 	acted on	innerText
+1470147829226: 	sub-instrument	stop	clipboard	false
+1470147829235: 	deactivate	clipboard

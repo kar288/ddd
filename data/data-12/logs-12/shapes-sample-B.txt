@@ -1,0 +1,52 @@
+1470238957859: 	acted on	sample
+1470238966934: 	acted on	innerText
+1470238967034: 	sub-instrument	start	shapes	true
+1470238967035: 	activate	shapes
+1470238967551: 	acted on	circle
+1470238967642: 	sub-instrument	circle	shapes	true
+1470238968270: 	shape started	{"x":1087,"y":185}
+1470238968273: 	shape continued	10	circle
+1470238968317: 	shape continued	12	circle
+1470238968334: 	shape continued	21	circle
+1470238968341: 	shape continued	26	circle
+1470238968350: 	shape continued	31	circle
+1470238968359: 	shape continued	37	circle
+1470238968367: 	shape continued	42	circle
+1470238968374: 	shape continued	47	circle
+1470238968383: 	shape continued	54	circle
+1470238968391: 	shape continued	60	circle
+1470238968399: 	shape continued	66	circle
+1470238968408: 	shape continued	72	circle
+1470238968416: 	shape continued	79	circle
+1470238968425: 	shape continued	86	circle
+1470238968433: 	shape continued	93	circle
+1470238968441: 	shape continued	99	circle
+1470238968449: 	shape continued	106	circle
+1470238968458: 	shape continued	113	circle
+1470238968466: 	shape continued	119	circle
+1470238968474: 	shape continued	125	circle
+1470238968483: 	shape continued	131	circle
+1470238968491: 	shape continued	137	circle
+1470238968499: 	shape continued	144	circle
+1470238968508: 	shape continued	150	circle
+1470238968516: 	shape continued	157	circle
+1470238968524: 	shape continued	163	circle
+1470238968533: 	shape continued	168	circle
+1470238968541: 	shape continued	174	circle
+1470238968549: 	shape continued	179	circle
+1470238968558: 	shape continued	184	circle
+1470238968566: 	shape continued	189	circle
+1470238968574: 	shape continued	194	circle
+1470238968583: 	shape continued	198	circle
+1470238968591: 	shape continued	203	circle
+1470238968599: 	shape continued	209	circle
+1470238968608: 	shape continued	214	circle
+1470238968616: 	shape continued	220	circle
+1470238968624: 	shape continued	227	circle
+1470238968633: 	shape continued	236	circle
+1470238968641: 	shape continued	245	circle
+1470238968649: 	shape continued	255	circle
+1470238968659: 	shape continued	265	circle
+1470238969626: 	acted on	innerText
+1470238969709: 	sub-instrument	stop	shapes	false
+1470238969710: 	deactivate	shapes

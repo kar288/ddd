@@ -1,0 +1,35 @@
+1470122799712: 	acted on	colorPicker
+1470127103515: 	acted on	innerText
+1470127103601: 	sub-instrument	start	colorPicker	true
+1470127103608: 	activate	colorPicker
+1470127105933: 	acted on	#00CC33
+1470127106067: 	sub-instrument	#00CC33	colorPicker	true
+1470127108153: 	changed color to	rgb(250, 0, 250)
+1470127108592: 	changed color to	rgb(250, 0, 250)
+1470127110055: 	acted on	#0066CC
+1470127110734: 	acted on	#0000CC
+1470127110807: 	sub-instrument	#0000CC	colorPicker	true
+1470127113102: 	changed color to	rgb(214, 255, 214)
+1470127113428: 	acted on	innerText
+1470127113519: 	sub-instrument	stop	colorPicker	false
+1470127113538: 	deactivate	colorPicker
+1470127125402: 	acted on	innerText
+1470127125476: 	activate	colorPicker
+1470127125469: 	sub-instrument	start	colorPicker	true
+1470127126276: 	acted on	#0066FF
+1470127126355: 	sub-instrument	#0066FF	colorPicker	true
+1470127130972: 	changed color to	rgb(255, 255, 78)
+1470127131275: 	acted on	innerText
+1470127131377: 	sub-instrument	stop	colorPicker	false
+1470127131383: 	deactivate	colorPicker
+1470127228777: 	acted on	innerText
+1470127228875: 	sub-instrument	start	colorPicker	true
+1470127228891: 	activate	colorPicker
+1470127229888: 	acted on	#00FF00
+1470127230006: 	sub-instrument	#00FF00	colorPicker	true
+1470127230308: 	acted on	#00FF00
+1470127230412: 	sub-instrument	#00FF00	colorPicker	true
+1470127232718: 	changed color to	rgb(0, 0, 0)
+1470127234164: 	acted on	innerText
+1470127234257: 	sub-instrument	stop	colorPicker	false
+1470127234263: 	deactivate	colorPicker

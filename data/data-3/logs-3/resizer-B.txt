@@ -1,0 +1,77 @@
+1470125593273: 	acted on	less-diagonal
+1470125593406: 	sub-instrument	less-diagonal	resizer	false
+1470125593780: 	acted on	less-diagonal
+1470125593887: 	sub-instrument	less-diagonal	resizer	false
+1470125595399: 	acted on	less-diagonal
+1470125595487: 	sub-instrument	less-diagonal	resizer	false
+1470125595572: 	acted on	less-diagonal
+1470125595663: 	sub-instrument	less-diagonal	resizer	false
+1470125595754: 	acted on	less-diagonal
+1470125595838: 	sub-instrument	less-diagonal	resizer	false
+1470125595930: 	acted on	less-diagonal
+1470125596012: 	sub-instrument	less-diagonal	resizer	false
+1470125596114: 	acted on	less-diagonal
+1470125596187: 	sub-instrument	less-diagonal	resizer	false
+1470125597163: 	acted on	innerText
+1470125597288: 	sub-instrument	start	resizer	true
+1470125597289: 	activate	resizer
+1470125598058: 	acted on	less-diagonal
+1470125598147: 	sub-instrument	less-diagonal	resizer	true
+1470125598239: 	acted on	less-diagonal
+1470125598339: 	sub-instrument	less-diagonal	resizer	true
+1470125598422: 	acted on	less-diagonal
+1470125598514: 	sub-instrument	less-diagonal	resizer	true
+1470125598614: 	acted on	less-diagonal
+1470125598697: 	sub-instrument	less-diagonal	resizer	true
+1470125598788: 	acted on	less-diagonal
+1470125598880: 	sub-instrument	less-diagonal	resizer	true
+1470125598939: 	acted on	less-diagonal
+1470125599031: 	sub-instrument	less-diagonal	resizer	true
+1470125602249: 	resizer	less-diagonal	sample
+1470125603221: 	resizer	less-diagonal	sample
+1470125606542: 	resizer	less-diagonal	sample
+1470125610548: 	acted on	innerText
+1470125610697: 	sub-instrument	stop	resizer	false
+1470125610698: 	deactivate	resizer
+1470125812461: 	acted on	innerText
+1470125812702: 	sub-instrument	start	resizer	true
+1470125812703: 	activate	resizer
+1470125813285: 	acted on	less-diagonal
+1470125813485: 	sub-instrument	less-diagonal	resizer	true
+1470125813910: 	acted on	less-diagonal
+1470125814126: 	sub-instrument	less-diagonal	resizer	true
+1470125815329: 	resizer	less-diagonal	sample
+1470125820771: 	resizer	less-diagonal	image-3
+1470125823836: 	acted on	innerText
+1470125824002: 	sub-instrument	stop	resizer	false
+1470125824003: 	deactivate	resizer
+1470125891476: 	acted on	innerText
+1470125891634: 	sub-instrument	start	resizer	true
+1470125891635: 	activate	resizer
+1470125892153: 	acted on	less-diagonal
+1470125892242: 	sub-instrument	less-diagonal	resizer	true
+1470125892408: 	acted on	less-diagonal
+1470125892500: 	sub-instrument	less-diagonal	resizer	true
+1470125892608: 	acted on	less-diagonal
+1470125892700: 	sub-instrument	less-diagonal	resizer	true
+1470125892783: 	acted on	less-diagonal
+1470125892866: 	sub-instrument	less-diagonal	resizer	true
+1470125892959: 	acted on	less-diagonal
+1470125893033: 	sub-instrument	less-diagonal	resizer	true
+1470125893117: 	acted on	less-diagonal
+1470125893200: 	sub-instrument	less-diagonal	resizer	true
+1470125893316: 	acted on	less-diagonal
+1470125893408: 	sub-instrument	less-diagonal	resizer	true
+1470125893509: 	acted on	less-diagonal
+1470125893591: 	sub-instrument	less-diagonal	resizer	true
+1470125893685: 	acted on	less-diagonal
+1470125893758: 	sub-instrument	less-diagonal	resizer	true
+1470125893850: 	acted on	less-diagonal
+1470125893941: 	sub-instrument	less-diagonal	resizer	true
+1470125894033: 	acted on	less-diagonal
+1470125894109: 	sub-instrument	less-diagonal	resizer	true
+1470125894191: 	acted on	less-diagonal
+1470125894266: 	sub-instrument	less-diagonal	resizer	true
+1470125894717: 	acted on	innerText
+1470125894833: 	sub-instrument	stop	resizer	false
+1470125894834: 	deactivate	resizer

@@ -1,0 +1,22 @@
+1470306821902: 	acted on	menu
+1470306822900: 	acted on	innerText
+1470306822971: 	sub-instrument	start	resizer	true
+1470306822990: 	activate	resizer
+1470306823688: 	acted on	less-diagonal
+1470306823739: 	sub-instrument	less-diagonal	resizer	true
+1470306827577: 	resizer	less-diagonal	sample
+1470306831516: 	resizer	less-diagonal	sample
+1470306831740: 	resizer	less-diagonal	sample
+1470306831976: 	resizer	less-diagonal	sample
+1470306832091: 	resizer	less-diagonal	sample
+1470306832312: 	resizer	less-diagonal	sample
+1470306832506: 	resizer	less-diagonal	sample
+1470306832668: 	resizer	less-diagonal	sample
+1470306832870: 	resizer	less-diagonal	sample
+1470306833042: 	resizer	less-diagonal	sample
+1470306831447: 	acted on	innerText
+1470306831507: 	sub-instrument	stop	resizer	false
+1470306831522: 	deactivate	resizer
+1470307193399: 	acted on	innerText
+1470307193435: 	sub-instrument	start	resizer	true
+1470307193446: 	activate	resizer

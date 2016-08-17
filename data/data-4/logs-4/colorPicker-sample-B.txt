@@ -1,0 +1,95 @@
+1470133642448: 	acted on	innerText
+1470133642507: 	sub-instrument	start	colorPicker	true
+1470133642508: 	activate	colorPicker
+1470133643615: 	acted on	#00CC33
+1470133643715: 	sub-instrument	#00CC33	colorPicker	true
+1470133644962: 	changed color to	rgb(250, 0, 250)
+1470133645418: 	changed color to	rgb(250, 0, 250)
+1470133646756: 	acted on	menu
+1470133654132: 	acted on	#0066CC
+1470133654264: 	sub-instrument	#0066CC	colorPicker	true
+1470133655292: 	changed color to	rgb(88, 255, 88)
+1470133656264: 	acted on	innerText
+1470133656373: 	sub-instrument	stop	colorPicker	false
+1470133656374: 	deactivate	colorPicker
+1470133679374: 	acted on	innerText
+1470133679473: 	sub-instrument	start	colorPicker	true
+1470133679474: 	activate	colorPicker
+1470133680209: 	acted on	#0033FF
+1470133680365: 	sub-instrument	#0033FF	colorPicker	true
+1470133681943: 	changed color to	rgb(255, 255, 141)
+1470133685614: 	acted on	innerText
+1470133685755: 	sub-instrument	stop	colorPicker	false
+1470133685756: 	deactivate	colorPicker
+1470133791481: 	acted on	innerText
+1470133791613: 	sub-instrument	start	colorPicker	true
+1470133791614: 	activate	colorPicker
+1470133792587: 	acted on	#00CC66
+1470133792745: 	sub-instrument	#00CC66	colorPicker	true
+1470133794422: 	changed color to	rgb(0, 0, 240)
+1470133794512: 	changed color to	rgb(0, 0, 240)
+1470133794519: 	changed color to	rgb(0, 0, 240)
+1470133794528: 	changed color to	rgb(0, 0, 240)
+1470133794537: 	changed color to	rgb(0, 0, 240)
+1470133794544: 	changed color to	rgb(0, 0, 240)
+1470133794553: 	changed color to	rgb(0, 0, 240)
+1470133794566: 	changed color to	rgb(0, 0, 240)
+1470133794575: 	changed color to	rgb(0, 0, 240)
+1470133794583: 	changed color to	rgb(0, 0, 240)
+1470133794589: 	changed color to	rgb(0, 0, 240)
+1470133794596: 	changed color to	rgb(0, 0, 240)
+1470133794604: 	changed color to	rgb(0, 0, 240)
+1470133794612: 	changed color to	rgb(0, 0, 240)
+1470133794619: 	changed color to	rgb(0, 0, 240)
+1470133794629: 	changed color to	rgb(0, 0, 240)
+1470133794637: 	changed color to	rgb(0, 0, 240)
+1470133794644: 	changed color to	rgb(0, 0, 240)
+1470133794654: 	changed color to	rgb(0, 0, 240)
+1470133794687: 	changed color to	rgb(0, 0, 240)
+1470133794939: 	changed color to	rgb(0, 0, 240)
+1470133802872: 	acted on	#000000
+1470133803046: 	sub-instrument	#000000	colorPicker	true
+1470133803598: 	changed color to	rgba(0, 0, 0, 0)
+1470133806579: 	acted on	#00CC66
+1470133806713: 	sub-instrument	#00CC66	colorPicker	true
+1470133809213: 	acted on	menu
+1470133809771: 	acted on	innerText
+1470133809894: 	sub-instrument	stop	colorPicker	false
+1470133809896: 	deactivate	colorPicker
+1470133811712: 	acted on	menu
+1470133812595: 	acted on	innerText
+1470133812721: 	sub-instrument	start	colorPicker	true
+1470133812722: 	activate	colorPicker
+1470133814293: 	changed color to	rgb(0, 0, 240)
+1470133816118: 	changed color to	rgb(0, 0, 240)
+1470133816220: 	changed color to	rgb(0, 0, 240)
+1470133816227: 	changed color to	rgb(0, 0, 240)
+1470133816236: 	changed color to	rgb(0, 0, 240)
+1470133816244: 	changed color to	rgb(0, 0, 240)
+1470133816252: 	changed color to	rgb(0, 0, 240)
+1470133816261: 	changed color to	rgb(0, 0, 240)
+1470133816269: 	changed color to	rgb(0, 0, 240)
+1470133816277: 	changed color to	rgb(0, 0, 240)
+1470133816287: 	changed color to	rgb(0, 0, 240)
+1470133816294: 	changed color to	rgb(0, 0, 240)
+1470133816303: 	changed color to	rgb(0, 0, 240)
+1470133816311: 	changed color to	rgb(0, 0, 240)
+1470133816319: 	changed color to	rgb(0, 0, 240)
+1470133816327: 	changed color to	rgb(0, 0, 240)
+1470133816336: 	changed color to	rgb(0, 0, 240)
+1470133816343: 	changed color to	rgb(0, 0, 240)
+1470133816351: 	changed color to	rgb(0, 0, 240)
+1470133816361: 	changed color to	rgb(0, 0, 240)
+1470133816369: 	changed color to	rgb(0, 0, 240)
+1470133816377: 	changed color to	rgb(0, 0, 240)
+1470133816386: 	changed color to	rgb(0, 0, 240)
+1470133816403: 	changed color to	rgb(0, 0, 240)
+1470133816428: 	changed color to	rgb(0, 0, 240)
+1470133816676: 	changed color to	rgb(0, 0, 240)
+1470133816718: 	changed color to	rgb(0, 0, 240)
+1470133820305: 	acted on	#000000
+1470133820429: 	sub-instrument	#000000	colorPicker	true
+1470133820997: 	changed color to	rgba(0, 0, 0, 0)
+1470133832079: 	acted on	innerText
+1470133832195: 	sub-instrument	stop	colorPicker	false
+1470133832196: 	deactivate	colorPicker

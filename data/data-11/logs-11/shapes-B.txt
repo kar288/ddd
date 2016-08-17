@@ -1,0 +1,58 @@
+1470232856975: 	acted on	innerText
+1470232970021: 	acted on	rectangle
+1470232970091: 	sub-instrument	rectangle	shapes	false
+1470232970164: 	acted on	rectangle
+1470232970238: 	sub-instrument	rectangle	shapes	false
+1470232970305: 	acted on	rectangle
+1470232970373: 	sub-instrument	rectangle	shapes	false
+1470232970431: 	acted on	rectangle
+1470232970497: 	sub-instrument	rectangle	shapes	false
+1470232970548: 	acted on	rectangle
+1470232970623: 	sub-instrument	rectangle	shapes	false
+1470232970689: 	acted on	rectangle
+1470232970748: 	sub-instrument	rectangle	shapes	false
+1470232970797: 	acted on	rectangle
+1470232970881: 	sub-instrument	rectangle	shapes	false
+1470232971339: 	acted on	circle
+1470232971406: 	sub-instrument	circle	shapes	false
+1470232971474: 	acted on	circle
+1470232971555: 	sub-instrument	circle	shapes	false
+1470232971598: 	acted on	circle
+1470232971680: 	sub-instrument	circle	shapes	false
+1470232972089: 	acted on	innerText
+1470232972165: 	sub-instrument	start	shapes	true
+1470232972166: 	activate	shapes
+1470232972480: 	acted on	circle
+1470232972547: 	sub-instrument	circle	shapes	true
+1470232972623: 	acted on	circle
+1470232972680: 	sub-instrument	circle	shapes	true
+1470232972739: 	acted on	circle
+1470232972814: 	sub-instrument	circle	shapes	true
+1470232972873: 	acted on	circle
+1470232972948: 	sub-instrument	circle	shapes	true
+1470232972990: 	acted on	circle
+1470232973064: 	sub-instrument	circle	shapes	true
+1470232976341: 	acted on	innerText
+1470232976448: 	sub-instrument	stop	shapes	false
+1470232976449: 	deactivate	shapes
+1470232980431: 	acted on	sample
+1470232983941: 	acted on	shapes
+1470232984089: 	acted on	sample
+1470232984223: 	acted on	sample
+1470232984339: 	acted on	sample
+1470232984456: 	acted on	sample
+1470232984589: 	acted on	sample
+1470232984714: 	acted on	sample
+1470232984848: 	acted on	sample
+1470232984981: 	acted on	sample
+1470232985097: 	acted on	sample
+1470232985222: 	acted on	sample
+1470232985356: 	acted on	sample
+1470232985489: 	acted on	sample
+1470232985598: 	acted on	sample
+1470232986215: 	acted on	innerText
+1470232986306: 	sub-instrument	start	shapes	true
+1470232986307: 	activate	shapes
+1470232993584: 	acted on	innerText
+1470232993773: 	sub-instrument	stop	shapes	false
+1470232993774: 	deactivate	shapes

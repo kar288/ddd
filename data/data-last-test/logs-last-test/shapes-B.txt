@@ -1,0 +1,23 @@
+1469995298845: 	acted on	sample
+1469995611265: 	acted on	sample
+1469995619182: 	acted on	innerText
+1469995619290: 	sub-instrument	start	shapes	true
+1469995619294: 	activate	shapes
+1469995620113: 	acted on	circle
+1469995620218: 	sub-instrument	circle	shapes	true
+1469995620722: 	shape started	{"x":482.5,"y":143}
+1469995620730: 	shape continued	10	circle
+1469995620732: 	shape continued	10	circle
+1469995620848: 	shape continued	10	circle
+1469995620858: 	shape continued	10	circle
+1469995620875: 	shape continued	10	circle
+1469995620891: 	shape continued	13	circle
+1469995620909: 	shape continued	18	circle
+1469995620926: 	shape continued	24	circle
+1469995620943: 	shape continued	27	circle
+1469995620960: 	shape continued	33	circle
+1469995620977: 	shape continued	39	circle
+1469995622991: 	acted on	innerText
+1469995623005: 	sub-instrument	stop	shapes	false
+1469995623008: 	deactivate	shapes
+1469995626025: 	acted on	sample

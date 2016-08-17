@@ -1,0 +1,85 @@
+1469987911416: 	acted on	innerText
+1469987911435: 	sub-instrument	start	mover	true
+1469987911443: 	activate	mover
+1469987912120: 	start moving	image-5	from	{"x":53,"y":21}
+1469987912127: 	moved	image-5	to	{"x":149,"y":108}
+1469987912131: 	moved	image-5	to	{"x":149,"y":108}
+1469987912364: 	moved	image-5	to	{"x":148,"y":108}
+1469987912367: 	moved	image-5	to	{"x":148,"y":108}
+1469987912378: 	moved	image-5	to	{"x":145,"y":108}
+1469987912380: 	moved	image-5	to	{"x":145,"y":108}
+1469987912397: 	moved	image-5	to	{"x":143,"y":108}
+1469987912400: 	moved	image-5	to	{"x":143,"y":108}
+1469987912412: 	moved	image-5	to	{"x":142,"y":108}
+1469987912414: 	moved	image-5	to	{"x":142,"y":108}
+1469987912432: 	moved	image-5	to	{"x":141,"y":108}
+1469987912447: 	moved	image-5	to	{"x":141,"y":107}
+1469987912451: 	moved	image-5	to	{"x":141,"y":107}
+1469987912464: 	moved	image-5	to	{"x":140,"y":107}
+1469987912466: 	moved	image-5	to	{"x":140,"y":107}
+1469987914146: 	acted on	innerText
+1469987914155: 	sub-instrument	stop	mover	false
+1469987914158: 	deactivate	mover
+1469994962648: 	acted on	innerText
+1469994962662: 	sub-instrument	start	mover	true
+1469994962667: 	activate	mover
+1469994963858: 	start moving	path-1469994956183	from	{"x":972,"y":211}
+1469994963862: 	moved	path-1469994956183	to	{"x":972,"y":211}
+1469994963865: 	moved	path-1469994956183	to	{"x":972,"y":211}
+1469994963971: 	moved	path-1469994956183	to	{"x":971,"y":211}
+1469994963974: 	moved	path-1469994956183	to	{"x":971,"y":211}
+1469994963985: 	moved	path-1469994956183	to	{"x":955,"y":212}
+1469994963988: 	moved	path-1469994956183	to	{"x":955,"y":212}
+1469994964001: 	moved	path-1469994956183	to	{"x":929,"y":224}
+1469994964004: 	moved	path-1469994956183	to	{"x":929,"y":224}
+1469994964019: 	moved	path-1469994956183	to	{"x":882,"y":246}
+1469994964022: 	moved	path-1469994956183	to	{"x":882,"y":246}
+1469994964035: 	moved	path-1469994956183	to	{"x":818,"y":267}
+1469994964039: 	moved	path-1469994956183	to	{"x":818,"y":267}
+1469994964052: 	moved	path-1469994956183	to	{"x":733,"y":279}
+1469994964056: 	moved	path-1469994956183	to	{"x":733,"y":279}
+1469994964070: 	moved	path-1469994956183	to	{"x":627,"y":282}
+1469994964074: 	moved	path-1469994956183	to	{"x":627,"y":282}
+1469994964089: 	moved	path-1469994956183	to	{"x":559,"y":282}
+1469994964092: 	moved	path-1469994956183	to	{"x":559,"y":282}
+1469994964103: 	moved	path-1469994956183	to	{"x":537,"y":282}
+1469994964106: 	moved	path-1469994956183	to	{"x":537,"y":282}
+1469994964119: 	moved	path-1469994956183	to	{"x":500,"y":282}
+1469994964122: 	moved	path-1469994956183	to	{"x":500,"y":282}
+1469994964136: 	moved	path-1469994956183	to	{"x":478,"y":282}
+1469994964140: 	moved	path-1469994956183	to	{"x":478,"y":282}
+1469994964153: 	moved	path-1469994956183	to	{"x":464,"y":275}
+1469994964157: 	moved	path-1469994956183	to	{"x":464,"y":275}
+1469994964171: 	moved	path-1469994956183	to	{"x":455,"y":264}
+1469994964175: 	moved	path-1469994956183	to	{"x":455,"y":264}
+1469994964187: 	moved	path-1469994956183	to	{"x":449,"y":257}
+1469994964191: 	moved	path-1469994956183	to	{"x":449,"y":257}
+1469994964203: 	moved	path-1469994956183	to	{"x":443,"y":250}
+1469994964207: 	moved	path-1469994956183	to	{"x":443,"y":250}
+1469994964221: 	moved	path-1469994956183	to	{"x":440,"y":246}
+1469994964225: 	moved	path-1469994956183	to	{"x":440,"y":246}
+1469994965594: 	acted on	innerText
+1469994965602: 	sub-instrument	stop	mover	false
+1469994965606: 	deactivate	mover
+1469995532652: 	acted on	innerText
+1469995532661: 	sub-instrument	start	mover	true
+1469995532666: 	activate	mover
+1469995533339: 	start moving	image-5	from	{"x":67,"y":112}
+1469995533342: 	moved	image-5	to	{"x":154,"y":198}
+1469995533344: 	moved	image-5	to	{"x":154,"y":198}
+1469995533440: 	moved	image-5	to	{"x":155,"y":198}
+1469995533442: 	moved	image-5	to	{"x":155,"y":198}
+1469995533456: 	moved	image-5	to	{"x":158,"y":198}
+1469995533458: 	moved	image-5	to	{"x":158,"y":198}
+1469995533473: 	moved	image-5	to	{"x":163,"y":198}
+1469995533474: 	moved	image-5	to	{"x":163,"y":198}
+1469995533490: 	moved	image-5	to	{"x":167,"y":198}
+1469995533491: 	moved	image-5	to	{"x":167,"y":198}
+1469995533506: 	moved	image-5	to	{"x":170,"y":198}
+1469995533508: 	moved	image-5	to	{"x":170,"y":198}
+1469995533523: 	moved	image-5	to	{"x":173,"y":198}
+1469995533542: 	moved	image-5	to	{"x":174,"y":198}
+1469995533544: 	moved	image-5	to	{"x":174,"y":198}
+1469995534669: 	acted on	innerText
+1469995534677: 	sub-instrument	stop	mover	false
+1469995534680: 	deactivate	mover

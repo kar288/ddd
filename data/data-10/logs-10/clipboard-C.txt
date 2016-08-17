@@ -1,0 +1,54 @@
+1470226774218: 	acted on	innerText
+1470226774343: 	sub-instrument	start	clipboard	true
+1470226774360: 	activate	clipboard
+1470226775390: 	acted on	copy
+1470226775486: 	sub-instrument	copy	clipboard	true
+1470226780874: 	copied	image-42
+1470226778144: 	acted on	paste
+1470226778185: 	sub-instrument	paste	clipboard	true
+1470226783749: 	pasted	image-42-
+1470226785641: 	pasted	image-42-
+1470226783037: 	acted on	innerText
+1470226783078: 	sub-instrument	stop	clipboard	false
+1470226783090: 	deactivate	clipboard
+1470226812025: 	acted on	image-42-
+1470226812736: 	acted on	innerText
+1470226812813: 	sub-instrument	start	clipboard	true
+1470226812829: 	activate	clipboard
+1470226813424: 	acted on	image-42-
+1470226814243: 	acted on	paste
+1470226814307: 	sub-instrument	paste	clipboard	true
+1470226820342: 	pasted	image-42-
+1470226822815: 	pasted	image-42-
+1470226819175: 	acted on	innerText
+1470226819253: 	sub-instrument	stop	clipboard	false
+1470226819281: 	deactivate	clipboard
+1470226827106: 	acted on	innerText
+1470226827196: 	sub-instrument	start	clipboard	true
+1470226827223: 	activate	clipboard
+1470226829078: 	acted on	delete
+1470226829159: 	sub-instrument	delete	clipboard	true
+1470226834649: 	deleted	image-42-1470226822816
+1470226831488: 	acted on	innerText
+1470226831570: 	sub-instrument	stop	clipboard	false
+1470226831586: 	deactivate	clipboard
+1470226934905: 	acted on	menu
+1470226937973: 	acted on	menu
+1470226938158: 	switched instrument	clipboard	to	shapes-C
+1470227039193: 	acted on	copy
+1470227039232: 	sub-instrument	copy	clipboard	false
+1470227043321: 	acted on	innerText
+1470227043368: 	sub-instrument	start	clipboard	true
+1470227043381: 	activate	clipboard
+1470227045154: 	acted on	copy
+1470227045288: 	sub-instrument	copy	clipboard	true
+1470227050788: 	copied	image-52
+1470227048251: 	acted on	paste
+1470227048321: 	sub-instrument	paste	clipboard	true
+1470227054089: 	pasted	image-52-
+1470227056145: 	pasted	image-52-
+1470227053503: 	acted on	menu
+1470227054615: 	acted on	menu
+1470227055234: 	acted on	innerText
+1470227055341: 	sub-instrument	stop	clipboard	false
+1470227055368: 	deactivate	clipboard

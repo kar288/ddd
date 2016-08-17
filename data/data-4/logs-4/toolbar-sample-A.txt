@@ -1,0 +1,2607 @@
+1470129626872: 
+1470129627444: 	selected	null
+1470131261449: 
+1470131262038: 	selected	null
+1470131269650: 	acted on	image-11
+1470131269653: 	selected	image-11
+1470131270041: 	acted on	image-11
+1470131270044: 	selected	image-11
+1470131270304: 	moved	image-11	to	{"x":644,"y":211}
+1470131270342: 	moved	image-11	to	{"x":645,"y":211}
+1470131270364: 	moved	image-11	to	{"x":645,"y":212}
+1470131270689: 	acted on	image-11
+1470131270691: 	selected	image-11
+1470131270905: 	start moving	image-11	from	{"x":144,"y":121}
+1470131270912: 	moved	image-11	to	{"x":652,"y":231}
+1470131270921: 	moved	image-11	to	{"x":653,"y":231}
+1470131270937: 	moved	image-11	to	{"x":653,"y":232}
+1470131270945: 	moved	image-11	to	{"x":654,"y":232}
+1470131270973: 	moved	image-11	to	{"x":655,"y":233}
+1470131270989: 	moved	image-11	to	{"x":656,"y":233}
+1470131270997: 	moved	image-11	to	{"x":656,"y":234}
+1470131271016: 	moved	image-11	to	{"x":657,"y":234}
+1470131271031: 	moved	image-11	to	{"x":658,"y":235}
+1470131271056: 	moved	image-11	to	{"x":659,"y":236}
+1470131271073: 	moved	image-11	to	{"x":660,"y":236}
+1470131271081: 	moved	image-11	to	{"x":660,"y":237}
+1470131271098: 	moved	image-11	to	{"x":661,"y":238}
+1470131271115: 	moved	image-11	to	{"x":662,"y":238}
+1470131271124: 	moved	image-11	to	{"x":662,"y":239}
+1470131271132: 	moved	image-11	to	{"x":663,"y":239}
+1470131271147: 	moved	image-11	to	{"x":664,"y":240}
+1470131271164: 	moved	image-11	to	{"x":665,"y":240}
+1470131271172: 	moved	image-11	to	{"x":665,"y":241}
+1470131271180: 	moved	image-11	to	{"x":666,"y":241}
+1470131271196: 	moved	image-11	to	{"x":667,"y":241}
+1470131271222: 	moved	image-11	to	{"x":668,"y":241}
+1470131271230: 	moved	image-11	to	{"x":668,"y":242}
+1470135791848: 	acted on	content
+1470135791850: 	selected	null
+1470135929362: 	acted on	image-11
+1470135929365: 	selected	image-11
+1470135932412: 	acted on	image-11
+1470135932414: 	selected	image-11
+1470135932478: 	moved	image-11	to	{"x":587,"y":196}
+1470135932469: 	moved	image-11	to	{"x":591,"y":191}
+1470135932460: 	moved	image-11	to	{"x":596,"y":182}
+1470135932454: 	start moving	image-11	from	{"x":76,"y":56}
+1470135932486: 	moved	image-11	to	{"x":583,"y":202}
+1470135932494: 	moved	image-11	to	{"x":575,"y":214}
+1470135932503: 	moved	image-11	to	{"x":569,"y":222}
+1470135932511: 	moved	image-11	to	{"x":565,"y":228}
+1470135932520: 	moved	image-11	to	{"x":559,"y":239}
+1470135932528: 	moved	image-11	to	{"x":554,"y":246}
+1470135932535: 	moved	image-11	to	{"x":548,"y":256}
+1470135932545: 	moved	image-11	to	{"x":543,"y":266}
+1470135932552: 	moved	image-11	to	{"x":538,"y":276}
+1470135932561: 	moved	image-11	to	{"x":534,"y":285}
+1470135932569: 	moved	image-11	to	{"x":529,"y":295}
+1470135932577: 	moved	image-11	to	{"x":525,"y":305}
+1470135932586: 	moved	image-11	to	{"x":521,"y":315}
+1470135932594: 	moved	image-11	to	{"x":517,"y":324}
+1470135932602: 	moved	image-11	to	{"x":514,"y":335}
+1470135932611: 	moved	image-11	to	{"x":511,"y":345}
+1470135932619: 	moved	image-11	to	{"x":508,"y":353}
+1470135932627: 	moved	image-11	to	{"x":507,"y":361}
+1470135932636: 	moved	image-11	to	{"x":505,"y":371}
+1470135932644: 	moved	image-11	to	{"x":504,"y":376}
+1470135932652: 	moved	image-11	to	{"x":502,"y":385}
+1470135932661: 	moved	image-11	to	{"x":502,"y":392}
+1470135932670: 	moved	image-11	to	{"x":501,"y":399}
+1470135932677: 	moved	image-11	to	{"x":501,"y":406}
+1470135932685: 	moved	image-11	to	{"x":501,"y":412}
+1470135932694: 	moved	image-11	to	{"x":503,"y":417}
+1470135932702: 	moved	image-11	to	{"x":503,"y":420}
+1470135932710: 	moved	image-11	to	{"x":505,"y":423}
+1470135932720: 	moved	image-11	to	{"x":507,"y":426}
+1470135932727: 	moved	image-11	to	{"x":509,"y":429}
+1470135932736: 	moved	image-11	to	{"x":512,"y":430}
+1470135932746: 	moved	image-11	to	{"x":517,"y":431}
+1470135932753: 	moved	image-11	to	{"x":521,"y":431}
+1470135932761: 	moved	image-11	to	{"x":525,"y":431}
+1470135932769: 	moved	image-11	to	{"x":530,"y":430}
+1470135932778: 	moved	image-11	to	{"x":537,"y":428}
+1470135932785: 	moved	image-11	to	{"x":544,"y":424}
+1470135932795: 	moved	image-11	to	{"x":549,"y":420}
+1470135932802: 	moved	image-11	to	{"x":557,"y":415}
+1470135932811: 	moved	image-11	to	{"x":566,"y":407}
+1470135932818: 	moved	image-11	to	{"x":575,"y":399}
+1470135932827: 	moved	image-11	to	{"x":581,"y":394}
+1470135932835: 	moved	image-11	to	{"x":592,"y":383}
+1470135932844: 	moved	image-11	to	{"x":601,"y":376}
+1470135932852: 	moved	image-11	to	{"x":611,"y":366}
+1470135932860: 	moved	image-11	to	{"x":621,"y":355}
+1470135932869: 	moved	image-11	to	{"x":630,"y":346}
+1470135932878: 	moved	image-11	to	{"x":642,"y":336}
+1470135932886: 	moved	image-11	to	{"x":653,"y":325}
+1470135932894: 	moved	image-11	to	{"x":665,"y":314}
+1470135932902: 	moved	image-11	to	{"x":677,"y":305}
+1470135932910: 	moved	image-11	to	{"x":689,"y":295}
+1470135932919: 	moved	image-11	to	{"x":702,"y":285}
+1470135932927: 	moved	image-11	to	{"x":715,"y":274}
+1470135932935: 	moved	image-11	to	{"x":729,"y":266}
+1470135932945: 	moved	image-11	to	{"x":743,"y":258}
+1470135932952: 	moved	image-11	to	{"x":757,"y":250}
+1470135932961: 	moved	image-11	to	{"x":770,"y":244}
+1470135932969: 	moved	image-11	to	{"x":783,"y":238}
+1470135932977: 	moved	image-11	to	{"x":795,"y":234}
+1470135932987: 	moved	image-11	to	{"x":808,"y":230}
+1470135932994: 	moved	image-11	to	{"x":819,"y":227}
+1470135933002: 	moved	image-11	to	{"x":828,"y":225}
+1470135933010: 	moved	image-11	to	{"x":836,"y":224}
+1470135933019: 	moved	image-11	to	{"x":844,"y":223}
+1470135933027: 	moved	image-11	to	{"x":853,"y":223}
+1470135933035: 	moved	image-11	to	{"x":861,"y":224}
+1470135933044: 	moved	image-11	to	{"x":867,"y":225}
+1470135933053: 	moved	image-11	to	{"x":873,"y":228}
+1470135933060: 	moved	image-11	to	{"x":878,"y":230}
+1470135933069: 	moved	image-11	to	{"x":882,"y":234}
+1470135933078: 	moved	image-11	to	{"x":885,"y":239}
+1470135933085: 	moved	image-11	to	{"x":887,"y":244}
+1470135933094: 	moved	image-11	to	{"x":887,"y":250}
+1470135933102: 	moved	image-11	to	{"x":886,"y":257}
+1470135933110: 	moved	image-11	to	{"x":884,"y":267}
+1470135933119: 	moved	image-11	to	{"x":882,"y":273}
+1470135933127: 	moved	image-11	to	{"x":878,"y":281}
+1470135933135: 	moved	image-11	to	{"x":872,"y":293}
+1470135933144: 	moved	image-11	to	{"x":866,"y":302}
+1470135933152: 	moved	image-11	to	{"x":861,"y":312}
+1470135933161: 	moved	image-11	to	{"x":854,"y":321}
+1470135933169: 	moved	image-11	to	{"x":847,"y":331}
+1470135933177: 	moved	image-11	to	{"x":840,"y":342}
+1470135933185: 	moved	image-11	to	{"x":831,"y":351}
+1470135933195: 	moved	image-11	to	{"x":824,"y":360}
+1470135933202: 	moved	image-11	to	{"x":816,"y":371}
+1470135933210: 	moved	image-11	to	{"x":809,"y":380}
+1470135933220: 	moved	image-11	to	{"x":802,"y":388}
+1470135933226: 	moved	image-11	to	{"x":794,"y":396}
+1470135933236: 	moved	image-11	to	{"x":790,"y":401}
+1470135933244: 	moved	image-11	to	{"x":784,"y":408}
+1470135933252: 	moved	image-11	to	{"x":776,"y":415}
+1470135933260: 	moved	image-11	to	{"x":771,"y":420}
+1470135933269: 	moved	image-11	to	{"x":766,"y":424}
+1470135933277: 	moved	image-11	to	{"x":760,"y":428}
+1470135933286: 	moved	image-11	to	{"x":755,"y":431}
+1470135933294: 	moved	image-11	to	{"x":749,"y":435}
+1470135933302: 	moved	image-11	to	{"x":744,"y":437}
+1470135933310: 	moved	image-11	to	{"x":740,"y":438}
+1470135933320: 	moved	image-11	to	{"x":735,"y":438}
+1470135933328: 	moved	image-11	to	{"x":731,"y":438}
+1470135933335: 	moved	image-11	to	{"x":726,"y":438}
+1470135933345: 	moved	image-11	to	{"x":722,"y":437}
+1470135933352: 	moved	image-11	to	{"x":718,"y":436}
+1470135933361: 	moved	image-11	to	{"x":713,"y":433}
+1470135933369: 	moved	image-11	to	{"x":709,"y":430}
+1470135933377: 	moved	image-11	to	{"x":706,"y":428}
+1470135933385: 	moved	image-11	to	{"x":702,"y":425}
+1470135933394: 	moved	image-11	to	{"x":699,"y":420}
+1470135933402: 	moved	image-11	to	{"x":696,"y":416}
+1470135933411: 	moved	image-11	to	{"x":694,"y":411}
+1470135933420: 	moved	image-11	to	{"x":691,"y":405}
+1470135933427: 	moved	image-11	to	{"x":689,"y":400}
+1470135933436: 	moved	image-11	to	{"x":688,"y":393}
+1470135933444: 	moved	image-11	to	{"x":687,"y":387}
+1470135933452: 	moved	image-11	to	{"x":686,"y":380}
+1470135933460: 	moved	image-11	to	{"x":687,"y":373}
+1470135933469: 	moved	image-11	to	{"x":687,"y":367}
+1470135933478: 	moved	image-11	to	{"x":687,"y":360}
+1470135933485: 	moved	image-11	to	{"x":687,"y":353}
+1470135933494: 	moved	image-11	to	{"x":689,"y":347}
+1470135933503: 	moved	image-11	to	{"x":690,"y":341}
+1470135933510: 	moved	image-11	to	{"x":691,"y":335}
+1470135933520: 	moved	image-11	to	{"x":693,"y":329}
+1470135933921: 	acted on	image-11
+1470135933923: 	selected	image-11
+1470135933926: 	acted on	image-11
+1470135933927: 	selected	image-11
+1470135933935: 	start moving	image-11	from	{"x":92,"y":46}
+1470135933936: 	changed size	width	image-11	148
+1470135933937: 	changed size	height	image-11	148
+1470135933941: 	changed size	width	image-11	150
+1470135933941: 	changed size	height	image-11	150
+1470135933944: 	changed size	width	image-11	152
+1470135933945: 	changed size	height	image-11	152
+1470135933952: 	changed size	width	image-11	154
+1470135933953: 	changed size	height	image-11	154
+1470135933960: 	changed size	width	image-11	156
+1470135933961: 	changed size	height	image-11	156
+1470135933969: 	changed size	width	image-11	158
+1470135933970: 	changed size	height	image-11	158
+1470135933972: 	changed size	width	image-11	160
+1470135933973: 	changed size	height	image-11	160
+1470135933978: 	changed size	width	image-11	162
+1470135933979: 	changed size	height	image-11	162
+1470135933985: 	changed size	width	image-11	164
+1470135933986: 	changed size	height	image-11	164
+1470135933988: 	changed size	width	image-11	166
+1470135933989: 	changed size	height	image-11	166
+1470135933994: 	changed size	width	image-11	168
+1470135933995: 	changed size	height	image-11	168
+1470135933997: 	changed size	width	image-11	170
+1470135933998: 	changed size	height	image-11	170
+1470135934003: 	changed size	width	image-11	172
+1470135934003: 	changed size	height	image-11	172
+1470135934005: 	changed size	width	image-11	174
+1470135934006: 	changed size	height	image-11	174
+1470135934019: 	changed size	width	image-11	176
+1470135934020: 	changed size	height	image-11	176
+1470135934023: 	changed size	width	image-11	178
+1470135934024: 	changed size	height	image-11	178
+1470135934027: 	changed size	width	image-11	180
+1470135934028: 	changed size	height	image-11	180
+1470135934030: 	changed size	width	image-11	182
+1470135934031: 	changed size	height	image-11	182
+1470135934054: 	changed size	width	image-11	184
+1470135934055: 	changed size	height	image-11	184
+1470135934058: 	changed size	width	image-11	186
+1470135934058: 	changed size	height	image-11	186
+1470135934061: 	changed size	width	image-11	188
+1470135934062: 	changed size	height	image-11	188
+1470135934070: 	changed size	height	image-11	190
+1470135934069: 	changed size	width	image-11	190
+1470135934074: 	changed size	width	image-11	192
+1470135934075: 	changed size	height	image-11	192
+1470135934078: 	changed size	width	image-11	194
+1470135934079: 	changed size	height	image-11	194
+1470135934085: 	changed size	width	image-11	196
+1470135934086: 	changed size	height	image-11	196
+1470135934088: 	changed size	width	image-11	198
+1470135934089: 	changed size	height	image-11	198
+1470135934094: 	changed size	width	image-11	200
+1470135934095: 	changed size	height	image-11	200
+1470135934102: 	changed size	width	image-11	202
+1470135934103: 	changed size	height	image-11	202
+1470135934105: 	changed size	width	image-11	204
+1470135934106: 	changed size	height	image-11	204
+1470135934111: 	changed size	width	image-11	206
+1470135934111: 	changed size	height	image-11	206
+1470135934114: 	changed size	width	image-11	208
+1470135934115: 	changed size	height	image-11	208
+1470135934120: 	changed size	width	image-11	210
+1470135934121: 	changed size	height	image-11	210
+1470135934123: 	changed size	width	image-11	212
+1470135934124: 	changed size	height	image-11	212
+1470135934127: 	changed size	width	image-11	214
+1470135934128: 	changed size	height	image-11	214
+1470135934136: 	changed size	width	image-11	216
+1470135934136: 	changed size	height	image-11	216
+1470135934139: 	changed size	width	image-11	218
+1470135934139: 	changed size	height	image-11	218
+1470135934145: 	changed size	width	image-11	220
+1470135934146: 	changed size	height	image-11	220
+1470135934153: 	changed size	width	image-11	222
+1470135934154: 	changed size	height	image-11	222
+1470135934157: 	changed size	width	image-11	224
+1470135934157: 	changed size	height	image-11	224
+1470135934160: 	changed size	width	image-11	226
+1470135934161: 	changed size	height	image-11	226
+1470135934169: 	changed size	width	image-11	228
+1470135934170: 	changed size	height	image-11	228
+1470135934172: 	changed size	width	image-11	230
+1470135934173: 	changed size	height	image-11	230
+1470135934179: 	changed size	width	image-11	232
+1470135934180: 	changed size	height	image-11	232
+1470135934182: 	changed size	width	image-11	234
+1470135934183: 	changed size	height	image-11	234
+1470135934187: 	changed size	width	image-11	236
+1470135934188: 	changed size	height	image-11	236
+1470135934196: 	changed size	width	image-11	238
+1470135934197: 	changed size	height	image-11	238
+1470135934201: 	changed size	width	image-11	240
+1470135934202: 	changed size	height	image-11	240
+1470135934204: 	changed size	width	image-11	242
+1470135934205: 	changed size	height	image-11	242
+1470135934210: 	changed size	width	image-11	244
+1470135934211: 	changed size	height	image-11	244
+1470135934221: 	changed size	width	image-11	246
+1470135934222: 	changed size	height	image-11	246
+1470135934227: 	changed size	width	image-11	248
+1470135934228: 	changed size	height	image-11	248
+1470135934236: 	changed size	width	image-11	250
+1470135934237: 	changed size	height	image-11	250
+1470135934239: 	changed size	width	image-11	252
+1470135934240: 	changed size	height	image-11	252
+1470135934245: 	changed size	width	image-11	254
+1470135934246: 	changed size	height	image-11	254
+1470135934248: 	changed size	width	image-11	256
+1470135934249: 	changed size	height	image-11	256
+1470135934252: 	changed size	width	image-11	258
+1470135934252: 	changed size	height	image-11	258
+1470135934261: 	changed size	width	image-11	260
+1470135934261: 	changed size	height	image-11	260
+1470135934263: 	changed size	width	image-11	262
+1470135934264: 	changed size	height	image-11	262
+1470135934270: 	changed size	width	image-11	264
+1470135934271: 	changed size	height	image-11	264
+1470135934273: 	changed size	width	image-11	266
+1470135934274: 	changed size	height	image-11	266
+1470135934277: 	changed size	width	image-11	268
+1470135934278: 	changed size	height	image-11	268
+1470135934285: 	changed size	width	image-11	270
+1470135934286: 	changed size	height	image-11	270
+1470135934302: 	changed size	width	image-11	272
+1470135934303: 	changed size	height	image-11	272
+1470135934306: 	changed size	width	image-11	274
+1470135934306: 	changed size	height	image-11	274
+1470135934311: 	changed size	width	image-11	276
+1470135934312: 	changed size	height	image-11	276
+1470135934314: 	changed size	width	image-11	278
+1470135934315: 	changed size	height	image-11	278
+1470135934319: 	changed size	width	image-11	280
+1470135934320: 	changed size	height	image-11	280
+1470135934322: 	changed size	width	image-11	282
+1470135934323: 	changed size	height	image-11	282
+1470135934327: 	changed size	width	image-11	284
+1470135934328: 	changed size	height	image-11	284
+1470135934331: 	changed size	width	image-11	286
+1470135934331: 	changed size	height	image-11	286
+1470135934335: 	changed size	width	image-11	288
+1470135934335: 	changed size	height	image-11	288
+1470135934338: 	changed size	width	image-11	290
+1470135934338: 	changed size	height	image-11	290
+1470135934362: 	changed size	width	image-11	292
+1470135934363: 	changed size	height	image-11	292
+1470135934912: 	acted on	image-11
+1470135934914: 	selected	image-11
+1470135934960: 	start moving	image-11	from	{"x":234,"y":121}
+1470135934969: 	moved	image-11	to	{"x":777,"y":326}
+1470135934977: 	moved	image-11	to	{"x":775,"y":329}
+1470135934985: 	moved	image-11	to	{"x":772,"y":332}
+1470135934994: 	moved	image-11	to	{"x":769,"y":336}
+1470135935002: 	moved	image-11	to	{"x":766,"y":339}
+1470135935010: 	moved	image-11	to	{"x":762,"y":343}
+1470135935020: 	moved	image-11	to	{"x":759,"y":346}
+1470135935027: 	moved	image-11	to	{"x":756,"y":348}
+1470135935036: 	moved	image-11	to	{"x":752,"y":351}
+1470135935044: 	moved	image-11	to	{"x":747,"y":355}
+1470135935052: 	moved	image-11	to	{"x":743,"y":359}
+1470135935061: 	moved	image-11	to	{"x":739,"y":363}
+1470135935070: 	moved	image-11	to	{"x":735,"y":367}
+1470135935078: 	moved	image-11	to	{"x":731,"y":370}
+1470135935085: 	moved	image-11	to	{"x":728,"y":373}
+1470135935094: 	moved	image-11	to	{"x":724,"y":375}
+1470135935102: 	moved	image-11	to	{"x":721,"y":377}
+1470135935110: 	moved	image-11	to	{"x":717,"y":380}
+1470135935119: 	moved	image-11	to	{"x":712,"y":383}
+1470135935127: 	moved	image-11	to	{"x":708,"y":386}
+1470135935135: 	moved	image-11	to	{"x":703,"y":390}
+1470135935145: 	moved	image-11	to	{"x":700,"y":392}
+1470135935151: 	moved	image-11	to	{"x":697,"y":394}
+1470135935162: 	moved	image-11	to	{"x":691,"y":398}
+1470135935169: 	moved	image-11	to	{"x":687,"y":401}
+1470135935178: 	moved	image-11	to	{"x":685,"y":402}
+1470135935185: 	moved	image-11	to	{"x":681,"y":404}
+1470135935193: 	moved	image-11	to	{"x":677,"y":406}
+1470135935204: 	moved	image-11	to	{"x":674,"y":408}
+1470135935210: 	moved	image-11	to	{"x":671,"y":410}
+1470135935221: 	moved	image-11	to	{"x":667,"y":413}
+1470135935227: 	moved	image-11	to	{"x":663,"y":415}
+1470135935236: 	moved	image-11	to	{"x":660,"y":417}
+1470135935244: 	moved	image-11	to	{"x":658,"y":419}
+1470135935252: 	moved	image-11	to	{"x":655,"y":421}
+1470135935260: 	moved	image-11	to	{"x":652,"y":422}
+1470135935271: 	moved	image-11	to	{"x":649,"y":424}
+1470135935276: 	moved	image-11	to	{"x":647,"y":426}
+1470135935285: 	moved	image-11	to	{"x":644,"y":427}
+1470135935293: 	moved	image-11	to	{"x":641,"y":429}
+1470135935302: 	moved	image-11	to	{"x":638,"y":431}
+1470135935310: 	moved	image-11	to	{"x":636,"y":432}
+1470135935318: 	moved	image-11	to	{"x":634,"y":434}
+1470135935328: 	moved	image-11	to	{"x":631,"y":436}
+1470135935335: 	moved	image-11	to	{"x":629,"y":437}
+1470135935344: 	moved	image-11	to	{"x":627,"y":438}
+1470135935352: 	moved	image-11	to	{"x":624,"y":439}
+1470135935360: 	moved	image-11	to	{"x":622,"y":440}
+1470135935370: 	moved	image-11	to	{"x":620,"y":441}
+1470135935378: 	moved	image-11	to	{"x":618,"y":442}
+1470135935385: 	moved	image-11	to	{"x":617,"y":442}
+1470135935394: 	moved	image-11	to	{"x":615,"y":443}
+1470135935402: 	moved	image-11	to	{"x":613,"y":443}
+1470135935410: 	moved	image-11	to	{"x":612,"y":444}
+1470135935419: 	moved	image-11	to	{"x":610,"y":444}
+1470135935428: 	moved	image-11	to	{"x":609,"y":444}
+1470135935435: 	moved	image-11	to	{"x":608,"y":445}
+1470135935445: 	moved	image-11	to	{"x":607,"y":445}
+1470135935452: 	moved	image-11	to	{"x":606,"y":445}
+1470135935460: 	moved	image-11	to	{"x":605,"y":445}
+1470135935469: 	moved	image-11	to	{"x":604,"y":446}
+1470135935477: 	moved	image-11	to	{"x":603,"y":446}
+1470135935486: 	moved	image-11	to	{"x":602,"y":446}
+1470135935494: 	moved	image-11	to	{"x":601,"y":446}
+1470135935510: 	moved	image-11	to	{"x":600,"y":446}
+1470135935519: 	moved	image-11	to	{"x":599,"y":446}
+1470135935526: 	moved	image-11	to	{"x":598,"y":446}
+1470135935544: 	moved	image-11	to	{"x":597,"y":446}
+1470135935570: 	moved	image-11	to	{"x":596,"y":447}
+1470135935586: 	moved	image-11	to	{"x":595,"y":447}
+1470135935602: 	moved	image-11	to	{"x":594,"y":448}
+1470135935610: 	moved	image-11	to	{"x":593,"y":448}
+1470135935619: 	moved	image-11	to	{"x":593,"y":449}
+1470135935626: 	moved	image-11	to	{"x":592,"y":450}
+1470135935635: 	moved	image-11	to	{"x":591,"y":451}
+1470135935643: 	moved	image-11	to	{"x":591,"y":452}
+1470135935651: 	moved	image-11	to	{"x":590,"y":452}
+1470135936327: 	acted on	image-5
+1470135936329: 	selected	image-5
+1470135937002: 	acted on	image-5
+1470135937004: 	selected	image-5
+1470135937102: 	start moving	image-5	from	{"x":101,"y":84}
+1470135937110: 	moved	image-5	to	{"x":112,"y":93}
+1470135937118: 	moved	image-5	to	{"x":116,"y":94}
+1470135937126: 	moved	image-5	to	{"x":120,"y":95}
+1470135937135: 	moved	image-5	to	{"x":124,"y":96}
+1470135937143: 	moved	image-5	to	{"x":129,"y":97}
+1470135937151: 	moved	image-5	to	{"x":136,"y":98}
+1470135937160: 	moved	image-5	to	{"x":142,"y":99}
+1470135937167: 	moved	image-5	to	{"x":148,"y":100}
+1470135937177: 	moved	image-5	to	{"x":154,"y":101}
+1470135937185: 	moved	image-5	to	{"x":161,"y":102}
+1470135937193: 	moved	image-5	to	{"x":168,"y":102}
+1470135937202: 	moved	image-5	to	{"x":175,"y":103}
+1470135937210: 	moved	image-5	to	{"x":183,"y":104}
+1470135937218: 	moved	image-5	to	{"x":191,"y":105}
+1470135937226: 	moved	image-5	to	{"x":199,"y":106}
+1470135937235: 	moved	image-5	to	{"x":208,"y":107}
+1470135937243: 	moved	image-5	to	{"x":216,"y":108}
+1470135937251: 	moved	image-5	to	{"x":226,"y":110}
+1470135937260: 	moved	image-5	to	{"x":234,"y":111}
+1470135937268: 	moved	image-5	to	{"x":245,"y":111}
+1470135937277: 	moved	image-5	to	{"x":254,"y":112}
+1470135937286: 	moved	image-5	to	{"x":265,"y":113}
+1470135937293: 	moved	image-5	to	{"x":275,"y":114}
+1470135937301: 	moved	image-5	to	{"x":285,"y":114}
+1470135937310: 	moved	image-5	to	{"x":298,"y":114}
+1470135937318: 	moved	image-5	to	{"x":310,"y":114}
+1470135937327: 	moved	image-5	to	{"x":320,"y":114}
+1470135937335: 	moved	image-5	to	{"x":332,"y":113}
+1470135937343: 	moved	image-5	to	{"x":343,"y":114}
+1470135937351: 	moved	image-5	to	{"x":355,"y":112}
+1470135937360: 	moved	image-5	to	{"x":366,"y":112}
+1470135937368: 	moved	image-5	to	{"x":378,"y":111}
+1470135937376: 	moved	image-5	to	{"x":388,"y":111}
+1470135937385: 	moved	image-5	to	{"x":401,"y":110}
+1470135937393: 	moved	image-5	to	{"x":411,"y":109}
+1470135937401: 	moved	image-5	to	{"x":423,"y":108}
+1470135937410: 	moved	image-5	to	{"x":434,"y":108}
+1470135937418: 	moved	image-5	to	{"x":444,"y":107}
+1470135937426: 	moved	image-5	to	{"x":454,"y":106}
+1470135937435: 	moved	image-5	to	{"x":463,"y":106}
+1470135937442: 	moved	image-5	to	{"x":474,"y":106}
+1470135937452: 	moved	image-5	to	{"x":482,"y":107}
+1470135937459: 	moved	image-5	to	{"x":490,"y":108}
+1470135937468: 	moved	image-5	to	{"x":497,"y":108}
+1470135937477: 	moved	image-5	to	{"x":505,"y":109}
+1470135937485: 	moved	image-5	to	{"x":513,"y":109}
+1470135937493: 	moved	image-5	to	{"x":520,"y":110}
+1470135937501: 	moved	image-5	to	{"x":527,"y":111}
+1470135937512: 	moved	image-5	to	{"x":534,"y":111}
+1470135937518: 	moved	image-5	to	{"x":539,"y":112}
+1470135937527: 	moved	image-5	to	{"x":544,"y":113}
+1470135937535: 	moved	image-5	to	{"x":548,"y":113}
+1470135937543: 	moved	image-5	to	{"x":552,"y":114}
+1470135937552: 	moved	image-5	to	{"x":556,"y":115}
+1470135937560: 	moved	image-5	to	{"x":561,"y":116}
+1470135937568: 	moved	image-5	to	{"x":564,"y":117}
+1470135937578: 	moved	image-5	to	{"x":566,"y":117}
+1470135937585: 	moved	image-5	to	{"x":568,"y":118}
+1470135937593: 	moved	image-5	to	{"x":570,"y":118}
+1470135937601: 	moved	image-5	to	{"x":572,"y":119}
+1470135937611: 	moved	image-5	to	{"x":573,"y":119}
+1470135937618: 	moved	image-5	to	{"x":574,"y":119}
+1470135937636: 	moved	image-5	to	{"x":575,"y":119}
+1470135937693: 	moved	image-5	to	{"x":575,"y":118}
+1470135937711: 	moved	image-5	to	{"x":574,"y":117}
+1470135937719: 	moved	image-5	to	{"x":574,"y":115}
+1470135937726: 	moved	image-5	to	{"x":573,"y":113}
+1470135937736: 	moved	image-5	to	{"x":573,"y":112}
+1470135937742: 	moved	image-5	to	{"x":572,"y":111}
+1470135937751: 	moved	image-5	to	{"x":571,"y":110}
+1470135937760: 	moved	image-5	to	{"x":571,"y":109}
+1470135937768: 	moved	image-5	to	{"x":570,"y":108}
+1470135937776: 	moved	image-5	to	{"x":569,"y":108}
+1470135937786: 	moved	image-5	to	{"x":569,"y":107}
+1470135937802: 	moved	image-5	to	{"x":568,"y":107}
+1470135939778: 	acted on	image-11
+1470135939779: 	selected	image-11
+1470135942255: 	acted on	copy
+1470135942363: 	copied	image-11
+1470135942365: 	copied	image-11
+1470135942365: 	selected	null
+1470135943903: 	acted on	paste
+1470135944029: 	pasted	image-11-
+1470135944030: 	pasted	null
+1470135945394: 	acted on	image-11-1470135944029
+1470135945396: 	selected	image-11-1470135944029
+1470135945886: 	acted on	image-11-1470135944029
+1470135945888: 	selected	image-11-1470135944029
+1470135945961: 	start moving	image-11-1470135944029	from	{"x":224,"y":177}
+1470135945969: 	moved	image-11-1470135944029	to	{"x":229,"y":179}
+1470135945978: 	moved	image-11-1470135944029	to	{"x":234,"y":180}
+1470135945986: 	moved	image-11-1470135944029	to	{"x":240,"y":182}
+1470135945995: 	moved	image-11-1470135944029	to	{"x":246,"y":183}
+1470135946001: 	moved	image-11-1470135944029	to	{"x":252,"y":184}
+1470135946010: 	moved	image-11-1470135944029	to	{"x":258,"y":185}
+1470135946019: 	moved	image-11-1470135944029	to	{"x":264,"y":185}
+1470135946028: 	moved	image-11-1470135944029	to	{"x":270,"y":186}
+1470135946037: 	moved	image-11-1470135944029	to	{"x":277,"y":187}
+1470135946044: 	moved	image-11-1470135944029	to	{"x":285,"y":187}
+1470135946053: 	moved	image-11-1470135944029	to	{"x":292,"y":188}
+1470135946060: 	moved	image-11-1470135944029	to	{"x":301,"y":189}
+1470135946069: 	moved	image-11-1470135944029	to	{"x":311,"y":190}
+1470135946077: 	moved	image-11-1470135944029	to	{"x":322,"y":192}
+1470135946085: 	moved	image-11-1470135944029	to	{"x":334,"y":195}
+1470135946094: 	moved	image-11-1470135944029	to	{"x":343,"y":195}
+1470135946102: 	moved	image-11-1470135944029	to	{"x":356,"y":198}
+1470135946110: 	moved	image-11-1470135944029	to	{"x":366,"y":199}
+1470135946119: 	moved	image-11-1470135944029	to	{"x":379,"y":201}
+1470135946127: 	moved	image-11-1470135944029	to	{"x":390,"y":202}
+1470135946137: 	moved	image-11-1470135944029	to	{"x":402,"y":204}
+1470135946143: 	moved	image-11-1470135944029	to	{"x":413,"y":206}
+1470135946153: 	moved	image-11-1470135944029	to	{"x":425,"y":208}
+1470135946160: 	moved	image-11-1470135944029	to	{"x":437,"y":211}
+1470135946168: 	moved	image-11-1470135944029	to	{"x":447,"y":214}
+1470135946177: 	moved	image-11-1470135944029	to	{"x":460,"y":217}
+1470135946185: 	moved	image-11-1470135944029	to	{"x":471,"y":220}
+1470135946194: 	moved	image-11-1470135944029	to	{"x":484,"y":224}
+1470135946202: 	moved	image-11-1470135944029	to	{"x":496,"y":227}
+1470135946211: 	moved	image-11-1470135944029	to	{"x":508,"y":230}
+1470135946219: 	moved	image-11-1470135944029	to	{"x":521,"y":233}
+1470135946228: 	moved	image-11-1470135944029	to	{"x":532,"y":238}
+1470135946236: 	moved	image-11-1470135944029	to	{"x":545,"y":241}
+1470135946244: 	moved	image-11-1470135944029	to	{"x":558,"y":245}
+1470135946253: 	moved	image-11-1470135944029	to	{"x":569,"y":249}
+1470135946260: 	moved	image-11-1470135944029	to	{"x":582,"y":254}
+1470135946269: 	moved	image-11-1470135944029	to	{"x":595,"y":257}
+1470135946277: 	moved	image-11-1470135944029	to	{"x":607,"y":262}
+1470135946285: 	moved	image-11-1470135944029	to	{"x":620,"y":266}
+1470135946294: 	moved	image-11-1470135944029	to	{"x":633,"y":270}
+1470135946302: 	moved	image-11-1470135944029	to	{"x":646,"y":273}
+1470135946310: 	moved	image-11-1470135944029	to	{"x":658,"y":278}
+1470135946319: 	moved	image-11-1470135944029	to	{"x":670,"y":280}
+1470135946327: 	moved	image-11-1470135944029	to	{"x":682,"y":284}
+1470135946336: 	moved	image-11-1470135944029	to	{"x":695,"y":288}
+1470135946344: 	moved	image-11-1470135944029	to	{"x":706,"y":291}
+1470135946352: 	moved	image-11-1470135944029	to	{"x":717,"y":294}
+1470135946360: 	moved	image-11-1470135944029	to	{"x":728,"y":297}
+1470135946369: 	moved	image-11-1470135944029	to	{"x":738,"y":301}
+1470135946377: 	moved	image-11-1470135944029	to	{"x":746,"y":303}
+1470135946385: 	moved	image-11-1470135944029	to	{"x":757,"y":305}
+1470135946393: 	moved	image-11-1470135944029	to	{"x":769,"y":310}
+1470135946401: 	moved	image-11-1470135944029	to	{"x":776,"y":313}
+1470135946411: 	moved	image-11-1470135944029	to	{"x":785,"y":316}
+1470135946419: 	moved	image-11-1470135944029	to	{"x":794,"y":319}
+1470135946427: 	moved	image-11-1470135944029	to	{"x":802,"y":323}
+1470135946436: 	moved	image-11-1470135944029	to	{"x":810,"y":326}
+1470135946445: 	moved	image-11-1470135944029	to	{"x":818,"y":330}
+1470135946452: 	moved	image-11-1470135944029	to	{"x":825,"y":333}
+1470135946460: 	moved	image-11-1470135944029	to	{"x":832,"y":337}
+1470135946469: 	moved	image-11-1470135944029	to	{"x":838,"y":341}
+1470135946477: 	moved	image-11-1470135944029	to	{"x":845,"y":344}
+1470135946485: 	moved	image-11-1470135944029	to	{"x":851,"y":348}
+1470135946494: 	moved	image-11-1470135944029	to	{"x":857,"y":352}
+1470135946503: 	moved	image-11-1470135944029	to	{"x":863,"y":355}
+1470135946510: 	moved	image-11-1470135944029	to	{"x":868,"y":359}
+1470135946519: 	moved	image-11-1470135944029	to	{"x":874,"y":362}
+1470135946527: 	moved	image-11-1470135944029	to	{"x":879,"y":365}
+1470135946535: 	moved	image-11-1470135944029	to	{"x":884,"y":369}
+1470135946543: 	moved	image-11-1470135944029	to	{"x":889,"y":372}
+1470135946552: 	moved	image-11-1470135944029	to	{"x":893,"y":376}
+1470135946561: 	moved	image-11-1470135944029	to	{"x":897,"y":379}
+1470135946569: 	moved	image-11-1470135944029	to	{"x":900,"y":382}
+1470135946577: 	moved	image-11-1470135944029	to	{"x":903,"y":386}
+1470135946585: 	moved	image-11-1470135944029	to	{"x":906,"y":389}
+1470135946594: 	moved	image-11-1470135944029	to	{"x":908,"y":392}
+1470135946602: 	moved	image-11-1470135944029	to	{"x":910,"y":395}
+1470135946612: 	moved	image-11-1470135944029	to	{"x":911,"y":400}
+1470135946619: 	moved	image-11-1470135944029	to	{"x":912,"y":403}
+1470135946628: 	moved	image-11-1470135944029	to	{"x":913,"y":406}
+1470135946635: 	moved	image-11-1470135944029	to	{"x":914,"y":411}
+1470135946644: 	moved	image-11-1470135944029	to	{"x":914,"y":415}
+1470135946652: 	moved	image-11-1470135944029	to	{"x":914,"y":418}
+1470135946660: 	moved	image-11-1470135944029	to	{"x":914,"y":422}
+1470135946669: 	moved	image-11-1470135944029	to	{"x":914,"y":425}
+1470135946677: 	moved	image-11-1470135944029	to	{"x":915,"y":429}
+1470135946686: 	moved	image-11-1470135944029	to	{"x":914,"y":435}
+1470135946694: 	moved	image-11-1470135944029	to	{"x":914,"y":438}
+1470135946703: 	moved	image-11-1470135944029	to	{"x":914,"y":442}
+1470135946710: 	moved	image-11-1470135944029	to	{"x":913,"y":448}
+1470135946731: 	moved	image-11-1470135944029	to	{"x":912,"y":454}
+1470135946736: 	moved	image-11-1470135944029	to	{"x":911,"y":458}
+1470135946743: 	moved	image-11-1470135944029	to	{"x":910,"y":462}
+1470135946752: 	moved	image-11-1470135944029	to	{"x":910,"y":465}
+1470135946761: 	moved	image-11-1470135944029	to	{"x":909,"y":468}
+1470135946769: 	moved	image-11-1470135944029	to	{"x":907,"y":472}
+1470135946778: 	moved	image-11-1470135944029	to	{"x":906,"y":475}
+1470135946785: 	moved	image-11-1470135944029	to	{"x":905,"y":476}
+1470135946794: 	moved	image-11-1470135944029	to	{"x":904,"y":480}
+1470135946802: 	moved	image-11-1470135944029	to	{"x":903,"y":482}
+1470135946810: 	moved	image-11-1470135944029	to	{"x":901,"y":485}
+1470135946819: 	moved	image-11-1470135944029	to	{"x":901,"y":487}
+1470135946826: 	moved	image-11-1470135944029	to	{"x":899,"y":489}
+1470135946836: 	moved	image-11-1470135944029	to	{"x":898,"y":491}
+1470135946844: 	moved	image-11-1470135944029	to	{"x":897,"y":493}
+1470135946853: 	moved	image-11-1470135944029	to	{"x":897,"y":495}
+1470135946860: 	moved	image-11-1470135944029	to	{"x":896,"y":497}
+1470135946869: 	moved	image-11-1470135944029	to	{"x":895,"y":499}
+1470135946877: 	moved	image-11-1470135944029	to	{"x":894,"y":502}
+1470135946885: 	moved	image-11-1470135944029	to	{"x":894,"y":503}
+1470135946894: 	moved	image-11-1470135944029	to	{"x":893,"y":505}
+1470135946902: 	moved	image-11-1470135944029	to	{"x":892,"y":508}
+1470135946910: 	moved	image-11-1470135944029	to	{"x":891,"y":510}
+1470135946919: 	moved	image-11-1470135944029	to	{"x":890,"y":512}
+1470135946928: 	moved	image-11-1470135944029	to	{"x":889,"y":514}
+1470135946935: 	moved	image-11-1470135944029	to	{"x":889,"y":515}
+1470135946944: 	moved	image-11-1470135944029	to	{"x":888,"y":516}
+1470135946952: 	moved	image-11-1470135944029	to	{"x":888,"y":518}
+1470135946960: 	moved	image-11-1470135944029	to	{"x":887,"y":519}
+1470135946970: 	moved	image-11-1470135944029	to	{"x":887,"y":520}
+1470135946977: 	moved	image-11-1470135944029	to	{"x":886,"y":521}
+1470135946986: 	moved	image-11-1470135944029	to	{"x":886,"y":522}
+1470135946994: 	moved	image-11-1470135944029	to	{"x":886,"y":523}
+1470135947002: 	moved	image-11-1470135944029	to	{"x":885,"y":524}
+1470135947010: 	moved	image-11-1470135944029	to	{"x":885,"y":525}
+1470135947019: 	moved	image-11-1470135944029	to	{"x":885,"y":526}
+1470135947027: 	moved	image-11-1470135944029	to	{"x":885,"y":527}
+1470135947037: 	moved	image-11-1470135944029	to	{"x":884,"y":528}
+1470135947044: 	moved	image-11-1470135944029	to	{"x":884,"y":529}
+1470135947053: 	moved	image-11-1470135944029	to	{"x":884,"y":530}
+1470135947060: 	moved	image-11-1470135944029	to	{"x":884,"y":531}
+1470135947077: 	moved	image-11-1470135944029	to	{"x":884,"y":532}
+1470135947111: 	moved	image-11-1470135944029	to	{"x":883,"y":533}
+1470135947302: 	moved	image-11-1470135944029	to	{"x":883,"y":534}
+1470135947370: 	moved	image-11-1470135944029	to	{"x":883,"y":533}
+1470135947419: 	moved	image-11-1470135944029	to	{"x":882,"y":533}
+1470135947478: 	moved	image-11-1470135944029	to	{"x":882,"y":532}
+1470135947503: 	moved	image-11-1470135944029	to	{"x":881,"y":532}
+1470135949303: 	acted on	image-11
+1470135949305: 	selected	image-11
+1470135949687: 	acted on	image-11
+1470135949689: 	selected	image-11
+1470135949770: 	start moving	image-11	from	{"x":253,"y":189}
+1470135949778: 	moved	image-11	to	{"x":609,"y":522}
+1470135949784: 	moved	image-11	to	{"x":608,"y":523}
+1470135949795: 	moved	image-11	to	{"x":608,"y":526}
+1470135949801: 	moved	image-11	to	{"x":608,"y":528}
+1470135949809: 	moved	image-11	to	{"x":608,"y":530}
+1470135949818: 	moved	image-11	to	{"x":608,"y":531}
+1470135949826: 	moved	image-11	to	{"x":608,"y":533}
+1470135949834: 	moved	image-11	to	{"x":608,"y":534}
+1470135949843: 	moved	image-11	to	{"x":608,"y":536}
+1470135949851: 	moved	image-11	to	{"x":608,"y":537}
+1470135949859: 	moved	image-11	to	{"x":608,"y":538}
+1470135949868: 	moved	image-11	to	{"x":608,"y":540}
+1470135949876: 	moved	image-11	to	{"x":608,"y":541}
+1470135949885: 	moved	image-11	to	{"x":608,"y":542}
+1470135949893: 	moved	image-11	to	{"x":608,"y":543}
+1470135949901: 	moved	image-11	to	{"x":608,"y":544}
+1470135949910: 	moved	image-11	to	{"x":608,"y":545}
+1470135949927: 	moved	image-11	to	{"x":609,"y":546}
+1470135949954: 	moved	image-11	to	{"x":609,"y":547}
+1470135949994: 	moved	image-11	to	{"x":609,"y":548}
+1470135950594: 	acted on	image-11-1470135944029
+1470135950596: 	selected	image-11-1470135944029
+1470135951119: 	acted on	image-11-1470135944029
+1470135951121: 	selected	image-11-1470135944029
+1470135951311: 	start moving	image-11-1470135944029	from	{"x":162,"y":169}
+1470135953613: 	acted on	less
+1470135954120: 	acted on	less
+1470135954362: 	acted on	less
+1470135954829: 	acted on	more
+1470135955037: 	acted on	more
+1470135955212: 	acted on	more
+1470135955387: 	acted on	more
+1470135955536: 	acted on	more
+1470135955695: 	acted on	more
+1470135955820: 	acted on	more
+1470135956020: 	acted on	more
+1470135956321: 	acted on	more
+1470135958254: 	acted on	draw
+1470135958319: 	selected	null
+1470135958320: 	mode	draw
+1470135959411: 	acted on	image-5
+1470135959413: 	draw	image-5	{"x":40,"y":68}
+1470135959413: 	draw	image-5	{"x":40,"y":68}
+1470135959452: 	draw	image-5	{"x":37,"y":83}
+1470135959453: 	draw	image-5	{"x":37,"y":83}
+1470135959460: 	draw	image-5	{"x":37,"y":84}
+1470135959461: 	draw	image-5	{"x":37,"y":84}
+1470135959469: 	draw	image-5	{"x":37,"y":86}
+1470135959469: 	draw	image-5	{"x":37,"y":86}
+1470135959479: 	draw	image-5	{"x":38,"y":88}
+1470135959479: 	draw	image-5	{"x":38,"y":88}
+1470135959484: 	draw	image-5	{"x":38,"y":90}
+1470135959485: 	draw	image-5	{"x":38,"y":90}
+1470135959495: 	draw	image-5	{"x":39,"y":90}
+1470135959495: 	draw	image-5	{"x":39,"y":90}
+1470135959502: 	draw	image-5	{"x":39,"y":91}
+1470135959503: 	draw	image-5	{"x":39,"y":91}
+1470135959510: 	draw	image-5	{"x":40,"y":92}
+1470135959511: 	draw	image-5	{"x":40,"y":92}
+1470135959519: 	draw	image-5	{"x":41,"y":92}
+1470135959520: 	draw	image-5	{"x":41,"y":92}
+1470135959535: 	draw	image-5	{"x":43,"y":92}
+1470135959536: 	draw	image-5	{"x":43,"y":92}
+1470135959543: 	draw	image-5	{"x":45,"y":91}
+1470135959544: 	draw	image-5	{"x":45,"y":91}
+1470135959551: 	draw	image-5	{"x":48,"y":89}
+1470135959551: 	draw	image-5	{"x":48,"y":89}
+1470135959558: 	draw	image-5	{"x":50,"y":85}
+1470135959559: 	draw	image-5	{"x":50,"y":85}
+1470135959569: 	draw	image-5	{"x":51,"y":79}
+1470135959570: 	draw	image-5	{"x":51,"y":79}
+1470135959576: 	draw	image-5	{"x":52,"y":76}
+1470135959577: 	draw	image-5	{"x":52,"y":76}
+1470135959584: 	draw	image-5	{"x":52,"y":72}
+1470135959584: 	draw	image-5	{"x":52,"y":72}
+1470135959593: 	draw	image-5	{"x":52,"y":67}
+1470135959594: 	draw	image-5	{"x":52,"y":67}
+1470135959601: 	draw	image-5	{"x":52,"y":65}
+1470135959601: 	draw	image-5	{"x":52,"y":65}
+1470135959609: 	draw	image-5	{"x":51,"y":62}
+1470135959610: 	draw	image-5	{"x":51,"y":62}
+1470135959618: 	draw	image-5	{"x":50,"y":61}
+1470135959619: 	draw	image-5	{"x":50,"y":61}
+1470135959626: 	draw	image-5	{"x":49,"y":60}
+1470135959626: 	draw	image-5	{"x":49,"y":60}
+1470135959634: 	draw	image-5	{"x":47,"y":58}
+1470135959635: 	draw	image-5	{"x":47,"y":58}
+1470135959643: 	draw	image-5	{"x":45,"y":57}
+1470135959644: 	draw	image-5	{"x":45,"y":57}
+1470135959651: 	draw	image-5	{"x":43,"y":57}
+1470135959652: 	draw	image-5	{"x":43,"y":57}
+1470135959659: 	draw	image-5	{"x":40,"y":57}
+1470135959659: 	draw	image-5	{"x":40,"y":57}
+1470135959668: 	draw	image-5	{"x":38,"y":58}
+1470135959669: 	draw	image-5	{"x":38,"y":58}
+1470135959676: 	draw	image-5	{"x":35,"y":60}
+1470135959677: 	draw	image-5	{"x":35,"y":60}
+1470135959684: 	draw	image-5	{"x":31,"y":63}
+1470135959684: 	draw	image-5	{"x":31,"y":63}
+1470135959693: 	draw	image-5	{"x":29,"y":68}
+1470135959694: 	draw	image-5	{"x":29,"y":68}
+1470135959701: 	draw	image-5	{"x":27,"y":72}
+1470135959702: 	draw	image-5	{"x":27,"y":72}
+1470135959709: 	draw	image-5	{"x":27,"y":74}
+1470135959710: 	draw	image-5	{"x":27,"y":74}
+1470135959720: 	draw	image-5	{"x":26,"y":76}
+1470135959720: 	draw	image-5	{"x":26,"y":76}
+1470135959728: 	draw	image-5	{"x":26,"y":79}
+1470135959728: 	draw	image-5	{"x":26,"y":79}
+1470135959735: 	draw	image-5	{"x":26,"y":81}
+1470135959735: 	draw	image-5	{"x":26,"y":81}
+1470135959743: 	draw	image-5	{"x":26,"y":83}
+1470135959744: 	draw	image-5	{"x":26,"y":83}
+1470135959752: 	draw	image-5	{"x":27,"y":84}
+1470135959752: 	draw	image-5	{"x":27,"y":84}
+1470135959760: 	draw	image-5	{"x":27,"y":85}
+1470135959760: 	draw	image-5	{"x":27,"y":85}
+1470135959768: 	draw	image-5	{"x":28,"y":86}
+1470135959769: 	draw	image-5	{"x":28,"y":86}
+1470135959776: 	draw	image-5	{"x":30,"y":87}
+1470135959777: 	draw	image-5	{"x":30,"y":87}
+1470135959784: 	draw	image-5	{"x":34,"y":87}
+1470135959784: 	draw	image-5	{"x":34,"y":87}
+1470135959793: 	draw	image-5	{"x":39,"y":86}
+1470135959794: 	draw	image-5	{"x":39,"y":86}
+1470135959801: 	draw	image-5	{"x":43,"y":85}
+1470135959802: 	draw	image-5	{"x":43,"y":85}
+1470135959809: 	draw	image-5	{"x":46,"y":83}
+1470135959810: 	draw	image-5	{"x":46,"y":83}
+1470135959818: 	draw	image-5	{"x":49,"y":79}
+1470135959818: 	draw	image-5	{"x":49,"y":79}
+1470135959826: 	draw	image-5	{"x":51,"y":77}
+1470135959827: 	draw	image-5	{"x":51,"y":77}
+1470135959834: 	draw	image-5	{"x":52,"y":75}
+1470135959834: 	draw	image-5	{"x":52,"y":75}
+1470135959843: 	draw	image-5	{"x":53,"y":72}
+1470135959844: 	draw	image-5	{"x":53,"y":72}
+1470135959851: 	draw	image-5	{"x":53,"y":69}
+1470135959851: 	draw	image-5	{"x":53,"y":69}
+1470135959859: 	draw	image-5	{"x":53,"y":67}
+1470135959860: 	draw	image-5	{"x":53,"y":67}
+1470135959868: 	draw	image-5	{"x":52,"y":65}
+1470135959869: 	draw	image-5	{"x":52,"y":65}
+1470135959876: 	draw	image-5	{"x":51,"y":63}
+1470135959877: 	draw	image-5	{"x":51,"y":63}
+1470135959884: 	draw	image-5	{"x":49,"y":62}
+1470135959885: 	draw	image-5	{"x":49,"y":62}
+1470135959894: 	draw	image-5	{"x":47,"y":60}
+1470135959895: 	draw	image-5	{"x":47,"y":60}
+1470135959901: 	draw	image-5	{"x":44,"y":59}
+1470135959902: 	draw	image-5	{"x":44,"y":59}
+1470135959910: 	draw	image-5	{"x":41,"y":59}
+1470135959910: 	draw	image-5	{"x":41,"y":59}
+1470135959923: 	draw	image-5	{"x":37,"y":60}
+1470135959924: 	draw	image-5	{"x":37,"y":60}
+1470135959927: 	draw	image-5	{"x":34,"y":62}
+1470135959928: 	draw	image-5	{"x":34,"y":62}
+1470135959933: 	draw	image-5	{"x":31,"y":65}
+1470135959934: 	draw	image-5	{"x":31,"y":65}
+1470135959946: 	draw	image-5	{"x":28,"y":70}
+1470135959947: 	draw	image-5	{"x":28,"y":70}
+1470135959959: 	draw	image-5	{"x":27,"y":73}
+1470135959960: 	draw	image-5	{"x":27,"y":73}
+1470135959964: 	draw	image-5	{"x":26,"y":76}
+1470135959965: 	draw	image-5	{"x":26,"y":76}
+1470135959968: 	draw	image-5	{"x":25,"y":78}
+1470135959969: 	draw	image-5	{"x":25,"y":78}
+1470135959976: 	draw	image-5	{"x":25,"y":80}
+1470135959977: 	draw	image-5	{"x":25,"y":80}
+1470135960185: 	acted on	image-5
+1470135960186: 	draw	image-5	{"x":71,"y":111}
+1470135960187: 	draw	image-5	{"x":71,"y":111}
+1470135960269: 	draw	image-5	{"x":87,"y":116}
+1470135960269: 	draw	image-5	{"x":87,"y":116}
+1470135960276: 	draw	image-5	{"x":89,"y":115}
+1470135960276: 	draw	image-5	{"x":89,"y":115}
+1470135960284: 	draw	image-5	{"x":90,"y":115}
+1470135960285: 	draw	image-5	{"x":90,"y":115}
+1470135960293: 	draw	image-5	{"x":92,"y":114}
+1470135960294: 	draw	image-5	{"x":92,"y":114}
+1470135960301: 	draw	image-5	{"x":93,"y":113}
+1470135960302: 	draw	image-5	{"x":93,"y":113}
+1470135960309: 	draw	image-5	{"x":94,"y":110}
+1470135960310: 	draw	image-5	{"x":94,"y":110}
+1470135960318: 	draw	image-5	{"x":94,"y":108}
+1470135960319: 	draw	image-5	{"x":94,"y":108}
+1470135960326: 	draw	image-5	{"x":93,"y":104}
+1470135960326: 	draw	image-5	{"x":93,"y":104}
+1470135960334: 	draw	image-5	{"x":90,"y":100}
+1470135960334: 	draw	image-5	{"x":90,"y":100}
+1470135960344: 	draw	image-5	{"x":87,"y":97}
+1470135960344: 	draw	image-5	{"x":87,"y":97}
+1470135960352: 	draw	image-5	{"x":84,"y":93}
+1470135960353: 	draw	image-5	{"x":84,"y":93}
+1470135960360: 	draw	image-5	{"x":81,"y":91}
+1470135960360: 	draw	image-5	{"x":81,"y":91}
+1470135960368: 	draw	image-5	{"x":78,"y":89}
+1470135960369: 	draw	image-5	{"x":78,"y":89}
+1470135960377: 	draw	image-5	{"x":76,"y":89}
+1470135960377: 	draw	image-5	{"x":76,"y":89}
+1470135960384: 	draw	image-5	{"x":71,"y":89}
+1470135960385: 	draw	image-5	{"x":71,"y":89}
+1470135960393: 	draw	image-5	{"x":67,"y":92}
+1470135960394: 	draw	image-5	{"x":67,"y":92}
+1470135960401: 	draw	image-5	{"x":63,"y":95}
+1470135960402: 	draw	image-5	{"x":63,"y":95}
+1470135960410: 	draw	image-5	{"x":60,"y":99}
+1470135960410: 	draw	image-5	{"x":60,"y":99}
+1470135960419: 	draw	image-5	{"x":58,"y":102}
+1470135960420: 	draw	image-5	{"x":58,"y":102}
+1470135960426: 	draw	image-5	{"x":56,"y":105}
+1470135960427: 	draw	image-5	{"x":56,"y":105}
+1470135960435: 	draw	image-5	{"x":55,"y":109}
+1470135960436: 	draw	image-5	{"x":55,"y":109}
+1470135960444: 	draw	image-5	{"x":55,"y":110}
+1470135960444: 	draw	image-5	{"x":55,"y":110}
+1470135960452: 	draw	image-5	{"x":54,"y":113}
+1470135960453: 	draw	image-5	{"x":54,"y":113}
+1470135960459: 	draw	image-5	{"x":55,"y":115}
+1470135960460: 	draw	image-5	{"x":55,"y":115}
+1470135960469: 	draw	image-5	{"x":55,"y":117}
+1470135960469: 	draw	image-5	{"x":55,"y":117}
+1470135960477: 	draw	image-5	{"x":57,"y":119}
+1470135960477: 	draw	image-5	{"x":57,"y":119}
+1470135960484: 	draw	image-5	{"x":59,"y":120}
+1470135960485: 	draw	image-5	{"x":59,"y":120}
+1470135960494: 	draw	image-5	{"x":61,"y":121}
+1470135960494: 	draw	image-5	{"x":61,"y":121}
+1470135960501: 	draw	image-5	{"x":65,"y":122}
+1470135960502: 	draw	image-5	{"x":65,"y":122}
+1470135960510: 	draw	image-5	{"x":68,"y":122}
+1470135960511: 	draw	image-5	{"x":68,"y":122}
+1470135960519: 	draw	image-5	{"x":72,"y":120}
+1470135960520: 	draw	image-5	{"x":72,"y":120}
+1470135960526: 	draw	image-5	{"x":75,"y":117}
+1470135960527: 	draw	image-5	{"x":75,"y":117}
+1470135960535: 	draw	image-5	{"x":78,"y":115}
+1470135960536: 	draw	image-5	{"x":78,"y":115}
+1470135960543: 	draw	image-5	{"x":80,"y":111}
+1470135960544: 	draw	image-5	{"x":80,"y":111}
+1470135960551: 	draw	image-5	{"x":81,"y":109}
+1470135960552: 	draw	image-5	{"x":81,"y":109}
+1470135960559: 	draw	image-5	{"x":81,"y":105}
+1470135960560: 	draw	image-5	{"x":81,"y":105}
+1470135960569: 	draw	image-5	{"x":80,"y":102}
+1470135960570: 	draw	image-5	{"x":80,"y":102}
+1470135960576: 	draw	image-5	{"x":79,"y":98}
+1470135960577: 	draw	image-5	{"x":79,"y":98}
+1470135960584: 	draw	image-5	{"x":78,"y":94}
+1470135960585: 	draw	image-5	{"x":78,"y":94}
+1470135960593: 	draw	image-5	{"x":76,"y":90}
+1470135960594: 	draw	image-5	{"x":76,"y":90}
+1470135960602: 	draw	image-5	{"x":74,"y":87}
+1470135960602: 	draw	image-5	{"x":74,"y":87}
+1470135960609: 	draw	image-5	{"x":72,"y":85}
+1470135960610: 	draw	image-5	{"x":72,"y":85}
+1470135960618: 	draw	image-5	{"x":70,"y":84}
+1470135960618: 	draw	image-5	{"x":70,"y":84}
+1470135960627: 	draw	image-5	{"x":67,"y":84}
+1470135960628: 	draw	image-5	{"x":67,"y":84}
+1470135960635: 	draw	image-5	{"x":65,"y":84}
+1470135960636: 	draw	image-5	{"x":65,"y":84}
+1470135960643: 	draw	image-5	{"x":61,"y":86}
+1470135960644: 	draw	image-5	{"x":61,"y":86}
+1470135960651: 	draw	image-5	{"x":58,"y":90}
+1470135960652: 	draw	image-5	{"x":58,"y":90}
+1470135960659: 	draw	image-5	{"x":57,"y":93}
+1470135960660: 	draw	image-5	{"x":57,"y":93}
+1470135960668: 	draw	image-5	{"x":56,"y":97}
+1470135960669: 	draw	image-5	{"x":56,"y":97}
+1470135960677: 	draw	image-5	{"x":56,"y":100}
+1470135960678: 	draw	image-5	{"x":56,"y":100}
+1470135960684: 	draw	image-5	{"x":56,"y":103}
+1470135960685: 	draw	image-5	{"x":56,"y":103}
+1470135960694: 	draw	image-5	{"x":57,"y":105}
+1470135960695: 	draw	image-5	{"x":57,"y":105}
+1470135960701: 	draw	image-5	{"x":60,"y":108}
+1470135960702: 	draw	image-5	{"x":60,"y":108}
+1470135960709: 	draw	image-5	{"x":63,"y":111}
+1470135960709: 	draw	image-5	{"x":63,"y":111}
+1470135960718: 	draw	image-5	{"x":67,"y":113}
+1470135960719: 	draw	image-5	{"x":67,"y":113}
+1470135960726: 	draw	image-5	{"x":72,"y":115}
+1470135960727: 	draw	image-5	{"x":72,"y":115}
+1470135960734: 	draw	image-5	{"x":78,"y":116}
+1470135960735: 	draw	image-5	{"x":78,"y":116}
+1470135960744: 	draw	image-5	{"x":84,"y":116}
+1470135960744: 	draw	image-5	{"x":84,"y":116}
+1470135960751: 	draw	image-5	{"x":90,"y":116}
+1470135960752: 	draw	image-5	{"x":90,"y":116}
+1470135961386: 	acted on	colorPicker
+1470135962361: 	acted on	#00CC33
+1470135962427: 	sub-instrument	#00CC33		false
+1470135962427: 	changed color	rgb(250, 0, 250)
+1470135964178: 	acted on	draw
+1470135964302: 	selected	null
+1470135964303: 	mode	null
+1470135966562: 	acted on	path-1470135960187
+1470135966564: 	selected	path-1470135960187
+1470135968386: 	acted on	colorPicker
+1470135969170: 	acted on	#00CC66
+1470135969260: 	sub-instrument	#00CC66		false
+1470135969261: 	changed color	path-1470135960187	rgb(0, 0, 240)
+1470135970353: 	acted on	colorPicker
+1470135971011: 	acted on	#00CC33
+1470135971103: 	sub-instrument	#00CC33		false
+1470135971104: 	changed color	path-1470135960187	rgb(250, 0, 250)
+1470135971870: 	acted on	path-1470135959414
+1470135971872: 	selected	path-1470135959414
+1470135972746: 	acted on	colorPicker
+1470135973486: 	acted on	#00FF33
+1470135973561: 	sub-instrument	#00FF33		false
+1470135973561: 	changed color	path-1470135959414	rgb(188, 0, 188)
+1470135974702: 	acted on	content
+1470135974703: 	selected	null
+1470135976003: 	acted on	colorPicker
+1470135977054: 	acted on	#0033CC
+1470135977161: 	sub-instrument	#0033CC		false
+1470135977162: 	changed color	rgb(151, 255, 151)
+1470135978679: 	acted on	less
+1470135978845: 	acted on	less
+1470135979011: 	acted on	less
+1470135979170: 	acted on	less
+1470135979337: 	acted on	less
+1470135979495: 	acted on	less
+1470135979669: 	acted on	less
+1470135979845: 	acted on	less
+1470135980011: 	acted on	less
+1470135980170: 	acted on	less
+1470135981243: 	acted on	draw
+1470135981312: 	selected	null
+1470135981312: 	mode	draw
+1470135982228: 	acted on	image-5
+1470135982230: 	draw	image-5	{"x":72,"y":62}
+1470135982230: 	draw	image-5	{"x":72,"y":62}
+1470135982377: 	draw	image-5	{"x":84,"y":49}
+1470135982378: 	draw	image-5	{"x":84,"y":49}
+1470135982385: 	draw	image-5	{"x":86,"y":47}
+1470135982386: 	draw	image-5	{"x":86,"y":47}
+1470135982393: 	draw	image-5	{"x":89,"y":44}
+1470135982393: 	draw	image-5	{"x":89,"y":44}
+1470135982402: 	draw	image-5	{"x":91,"y":42}
+1470135982402: 	draw	image-5	{"x":91,"y":42}
+1470135982409: 	draw	image-5	{"x":94,"y":39}
+1470135982410: 	draw	image-5	{"x":94,"y":39}
+1470135982418: 	draw	image-5	{"x":96,"y":37}
+1470135982418: 	draw	image-5	{"x":96,"y":37}
+1470135982426: 	draw	image-5	{"x":98,"y":34}
+1470135982427: 	draw	image-5	{"x":98,"y":34}
+1470135982435: 	draw	image-5	{"x":101,"y":32}
+1470135982436: 	draw	image-5	{"x":101,"y":32}
+1470135982442: 	draw	image-5	{"x":103,"y":29}
+1470135982443: 	draw	image-5	{"x":103,"y":29}
+1470135982453: 	draw	image-5	{"x":105,"y":27}
+1470135982454: 	draw	image-5	{"x":105,"y":27}
+1470135982459: 	draw	image-5	{"x":107,"y":25}
+1470135982460: 	draw	image-5	{"x":107,"y":25}
+1470135982467: 	draw	image-5	{"x":109,"y":23}
+1470135982468: 	draw	image-5	{"x":109,"y":23}
+1470135982477: 	draw	image-5	{"x":111,"y":21}
+1470135982479: 	draw	image-5	{"x":111,"y":21}
+1470135982485: 	draw	image-5	{"x":113,"y":19}
+1470135982486: 	draw	image-5	{"x":113,"y":19}
+1470135982493: 	draw	image-5	{"x":115,"y":17}
+1470135982494: 	draw	image-5	{"x":115,"y":17}
+1470135982502: 	draw	image-5	{"x":117,"y":15}
+1470135982503: 	draw	image-5	{"x":117,"y":15}
+1470135982509: 	draw	image-5	{"x":118,"y":14}
+1470135982510: 	draw	image-5	{"x":118,"y":14}
+1470135982517: 	draw	image-5	{"x":119,"y":12}
+1470135982518: 	draw	image-5	{"x":119,"y":12}
+1470135982527: 	draw	image-5	{"x":120,"y":11}
+1470135982528: 	draw	image-5	{"x":120,"y":11}
+1470135982535: 	draw	image-5	{"x":121,"y":10}
+1470135982536: 	draw	image-5	{"x":121,"y":10}
+1470135982543: 	draw	image-5	{"x":122,"y":9}
+1470135982543: 	draw	image-5	{"x":122,"y":9}
+1470135982552: 	draw	image-5	{"x":122,"y":8}
+1470135982552: 	draw	image-5	{"x":122,"y":8}
+1470135982568: 	draw	image-5	{"x":123,"y":8}
+1470135982569: 	draw	image-5	{"x":123,"y":8}
+1470135982602: 	draw	image-5	{"x":123,"y":7}
+1470135982603: 	draw	image-5	{"x":123,"y":7}
+1470135982660: 	draw	image-5	{"x":123,"y":8}
+1470135982661: 	draw	image-5	{"x":123,"y":8}
+1470135982667: 	draw	image-5	{"x":123,"y":9}
+1470135982668: 	draw	image-5	{"x":123,"y":9}
+1470135982678: 	draw	image-5	{"x":122,"y":10}
+1470135982679: 	draw	image-5	{"x":122,"y":10}
+1470135982685: 	draw	image-5	{"x":120,"y":14}
+1470135982686: 	draw	image-5	{"x":120,"y":14}
+1470135982693: 	draw	image-5	{"x":119,"y":16}
+1470135982693: 	draw	image-5	{"x":119,"y":16}
+1470135982702: 	draw	image-5	{"x":118,"y":18}
+1470135982703: 	draw	image-5	{"x":118,"y":18}
+1470135982710: 	draw	image-5	{"x":117,"y":20}
+1470135982711: 	draw	image-5	{"x":117,"y":20}
+1470135982718: 	draw	image-5	{"x":116,"y":22}
+1470135982719: 	draw	image-5	{"x":116,"y":22}
+1470135982728: 	draw	image-5	{"x":115,"y":24}
+1470135982728: 	draw	image-5	{"x":115,"y":24}
+1470135982735: 	draw	image-5	{"x":114,"y":26}
+1470135982736: 	draw	image-5	{"x":114,"y":26}
+1470135982742: 	draw	image-5	{"x":114,"y":29}
+1470135982743: 	draw	image-5	{"x":114,"y":29}
+1470135982751: 	draw	image-5	{"x":113,"y":30}
+1470135982752: 	draw	image-5	{"x":113,"y":30}
+1470135982759: 	draw	image-5	{"x":113,"y":32}
+1470135982760: 	draw	image-5	{"x":113,"y":32}
+1470135982767: 	draw	image-5	{"x":112,"y":36}
+1470135982768: 	draw	image-5	{"x":112,"y":36}
+1470135982778: 	draw	image-5	{"x":111,"y":38}
+1470135982778: 	draw	image-5	{"x":111,"y":38}
+1470135982785: 	draw	image-5	{"x":111,"y":42}
+1470135982786: 	draw	image-5	{"x":111,"y":42}
+1470135982793: 	draw	image-5	{"x":110,"y":44}
+1470135982793: 	draw	image-5	{"x":110,"y":44}
+1470135982801: 	draw	image-5	{"x":109,"y":47}
+1470135982802: 	draw	image-5	{"x":109,"y":47}
+1470135982810: 	draw	image-5	{"x":108,"y":50}
+1470135982811: 	draw	image-5	{"x":108,"y":50}
+1470135982817: 	draw	image-5	{"x":107,"y":53}
+1470135982818: 	draw	image-5	{"x":107,"y":53}
+1470135982826: 	draw	image-5	{"x":107,"y":55}
+1470135982827: 	draw	image-5	{"x":107,"y":55}
+1470135982834: 	draw	image-5	{"x":106,"y":58}
+1470135982835: 	draw	image-5	{"x":106,"y":58}
+1470135982842: 	draw	image-5	{"x":105,"y":61}
+1470135982843: 	draw	image-5	{"x":105,"y":61}
+1470135982852: 	draw	image-5	{"x":104,"y":64}
+1470135982853: 	draw	image-5	{"x":104,"y":64}
+1470135982859: 	draw	image-5	{"x":103,"y":68}
+1470135982860: 	draw	image-5	{"x":103,"y":68}
+1470135982868: 	draw	image-5	{"x":102,"y":70}
+1470135982868: 	draw	image-5	{"x":102,"y":70}
+1470135982876: 	draw	image-5	{"x":102,"y":73}
+1470135982877: 	draw	image-5	{"x":102,"y":73}
+1470135982884: 	draw	image-5	{"x":101,"y":76}
+1470135982885: 	draw	image-5	{"x":101,"y":76}
+1470135982893: 	draw	image-5	{"x":100,"y":79}
+1470135982894: 	draw	image-5	{"x":100,"y":79}
+1470135982902: 	draw	image-5	{"x":99,"y":82}
+1470135982903: 	draw	image-5	{"x":99,"y":82}
+1470135982909: 	draw	image-5	{"x":98,"y":84}
+1470135982910: 	draw	image-5	{"x":98,"y":84}
+1470135982918: 	draw	image-5	{"x":98,"y":86}
+1470135982919: 	draw	image-5	{"x":98,"y":86}
+1470135982926: 	draw	image-5	{"x":97,"y":88}
+1470135982927: 	draw	image-5	{"x":97,"y":88}
+1470135982934: 	draw	image-5	{"x":97,"y":90}
+1470135982935: 	draw	image-5	{"x":97,"y":90}
+1470135982942: 	draw	image-5	{"x":96,"y":92}
+1470135982943: 	draw	image-5	{"x":96,"y":92}
+1470135982953: 	draw	image-5	{"x":96,"y":93}
+1470135982954: 	draw	image-5	{"x":96,"y":93}
+1470135982960: 	draw	image-5	{"x":95,"y":94}
+1470135982960: 	draw	image-5	{"x":95,"y":94}
+1470135982977: 	draw	image-5	{"x":95,"y":95}
+1470135982978: 	draw	image-5	{"x":95,"y":95}
+1470135983052: 	draw	image-5	{"x":94,"y":95}
+1470135983053: 	draw	image-5	{"x":94,"y":95}
+1470135984519: 	acted on	draw
+1470135984595: 	selected	null
+1470135984596: 	mode	null
+1470135987753: 	acted on	colorPicker
+1470135989687: 	acted on	colorPicker
+1470135990286: 	acted on	#0066FF
+1470135990386: 	sub-instrument	#0066FF		false
+1470135990386: 	changed color	rgb(255, 255, 78)
+1470135991362: 	acted on	circle
+1470135991469: 	selected	null
+1470135991470: 	mode	circle
+1470135991471: 	selected	null
+1470135992743: 	acted on	content
+1470135992960: 	shape started	{"x":1042,"y":129}
+1470135992961: 	shape continued	10	circle
+1470135992963: 	selected	shape-1470135992960
+1470135992975: 	shape continued	10	circle
+1470135992976: 	selected	shape-1470135992960
+1470135992986: 	shape continued	10	circle
+1470135992986: 	selected	shape-1470135992960
+1470135992992: 	shape continued	11	circle
+1470135992994: 	selected	shape-1470135992960
+1470135992999: 	shape continued	15	circle
+1470135993001: 	selected	shape-1470135992960
+1470135993009: 	shape continued	18	circle
+1470135993010: 	selected	shape-1470135992960
+1470135993032: 	shape continued	24	circle
+1470135993033: 	selected	shape-1470135992960
+1470135993036: 	shape continued	28	circle
+1470135993037: 	selected	shape-1470135992960
+1470135993042: 	shape continued	30	circle
+1470135993044: 	selected	shape-1470135992960
+1470135993050: 	shape continued	34	circle
+1470135993051: 	selected	shape-1470135992960
+1470135993059: 	shape continued	37	circle
+1470135993060: 	selected	shape-1470135992960
+1470135993067: 	shape continued	41	circle
+1470135993068: 	selected	shape-1470135992960
+1470135993076: 	shape continued	44	circle
+1470135993077: 	selected	shape-1470135992960
+1470135993084: 	shape continued	48	circle
+1470135993085: 	selected	shape-1470135992960
+1470135993091: 	shape continued	51	circle
+1470135993092: 	selected	shape-1470135992960
+1470135993100: 	shape continued	55	circle
+1470135993101: 	selected	shape-1470135992960
+1470135993109: 	shape continued	58	circle
+1470135993110: 	selected	shape-1470135992960
+1470135993117: 	shape continued	61	circle
+1470135993118: 	selected	shape-1470135992960
+1470135993124: 	shape continued	65	circle
+1470135993125: 	selected	shape-1470135992960
+1470135993133: 	shape continued	68	circle
+1470135993134: 	selected	shape-1470135992960
+1470135993142: 	shape continued	71	circle
+1470135993144: 	selected	shape-1470135992960
+1470135993151: 	shape continued	74	circle
+1470135993152: 	selected	shape-1470135992960
+1470135993159: 	shape continued	77	circle
+1470135993161: 	selected	shape-1470135992960
+1470135993168: 	shape continued	81	circle
+1470135993169: 	selected	shape-1470135992960
+1470135993174: 	shape continued	83	circle
+1470135993175: 	selected	shape-1470135992960
+1470135993184: 	shape continued	87	circle
+1470135993185: 	selected	shape-1470135992960
+1470135993192: 	shape continued	89	circle
+1470135993193: 	selected	shape-1470135992960
+1470135993200: 	shape continued	93	circle
+1470135993201: 	selected	shape-1470135992960
+1470135993211: 	shape continued	95	circle
+1470135993211: 	selected	shape-1470135992960
+1470135993217: 	shape continued	99	circle
+1470135993218: 	selected	shape-1470135992960
+1470135993224: 	shape continued	101	circle
+1470135993225: 	selected	shape-1470135992960
+1470135993235: 	shape continued	105	circle
+1470135993236: 	selected	shape-1470135992960
+1470135993243: 	shape continued	108	circle
+1470135993244: 	selected	shape-1470135992960
+1470135993251: 	shape continued	110	circle
+1470135993252: 	selected	shape-1470135992960
+1470135993260: 	shape continued	113	circle
+1470135993261: 	selected	shape-1470135992960
+1470135993268: 	shape continued	115	circle
+1470135993269: 	selected	shape-1470135992960
+1470135993276: 	shape continued	117	circle
+1470135993277: 	selected	shape-1470135992960
+1470135993285: 	shape continued	119	circle
+1470135993286: 	selected	shape-1470135992960
+1470135993292: 	shape continued	120	circle
+1470135993294: 	selected	shape-1470135992960
+1470135993300: 	shape continued	121	circle
+1470135993301: 	selected	shape-1470135992960
+1470135993310: 	shape continued	123	circle
+1470135993311: 	selected	shape-1470135992960
+1470135993317: 	shape continued	125	circle
+1470135993318: 	selected	shape-1470135992960
+1470135993326: 	shape continued	126	circle
+1470135993327: 	selected	shape-1470135992960
+1470135993335: 	shape continued	128	circle
+1470135993336: 	selected	shape-1470135992960
+1470135993343: 	shape continued	129	circle
+1470135993345: 	selected	shape-1470135992960
+1470135993352: 	shape continued	131	circle
+1470135993353: 	selected	shape-1470135992960
+1470135993360: 	shape continued	133	circle
+1470135993361: 	selected	shape-1470135992960
+1470135993368: 	shape continued	135	circle
+1470135993369: 	selected	shape-1470135992960
+1470135993377: 	shape continued	137	circle
+1470135993378: 	selected	shape-1470135992960
+1470135993384: 	shape continued	140	circle
+1470135993386: 	selected	shape-1470135992960
+1470135993392: 	shape continued	142	circle
+1470135993393: 	selected	shape-1470135992960
+1470135993402: 	shape continued	145	circle
+1470135993403: 	selected	shape-1470135992960
+1470135993409: 	shape continued	149	circle
+1470135993410: 	selected	shape-1470135992960
+1470135993417: 	shape continued	152	circle
+1470135993419: 	selected	shape-1470135992960
+1470135993426: 	shape continued	155	circle
+1470135993428: 	selected	shape-1470135992960
+1470135993434: 	shape continued	159	circle
+1470135993435: 	selected	shape-1470135992960
+1470135993443: 	shape continued	162	circle
+1470135993444: 	selected	shape-1470135992960
+1470135993452: 	shape continued	166	circle
+1470135993453: 	selected	shape-1470135992960
+1470135993460: 	shape continued	169	circle
+1470135993461: 	selected	shape-1470135992960
+1470135993467: 	shape continued	173	circle
+1470135993468: 	selected	shape-1470135992960
+1470135993477: 	shape continued	177	circle
+1470135993478: 	selected	shape-1470135992960
+1470135993484: 	shape continued	180	circle
+1470135993485: 	selected	shape-1470135992960
+1470135993492: 	shape continued	183	circle
+1470135993494: 	selected	shape-1470135992960
+1470135993502: 	shape continued	186	circle
+1470135993503: 	selected	shape-1470135992960
+1470135993509: 	shape continued	188	circle
+1470135993511: 	selected	shape-1470135992960
+1470135993517: 	shape continued	191	circle
+1470135993518: 	selected	shape-1470135992960
+1470135993527: 	shape continued	193	circle
+1470135993528: 	selected	shape-1470135992960
+1470135993534: 	shape continued	196	circle
+1470135993535: 	selected	shape-1470135992960
+1470135993543: 	shape continued	198	circle
+1470135993544: 	selected	shape-1470135992960
+1470135993552: 	shape continued	201	circle
+1470135993553: 	selected	shape-1470135992960
+1470135993559: 	shape continued	204	circle
+1470135993560: 	selected	shape-1470135992960
+1470135993567: 	shape continued	207	circle
+1470135993568: 	selected	shape-1470135992960
+1470135993577: 	shape continued	209	circle
+1470135993578: 	selected	shape-1470135992960
+1470135993584: 	shape continued	211	circle
+1470135993585: 	selected	shape-1470135992960
+1470135993592: 	shape continued	214	circle
+1470135993594: 	selected	shape-1470135992960
+1470135993602: 	shape continued	216	circle
+1470135993603: 	selected	shape-1470135992960
+1470135993610: 	shape continued	218	circle
+1470135993611: 	selected	shape-1470135992960
+1470135993617: 	shape continued	220	circle
+1470135993619: 	selected	shape-1470135992960
+1470135993626: 	shape continued	222	circle
+1470135993627: 	selected	shape-1470135992960
+1470135993634: 	shape continued	225	circle
+1470135993636: 	selected	shape-1470135992960
+1470135993642: 	shape continued	228	circle
+1470135993656: 	selected	shape-1470135992960
+1470135993659: 	shape continued	231	circle
+1470135993660: 	selected	shape-1470135992960
+1470135993664: 	shape continued	233	circle
+1470135993665: 	selected	shape-1470135992960
+1470135993669: 	shape continued	236	circle
+1470135993670: 	selected	shape-1470135992960
+1470135993677: 	shape continued	239	circle
+1470135993678: 	selected	shape-1470135992960
+1470135993685: 	shape continued	241	circle
+1470135993686: 	selected	shape-1470135992960
+1470135993693: 	shape continued	244	circle
+1470135993694: 	selected	shape-1470135992960
+1470135993701: 	shape continued	246	circle
+1470135993702: 	selected	shape-1470135992960
+1470135993709: 	shape continued	249	circle
+1470135993710: 	selected	shape-1470135992960
+1470135993718: 	shape continued	252	circle
+1470135993719: 	selected	shape-1470135992960
+1470135993727: 	shape continued	254	circle
+1470135993728: 	selected	shape-1470135992960
+1470135993735: 	shape continued	256	circle
+1470135993736: 	selected	shape-1470135992960
+1470135993743: 	shape continued	257	circle
+1470135993744: 	selected	shape-1470135992960
+1470135993752: 	shape continued	260	circle
+1470135993753: 	selected	shape-1470135992960
+1470135993760: 	shape continued	262	circle
+1470135993761: 	selected	shape-1470135992960
+1470135993767: 	shape continued	263	circle
+1470135993768: 	selected	shape-1470135992960
+1470135993776: 	shape continued	264	circle
+1470135993777: 	selected	shape-1470135992960
+1470135993784: 	shape continued	266	circle
+1470135993785: 	selected	shape-1470135992960
+1470135993793: 	shape continued	267	circle
+1470135993794: 	selected	shape-1470135992960
+1470135993801: 	shape continued	268	circle
+1470135993802: 	selected	shape-1470135992960
+1470135993810: 	shape continued	269	circle
+1470135993811: 	selected	shape-1470135992960
+1470135993817: 	shape continued	270	circle
+1470135993818: 	selected	shape-1470135992960
+1470135993827: 	shape continued	271	circle
+1470135993828: 	selected	shape-1470135992960
+1470135993834: 	shape continued	272	circle
+1470135993836: 	selected	shape-1470135992960
+1470135993842: 	shape continued	273	circle
+1470135993844: 	selected	shape-1470135992960
+1470135993852: 	shape continued	274	circle
+1470135993853: 	selected	shape-1470135992960
+1470135993867: 	shape continued	276	circle
+1470135993868: 	selected	shape-1470135992960
+1470135993876: 	shape continued	277	circle
+1470135993877: 	selected	shape-1470135992960
+1470135993885: 	shape continued	279	circle
+1470135993886: 	selected	shape-1470135992960
+1470135993892: 	shape continued	280	circle
+1470135993893: 	selected	shape-1470135992960
+1470135993903: 	shape continued	282	circle
+1470135993904: 	selected	shape-1470135992960
+1470135993909: 	shape continued	283	circle
+1470135993910: 	selected	shape-1470135992960
+1470135993917: 	shape continued	284	circle
+1470135993919: 	selected	shape-1470135992960
+1470135993926: 	shape continued	285	circle
+1470135993927: 	selected	shape-1470135992960
+1470135993934: 	shape continued	287	circle
+1470135993935: 	selected	shape-1470135992960
+1470135993952: 	shape continued	288	circle
+1470135993953: 	selected	shape-1470135992960
+1470135993960: 	shape continued	290	circle
+1470135993961: 	selected	shape-1470135992960
+1470135993967: 	shape continued	291	circle
+1470135993968: 	selected	shape-1470135992960
+1470135993976: 	shape continued	291	circle
+1470135993977: 	selected	shape-1470135992960
+1470135993985: 	shape continued	292	circle
+1470135993986: 	selected	shape-1470135992960
+1470135994003: 	shape continued	293	circle
+1470135994004: 	selected	shape-1470135992960
+1470135994018: 	shape continued	293	circle
+1470135994020: 	selected	shape-1470135992960
+1470135994026: 	shape continued	294	circle
+1470135994028: 	selected	shape-1470135992960
+1470135994052: 	shape continued	295	circle
+1470135994054: 	selected	shape-1470135992960
+1470135994068: 	shape continued	296	circle
+1470135994069: 	selected	shape-1470135992960
+1470135994076: 	shape continued	297	circle
+1470135994077: 	selected	shape-1470135992960
+1470135994093: 	shape continued	298	circle
+1470135994095: 	selected	shape-1470135992960
+1470135994102: 	shape continued	299	circle
+1470135994103: 	selected	shape-1470135992960
+1470135994110: 	shape continued	300	circle
+1470135994111: 	selected	shape-1470135992960
+1470135994126: 	shape continued	301	circle
+1470135994128: 	selected	shape-1470135992960
+1470135994153: 	selected	shape-1470135992960
+1470135999127: 	acted on	content
+1470135999128: 	selected	null
+1470136002385: 	acted on	delete
+1470136003736: 	acted on	path-1470135982231
+1470136003737: 	selected	path-1470135982231
+1470136004562: 	acted on	delete
+1470136004644: 	cut	path-1470135982231
+1470136004645: 	deleted	path-1470135982231
+1470136005526: 	acted on	content
+1470136005528: 	selected	null
+1470136012395: 	acted on	circle
+1470136012503: 	selected	null
+1470136012503: 	mode	circle
+1470136012504: 	selected	null
+1470136013069: 	acted on	content
+1470136013151: 	shape started	{"x":375,"y":109}
+1470136013152: 	shape continued	10	circle
+1470136013153: 	selected	shape-1470136013151
+1470136013159: 	shape continued	10	circle
+1470136013160: 	selected	shape-1470136013151
+1470136013167: 	shape continued	10	circle
+1470136013168: 	selected	shape-1470136013151
+1470136013175: 	shape continued	10	circle
+1470136013176: 	selected	shape-1470136013151
+1470136013184: 	shape continued	10	circle
+1470136013185: 	selected	shape-1470136013151
+1470136013193: 	shape continued	10	circle
+1470136013194: 	selected	shape-1470136013151
+1470136013200: 	shape continued	10	circle
+1470136013201: 	selected	shape-1470136013151
+1470136013209: 	shape continued	10	circle
+1470136013210: 	selected	shape-1470136013151
+1470136013217: 	shape continued	10	circle
+1470136013218: 	selected	shape-1470136013151
+1470136013225: 	shape continued	10	circle
+1470136013226: 	selected	shape-1470136013151
+1470136013234: 	shape continued	10	circle
+1470136013235: 	selected	shape-1470136013151
+1470136013243: 	shape continued	10	circle
+1470136013244: 	selected	shape-1470136013151
+1470136013250: 	shape continued	10	circle
+1470136013252: 	selected	shape-1470136013151
+1470136013258: 	shape continued	10	circle
+1470136013259: 	selected	shape-1470136013151
+1470136013268: 	shape continued	11	circle
+1470136013269: 	selected	shape-1470136013151
+1470136013276: 	shape continued	13	circle
+1470136013277: 	selected	shape-1470136013151
+1470136013284: 	shape continued	13	circle
+1470136013285: 	selected	shape-1470136013151
+1470136013292: 	shape continued	15	circle
+1470136013293: 	selected	shape-1470136013151
+1470136013300: 	shape continued	16	circle
+1470136013301: 	selected	shape-1470136013151
+1470136013309: 	shape continued	17	circle
+1470136013310: 	selected	shape-1470136013151
+1470136013318: 	shape continued	18	circle
+1470136013319: 	selected	shape-1470136013151
+1470136013326: 	shape continued	19	circle
+1470136013327: 	selected	shape-1470136013151
+1470136013343: 	shape continued	20	circle
+1470136013344: 	selected	shape-1470136013151
+1470136013351: 	shape continued	21	circle
+1470136013352: 	selected	shape-1470136013151
+1470136013405: 	shape continued	22	circle
+1470136013408: 	selected	shape-1470136013151
+1470136013431: 	shape continued	22	circle
+1470136013434: 	selected	shape-1470136013151
+1470136013563: 	shape continued	23	circle
+1470136013566: 	selected	shape-1470136013151
+1470136013638: 	shape continued	24	circle
+1470136013641: 	selected	shape-1470136013151
+1470136013679: 	shape continued	25	circle
+1470136013681: 	selected	shape-1470136013151
+1470136013689: 	shape continued	28	circle
+1470136013691: 	selected	shape-1470136013151
+1470136013701: 	shape continued	31	circle
+1470136013704: 	selected	shape-1470136013151
+1470136013717: 	shape continued	34	circle
+1470136013718: 	selected	shape-1470136013151
+1470136013725: 	shape continued	35	circle
+1470136013726: 	selected	shape-1470136013151
+1470136013731: 	shape continued	37	circle
+1470136013732: 	selected	shape-1470136013151
+1470136013737: 	shape continued	38	circle
+1470136013739: 	selected	shape-1470136013151
+1470136013746: 	shape continued	39	circle
+1470136013748: 	selected	shape-1470136013151
+1470136013755: 	shape continued	40	circle
+1470136013756: 	selected	shape-1470136013151
+1470136013761: 	shape continued	41	circle
+1470136013762: 	selected	shape-1470136013151
+1470136013769: 	shape continued	42	circle
+1470136013770: 	selected	shape-1470136013151
+1470136013777: 	shape continued	44	circle
+1470136013778: 	selected	shape-1470136013151
+1470136013783: 	shape continued	44	circle
+1470136013784: 	selected	shape-1470136013151
+1470136013793: 	shape continued	45	circle
+1470136013794: 	selected	shape-1470136013151
+1470136013800: 	shape continued	47	circle
+1470136013801: 	selected	shape-1470136013151
+1470136013808: 	shape continued	48	circle
+1470136013809: 	selected	shape-1470136013151
+1470136013818: 	shape continued	50	circle
+1470136013819: 	selected	shape-1470136013151
+1470136013825: 	shape continued	52	circle
+1470136013827: 	selected	shape-1470136013151
+1470136013832: 	shape continued	53	circle
+1470136013834: 	selected	shape-1470136013151
+1470136013842: 	shape continued	55	circle
+1470136013844: 	selected	shape-1470136013151
+1470136013850: 	shape continued	58	circle
+1470136013851: 	selected	shape-1470136013151
+1470136013858: 	shape continued	59	circle
+1470136013859: 	selected	shape-1470136013151
+1470136013867: 	shape continued	60	circle
+1470136013868: 	selected	shape-1470136013151
+1470136013875: 	shape continued	61	circle
+1470136013876: 	selected	shape-1470136013151
+1470136013883: 	shape continued	61	circle
+1470136013885: 	selected	shape-1470136013151
+1470136013892: 	shape continued	62	circle
+1470136013894: 	selected	shape-1470136013151
+1470136013901: 	shape continued	63	circle
+1470136013902: 	selected	shape-1470136013151
+1470136013908: 	shape continued	64	circle
+1470136013909: 	selected	shape-1470136013151
+1470136013918: 	shape continued	65	circle
+1470136013919: 	selected	shape-1470136013151
+1470136013925: 	shape continued	66	circle
+1470136013929: 	selected	shape-1470136013151
+1470136013934: 	shape continued	66	circle
+1470136013935: 	selected	shape-1470136013151
+1470136013943: 	shape continued	67	circle
+1470136013944: 	selected	shape-1470136013151
+1470136013959: 	shape continued	67	circle
+1470136013960: 	selected	shape-1470136013151
+1470136013968: 	shape continued	68	circle
+1470136013969: 	selected	shape-1470136013151
+1470136014009: 	shape continued	68	circle
+1470136014010: 	selected	shape-1470136013151
+1470136014059: 	shape continued	69	circle
+1470136014060: 	selected	shape-1470136013151
+1470136014119: 	selected	shape-1470136013151
+1470136014619: 	acted on	square
+1470136014710: 	selected	null
+1470136014711: 	mode	square
+1470136014711: 	selected	null
+1470136015118: 	acted on	content
+1470136015218: 	shape started	{"x":379,"y":214}
+1470136015218: 	shape continued	10	square
+1470136015219: 	selected	shape-1470136015218
+1470136015233: 	shape continued	10	square
+1470136015235: 	selected	shape-1470136015218
+1470136015242: 	shape continued	10	square
+1470136015243: 	selected	shape-1470136015218
+1470136015251: 	shape continued	10	square
+1470136015252: 	selected	shape-1470136015218
+1470136015259: 	shape continued	10	square
+1470136015260: 	selected	shape-1470136015218
+1470136015267: 	shape continued	10	square
+1470136015268: 	selected	shape-1470136015218
+1470136015275: 	shape continued	10	square
+1470136015276: 	selected	shape-1470136015218
+1470136015284: 	shape continued	10	square
+1470136015286: 	selected	shape-1470136015218
+1470136015292: 	shape continued	10	square
+1470136015293: 	selected	shape-1470136015218
+1470136015299: 	shape continued	11	square
+1470136015300: 	selected	shape-1470136015218
+1470136015310: 	shape continued	13	square
+1470136015312: 	selected	shape-1470136015218
+1470136015316: 	shape continued	15	square
+1470136015317: 	selected	shape-1470136015218
+1470136015325: 	shape continued	17	square
+1470136015326: 	selected	shape-1470136015218
+1470136015334: 	shape continued	18	square
+1470136015335: 	selected	shape-1470136015218
+1470136015342: 	shape continued	21	square
+1470136015343: 	selected	shape-1470136015218
+1470136015349: 	shape continued	23	square
+1470136015351: 	selected	shape-1470136015218
+1470136015359: 	shape continued	26	square
+1470136015360: 	selected	shape-1470136015218
+1470136015367: 	shape continued	28	square
+1470136015368: 	selected	shape-1470136015218
+1470136015375: 	shape continued	32	square
+1470136015376: 	selected	shape-1470136015218
+1470136015384: 	shape continued	34	square
+1470136015385: 	selected	shape-1470136015218
+1470136015391: 	shape continued	37	square
+1470136015392: 	selected	shape-1470136015218
+1470136015401: 	shape continued	39	square
+1470136015402: 	selected	shape-1470136015218
+1470136015409: 	shape continued	41	square
+1470136015410: 	selected	shape-1470136015218
+1470136015417: 	shape continued	44	square
+1470136015418: 	selected	shape-1470136015218
+1470136015425: 	shape continued	46	square
+1470136015426: 	selected	shape-1470136015218
+1470136015433: 	shape continued	48	square
+1470136015435: 	selected	shape-1470136015218
+1470136015442: 	shape continued	50	square
+1470136015443: 	selected	shape-1470136015218
+1470136015450: 	shape continued	51	square
+1470136015451: 	selected	shape-1470136015218
+1470136015459: 	shape continued	53	square
+1470136015460: 	selected	shape-1470136015218
+1470136015466: 	shape continued	54	square
+1470136015467: 	selected	shape-1470136015218
+1470136015475: 	shape continued	56	square
+1470136015476: 	selected	shape-1470136015218
+1470136015484: 	shape continued	57	square
+1470136015485: 	selected	shape-1470136015218
+1470136015493: 	shape continued	58	square
+1470136015494: 	selected	shape-1470136015218
+1470136015500: 	shape continued	59	square
+1470136015501: 	selected	shape-1470136015218
+1470136015509: 	shape continued	60	square
+1470136015510: 	selected	shape-1470136015218
+1470136015516: 	shape continued	61	square
+1470136015517: 	selected	shape-1470136015218
+1470136015524: 	shape continued	62	square
+1470136015525: 	selected	shape-1470136015218
+1470136015534: 	shape continued	63	square
+1470136015535: 	selected	shape-1470136015218
+1470136015541: 	shape continued	64	square
+1470136015543: 	selected	shape-1470136015218
+1470136015550: 	shape continued	64	square
+1470136015551: 	selected	shape-1470136015218
+1470136015558: 	shape continued	65	square
+1470136015559: 	selected	shape-1470136015218
+1470136015566: 	shape continued	66	square
+1470136015567: 	selected	shape-1470136015218
+1470136015584: 	shape continued	67	square
+1470136015585: 	selected	shape-1470136015218
+1470136015591: 	shape continued	68	square
+1470136015593: 	selected	shape-1470136015218
+1470136015609: 	shape continued	70	square
+1470136015610: 	selected	shape-1470136015218
+1470136015625: 	shape continued	71	square
+1470136015626: 	selected	shape-1470136015218
+1470136015633: 	shape continued	72	square
+1470136015635: 	selected	shape-1470136015218
+1470136015641: 	shape continued	73	square
+1470136015642: 	selected	shape-1470136015218
+1470136015650: 	shape continued	74	square
+1470136015651: 	selected	shape-1470136015218
+1470136015667: 	shape continued	75	square
+1470136015668: 	selected	shape-1470136015218
+1470136015701: 	shape continued	76	square
+1470136015702: 	selected	shape-1470136015218
+1470136015725: 	shape continued	77	square
+1470136015726: 	selected	shape-1470136015218
+1470136015750: 	shape continued	77	square
+1470136015752: 	selected	shape-1470136015218
+1470136015835: 	selected	shape-1470136015218
+1470136017103: 	acted on	colorPicker
+1470136018211: 	acted on	#00CC33
+1470136018326: 	sub-instrument	#00CC33		false
+1470136018327: 	changed color	shape-1470136015218	rgb(250, 0, 250)
+1470136020477: 	acted on	draw
+1470136020568: 	selected	null
+1470136020569: 	mode	draw
+1470136021301: 	acted on	content
+1470136021302: 	draw	content	{"x":486,"y":280}
+1470136021303: 	draw	content	{"x":486,"y":280}
+1470136021401: 	draw	content	{"x":500,"y":270}
+1470136021401: 	draw	content	{"x":500,"y":270}
+1470136021408: 	draw	content	{"x":503,"y":268}
+1470136021409: 	draw	content	{"x":503,"y":268}
+1470136021416: 	draw	content	{"x":507,"y":266}
+1470136021417: 	draw	content	{"x":507,"y":266}
+1470136021426: 	draw	content	{"x":511,"y":264}
+1470136021426: 	draw	content	{"x":511,"y":264}
+1470136021434: 	draw	content	{"x":513,"y":263}
+1470136021434: 	draw	content	{"x":513,"y":263}
+1470136021442: 	draw	content	{"x":516,"y":261}
+1470136021443: 	draw	content	{"x":516,"y":261}
+1470136021450: 	draw	content	{"x":519,"y":260}
+1470136021451: 	draw	content	{"x":519,"y":260}
+1470136021458: 	draw	content	{"x":523,"y":258}
+1470136021459: 	draw	content	{"x":523,"y":258}
+1470136021466: 	draw	content	{"x":526,"y":258}
+1470136021467: 	draw	content	{"x":526,"y":258}
+1470136021476: 	draw	content	{"x":528,"y":257}
+1470136021477: 	draw	content	{"x":528,"y":257}
+1470136021483: 	draw	content	{"x":530,"y":257}
+1470136021484: 	draw	content	{"x":530,"y":257}
+1470136021492: 	draw	content	{"x":532,"y":257}
+1470136021492: 	draw	content	{"x":532,"y":257}
+1470136021501: 	draw	content	{"x":533,"y":257}
+1470136021502: 	draw	content	{"x":533,"y":257}
+1470136021508: 	draw	content	{"x":535,"y":258}
+1470136021508: 	draw	content	{"x":535,"y":258}
+1470136021516: 	draw	content	{"x":536,"y":258}
+1470136021517: 	draw	content	{"x":536,"y":258}
+1470136021534: 	draw	content	{"x":537,"y":259}
+1470136021534: 	draw	content	{"x":537,"y":259}
+1470136021542: 	draw	content	{"x":538,"y":259}
+1470136021541: 	draw	content	{"x":538,"y":259}
+1470136021550: 	draw	content	{"x":539,"y":260}
+1470136021550: 	draw	content	{"x":539,"y":260}
+1470136021558: 	draw	content	{"x":540,"y":261}
+1470136021559: 	draw	content	{"x":540,"y":261}
+1470136021567: 	draw	content	{"x":541,"y":262}
+1470136021568: 	draw	content	{"x":541,"y":262}
+1470136021575: 	draw	content	{"x":542,"y":263}
+1470136021575: 	draw	content	{"x":542,"y":263}
+1470136021583: 	draw	content	{"x":544,"y":265}
+1470136021584: 	draw	content	{"x":544,"y":265}
+1470136021592: 	draw	content	{"x":546,"y":267}
+1470136021592: 	draw	content	{"x":546,"y":267}
+1470136021600: 	draw	content	{"x":547,"y":268}
+1470136021601: 	draw	content	{"x":547,"y":268}
+1470136021608: 	draw	content	{"x":549,"y":269}
+1470136021609: 	draw	content	{"x":549,"y":269}
+1470136021616: 	draw	content	{"x":552,"y":270}
+1470136021617: 	draw	content	{"x":552,"y":270}
+1470136021626: 	draw	content	{"x":555,"y":271}
+1470136021627: 	draw	content	{"x":555,"y":271}
+1470136021634: 	draw	content	{"x":559,"y":272}
+1470136021634: 	draw	content	{"x":559,"y":272}
+1470136021641: 	draw	content	{"x":564,"y":272}
+1470136021643: 	draw	content	{"x":564,"y":272}
+1470136021650: 	draw	content	{"x":568,"y":272}
+1470136021651: 	draw	content	{"x":568,"y":272}
+1470136021659: 	draw	content	{"x":571,"y":271}
+1470136021660: 	draw	content	{"x":571,"y":271}
+1470136021666: 	draw	content	{"x":575,"y":269}
+1470136021667: 	draw	content	{"x":575,"y":269}
+1470136021676: 	draw	content	{"x":578,"y":268}
+1470136021677: 	draw	content	{"x":578,"y":268}
+1470136021683: 	draw	content	{"x":583,"y":266}
+1470136021684: 	draw	content	{"x":583,"y":266}
+1470136021691: 	draw	content	{"x":587,"y":263}
+1470136021692: 	draw	content	{"x":587,"y":263}
+1470136021701: 	draw	content	{"x":589,"y":262}
+1470136021702: 	draw	content	{"x":589,"y":262}
+1470136021709: 	draw	content	{"x":592,"y":260}
+1470136021709: 	draw	content	{"x":592,"y":260}
+1470136021716: 	draw	content	{"x":594,"y":259}
+1470136021717: 	draw	content	{"x":594,"y":259}
+1470136021726: 	draw	content	{"x":596,"y":258}
+1470136021727: 	draw	content	{"x":596,"y":258}
+1470136021733: 	draw	content	{"x":598,"y":257}
+1470136021734: 	draw	content	{"x":598,"y":257}
+1470136021741: 	draw	content	{"x":599,"y":257}
+1470136021741: 	draw	content	{"x":599,"y":257}
+1470136021752: 	draw	content	{"x":600,"y":257}
+1470136021752: 	draw	content	{"x":600,"y":257}
+1470136021767: 	draw	content	{"x":601,"y":257}
+1470136021768: 	draw	content	{"x":601,"y":257}
+1470136021776: 	draw	content	{"x":602,"y":257}
+1470136021776: 	draw	content	{"x":602,"y":257}
+1470136021801: 	draw	content	{"x":603,"y":257}
+1470136021801: 	draw	content	{"x":603,"y":257}
+1470136021808: 	draw	content	{"x":604,"y":257}
+1470136021809: 	draw	content	{"x":604,"y":257}
+1470136021816: 	draw	content	{"x":605,"y":258}
+1470136021817: 	draw	content	{"x":605,"y":258}
+1470136021825: 	draw	content	{"x":607,"y":261}
+1470136021826: 	draw	content	{"x":607,"y":261}
+1470136021833: 	draw	content	{"x":609,"y":265}
+1470136021834: 	draw	content	{"x":609,"y":265}
+1470136021841: 	draw	content	{"x":610,"y":269}
+1470136021842: 	draw	content	{"x":610,"y":269}
+1470136021854: 	draw	content	{"x":612,"y":273}
+1470136021855: 	draw	content	{"x":612,"y":273}
+1470136021859: 	draw	content	{"x":613,"y":277}
+1470136021860: 	draw	content	{"x":613,"y":277}
+1470136021866: 	draw	content	{"x":614,"y":278}
+1470136021867: 	draw	content	{"x":614,"y":278}
+1470136021880: 	draw	content	{"x":616,"y":280}
+1470136021883: 	draw	content	{"x":616,"y":280}
+1470136021891: 	draw	content	{"x":617,"y":281}
+1470136021892: 	draw	content	{"x":617,"y":281}
+1470136021894: 	draw	content	{"x":619,"y":281}
+1470136021895: 	draw	content	{"x":619,"y":281}
+1470136021901: 	draw	content	{"x":621,"y":282}
+1470136021902: 	draw	content	{"x":621,"y":282}
+1470136021908: 	draw	content	{"x":623,"y":282}
+1470136021909: 	draw	content	{"x":623,"y":282}
+1470136021918: 	draw	content	{"x":626,"y":281}
+1470136021919: 	draw	content	{"x":626,"y":281}
+1470136021926: 	draw	content	{"x":630,"y":280}
+1470136021926: 	draw	content	{"x":630,"y":280}
+1470136021933: 	draw	content	{"x":633,"y":278}
+1470136021934: 	draw	content	{"x":633,"y":278}
+1470136021941: 	draw	content	{"x":636,"y":275}
+1470136021942: 	draw	content	{"x":636,"y":275}
+1470136021950: 	draw	content	{"x":638,"y":273}
+1470136021951: 	draw	content	{"x":638,"y":273}
+1470136021958: 	draw	content	{"x":641,"y":271}
+1470136021959: 	draw	content	{"x":641,"y":271}
+1470136021966: 	draw	content	{"x":643,"y":270}
+1470136021967: 	draw	content	{"x":643,"y":270}
+1470136021975: 	draw	content	{"x":645,"y":268}
+1470136021976: 	draw	content	{"x":645,"y":268}
+1470136021982: 	draw	content	{"x":648,"y":267}
+1470136021983: 	draw	content	{"x":648,"y":267}
+1470136021991: 	draw	content	{"x":650,"y":266}
+1470136021992: 	draw	content	{"x":650,"y":266}
+1470136022001: 	draw	content	{"x":651,"y":265}
+1470136022001: 	draw	content	{"x":651,"y":265}
+1470136022008: 	draw	content	{"x":653,"y":265}
+1470136022009: 	draw	content	{"x":653,"y":265}
+1470136022017: 	draw	content	{"x":654,"y":264}
+1470136022018: 	draw	content	{"x":654,"y":264}
+1470136022025: 	draw	content	{"x":655,"y":264}
+1470136022025: 	draw	content	{"x":655,"y":264}
+1470136022033: 	draw	content	{"x":656,"y":265}
+1470136022034: 	draw	content	{"x":656,"y":265}
+1470136022042: 	draw	content	{"x":658,"y":265}
+1470136022043: 	draw	content	{"x":658,"y":265}
+1470136022050: 	draw	content	{"x":660,"y":267}
+1470136022051: 	draw	content	{"x":660,"y":267}
+1470136022058: 	draw	content	{"x":663,"y":269}
+1470136022059: 	draw	content	{"x":663,"y":269}
+1470136022067: 	draw	content	{"x":665,"y":272}
+1470136022068: 	draw	content	{"x":665,"y":272}
+1470136022075: 	draw	content	{"x":667,"y":274}
+1470136022076: 	draw	content	{"x":667,"y":274}
+1470136022083: 	draw	content	{"x":669,"y":275}
+1470136022084: 	draw	content	{"x":669,"y":275}
+1470136022091: 	draw	content	{"x":670,"y":277}
+1470136022092: 	draw	content	{"x":670,"y":277}
+1470136022100: 	draw	content	{"x":672,"y":278}
+1470136022101: 	draw	content	{"x":672,"y":278}
+1470136022108: 	draw	content	{"x":674,"y":280}
+1470136022109: 	draw	content	{"x":674,"y":280}
+1470136022116: 	draw	content	{"x":676,"y":281}
+1470136022117: 	draw	content	{"x":676,"y":281}
+1470136022125: 	draw	content	{"x":678,"y":282}
+1470136022126: 	draw	content	{"x":678,"y":282}
+1470136022133: 	draw	content	{"x":681,"y":283}
+1470136022134: 	draw	content	{"x":681,"y":283}
+1470136022141: 	draw	content	{"x":683,"y":283}
+1470136022142: 	draw	content	{"x":683,"y":283}
+1470136022151: 	draw	content	{"x":686,"y":283}
+1470136022152: 	draw	content	{"x":686,"y":283}
+1470136022158: 	draw	content	{"x":689,"y":282}
+1470136022159: 	draw	content	{"x":689,"y":282}
+1470136022166: 	draw	content	{"x":694,"y":280}
+1470136022167: 	draw	content	{"x":694,"y":280}
+1470136023343: 	acted on	less
+1470136023552: 	acted on	less
+1470136023727: 	acted on	less
+1470136023902: 	acted on	less
+1470136024077: 	acted on	less
+1470136024311: 	acted on	less
+1470136024519: 	acted on	less
+1470136024744: 	acted on	less
+1470136024944: 	acted on	less
+1470136025110: 	acted on	less
+1470136025227: 	acted on	less
+1470136025544: 	acted on	content
+1470136025545: 	draw	content	{"x":696,"y":53}
+1470136025546: 	draw	content	{"x":696,"y":53}
+1470136025602: 	draw	content	{"x":714,"y":60}
+1470136025602: 	draw	content	{"x":714,"y":60}
+1470136025608: 	draw	content	{"x":719,"y":62}
+1470136025609: 	draw	content	{"x":719,"y":62}
+1470136025617: 	draw	content	{"x":724,"y":64}
+1470136025618: 	draw	content	{"x":724,"y":64}
+1470136025626: 	draw	content	{"x":727,"y":65}
+1470136025627: 	draw	content	{"x":727,"y":65}
+1470136025634: 	draw	content	{"x":731,"y":67}
+1470136025634: 	draw	content	{"x":731,"y":67}
+1470136025642: 	draw	content	{"x":735,"y":69}
+1470136025643: 	draw	content	{"x":735,"y":69}
+1470136025650: 	draw	content	{"x":738,"y":71}
+1470136025651: 	draw	content	{"x":738,"y":71}
+1470136025659: 	draw	content	{"x":741,"y":73}
+1470136025660: 	draw	content	{"x":741,"y":73}
+1470136025668: 	draw	content	{"x":743,"y":75}
+1470136025668: 	draw	content	{"x":743,"y":75}
+1470136025676: 	draw	content	{"x":746,"y":77}
+1470136025677: 	draw	content	{"x":746,"y":77}
+1470136025684: 	draw	content	{"x":748,"y":79}
+1470136025684: 	draw	content	{"x":748,"y":79}
+1470136025693: 	draw	content	{"x":750,"y":80}
+1470136025693: 	draw	content	{"x":750,"y":80}
+1470136025702: 	draw	content	{"x":753,"y":81}
+1470136025702: 	draw	content	{"x":753,"y":81}
+1470136025708: 	draw	content	{"x":755,"y":83}
+1470136025709: 	draw	content	{"x":755,"y":83}
+1470136025719: 	draw	content	{"x":758,"y":85}
+1470136025719: 	draw	content	{"x":758,"y":85}
+1470136025726: 	draw	content	{"x":759,"y":87}
+1470136025727: 	draw	content	{"x":759,"y":87}
+1470136025734: 	draw	content	{"x":760,"y":90}
+1470136025734: 	draw	content	{"x":760,"y":90}
+1470136025743: 	draw	content	{"x":761,"y":92}
+1470136025744: 	draw	content	{"x":761,"y":92}
+1470136025750: 	draw	content	{"x":761,"y":96}
+1470136025750: 	draw	content	{"x":761,"y":96}
+1470136025758: 	draw	content	{"x":761,"y":98}
+1470136025759: 	draw	content	{"x":761,"y":98}
+1470136025769: 	draw	content	{"x":760,"y":101}
+1470136025770: 	draw	content	{"x":760,"y":101}
+1470136025776: 	draw	content	{"x":759,"y":103}
+1470136025777: 	draw	content	{"x":759,"y":103}
+1470136025785: 	draw	content	{"x":759,"y":106}
+1470136025785: 	draw	content	{"x":759,"y":106}
+1470136025792: 	draw	content	{"x":759,"y":109}
+1470136025793: 	draw	content	{"x":759,"y":109}
+1470136025800: 	draw	content	{"x":760,"y":110}
+1470136025801: 	draw	content	{"x":760,"y":110}
+1470136025808: 	draw	content	{"x":761,"y":114}
+1470136025809: 	draw	content	{"x":761,"y":114}
+1470136025819: 	draw	content	{"x":762,"y":116}
+1470136025820: 	draw	content	{"x":762,"y":116}
+1470136025826: 	draw	content	{"x":764,"y":120}
+1470136025827: 	draw	content	{"x":764,"y":120}
+1470136025834: 	draw	content	{"x":766,"y":121}
+1470136025835: 	draw	content	{"x":766,"y":121}
+1470136025843: 	draw	content	{"x":769,"y":124}
+1470136025844: 	draw	content	{"x":769,"y":124}
+1470136025851: 	draw	content	{"x":774,"y":129}
+1470136025851: 	draw	content	{"x":774,"y":129}
+1470136025859: 	draw	content	{"x":776,"y":132}
+1470136025860: 	draw	content	{"x":776,"y":132}
+1470136025868: 	draw	content	{"x":781,"y":134}
+1470136025869: 	draw	content	{"x":781,"y":134}
+1470136025876: 	draw	content	{"x":785,"y":136}
+1470136025877: 	draw	content	{"x":785,"y":136}
+1470136025884: 	draw	content	{"x":787,"y":138}
+1470136025884: 	draw	content	{"x":787,"y":138}
+1470136025893: 	draw	content	{"x":790,"y":140}
+1470136025894: 	draw	content	{"x":790,"y":140}
+1470136025900: 	draw	content	{"x":793,"y":142}
+1470136025901: 	draw	content	{"x":793,"y":142}
+1470136025908: 	draw	content	{"x":796,"y":144}
+1470136025909: 	draw	content	{"x":796,"y":144}
+1470136025918: 	draw	content	{"x":799,"y":145}
+1470136025918: 	draw	content	{"x":799,"y":145}
+1470136025926: 	draw	content	{"x":800,"y":147}
+1470136025926: 	draw	content	{"x":800,"y":147}
+1470136025934: 	draw	content	{"x":801,"y":148}
+1470136025934: 	draw	content	{"x":801,"y":148}
+1470136025945: 	draw	content	{"x":802,"y":149}
+1470136025945: 	draw	content	{"x":802,"y":149}
+1470136025951: 	draw	content	{"x":803,"y":150}
+1470136025952: 	draw	content	{"x":803,"y":150}
+1470136025968: 	draw	content	{"x":804,"y":152}
+1470136025969: 	draw	content	{"x":804,"y":152}
+1470136025976: 	draw	content	{"x":804,"y":154}
+1470136025977: 	draw	content	{"x":804,"y":154}
+1470136025984: 	draw	content	{"x":804,"y":156}
+1470136025984: 	draw	content	{"x":804,"y":156}
+1470136025992: 	draw	content	{"x":804,"y":159}
+1470136025993: 	draw	content	{"x":804,"y":159}
+1470136026001: 	draw	content	{"x":804,"y":161}
+1470136026001: 	draw	content	{"x":804,"y":161}
+1470136026009: 	draw	content	{"x":804,"y":163}
+1470136026010: 	draw	content	{"x":804,"y":163}
+1470136026018: 	draw	content	{"x":804,"y":165}
+1470136026019: 	draw	content	{"x":804,"y":165}
+1470136026027: 	draw	content	{"x":804,"y":168}
+1470136026027: 	draw	content	{"x":804,"y":168}
+1470136026033: 	draw	content	{"x":806,"y":170}
+1470136026034: 	draw	content	{"x":806,"y":170}
+1470136026042: 	draw	content	{"x":807,"y":173}
+1470136026043: 	draw	content	{"x":807,"y":173}
+1470136026051: 	draw	content	{"x":809,"y":176}
+1470136026052: 	draw	content	{"x":809,"y":176}
+1470136026059: 	draw	content	{"x":810,"y":178}
+1470136026059: 	draw	content	{"x":810,"y":178}
+1470136026068: 	draw	content	{"x":812,"y":180}
+1470136026069: 	draw	content	{"x":812,"y":180}
+1470136026076: 	draw	content	{"x":813,"y":182}
+1470136026077: 	draw	content	{"x":813,"y":182}
+1470136026083: 	draw	content	{"x":815,"y":184}
+1470136026084: 	draw	content	{"x":815,"y":184}
+1470136026093: 	draw	content	{"x":816,"y":186}
+1470136026094: 	draw	content	{"x":816,"y":186}
+1470136026101: 	draw	content	{"x":818,"y":188}
+1470136026102: 	draw	content	{"x":818,"y":188}
+1470136026110: 	draw	content	{"x":819,"y":191}
+1470136026110: 	draw	content	{"x":819,"y":191}
+1470136026117: 	draw	content	{"x":820,"y":195}
+1470136026118: 	draw	content	{"x":820,"y":195}
+1470136026126: 	draw	content	{"x":821,"y":198}
+1470136026127: 	draw	content	{"x":821,"y":198}
+1470136026133: 	draw	content	{"x":821,"y":202}
+1470136026134: 	draw	content	{"x":821,"y":202}
+1470136026143: 	draw	content	{"x":822,"y":204}
+1470136026144: 	draw	content	{"x":822,"y":204}
+1470136026770: 	acted on	less
+1470136026928: 	acted on	less
+1470136027094: 	acted on	less
+1470136027535: 	acted on	less
+1470136027760: 	acted on	less
+1470136027969: 	acted on	less
+1470136028485: 	acted on	content
+1470136028486: 	draw	content	{"x":676,"y":114}
+1470136028486: 	draw	content	{"x":676,"y":114}
+1470136028535: 	draw	content	{"x":691,"y":128}
+1470136028536: 	draw	content	{"x":691,"y":128}
+1470136028542: 	draw	content	{"x":695,"y":130}
+1470136028542: 	draw	content	{"x":695,"y":130}
+1470136028550: 	draw	content	{"x":699,"y":133}
+1470136028551: 	draw	content	{"x":699,"y":133}
+1470136028559: 	draw	content	{"x":704,"y":135}
+1470136028560: 	draw	content	{"x":704,"y":135}
+1470136028567: 	draw	content	{"x":710,"y":139}
+1470136028568: 	draw	content	{"x":710,"y":139}
+1470136028575: 	draw	content	{"x":714,"y":142}
+1470136028575: 	draw	content	{"x":714,"y":142}
+1470136028584: 	draw	content	{"x":717,"y":144}
+1470136028584: 	draw	content	{"x":717,"y":144}
+1470136028593: 	draw	content	{"x":720,"y":147}
+1470136028594: 	draw	content	{"x":720,"y":147}
+1470136028600: 	draw	content	{"x":722,"y":149}
+1470136028601: 	draw	content	{"x":722,"y":149}
+1470136028610: 	draw	content	{"x":725,"y":152}
+1470136028611: 	draw	content	{"x":725,"y":152}
+1470136028618: 	draw	content	{"x":727,"y":155}
+1470136028618: 	draw	content	{"x":727,"y":155}
+1470136028625: 	draw	content	{"x":729,"y":158}
+1470136028626: 	draw	content	{"x":729,"y":158}
+1470136028634: 	draw	content	{"x":730,"y":161}
+1470136028635: 	draw	content	{"x":730,"y":161}
+1470136028642: 	draw	content	{"x":729,"y":165}
+1470136028643: 	draw	content	{"x":729,"y":165}
+1470136028650: 	draw	content	{"x":729,"y":168}
+1470136028651: 	draw	content	{"x":729,"y":168}
+1470136028659: 	draw	content	{"x":729,"y":171}
+1470136028660: 	draw	content	{"x":729,"y":171}
+1470136028667: 	draw	content	{"x":728,"y":174}
+1470136028667: 	draw	content	{"x":728,"y":174}
+1470136028675: 	draw	content	{"x":727,"y":178}
+1470136028676: 	draw	content	{"x":727,"y":178}
+1470136028684: 	draw	content	{"x":727,"y":179}
+1470136028685: 	draw	content	{"x":727,"y":179}
+1470136028692: 	draw	content	{"x":728,"y":182}
+1470136028693: 	draw	content	{"x":728,"y":182}
+1470136028700: 	draw	content	{"x":729,"y":185}
+1470136028701: 	draw	content	{"x":729,"y":185}
+1470136028708: 	draw	content	{"x":731,"y":187}
+1470136028709: 	draw	content	{"x":731,"y":187}
+1470136028717: 	draw	content	{"x":735,"y":191}
+1470136028717: 	draw	content	{"x":735,"y":191}
+1470136028725: 	draw	content	{"x":740,"y":195}
+1470136028726: 	draw	content	{"x":740,"y":195}
+1470136028734: 	draw	content	{"x":744,"y":197}
+1470136028735: 	draw	content	{"x":744,"y":197}
+1470136028742: 	draw	content	{"x":749,"y":200}
+1470136028743: 	draw	content	{"x":749,"y":200}
+1470136028750: 	draw	content	{"x":754,"y":202}
+1470136028751: 	draw	content	{"x":754,"y":202}
+1470136028759: 	draw	content	{"x":759,"y":205}
+1470136028760: 	draw	content	{"x":759,"y":205}
+1470136028771: 	draw	content	{"x":764,"y":207}
+1470136028772: 	draw	content	{"x":764,"y":207}
+1470136028781: 	draw	content	{"x":769,"y":210}
+1470136028782: 	draw	content	{"x":769,"y":210}
+1470136028785: 	draw	content	{"x":773,"y":212}
+1470136028786: 	draw	content	{"x":773,"y":212}
+1470136028794: 	draw	content	{"x":775,"y":213}
+1470136028794: 	draw	content	{"x":775,"y":213}
+1470136028801: 	draw	content	{"x":778,"y":215}
+1470136028802: 	draw	content	{"x":778,"y":215}
+1470136028809: 	draw	content	{"x":781,"y":217}
+1470136028810: 	draw	content	{"x":781,"y":217}
+1470136028817: 	draw	content	{"x":783,"y":220}
+1470136028818: 	draw	content	{"x":783,"y":220}
+1470136028825: 	draw	content	{"x":784,"y":222}
+1470136028825: 	draw	content	{"x":784,"y":222}
+1470136028834: 	draw	content	{"x":786,"y":225}
+1470136028834: 	draw	content	{"x":786,"y":225}
+1470136028842: 	draw	content	{"x":786,"y":227}
+1470136028843: 	draw	content	{"x":786,"y":227}
+1470136028850: 	draw	content	{"x":787,"y":229}
+1470136028850: 	draw	content	{"x":787,"y":229}
+1470136028860: 	draw	content	{"x":787,"y":232}
+1470136028860: 	draw	content	{"x":787,"y":232}
+1470136028866: 	draw	content	{"x":786,"y":234}
+1470136028867: 	draw	content	{"x":786,"y":234}
+1470136028875: 	draw	content	{"x":786,"y":236}
+1470136028876: 	draw	content	{"x":786,"y":236}
+1470136028884: 	draw	content	{"x":785,"y":238}
+1470136028885: 	draw	content	{"x":785,"y":238}
+1470136028892: 	draw	content	{"x":784,"y":240}
+1470136028893: 	draw	content	{"x":784,"y":240}
+1470136028900: 	draw	content	{"x":784,"y":242}
+1470136028901: 	draw	content	{"x":784,"y":242}
+1470136028909: 	draw	content	{"x":784,"y":244}
+1470136028910: 	draw	content	{"x":784,"y":244}
+1470136028916: 	draw	content	{"x":784,"y":246}
+1470136028917: 	draw	content	{"x":784,"y":246}
+1470136028925: 	draw	content	{"x":784,"y":248}
+1470136028925: 	draw	content	{"x":784,"y":248}
+1470136028934: 	draw	content	{"x":785,"y":250}
+1470136028934: 	draw	content	{"x":785,"y":250}
+1470136028944: 	draw	content	{"x":787,"y":253}
+1470136028945: 	draw	content	{"x":787,"y":253}
+1470136028949: 	draw	content	{"x":790,"y":256}
+1470136028950: 	draw	content	{"x":790,"y":256}
+1470136028959: 	draw	content	{"x":793,"y":258}
+1470136028960: 	draw	content	{"x":793,"y":258}
+1470136028966: 	draw	content	{"x":796,"y":262}
+1470136028967: 	draw	content	{"x":796,"y":262}
+1470136028976: 	draw	content	{"x":799,"y":265}
+1470136028976: 	draw	content	{"x":799,"y":265}
+1470136028984: 	draw	content	{"x":802,"y":268}
+1470136028985: 	draw	content	{"x":802,"y":268}
+1470136028993: 	draw	content	{"x":805,"y":269}
+1470136028994: 	draw	content	{"x":805,"y":269}
+1470136028999: 	draw	content	{"x":809,"y":272}
+1470136029000: 	draw	content	{"x":809,"y":272}
+1470136029009: 	draw	content	{"x":814,"y":276}
+1470136029010: 	draw	content	{"x":814,"y":276}
+1470136029017: 	draw	content	{"x":818,"y":279}
+1470136029017: 	draw	content	{"x":818,"y":279}
+1470136031639: 	acted on	circle
+1470136031743: 	selected	null
+1470136031744: 	mode	circle
+1470136031745: 	selected	null
+1470136032678: 	acted on	content
+1470136032768: 	shape started	{"x":217,"y":192}
+1470136032769: 	shape continued	10	circle
+1470136032770: 	selected	shape-1470136032768
+1470136032778: 	shape continued	10	circle
+1470136032780: 	selected	shape-1470136032768
+1470136032785: 	shape continued	10	circle
+1470136032786: 	selected	shape-1470136032768
+1470136032792: 	shape continued	10	circle
+1470136032793: 	selected	shape-1470136032768
+1470136032802: 	shape continued	11	circle
+1470136032803: 	selected	shape-1470136032768
+1470136032809: 	shape continued	14	circle
+1470136032810: 	selected	shape-1470136032768
+1470136032817: 	shape continued	17	circle
+1470136032818: 	selected	shape-1470136032768
+1470136032826: 	shape continued	20	circle
+1470136032827: 	selected	shape-1470136032768
+1470136032834: 	shape continued	23	circle
+1470136032835: 	selected	shape-1470136032768
+1470136032842: 	shape continued	26	circle
+1470136032843: 	selected	shape-1470136032768
+1470136032851: 	shape continued	28	circle
+1470136032853: 	selected	shape-1470136032768
+1470136032859: 	shape continued	30	circle
+1470136032860: 	selected	shape-1470136032768
+1470136032867: 	shape continued	34	circle
+1470136032869: 	selected	shape-1470136032768
+1470136032876: 	shape continued	35	circle
+1470136032878: 	selected	shape-1470136032768
+1470136032885: 	shape continued	37	circle
+1470136032886: 	selected	shape-1470136032768
+1470136032892: 	shape continued	39	circle
+1470136032893: 	selected	shape-1470136032768
+1470136032901: 	shape continued	41	circle
+1470136032902: 	selected	shape-1470136032768
+1470136032909: 	shape continued	42	circle
+1470136032911: 	selected	shape-1470136032768
+1470136032917: 	shape continued	44	circle
+1470136032919: 	selected	shape-1470136032768
+1470136032926: 	shape continued	45	circle
+1470136032927: 	selected	shape-1470136032768
+1470136032934: 	shape continued	45	circle
+1470136032935: 	selected	shape-1470136032768
+1470136032942: 	shape continued	46	circle
+1470136032943: 	selected	shape-1470136032768
+1470136032950: 	shape continued	47	circle
+1470136032952: 	selected	shape-1470136032768
+1470136032967: 	shape continued	48	circle
+1470136032969: 	selected	shape-1470136032768
+1470136032976: 	shape continued	49	circle
+1470136032977: 	selected	shape-1470136032768
+1470136032984: 	shape continued	50	circle
+1470136032985: 	selected	shape-1470136032768
+1470136032992: 	shape continued	51	circle
+1470136032993: 	selected	shape-1470136032768
+1470136033000: 	shape continued	52	circle
+1470136033002: 	selected	shape-1470136032768
+1470136033017: 	shape continued	53	circle
+1470136033019: 	selected	shape-1470136032768
+1470136033034: 	shape continued	54	circle
+1470136033036: 	selected	shape-1470136032768
+1470136033067: 	shape continued	55	circle
+1470136033069: 	selected	shape-1470136032768
+1470136033118: 	shape continued	55	circle
+1470136033119: 	selected	shape-1470136032768
+1470136033167: 	shape continued	56	circle
+1470136033169: 	selected	shape-1470136032768
+1470136033244: 	selected	shape-1470136032768
+1470136033869: 	acted on	colorPicker
+1470136034728: 	acted on	#00CC66
+1470136034802: 	sub-instrument	#00CC66		false
+1470136034802: 	changed color	shape-1470136032768	rgb(0, 0, 240)
+1470136036528: 	acted on	shape-1470136015218
+1470136036530: 	selected	shape-1470136015218
+1470136038835: 	acted on	colorPicker
+1470136039860: 	acted on	#00CC99
+1470136039968: 	sub-instrument	#00CC99		false
+1470136039969: 	changed color	shape-1470136015218	rgb(0, 229, 229)
+1470136042335: 	acted on	draw
+1470136042435: 	selected	null
+1470136042436: 	mode	draw
+1470136044010: 	acted on	image-11
+1470136044012: 	draw	image-11	{"x":32,"y":147}
+1470136044012: 	draw	image-11	{"x":32,"y":147}
+1470136044084: 	draw	image-11	{"x":46,"y":139}
+1470136044085: 	draw	image-11	{"x":46,"y":139}
+1470136044092: 	draw	image-11	{"x":49,"y":137}
+1470136044092: 	draw	image-11	{"x":49,"y":137}
+1470136044100: 	draw	image-11	{"x":52,"y":136}
+1470136044100: 	draw	image-11	{"x":52,"y":136}
+1470136044111: 	draw	image-11	{"x":56,"y":134}
+1470136044112: 	draw	image-11	{"x":56,"y":134}
+1470136044117: 	draw	image-11	{"x":59,"y":130}
+1470136044118: 	draw	image-11	{"x":59,"y":130}
+1470136044125: 	draw	image-11	{"x":61,"y":128}
+1470136044126: 	draw	image-11	{"x":61,"y":128}
+1470136044136: 	draw	image-11	{"x":63,"y":125}
+1470136044137: 	draw	image-11	{"x":63,"y":125}
+1470136044143: 	draw	image-11	{"x":65,"y":123}
+1470136044144: 	draw	image-11	{"x":65,"y":123}
+1470136044150: 	draw	image-11	{"x":67,"y":120}
+1470136044150: 	draw	image-11	{"x":67,"y":120}
+1470136044158: 	draw	image-11	{"x":67,"y":119}
+1470136044159: 	draw	image-11	{"x":67,"y":119}
+1470136044168: 	draw	image-11	{"x":67,"y":118}
+1470136044168: 	draw	image-11	{"x":67,"y":118}
+1470136044175: 	draw	image-11	{"x":68,"y":117}
+1470136044176: 	draw	image-11	{"x":68,"y":117}
+1470136044193: 	draw	image-11	{"x":68,"y":116}
+1470136044193: 	draw	image-11	{"x":68,"y":116}
+1470136044200: 	draw	image-11	{"x":67,"y":116}
+1470136044201: 	draw	image-11	{"x":67,"y":116}
+1470136044209: 	draw	image-11	{"x":67,"y":115}
+1470136044209: 	draw	image-11	{"x":67,"y":115}
+1470136044216: 	draw	image-11	{"x":66,"y":114}
+1470136044216: 	draw	image-11	{"x":66,"y":114}
+1470136044225: 	draw	image-11	{"x":64,"y":112}
+1470136044226: 	draw	image-11	{"x":64,"y":112}
+1470136044234: 	draw	image-11	{"x":61,"y":111}
+1470136044234: 	draw	image-11	{"x":61,"y":111}
+1470136044241: 	draw	image-11	{"x":58,"y":109}
+1470136044242: 	draw	image-11	{"x":58,"y":109}
+1470136044250: 	draw	image-11	{"x":56,"y":108}
+1470136044251: 	draw	image-11	{"x":56,"y":108}
+1470136044259: 	draw	image-11	{"x":53,"y":107}
+1470136044260: 	draw	image-11	{"x":53,"y":107}
+1470136044266: 	draw	image-11	{"x":51,"y":106}
+1470136044267: 	draw	image-11	{"x":51,"y":106}
+1470136044274: 	draw	image-11	{"x":49,"y":105}
+1470136044275: 	draw	image-11	{"x":49,"y":105}
+1470136044284: 	draw	image-11	{"x":47,"y":105}
+1470136044285: 	draw	image-11	{"x":47,"y":105}
+1470136044291: 	draw	image-11	{"x":46,"y":105}
+1470136044292: 	draw	image-11	{"x":46,"y":105}
+1470136044299: 	draw	image-11	{"x":45,"y":105}
+1470136044300: 	draw	image-11	{"x":45,"y":105}
+1470136044310: 	draw	image-11	{"x":44,"y":105}
+1470136044310: 	draw	image-11	{"x":44,"y":105}
+1470136044317: 	draw	image-11	{"x":43,"y":105}
+1470136044318: 	draw	image-11	{"x":43,"y":105}
+1470136044325: 	draw	image-11	{"x":42,"y":105}
+1470136044326: 	draw	image-11	{"x":42,"y":105}
+1470136044333: 	draw	image-11	{"x":41,"y":105}
+1470136044334: 	draw	image-11	{"x":41,"y":105}
+1470136044342: 	draw	image-11	{"x":40,"y":105}
+1470136044343: 	draw	image-11	{"x":40,"y":105}
+1470136044360: 	draw	image-11	{"x":38,"y":104}
+1470136044361: 	draw	image-11	{"x":38,"y":104}
+1470136044366: 	draw	image-11	{"x":37,"y":104}
+1470136044367: 	draw	image-11	{"x":37,"y":104}
+1470136044400: 	draw	image-11	{"x":36,"y":104}
+1470136044401: 	draw	image-11	{"x":36,"y":104}
+1470136044434: 	draw	image-11	{"x":36,"y":103}
+1470136044435: 	draw	image-11	{"x":36,"y":103}
+1470136044442: 	draw	image-11	{"x":37,"y":102}
+1470136044442: 	draw	image-11	{"x":37,"y":102}
+1470136044451: 	draw	image-11	{"x":40,"y":97}
+1470136044451: 	draw	image-11	{"x":40,"y":97}
+1470136044460: 	draw	image-11	{"x":43,"y":96}
+1470136044460: 	draw	image-11	{"x":43,"y":96}
+1470136044467: 	draw	image-11	{"x":46,"y":94}
+1470136044468: 	draw	image-11	{"x":46,"y":94}
+1470136044475: 	draw	image-11	{"x":49,"y":93}
+1470136044476: 	draw	image-11	{"x":49,"y":93}
+1470136044485: 	draw	image-11	{"x":53,"y":92}
+1470136044485: 	draw	image-11	{"x":53,"y":92}
+1470136044492: 	draw	image-11	{"x":56,"y":91}
+1470136044493: 	draw	image-11	{"x":56,"y":91}
+1470136044500: 	draw	image-11	{"x":59,"y":91}
+1470136044501: 	draw	image-11	{"x":59,"y":91}
+1470136044509: 	draw	image-11	{"x":62,"y":91}
+1470136044510: 	draw	image-11	{"x":62,"y":91}
+1470136044518: 	draw	image-11	{"x":64,"y":91}
+1470136044519: 	draw	image-11	{"x":64,"y":91}
+1470136044525: 	draw	image-11	{"x":66,"y":92}
+1470136044526: 	draw	image-11	{"x":66,"y":92}
+1470136044534: 	draw	image-11	{"x":68,"y":92}
+1470136044534: 	draw	image-11	{"x":68,"y":92}
+1470136044542: 	draw	image-11	{"x":70,"y":93}
+1470136044543: 	draw	image-11	{"x":70,"y":93}
+1470136044550: 	draw	image-11	{"x":72,"y":94}
+1470136044551: 	draw	image-11	{"x":72,"y":94}
+1470136044559: 	draw	image-11	{"x":72,"y":95}
+1470136044560: 	draw	image-11	{"x":72,"y":95}
+1470136044567: 	draw	image-11	{"x":74,"y":96}
+1470136044568: 	draw	image-11	{"x":74,"y":96}
+1470136044575: 	draw	image-11	{"x":75,"y":98}
+1470136044575: 	draw	image-11	{"x":75,"y":98}
+1470136044585: 	draw	image-11	{"x":76,"y":100}
+1470136044586: 	draw	image-11	{"x":76,"y":100}
+1470136044592: 	draw	image-11	{"x":77,"y":103}
+1470136044593: 	draw	image-11	{"x":77,"y":103}
+1470136044600: 	draw	image-11	{"x":77,"y":104}
+1470136044601: 	draw	image-11	{"x":77,"y":104}
+1470136044609: 	draw	image-11	{"x":78,"y":107}
+1470136044610: 	draw	image-11	{"x":78,"y":107}
+1470136044617: 	draw	image-11	{"x":79,"y":109}
+1470136044618: 	draw	image-11	{"x":79,"y":109}
+1470136044625: 	draw	image-11	{"x":80,"y":112}
+1470136044626: 	draw	image-11	{"x":80,"y":112}
+1470136044634: 	draw	image-11	{"x":80,"y":114}
+1470136044635: 	draw	image-11	{"x":80,"y":114}
+1470136044642: 	draw	image-11	{"x":81,"y":116}
+1470136044643: 	draw	image-11	{"x":81,"y":116}
+1470136044650: 	draw	image-11	{"x":81,"y":118}
+1470136044650: 	draw	image-11	{"x":81,"y":118}
+1470136044660: 	draw	image-11	{"x":81,"y":122}
+1470136044661: 	draw	image-11	{"x":81,"y":122}
+1470136044667: 	draw	image-11	{"x":82,"y":124}
+1470136044668: 	draw	image-11	{"x":82,"y":124}
+1470136044675: 	draw	image-11	{"x":83,"y":126}
+1470136044676: 	draw	image-11	{"x":83,"y":126}
+1470136044684: 	draw	image-11	{"x":84,"y":128}
+1470136044685: 	draw	image-11	{"x":84,"y":128}
+1470136044692: 	draw	image-11	{"x":84,"y":129}
+1470136044693: 	draw	image-11	{"x":84,"y":129}
+1470136044700: 	draw	image-11	{"x":85,"y":131}
+1470136044701: 	draw	image-11	{"x":85,"y":131}
+1470136044709: 	draw	image-11	{"x":86,"y":132}
+1470136044710: 	draw	image-11	{"x":86,"y":132}
+1470136044717: 	draw	image-11	{"x":87,"y":133}
+1470136044718: 	draw	image-11	{"x":87,"y":133}
+1470136044725: 	draw	image-11	{"x":88,"y":135}
+1470136044726: 	draw	image-11	{"x":88,"y":135}
+1470136044734: 	draw	image-11	{"x":90,"y":135}
+1470136044735: 	draw	image-11	{"x":90,"y":135}
+1470136044742: 	draw	image-11	{"x":92,"y":137}
+1470136044743: 	draw	image-11	{"x":92,"y":137}
+1470136044750: 	draw	image-11	{"x":94,"y":138}
+1470136044751: 	draw	image-11	{"x":94,"y":138}
+1470136044759: 	draw	image-11	{"x":96,"y":139}
+1470136044760: 	draw	image-11	{"x":96,"y":139}
+1470136044767: 	draw	image-11	{"x":98,"y":140}
+1470136044768: 	draw	image-11	{"x":98,"y":140}
+1470136044775: 	draw	image-11	{"x":100,"y":140}
+1470136044776: 	draw	image-11	{"x":100,"y":140}
+1470136044784: 	draw	image-11	{"x":103,"y":141}
+1470136044785: 	draw	image-11	{"x":103,"y":141}
+1470136044792: 	draw	image-11	{"x":106,"y":141}
+1470136044793: 	draw	image-11	{"x":106,"y":141}
+1470136044799: 	draw	image-11	{"x":108,"y":141}
+1470136044800: 	draw	image-11	{"x":108,"y":141}
+1470136044810: 	draw	image-11	{"x":111,"y":140}
+1470136044811: 	draw	image-11	{"x":111,"y":140}
+1470136044817: 	draw	image-11	{"x":115,"y":139}
+1470136044817: 	draw	image-11	{"x":115,"y":139}
+1470136044825: 	draw	image-11	{"x":117,"y":138}
+1470136044826: 	draw	image-11	{"x":117,"y":138}
+1470136044834: 	draw	image-11	{"x":119,"y":137}
+1470136044835: 	draw	image-11	{"x":119,"y":137}
+1470136044842: 	draw	image-11	{"x":121,"y":136}
+1470136044843: 	draw	image-11	{"x":121,"y":136}
+1470136044850: 	draw	image-11	{"x":122,"y":135}
+1470136044851: 	draw	image-11	{"x":122,"y":135}
+1470136044860: 	draw	image-11	{"x":123,"y":134}
+1470136044861: 	draw	image-11	{"x":123,"y":134}
+1470136044867: 	draw	image-11	{"x":124,"y":132}
+1470136044868: 	draw	image-11	{"x":124,"y":132}
+1470136044875: 	draw	image-11	{"x":125,"y":131}
+1470136044876: 	draw	image-11	{"x":125,"y":131}
+1470136044884: 	draw	image-11	{"x":125,"y":130}
+1470136044885: 	draw	image-11	{"x":125,"y":130}
+1470136044892: 	draw	image-11	{"x":126,"y":129}
+1470136044893: 	draw	image-11	{"x":126,"y":129}
+1470136044900: 	draw	image-11	{"x":126,"y":127}
+1470136044901: 	draw	image-11	{"x":126,"y":127}
+1470136044910: 	draw	image-11	{"x":125,"y":125}
+1470136044911: 	draw	image-11	{"x":125,"y":125}
+1470136044917: 	draw	image-11	{"x":125,"y":124}
+1470136044918: 	draw	image-11	{"x":125,"y":124}
+1470136044925: 	draw	image-11	{"x":123,"y":122}
+1470136044926: 	draw	image-11	{"x":123,"y":122}
+1470136044934: 	draw	image-11	{"x":122,"y":120}
+1470136044935: 	draw	image-11	{"x":122,"y":120}
+1470136044942: 	draw	image-11	{"x":121,"y":118}
+1470136044943: 	draw	image-11	{"x":121,"y":118}
+1470136044951: 	draw	image-11	{"x":119,"y":117}
+1470136044952: 	draw	image-11	{"x":119,"y":117}
+1470136044959: 	draw	image-11	{"x":117,"y":116}
+1470136044960: 	draw	image-11	{"x":117,"y":116}
+1470136044967: 	draw	image-11	{"x":115,"y":115}
+1470136044968: 	draw	image-11	{"x":115,"y":115}
+1470136044975: 	draw	image-11	{"x":113,"y":113}
+1470136044976: 	draw	image-11	{"x":113,"y":113}
+1470136044984: 	draw	image-11	{"x":111,"y":112}
+1470136044985: 	draw	image-11	{"x":111,"y":112}
+1470136044992: 	draw	image-11	{"x":108,"y":111}
+1470136044993: 	draw	image-11	{"x":108,"y":111}
+1470136045002: 	draw	image-11	{"x":106,"y":110}
+1470136045003: 	draw	image-11	{"x":106,"y":110}
+1470136045009: 	draw	image-11	{"x":104,"y":109}
+1470136045010: 	draw	image-11	{"x":104,"y":109}
+1470136045017: 	draw	image-11	{"x":102,"y":109}
+1470136045018: 	draw	image-11	{"x":102,"y":109}
+1470136045026: 	draw	image-11	{"x":100,"y":108}
+1470136045027: 	draw	image-11	{"x":100,"y":108}
+1470136045033: 	draw	image-11	{"x":98,"y":108}
+1470136045034: 	draw	image-11	{"x":98,"y":108}
+1470136045042: 	draw	image-11	{"x":97,"y":107}
+1470136045044: 	draw	image-11	{"x":97,"y":107}
+1470136045050: 	draw	image-11	{"x":95,"y":107}
+1470136045051: 	draw	image-11	{"x":95,"y":107}
+1470136045059: 	draw	image-11	{"x":94,"y":107}
+1470136045060: 	draw	image-11	{"x":94,"y":107}
+1470136045067: 	draw	image-11	{"x":92,"y":107}
+1470136045068: 	draw	image-11	{"x":92,"y":107}
+1470136045075: 	draw	image-11	{"x":91,"y":106}
+1470136045076: 	draw	image-11	{"x":91,"y":106}
+1470136045092: 	draw	image-11	{"x":90,"y":106}
+1470136045094: 	draw	image-11	{"x":90,"y":106}
+1470136045100: 	draw	image-11	{"x":89,"y":106}
+1470136045101: 	draw	image-11	{"x":89,"y":106}
+1470136045109: 	draw	image-11	{"x":89,"y":105}
+1470136045110: 	draw	image-11	{"x":89,"y":105}
+1470136045117: 	draw	image-11	{"x":88,"y":104}
+1470136045118: 	draw	image-11	{"x":88,"y":104}
+1470136045125: 	draw	image-11	{"x":88,"y":102}
+1470136045126: 	draw	image-11	{"x":88,"y":102}
+1470136045134: 	draw	image-11	{"x":89,"y":99}
+1470136045136: 	draw	image-11	{"x":89,"y":99}
+1470136045142: 	draw	image-11	{"x":90,"y":98}
+1470136045143: 	draw	image-11	{"x":90,"y":98}
+1470136045150: 	draw	image-11	{"x":93,"y":95}
+1470136045151: 	draw	image-11	{"x":93,"y":95}
+1470136045160: 	draw	image-11	{"x":96,"y":93}
+1470136045162: 	draw	image-11	{"x":96,"y":93}
+1470136045167: 	draw	image-11	{"x":100,"y":91}
+1470136045168: 	draw	image-11	{"x":100,"y":91}
+1470136045175: 	draw	image-11	{"x":103,"y":89}
+1470136045176: 	draw	image-11	{"x":103,"y":89}
+1470136045185: 	draw	image-11	{"x":107,"y":88}
+1470136045186: 	draw	image-11	{"x":107,"y":88}
+1470136045192: 	draw	image-11	{"x":110,"y":87}
+1470136045194: 	draw	image-11	{"x":110,"y":87}
+1470136045200: 	draw	image-11	{"x":114,"y":86}
+1470136045201: 	draw	image-11	{"x":114,"y":86}
+1470136045209: 	draw	image-11	{"x":117,"y":86}
+1470136045210: 	draw	image-11	{"x":117,"y":86}
+1470136045217: 	draw	image-11	{"x":120,"y":86}
+1470136045218: 	draw	image-11	{"x":120,"y":86}
+1470136045224: 	draw	image-11	{"x":122,"y":87}
+1470136045226: 	draw	image-11	{"x":122,"y":87}
+1470136045234: 	draw	image-11	{"x":124,"y":87}
+1470136045236: 	draw	image-11	{"x":124,"y":87}
+1470136045243: 	draw	image-11	{"x":126,"y":88}
+1470136045244: 	draw	image-11	{"x":126,"y":88}
+1470136045252: 	draw	image-11	{"x":129,"y":90}
+1470136045253: 	draw	image-11	{"x":129,"y":90}
+1470136045259: 	draw	image-11	{"x":131,"y":92}
+1470136045261: 	draw	image-11	{"x":131,"y":92}
+1470136045267: 	draw	image-11	{"x":132,"y":93}
+1470136045269: 	draw	image-11	{"x":132,"y":93}
+1470136045276: 	draw	image-11	{"x":133,"y":95}
+1470136045278: 	draw	image-11	{"x":133,"y":95}
+1470136045286: 	draw	image-11	{"x":135,"y":97}
+1470136045287: 	draw	image-11	{"x":135,"y":97}
+1470136045295: 	draw	image-11	{"x":137,"y":102}
+1470136045297: 	draw	image-11	{"x":137,"y":102}
+1470136045313: 	draw	image-11	{"x":141,"y":112}
+1470136045315: 	draw	image-11	{"x":141,"y":112}
+1470136045323: 	draw	image-11	{"x":143,"y":120}
+1470136045325: 	draw	image-11	{"x":143,"y":120}
+1470136045346: 	draw	image-11	{"x":149,"y":132}
+1470136045347: 	draw	image-11	{"x":149,"y":132}
+1470136045352: 	draw	image-11	{"x":151,"y":137}
+1470136045353: 	draw	image-11	{"x":151,"y":137}
+1470136045360: 	draw	image-11	{"x":156,"y":147}
+1470136045361: 	draw	image-11	{"x":156,"y":147}
+1470136045384: 	draw	image-11	{"x":168,"y":157}
+1470136045385: 	draw	image-11	{"x":168,"y":157}
+1470136045409: 	draw	image-11	{"x":174,"y":159}
+1470136045410: 	draw	image-11	{"x":174,"y":159}
+1470136047244: 	acted on	copy
+1470136047335: 	selected	null
+1470136048678: 	acted on	copy
+1470136048835: 	selected	null
+1470136049727: 	acted on	shape-1470136015218
+1470136049728: 	draw	shape-1470136015218	{"x":33.5,"y":39.5}
+1470136049729: 	draw	shape-1470136015218	{"x":33.5,"y":39.5}
+1470136050902: 	acted on	paste
+1470136051059: 	pasted	path-1470135982231
+1470136051061: 	pasted	null
+1470136052594: 	acted on	copy
+1470136052801: 	selected	null
+1470136053818: 	acted on	shape-1470136015218
+1470136053819: 	draw	shape-1470136015218	{"x":42.5,"y":35.5}
+1470136053820: 	draw	shape-1470136015218	{"x":42.5,"y":35.5}
+1470136056285: 	acted on	draw
+1470136056401: 	selected	null
+1470136056402: 	mode	null
+1470136057918: 	acted on	copy
+1470136058099: 	selected	null
+1470136058843: 	acted on	shape-1470136015218
+1470136058844: 	selected	shape-1470136015218
+1470136061410: 	acted on	copy
+1470136061634: 	copied	shape-1470136015218
+1470136061635: 	copied	shape-1470136015218
+1470136061636: 	selected	null
+1470136063519: 	acted on	content
+1470136063522: 	selected	null
+1470136064929: 	acted on	paste
+1470136065118: 	pasted	shape-1470136015218-
+1470136065120: 	pasted	null
+1470136068927: 	acted on	copy
+1470136069201: 	selected	null
+1470136069935: 	acted on	copy
+1470136070060: 	selected	null
+1470136071177: 	acted on	shape-1470136013151
+1470136071179: 	selected	shape-1470136013151
+1470136072377: 	acted on	copy
+1470136072551: 	copied	shape-1470136013151
+1470136072552: 	copied	shape-1470136013151
+1470136072553: 	selected	null
+1470136073859: 	acted on	paste
+1470136074001: 	pasted	shape-1470136013151-
+1470136074002: 	pasted	null
+1470136076777: 	acted on	path-1470135960187
+1470136076779: 	selected	path-1470135960187
+1470136078218: 	acted on	delete
+1470136078285: 	cut	path-1470135960187
+1470136078286: 	deleted	path-1470135960187
+1470136079893: 	acted on	content
+1470136079894: 	selected	null
+1470136081275: 	acted on	path-1470136021303
+1470136081277: 	selected	path-1470136021303
+1470136082335: 	acted on	copy
+1470136082459: 	copied	path-1470136021303
+1470136082460: 	copied	path-1470136021303
+1470136082461: 	selected	null
+1470136083610: 	acted on	paste
+1470136083709: 	pasted	path-1470136021303-
+1470136083710: 	pasted	null
+1470136084385: 	acted on	content
+1470136084386: 	selected	null
+1470136087484: 	acted on	shape-1470136013151-1470136074001
+1470136087486: 	selected	shape-1470136013151-1470136074001
+1470136088492: 	acted on	path-1470136021303-1470136083710
+1470136088494: 	selected	path-1470136021303-1470136083710
+1470136088767: 	acted on	path-1470136021303-1470136083710
+1470136088770: 	selected	path-1470136021303-1470136083710
+1470136088867: 	start moving	path-1470136021303-1470136083710	from	{"x":605,"y":276}
+1470136088875: 	moved	path-1470136021303-1470136083710	to	{"x":601,"y":277}
+1470136088882: 	moved	path-1470136021303-1470136083710	to	{"x":596,"y":277}
+1470136088890: 	moved	path-1470136021303-1470136083710	to	{"x":593,"y":278}
+1470136088900: 	moved	path-1470136021303-1470136083710	to	{"x":589,"y":279}
+1470136088908: 	moved	path-1470136021303-1470136083710	to	{"x":587,"y":280}
+1470136088916: 	moved	path-1470136021303-1470136083710	to	{"x":584,"y":280}
+1470136088927: 	moved	path-1470136021303-1470136083710	to	{"x":582,"y":281}
+1470136088933: 	moved	path-1470136021303-1470136083710	to	{"x":580,"y":282}
+1470136088942: 	moved	path-1470136021303-1470136083710	to	{"x":579,"y":282}
+1470136088950: 	moved	path-1470136021303-1470136083710	to	{"x":578,"y":283}
+1470136088958: 	moved	path-1470136021303-1470136083710	to	{"x":577,"y":283}
+1470136088983: 	moved	path-1470136021303-1470136083710	to	{"x":576,"y":283}
+1470136088992: 	moved	path-1470136021303-1470136083710	to	{"x":576,"y":284}
+1470136089343: 	acted on	path-1470136021303-1470136083710
+1470136089345: 	selected	path-1470136021303-1470136083710
+1470136089383: 	start moving	path-1470136021303-1470136083710	from	{"x":622,"y":286}
+1470136089393: 	moved	path-1470136021303-1470136083710	to	{"x":582,"y":298}
+1470136089400: 	moved	path-1470136021303-1470136083710	to	{"x":572,"y":299}
+1470136089409: 	moved	path-1470136021303-1470136083710	to	{"x":559,"y":304}
+1470136089417: 	moved	path-1470136021303-1470136083710	to	{"x":547,"y":306}
+1470136089425: 	moved	path-1470136021303-1470136083710	to	{"x":538,"y":310}
+1470136089434: 	moved	path-1470136021303-1470136083710	to	{"x":530,"y":312}
+1470136089442: 	moved	path-1470136021303-1470136083710	to	{"x":524,"y":314}
+1470136089450: 	moved	path-1470136021303-1470136083710	to	{"x":516,"y":316}
+1470136089457: 	moved	path-1470136021303-1470136083710	to	{"x":510,"y":318}
+1470136089467: 	moved	path-1470136021303-1470136083710	to	{"x":505,"y":319}
+1470136089475: 	moved	path-1470136021303-1470136083710	to	{"x":503,"y":320}
+1470136089483: 	moved	path-1470136021303-1470136083710	to	{"x":501,"y":320}
+1470136089492: 	moved	path-1470136021303-1470136083710	to	{"x":500,"y":321}
+1470136089501: 	moved	path-1470136021303-1470136083710	to	{"x":499,"y":321}
+1470136089507: 	moved	path-1470136021303-1470136083710	to	{"x":499,"y":320}
+1470136089517: 	moved	path-1470136021303-1470136083710	to	{"x":498,"y":320}
+1470136089567: 	moved	path-1470136021303-1470136083710	to	{"x":499,"y":319}
+1470136089575: 	moved	path-1470136021303-1470136083710	to	{"x":503,"y":316}
+1470136089583: 	moved	path-1470136021303-1470136083710	to	{"x":508,"y":314}
+1470136089592: 	moved	path-1470136021303-1470136083710	to	{"x":512,"y":313}
+1470136089600: 	moved	path-1470136021303-1470136083710	to	{"x":515,"y":312}
+1470136089609: 	moved	path-1470136021303-1470136083710	to	{"x":517,"y":311}
+1470136089617: 	moved	path-1470136021303-1470136083710	to	{"x":518,"y":310}
+1470136089624: 	moved	path-1470136021303-1470136083710	to	{"x":520,"y":310}
+1470136089634: 	moved	path-1470136021303-1470136083710	to	{"x":521,"y":309}
+1470136089642: 	moved	path-1470136021303-1470136083710	to	{"x":523,"y":309}
+1470136090293: 	acted on	content
+1470136090294: 	selected	null
+1470136091718: 	acted on	cut
+1470136091826: 	selected	null
+1470136092860: 	acted on	path-1470136021303-1470136083710
+1470136092862: 	selected	path-1470136021303-1470136083710
+1470136093768: 	acted on	cut
+1470136093860: 	cut	path-1470136021303-1470136083710
+1470136093861: 	cut	path-1470136021303-1470136083710
+1470136093862: 	selected	null
+1470136095327: 	acted on	path-1470136021303
+1470136095329: 	selected	path-1470136021303
+1470136096111: 	acted on	delete
+1470136096200: 	cut	path-1470136021303
+1470136096201: 	deleted	path-1470136021303
+1470136097967: 	acted on	content
+1470136097969: 	selected	null
+1470136098409: 	acted on	path-1470136028487
+1470136098411: 	selected	path-1470136028487
+1470136099417: 	acted on	cut
+1470136099510: 	cut	path-1470136028487
+1470136099511: 	cut	path-1470136028487
+1470136099511: 	selected	null
+1470136100959: 	acted on	paste
+1470136101091: 	pasted	path-1470136028487
+1470136101092: 	pasted	null

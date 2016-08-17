@@ -1,0 +1,3208 @@
+1470304503878: 	acted on	content
+1470304503880: 	selected	null
+1470305445156: 	acted on	image-11
+1470305445158: 	selected	image-11
+1470305447114: 	acted on	image-11
+1470305447116: 	selected	image-11
+1470305447154: 	start moving	image-11	from	{"x":91,"y":87}
+1470305447162: 	moved	image-11	to	{"x":758,"y":226}
+1470305447171: 	moved	image-11	to	{"x":750,"y":225}
+1470305447180: 	moved	image-11	to	{"x":740,"y":225}
+1470305447188: 	moved	image-11	to	{"x":728,"y":224}
+1470305447198: 	moved	image-11	to	{"x":719,"y":224}
+1470305447205: 	moved	image-11	to	{"x":705,"y":224}
+1470305447212: 	moved	image-11	to	{"x":693,"y":223}
+1470305447222: 	moved	image-11	to	{"x":681,"y":224}
+1470305447230: 	moved	image-11	to	{"x":667,"y":225}
+1470305447238: 	moved	image-11	to	{"x":654,"y":226}
+1470305447247: 	moved	image-11	to	{"x":641,"y":227}
+1470305447255: 	moved	image-11	to	{"x":627,"y":229}
+1470305447263: 	moved	image-11	to	{"x":614,"y":230}
+1470305447271: 	moved	image-11	to	{"x":599,"y":231}
+1470305447279: 	moved	image-11	to	{"x":585,"y":234}
+1470305447288: 	moved	image-11	to	{"x":569,"y":236}
+1470305447296: 	moved	image-11	to	{"x":555,"y":238}
+1470305447304: 	moved	image-11	to	{"x":540,"y":242}
+1470305447312: 	moved	image-11	to	{"x":525,"y":245}
+1470305447322: 	moved	image-11	to	{"x":511,"y":248}
+1470305447330: 	moved	image-11	to	{"x":496,"y":252}
+1470305447337: 	moved	image-11	to	{"x":482,"y":255}
+1470305447346: 	moved	image-11	to	{"x":468,"y":259}
+1470305447355: 	moved	image-11	to	{"x":454,"y":265}
+1470305447362: 	moved	image-11	to	{"x":441,"y":268}
+1470305447372: 	moved	image-11	to	{"x":429,"y":272}
+1470305447379: 	moved	image-11	to	{"x":418,"y":276}
+1470305447388: 	moved	image-11	to	{"x":407,"y":282}
+1470305447396: 	moved	image-11	to	{"x":401,"y":283}
+1470305447404: 	moved	image-11	to	{"x":393,"y":287}
+1470305447412: 	moved	image-11	to	{"x":385,"y":292}
+1470305447421: 	moved	image-11	to	{"x":379,"y":295}
+1470305447429: 	moved	image-11	to	{"x":373,"y":298}
+1470305447437: 	moved	image-11	to	{"x":368,"y":301}
+1470305447446: 	moved	image-11	to	{"x":365,"y":303}
+1470305447454: 	moved	image-11	to	{"x":363,"y":304}
+1470305447462: 	moved	image-11	to	{"x":360,"y":306}
+1470305447471: 	moved	image-11	to	{"x":359,"y":307}
+1470305447479: 	moved	image-11	to	{"x":359,"y":308}
+1470305447487: 	moved	image-11	to	{"x":359,"y":309}
+1470305447496: 	moved	image-11	to	{"x":359,"y":310}
+1470305447513: 	moved	image-11	to	{"x":363,"y":313}
+1470305447522: 	moved	image-11	to	{"x":371,"y":313}
+1470305447529: 	moved	image-11	to	{"x":378,"y":311}
+1470305447538: 	moved	image-11	to	{"x":385,"y":310}
+1470305447546: 	moved	image-11	to	{"x":397,"y":308}
+1470305447554: 	moved	image-11	to	{"x":410,"y":306}
+1470305447562: 	moved	image-11	to	{"x":422,"y":304}
+1470305447572: 	moved	image-11	to	{"x":436,"y":301}
+1470305447579: 	moved	image-11	to	{"x":451,"y":299}
+1470305447588: 	moved	image-11	to	{"x":466,"y":296}
+1470305447596: 	moved	image-11	to	{"x":482,"y":294}
+1470305447604: 	moved	image-11	to	{"x":499,"y":292}
+1470305447612: 	moved	image-11	to	{"x":516,"y":290}
+1470305447622: 	moved	image-11	to	{"x":534,"y":288}
+1470305447629: 	moved	image-11	to	{"x":552,"y":288}
+1470305447637: 	moved	image-11	to	{"x":571,"y":287}
+1470305447647: 	moved	image-11	to	{"x":589,"y":287}
+1470305447654: 	moved	image-11	to	{"x":608,"y":287}
+1470305447663: 	moved	image-11	to	{"x":626,"y":287}
+1470305447671: 	moved	image-11	to	{"x":645,"y":287}
+1470305447681: 	moved	image-11	to	{"x":664,"y":289}
+1470305447687: 	moved	image-11	to	{"x":682,"y":291}
+1470305447697: 	moved	image-11	to	{"x":700,"y":293}
+1470305447704: 	moved	image-11	to	{"x":717,"y":295}
+1470305447713: 	moved	image-11	to	{"x":733,"y":297}
+1470305447721: 	moved	image-11	to	{"x":748,"y":300}
+1470305447728: 	moved	image-11	to	{"x":763,"y":302}
+1470305447738: 	moved	image-11	to	{"x":777,"y":306}
+1470305447746: 	moved	image-11	to	{"x":791,"y":308}
+1470305447754: 	moved	image-11	to	{"x":803,"y":311}
+1470305447762: 	moved	image-11	to	{"x":815,"y":315}
+1470305447771: 	moved	image-11	to	{"x":822,"y":316}
+1470305447779: 	moved	image-11	to	{"x":831,"y":319}
+1470305447787: 	moved	image-11	to	{"x":838,"y":322}
+1470305447796: 	moved	image-11	to	{"x":845,"y":325}
+1470305447804: 	moved	image-11	to	{"x":851,"y":327}
+1470305447812: 	moved	image-11	to	{"x":854,"y":329}
+1470305447821: 	moved	image-11	to	{"x":857,"y":331}
+1470305447829: 	moved	image-11	to	{"x":859,"y":332}
+1470305447837: 	moved	image-11	to	{"x":860,"y":334}
+1470305447854: 	moved	image-11	to	{"x":860,"y":335}
+1470305447862: 	moved	image-11	to	{"x":859,"y":336}
+1470305447871: 	moved	image-11	to	{"x":854,"y":339}
+1470305447879: 	moved	image-11	to	{"x":847,"y":339}
+1470305447887: 	moved	image-11	to	{"x":838,"y":338}
+1470305447896: 	moved	image-11	to	{"x":827,"y":336}
+1470305447904: 	moved	image-11	to	{"x":813,"y":333}
+1470305447912: 	moved	image-11	to	{"x":801,"y":332}
+1470305447921: 	moved	image-11	to	{"x":787,"y":330}
+1470305447929: 	moved	image-11	to	{"x":774,"y":327}
+1470305447938: 	moved	image-11	to	{"x":759,"y":326}
+1470305447946: 	moved	image-11	to	{"x":745,"y":322}
+1470305447954: 	moved	image-11	to	{"x":729,"y":322}
+1470305447962: 	moved	image-11	to	{"x":714,"y":320}
+1470305447971: 	moved	image-11	to	{"x":699,"y":319}
+1470305447980: 	moved	image-11	to	{"x":683,"y":318}
+1470305447987: 	moved	image-11	to	{"x":667,"y":318}
+1470305447997: 	moved	image-11	to	{"x":651,"y":318}
+1470305448004: 	moved	image-11	to	{"x":636,"y":318}
+1470305448012: 	moved	image-11	to	{"x":620,"y":319}
+1470305448021: 	moved	image-11	to	{"x":604,"y":319}
+1470305448029: 	moved	image-11	to	{"x":589,"y":321}
+1470305448038: 	moved	image-11	to	{"x":574,"y":323}
+1470305448047: 	moved	image-11	to	{"x":560,"y":324}
+1470305448054: 	moved	image-11	to	{"x":547,"y":326}
+1470305448062: 	moved	image-11	to	{"x":535,"y":328}
+1470305448071: 	moved	image-11	to	{"x":523,"y":332}
+1470305448079: 	moved	image-11	to	{"x":512,"y":336}
+1470305448087: 	moved	image-11	to	{"x":506,"y":338}
+1470305448097: 	moved	image-11	to	{"x":497,"y":341}
+1470305448105: 	moved	image-11	to	{"x":490,"y":344}
+1470305448112: 	moved	image-11	to	{"x":484,"y":347}
+1470305448121: 	moved	image-11	to	{"x":479,"y":350}
+1470305448129: 	moved	image-11	to	{"x":477,"y":352}
+1470305448137: 	moved	image-11	to	{"x":474,"y":355}
+1470305448147: 	moved	image-11	to	{"x":473,"y":356}
+1470305448155: 	moved	image-11	to	{"x":473,"y":358}
+1470305448162: 	moved	image-11	to	{"x":473,"y":360}
+1470305448171: 	moved	image-11	to	{"x":475,"y":364}
+1470305448179: 	moved	image-11	to	{"x":479,"y":368}
+1470305448187: 	moved	image-11	to	{"x":485,"y":371}
+1470305448196: 	moved	image-11	to	{"x":490,"y":374}
+1470305448204: 	moved	image-11	to	{"x":496,"y":376}
+1470305448212: 	moved	image-11	to	{"x":504,"y":378}
+1470305448220: 	moved	image-11	to	{"x":514,"y":381}
+1470305448229: 	moved	image-11	to	{"x":522,"y":383}
+1470305448237: 	moved	image-11	to	{"x":532,"y":386}
+1470305448246: 	moved	image-11	to	{"x":542,"y":388}
+1470305448254: 	moved	image-11	to	{"x":551,"y":389}
+1470305448262: 	moved	image-11	to	{"x":561,"y":393}
+1470305448270: 	moved	image-11	to	{"x":568,"y":395}
+1470305448278: 	moved	image-11	to	{"x":576,"y":397}
+1470305448288: 	moved	image-11	to	{"x":584,"y":400}
+1470305448295: 	moved	image-11	to	{"x":592,"y":401}
+1470305448303: 	moved	image-11	to	{"x":599,"y":403}
+1470305448313: 	moved	image-11	to	{"x":605,"y":406}
+1470305448320: 	moved	image-11	to	{"x":609,"y":408}
+1470305448328: 	moved	image-11	to	{"x":612,"y":409}
+1470305448337: 	moved	image-11	to	{"x":615,"y":409}
+1470305448345: 	moved	image-11	to	{"x":617,"y":410}
+1470305448354: 	moved	image-11	to	{"x":618,"y":411}
+1470305448363: 	moved	image-11	to	{"x":619,"y":412}
+1470305448379: 	moved	image-11	to	{"x":620,"y":413}
+1470305448396: 	moved	image-11	to	{"x":621,"y":414}
+1470305448796: 	acted on	image-11
+1470305448798: 	selected	image-11
+1470305448803: 	acted on	image-11
+1470305448804: 	selected	image-11
+1470305448812: 	start moving	image-11	from	{"x":63,"y":125}
+1470305448813: 	changed size	width	image-11	176
+1470305448814: 	changed size	height	image-11	176
+1470305448820: 	changed size	width	image-11	178
+1470305448821: 	changed size	height	image-11	178
+1470305448828: 	changed size	width	image-11	180
+1470305448829: 	changed size	height	image-11	180
+1470305448838: 	changed size	width	image-11	182
+1470305448838: 	changed size	height	image-11	182
+1470305448845: 	changed size	width	image-11	184
+1470305448846: 	changed size	height	image-11	184
+1470305448853: 	changed size	width	image-11	186
+1470305448854: 	changed size	height	image-11	186
+1470305448856: 	changed size	width	image-11	188
+1470305448857: 	changed size	height	image-11	188
+1470305448862: 	changed size	width	image-11	190
+1470305448863: 	changed size	height	image-11	190
+1470305448871: 	changed size	width	image-11	192
+1470305448872: 	changed size	height	image-11	192
+1470305448878: 	changed size	width	image-11	194
+1470305448879: 	changed size	height	image-11	194
+1470305448881: 	changed size	width	image-11	196
+1470305448882: 	changed size	height	image-11	196
+1470305448888: 	changed size	width	image-11	198
+1470305448888: 	changed size	height	image-11	198
+1470305448891: 	changed size	width	image-11	200
+1470305448891: 	changed size	height	image-11	200
+1470305448895: 	changed size	width	image-11	202
+1470305448896: 	changed size	height	image-11	202
+1470305448898: 	changed size	width	image-11	204
+1470305448899: 	changed size	height	image-11	204
+1470305448904: 	changed size	width	image-11	206
+1470305448904: 	changed size	height	image-11	206
+1470305448907: 	changed size	width	image-11	208
+1470305448907: 	changed size	height	image-11	208
+1470305448913: 	changed size	width	image-11	210
+1470305448914: 	changed size	height	image-11	210
+1470305448916: 	changed size	width	image-11	212
+1470305448917: 	changed size	height	image-11	212
+1470305448921: 	changed size	width	image-11	214
+1470305448922: 	changed size	height	image-11	214
+1470305448924: 	changed size	width	image-11	216
+1470305448925: 	changed size	height	image-11	216
+1470305448929: 	changed size	width	image-11	218
+1470305448929: 	changed size	height	image-11	218
+1470305448933: 	changed size	width	image-11	220
+1470305448934: 	changed size	height	image-11	220
+1470305448937: 	changed size	width	image-11	222
+1470305448938: 	changed size	height	image-11	222
+1470305448941: 	changed size	width	image-11	224
+1470305448942: 	changed size	height	image-11	224
+1470305448946: 	changed size	width	image-11	226
+1470305448947: 	changed size	height	image-11	226
+1470305448949: 	changed size	width	image-11	228
+1470305448950: 	changed size	height	image-11	228
+1470305448954: 	changed size	width	image-11	230
+1470305448954: 	changed size	height	image-11	230
+1470305448957: 	changed size	width	image-11	232
+1470305448958: 	changed size	height	image-11	232
+1470305448963: 	changed size	width	image-11	234
+1470305448964: 	changed size	height	image-11	234
+1470305448966: 	changed size	width	image-11	236
+1470305448967: 	changed size	height	image-11	236
+1470305448973: 	changed size	width	image-11	238
+1470305448973: 	changed size	height	image-11	238
+1470305448976: 	changed size	width	image-11	240
+1470305448977: 	changed size	height	image-11	240
+1470305448981: 	changed size	width	image-11	242
+1470305448982: 	changed size	height	image-11	242
+1470305448988: 	changed size	width	image-11	244
+1470305448989: 	changed size	height	image-11	244
+1470305448993: 	changed size	width	image-11	246
+1470305448994: 	changed size	height	image-11	246
+1470305448999: 	changed size	width	image-11	248
+1470305449000: 	changed size	height	image-11	248
+1470305449004: 	changed size	width	image-11	250
+1470305449005: 	changed size	height	image-11	250
+1470305449008: 	changed size	width	image-11	252
+1470305449008: 	changed size	height	image-11	252
+1470305449014: 	changed size	width	image-11	254
+1470305449014: 	changed size	height	image-11	254
+1470305449017: 	changed size	width	image-11	256
+1470305449017: 	changed size	height	image-11	256
+1470305449021: 	changed size	width	image-11	258
+1470305449022: 	changed size	height	image-11	258
+1470305449025: 	changed size	width	image-11	260
+1470305449025: 	changed size	height	image-11	260
+1470305449033: 	changed size	width	image-11	262
+1470305449034: 	changed size	height	image-11	262
+1470305449040: 	changed size	width	image-11	264
+1470305449041: 	changed size	height	image-11	264
+1470305449044: 	changed size	width	image-11	266
+1470305449044: 	changed size	height	image-11	266
+1470305449047: 	changed size	width	image-11	268
+1470305449048: 	changed size	height	image-11	268
+1470305449055: 	changed size	width	image-11	270
+1470305449056: 	changed size	height	image-11	270
+1470305449058: 	changed size	width	image-11	272
+1470305449059: 	changed size	height	image-11	272
+1470305449063: 	changed size	width	image-11	274
+1470305449064: 	changed size	height	image-11	274
+1470305449072: 	changed size	width	image-11	276
+1470305449073: 	changed size	height	image-11	276
+1470305449075: 	changed size	width	image-11	278
+1470305449076: 	changed size	height	image-11	278
+1470305449081: 	changed size	width	image-11	280
+1470305449081: 	changed size	height	image-11	280
+1470305449089: 	changed size	width	image-11	282
+1470305449090: 	changed size	height	image-11	282
+1470305449093: 	changed size	width	image-11	284
+1470305449094: 	changed size	height	image-11	284
+1470305449097: 	changed size	width	image-11	286
+1470305449097: 	changed size	height	image-11	286
+1470305449106: 	changed size	width	image-11	288
+1470305449107: 	changed size	height	image-11	288
+1470305449118: 	changed size	width	image-11	290
+1470305449119: 	changed size	height	image-11	290
+1470305449122: 	changed size	width	image-11	292
+1470305449123: 	changed size	height	image-11	292
+1470305449137: 	changed size	width	image-11	294
+1470305449138: 	changed size	height	image-11	294
+1470305449144: 	changed size	width	image-11	296
+1470305449145: 	changed size	height	image-11	296
+1470305449158: 	changed size	width	image-11	298
+1470305449159: 	changed size	height	image-11	298
+1470305449162: 	changed size	width	image-11	300
+1470305449163: 	changed size	height	image-11	300
+1470305449166: 	changed size	width	image-11	302
+1470305449167: 	changed size	height	image-11	302
+1470305449171: 	changed size	width	image-11	304
+1470305449171: 	changed size	height	image-11	304
+1470305449174: 	changed size	width	image-11	306
+1470305449174: 	changed size	height	image-11	306
+1470305449179: 	changed size	width	image-11	308
+1470305449180: 	changed size	height	image-11	308
+1470305449182: 	changed size	width	image-11	310
+1470305449182: 	changed size	height	image-11	310
+1470305449189: 	changed size	width	image-11	312
+1470305449190: 	changed size	height	image-11	312
+1470305449196: 	changed size	width	image-11	314
+1470305449196: 	changed size	height	image-11	314
+1470305449199: 	changed size	width	image-11	316
+1470305449200: 	changed size	height	image-11	316
+1470305449204: 	changed size	width	image-11	318
+1470305449204: 	changed size	height	image-11	318
+1470305449207: 	changed size	width	image-11	320
+1470305449208: 	changed size	height	image-11	320
+1470305449215: 	changed size	width	image-11	322
+1470305449216: 	changed size	height	image-11	322
+1470305449219: 	changed size	width	image-11	324
+1470305449220: 	changed size	height	image-11	324
+1470305449223: 	changed size	width	image-11	326
+1470305449224: 	changed size	height	image-11	326
+1470305449229: 	changed size	width	image-11	328
+1470305449230: 	changed size	height	image-11	328
+1470305449238: 	changed size	width	image-11	330
+1470305449239: 	changed size	height	image-11	330
+1470305449242: 	changed size	width	image-11	332
+1470305449242: 	changed size	height	image-11	332
+1470305449655: 	acted on	image-11
+1470305449657: 	selected	image-11
+1470305449696: 	acted on	image-11
+1470305449698: 	selected	image-11
+1470305449703: 	start moving	image-11	from	{"x":165,"y":202}
+1470305449704: 	changed size	width	image-11	334
+1470305449705: 	changed size	height	image-11	334
+1470305449721: 	changed size	width	image-11	336
+1470305449722: 	changed size	height	image-11	336
+1470305449729: 	changed size	width	image-11	338
+1470305449730: 	changed size	height	image-11	338
+1470305449737: 	changed size	width	image-11	340
+1470305449738: 	changed size	height	image-11	340
+1470305449745: 	changed size	width	image-11	342
+1470305449746: 	changed size	height	image-11	342
+1470305449762: 	changed size	width	image-11	344
+1470305449764: 	changed size	height	image-11	344
+1470305449771: 	changed size	width	image-11	346
+1470305449771: 	changed size	height	image-11	346
+1470305449778: 	changed size	width	image-11	348
+1470305449779: 	changed size	height	image-11	348
+1470305449782: 	changed size	width	image-11	350
+1470305449782: 	changed size	height	image-11	350
+1470305449796: 	changed size	width	image-11	352
+1470305449797: 	changed size	height	image-11	352
+1470305449804: 	changed size	width	image-11	354
+1470305449805: 	changed size	height	image-11	354
+1470305449812: 	changed size	width	image-11	356
+1470305449813: 	changed size	height	image-11	356
+1470305449820: 	changed size	width	image-11	358
+1470305449821: 	changed size	height	image-11	358
+1470305449828: 	changed size	width	image-11	356
+1470305449831: 	changed size	height	image-11	356
+1470305449834: 	changed size	width	image-11	354
+1470305449835: 	changed size	height	image-11	354
+1470305449839: 	changed size	width	image-11	352
+1470305449840: 	changed size	height	image-11	352
+1470305449847: 	changed size	width	image-11	350
+1470305449848: 	changed size	height	image-11	350
+1470305449854: 	changed size	width	image-11	348
+1470305449855: 	changed size	height	image-11	348
+1470305449862: 	changed size	width	image-11	346
+1470305449863: 	changed size	height	image-11	346
+1470305449871: 	changed size	width	image-11	344
+1470305449871: 	changed size	height	image-11	344
+1470305449878: 	changed size	width	image-11	342
+1470305449879: 	changed size	height	image-11	342
+1470305449881: 	changed size	width	image-11	340
+1470305449882: 	changed size	height	image-11	340
+1470305449887: 	changed size	width	image-11	338
+1470305449888: 	changed size	height	image-11	338
+1470305449895: 	changed size	width	image-11	336
+1470305449896: 	changed size	height	image-11	336
+1470305449920: 	changed size	width	image-11	334
+1470305449921: 	changed size	height	image-11	334
+1470305449928: 	changed size	width	image-11	332
+1470305449929: 	changed size	height	image-11	332
+1470305449932: 	changed size	width	image-11	330
+1470305449933: 	changed size	height	image-11	330
+1470305449953: 	changed size	width	image-11	328
+1470305449954: 	changed size	height	image-11	328
+1470305449978: 	changed size	width	image-11	326
+1470305449979: 	changed size	height	image-11	326
+1470305449996: 	changed size	width	image-11	324
+1470305449997: 	changed size	height	image-11	324
+1470305450013: 	changed size	width	image-11	322
+1470305450014: 	changed size	height	image-11	322
+1470305450020: 	changed size	width	image-11	320
+1470305450021: 	changed size	height	image-11	320
+1470305450024: 	changed size	width	image-11	318
+1470305450024: 	changed size	height	image-11	318
+1470305450028: 	changed size	width	image-11	316
+1470305450029: 	changed size	height	image-11	316
+1470305450064: 	changed size	width	image-11	314
+1470305450065: 	changed size	height	image-11	314
+1470305450264: 	acted on	image-11
+1470305450266: 	selected	image-11
+1470305450279: 	acted on	image-11
+1470305450280: 	selected	image-11
+1470305450312: 	start moving	image-11	from	{"x":217,"y":150}
+1470305450314: 	changed size	width	image-11	312
+1470305450314: 	changed size	height	image-11	312
+1470305450320: 	changed size	width	image-11	310
+1470305450321: 	changed size	height	image-11	310
+1470305450323: 	changed size	width	image-11	308
+1470305450324: 	changed size	height	image-11	308
+1470305450353: 	changed size	width	image-11	306
+1470305450354: 	changed size	height	image-11	306
+1470305450357: 	changed size	width	image-11	304
+1470305450357: 	changed size	height	image-11	304
+1470305450370: 	changed size	width	image-11	302
+1470305450371: 	changed size	height	image-11	302
+1470305450374: 	changed size	width	image-11	300
+1470305450375: 	changed size	height	image-11	300
+1470305450379: 	changed size	width	image-11	298
+1470305450379: 	changed size	height	image-11	298
+1470305450382: 	changed size	width	image-11	296
+1470305450382: 	changed size	height	image-11	296
+1470305450388: 	changed size	width	image-11	294
+1470305450388: 	changed size	height	image-11	294
+1470305450396: 	changed size	width	image-11	292
+1470305450397: 	changed size	height	image-11	292
+1470305450400: 	changed size	width	image-11	290
+1470305450400: 	changed size	height	image-11	290
+1470305450413: 	changed size	width	image-11	288
+1470305450414: 	changed size	height	image-11	288
+1470305450421: 	changed size	width	image-11	286
+1470305450421: 	changed size	height	image-11	286
+1470305450424: 	changed size	width	image-11	284
+1470305450425: 	changed size	height	image-11	284
+1470305450429: 	changed size	width	image-11	282
+1470305450430: 	changed size	height	image-11	282
+1470305450445: 	changed size	width	image-11	280
+1470305450446: 	changed size	height	image-11	280
+1470305450462: 	changed size	width	image-11	278
+1470305450463: 	changed size	height	image-11	278
+1470305450471: 	changed size	width	image-11	276
+1470305450471: 	changed size	height	image-11	276
+1470305450488: 	changed size	width	image-11	274
+1470305450489: 	changed size	height	image-11	274
+1470305450747: 	acted on	image-11
+1470305450748: 	selected	image-11
+1470305450762: 	acted on	image-11
+1470305450764: 	selected	image-11
+1470305450770: 	start moving	image-11	from	{"x":196,"y":134}
+1470305450771: 	changed size	width	image-11	276
+1470305450772: 	changed size	height	image-11	276
+1470305450775: 	changed size	width	image-11	278
+1470305450776: 	changed size	height	image-11	278
+1470305450780: 	changed size	width	image-11	280
+1470305450780: 	changed size	height	image-11	280
+1470305450788: 	changed size	width	image-11	282
+1470305450789: 	changed size	height	image-11	282
+1470305450791: 	changed size	width	image-11	284
+1470305450792: 	changed size	height	image-11	284
+1470305450798: 	changed size	width	image-11	286
+1470305450799: 	changed size	height	image-11	286
+1470305450804: 	changed size	width	image-11	288
+1470305450805: 	changed size	height	image-11	288
+1470305450808: 	changed size	width	image-11	290
+1470305450808: 	changed size	height	image-11	290
+1470305450812: 	changed size	width	image-11	292
+1470305450813: 	changed size	height	image-11	292
+1470305450821: 	changed size	width	image-11	294
+1470305450822: 	changed size	height	image-11	294
+1470305450824: 	changed size	width	image-11	296
+1470305450825: 	changed size	height	image-11	296
+1470305450828: 	changed size	width	image-11	298
+1470305450829: 	changed size	height	image-11	298
+1470305450832: 	changed size	width	image-11	300
+1470305450832: 	changed size	height	image-11	300
+1470305450839: 	changed size	width	image-11	302
+1470305450840: 	changed size	height	image-11	302
+1470305450846: 	changed size	width	image-11	304
+1470305450847: 	changed size	height	image-11	304
+1470305450849: 	changed size	width	image-11	306
+1470305450850: 	changed size	height	image-11	306
+1470305450853: 	changed size	width	image-11	308
+1470305450854: 	changed size	height	image-11	308
+1470305450857: 	changed size	width	image-11	310
+1470305450857: 	changed size	height	image-11	310
+1470305450863: 	changed size	width	image-11	312
+1470305450864: 	changed size	height	image-11	312
+1470305450871: 	changed size	width	image-11	314
+1470305450872: 	changed size	height	image-11	314
+1470305450874: 	changed size	width	image-11	316
+1470305450875: 	changed size	height	image-11	316
+1470305450878: 	changed size	width	image-11	318
+1470305450879: 	changed size	height	image-11	318
+1470305450882: 	changed size	width	image-11	320
+1470305450883: 	changed size	height	image-11	320
+1470305450888: 	changed size	width	image-11	322
+1470305450889: 	changed size	height	image-11	322
+1470305450895: 	changed size	width	image-11	324
+1470305450896: 	changed size	height	image-11	324
+1470305450898: 	changed size	width	image-11	326
+1470305450899: 	changed size	height	image-11	326
+1470305450904: 	changed size	width	image-11	328
+1470305450905: 	changed size	height	image-11	328
+1470305450913: 	changed size	width	image-11	330
+1470305450914: 	changed size	height	image-11	330
+1470305450920: 	changed size	width	image-11	332
+1470305450921: 	changed size	height	image-11	332
+1470305450923: 	changed size	width	image-11	334
+1470305450924: 	changed size	height	image-11	334
+1470305450929: 	changed size	width	image-11	336
+1470305450929: 	changed size	height	image-11	336
+1470305450937: 	changed size	width	image-11	338
+1470305450938: 	changed size	height	image-11	338
+1470305450945: 	changed size	width	image-11	340
+1470305450946: 	changed size	height	image-11	340
+1470305450963: 	changed size	width	image-11	342
+1470305450964: 	changed size	height	image-11	342
+1470305450971: 	changed size	width	image-11	344
+1470305450971: 	changed size	height	image-11	344
+1470305450996: 	changed size	width	image-11	346
+1470305450997: 	changed size	height	image-11	346
+1470305451254: 	acted on	image-11
+1470305451256: 	selected	image-11
+1470305451313: 	start moving	image-11	from	{"x":167,"y":207}
+1470305451320: 	moved	image-11	to	{"x":609,"y":451}
+1470305451328: 	moved	image-11	to	{"x":606,"y":453}
+1470305451337: 	moved	image-11	to	{"x":603,"y":456}
+1470305451345: 	moved	image-11	to	{"x":600,"y":458}
+1470305451353: 	moved	image-11	to	{"x":597,"y":460}
+1470305451362: 	moved	image-11	to	{"x":594,"y":463}
+1470305451370: 	moved	image-11	to	{"x":591,"y":466}
+1470305451378: 	moved	image-11	to	{"x":588,"y":468}
+1470305451387: 	moved	image-11	to	{"x":586,"y":470}
+1470305451395: 	moved	image-11	to	{"x":583,"y":472}
+1470305451404: 	moved	image-11	to	{"x":580,"y":475}
+1470305451412: 	moved	image-11	to	{"x":579,"y":477}
+1470305451420: 	moved	image-11	to	{"x":577,"y":479}
+1470305451429: 	moved	image-11	to	{"x":575,"y":481}
+1470305451437: 	moved	image-11	to	{"x":573,"y":483}
+1470305451445: 	moved	image-11	to	{"x":572,"y":484}
+1470305451453: 	moved	image-11	to	{"x":570,"y":485}
+1470305451462: 	moved	image-11	to	{"x":569,"y":487}
+1470305451471: 	moved	image-11	to	{"x":567,"y":488}
+1470305451478: 	moved	image-11	to	{"x":566,"y":489}
+1470305451487: 	moved	image-11	to	{"x":565,"y":490}
+1470305451495: 	moved	image-11	to	{"x":563,"y":492}
+1470305451503: 	moved	image-11	to	{"x":561,"y":494}
+1470305451521: 	moved	image-11	to	{"x":559,"y":496}
+1470305451528: 	moved	image-11	to	{"x":558,"y":497}
+1470305451537: 	moved	image-11	to	{"x":557,"y":498}
+1470305451544: 	moved	image-11	to	{"x":556,"y":499}
+1470305451552: 	moved	image-11	to	{"x":554,"y":500}
+1470305451562: 	moved	image-11	to	{"x":553,"y":501}
+1470305451570: 	moved	image-11	to	{"x":551,"y":502}
+1470305451578: 	moved	image-11	to	{"x":550,"y":503}
+1470305451587: 	moved	image-11	to	{"x":549,"y":504}
+1470305451595: 	moved	image-11	to	{"x":548,"y":505}
+1470305451602: 	moved	image-11	to	{"x":546,"y":506}
+1470305451620: 	moved	image-11	to	{"x":545,"y":507}
+1470305451638: 	moved	image-11	to	{"x":544,"y":508}
+1470305451645: 	moved	image-11	to	{"x":543,"y":509}
+1470305451679: 	moved	image-11	to	{"x":542,"y":510}
+1470305451687: 	moved	image-11	to	{"x":541,"y":511}
+1470305451703: 	moved	image-11	to	{"x":541,"y":512}
+1470305451720: 	moved	image-11	to	{"x":540,"y":513}
+1470305451746: 	moved	image-11	to	{"x":539,"y":514}
+1470305451754: 	moved	image-11	to	{"x":538,"y":515}
+1470305451762: 	moved	image-11	to	{"x":537,"y":516}
+1470305451771: 	moved	image-11	to	{"x":535,"y":518}
+1470305451779: 	moved	image-11	to	{"x":533,"y":520}
+1470305451788: 	moved	image-11	to	{"x":530,"y":522}
+1470305452339: 	acted on	image-5
+1470305452341: 	selected	image-5
+1470305452956: 	acted on	image-5
+1470305452958: 	selected	image-5
+1470305453013: 	start moving	image-5	from	{"x":59,"y":81}
+1470305453020: 	moved	image-5	to	{"x":70,"y":88}
+1470305453029: 	moved	image-5	to	{"x":75,"y":88}
+1470305453037: 	moved	image-5	to	{"x":79,"y":88}
+1470305453046: 	moved	image-5	to	{"x":84,"y":88}
+1470305453071: 	moved	image-5	to	{"x":91,"y":88}
+1470305453073: 	moved	image-5	to	{"x":104,"y":86}
+1470305453080: 	moved	image-5	to	{"x":111,"y":86}
+1470305453087: 	moved	image-5	to	{"x":119,"y":86}
+1470305453096: 	moved	image-5	to	{"x":126,"y":86}
+1470305453104: 	moved	image-5	to	{"x":135,"y":85}
+1470305453112: 	moved	image-5	to	{"x":143,"y":85}
+1470305453121: 	moved	image-5	to	{"x":152,"y":84}
+1470305453129: 	moved	image-5	to	{"x":161,"y":84}
+1470305453138: 	moved	image-5	to	{"x":172,"y":84}
+1470305453145: 	moved	image-5	to	{"x":181,"y":83}
+1470305453154: 	moved	image-5	to	{"x":195,"y":83}
+1470305453163: 	moved	image-5	to	{"x":203,"y":83}
+1470305453170: 	moved	image-5	to	{"x":212,"y":84}
+1470305453179: 	moved	image-5	to	{"x":226,"y":84}
+1470305453187: 	moved	image-5	to	{"x":234,"y":84}
+1470305453196: 	moved	image-5	to	{"x":248,"y":84}
+1470305453204: 	moved	image-5	to	{"x":258,"y":85}
+1470305453212: 	moved	image-5	to	{"x":270,"y":86}
+1470305453221: 	moved	image-5	to	{"x":280,"y":86}
+1470305453230: 	moved	image-5	to	{"x":291,"y":86}
+1470305453238: 	moved	image-5	to	{"x":303,"y":88}
+1470305453246: 	moved	image-5	to	{"x":312,"y":89}
+1470305453254: 	moved	image-5	to	{"x":325,"y":90}
+1470305453262: 	moved	image-5	to	{"x":334,"y":91}
+1470305453270: 	moved	image-5	to	{"x":344,"y":92}
+1470305453279: 	moved	image-5	to	{"x":358,"y":94}
+1470305453287: 	moved	image-5	to	{"x":365,"y":96}
+1470305453296: 	moved	image-5	to	{"x":377,"y":98}
+1470305453305: 	moved	image-5	to	{"x":385,"y":99}
+1470305453313: 	moved	image-5	to	{"x":396,"y":100}
+1470305453321: 	moved	image-5	to	{"x":407,"y":102}
+1470305453329: 	moved	image-5	to	{"x":416,"y":103}
+1470305453338: 	moved	image-5	to	{"x":425,"y":105}
+1470305453345: 	moved	image-5	to	{"x":434,"y":107}
+1470305453354: 	moved	image-5	to	{"x":444,"y":108}
+1470305453363: 	moved	image-5	to	{"x":453,"y":109}
+1470305453370: 	moved	image-5	to	{"x":463,"y":111}
+1470305453380: 	moved	image-5	to	{"x":471,"y":113}
+1470305453387: 	moved	image-5	to	{"x":480,"y":114}
+1470305453395: 	moved	image-5	to	{"x":487,"y":115}
+1470305453405: 	moved	image-5	to	{"x":496,"y":118}
+1470305453412: 	moved	image-5	to	{"x":503,"y":119}
+1470305453420: 	moved	image-5	to	{"x":510,"y":121}
+1470305453429: 	moved	image-5	to	{"x":517,"y":122}
+1470305453437: 	moved	image-5	to	{"x":523,"y":123}
+1470305453445: 	moved	image-5	to	{"x":529,"y":126}
+1470305453454: 	moved	image-5	to	{"x":535,"y":127}
+1470305453463: 	moved	image-5	to	{"x":539,"y":128}
+1470305453471: 	moved	image-5	to	{"x":543,"y":129}
+1470305453479: 	moved	image-5	to	{"x":547,"y":131}
+1470305453487: 	moved	image-5	to	{"x":550,"y":131}
+1470305453496: 	moved	image-5	to	{"x":554,"y":133}
+1470305453504: 	moved	image-5	to	{"x":556,"y":133}
+1470305453512: 	moved	image-5	to	{"x":558,"y":134}
+1470305453520: 	moved	image-5	to	{"x":560,"y":135}
+1470305453529: 	moved	image-5	to	{"x":562,"y":137}
+1470305453537: 	moved	image-5	to	{"x":563,"y":138}
+1470305453545: 	moved	image-5	to	{"x":565,"y":139}
+1470305453554: 	moved	image-5	to	{"x":566,"y":139}
+1470305453563: 	moved	image-5	to	{"x":567,"y":139}
+1470305453572: 	moved	image-5	to	{"x":568,"y":140}
+1470305453579: 	moved	image-5	to	{"x":569,"y":140}
+1470305453596: 	moved	image-5	to	{"x":570,"y":140}
+1470305453604: 	moved	image-5	to	{"x":570,"y":141}
+1470305453638: 	moved	image-5	to	{"x":571,"y":141}
+1470305453655: 	moved	image-5	to	{"x":571,"y":140}
+1470305453662: 	moved	image-5	to	{"x":572,"y":140}
+1470305453671: 	moved	image-5	to	{"x":572,"y":139}
+1470305453679: 	moved	image-5	to	{"x":573,"y":139}
+1470305453687: 	moved	image-5	to	{"x":574,"y":137}
+1470305453695: 	moved	image-5	to	{"x":574,"y":136}
+1470305453704: 	moved	image-5	to	{"x":574,"y":134}
+1470305453712: 	moved	image-5	to	{"x":574,"y":133}
+1470305453721: 	moved	image-5	to	{"x":574,"y":131}
+1470305453738: 	moved	image-5	to	{"x":573,"y":129}
+1470305453755: 	moved	image-5	to	{"x":572,"y":126}
+1470305453762: 	moved	image-5	to	{"x":571,"y":125}
+1470305453771: 	moved	image-5	to	{"x":571,"y":124}
+1470305453779: 	moved	image-5	to	{"x":570,"y":124}
+1470305453787: 	moved	image-5	to	{"x":569,"y":122}
+1470305453796: 	moved	image-5	to	{"x":568,"y":121}
+1470305453804: 	moved	image-5	to	{"x":568,"y":120}
+1470305453812: 	moved	image-5	to	{"x":567,"y":119}
+1470305453830: 	moved	image-5	to	{"x":566,"y":118}
+1470305453846: 	moved	image-5	to	{"x":565,"y":117}
+1470305453855: 	moved	image-5	to	{"x":565,"y":116}
+1470305453880: 	moved	image-5	to	{"x":565,"y":115}
+1470305455755: 	acted on	content
+1470305455756: 	selected	null
+1470305456489: 	acted on	image-11
+1470305456490: 	selected	image-11
+1470305457822: 	acted on	copy
+1470305457931: 	copied	image-11
+1470305457932: 	copied	image-11
+1470305457933: 	selected	null
+1470305460530: 	acted on	paste
+1470305460655: 	pasted	image-11-
+1470305460656: 	pasted	null
+1470305461771: 	acted on	image-11-1470305460656
+1470305461773: 	selected	image-11-1470305460656
+1470305462255: 	acted on	image-11-1470305460656
+1470305462256: 	selected	image-11-1470305460656
+1470305462305: 	start moving	image-11-1470305460656	from	{"x":192,"y":155}
+1470305462312: 	moved	image-11-1470305460656	to	{"x":196,"y":155}
+1470305462323: 	moved	image-11-1470305460656	to	{"x":201,"y":154}
+1470305462329: 	moved	image-11-1470305460656	to	{"x":206,"y":154}
+1470305462338: 	moved	image-11-1470305460656	to	{"x":211,"y":154}
+1470305462346: 	moved	image-11-1470305460656	to	{"x":216,"y":154}
+1470305462355: 	moved	image-11-1470305460656	to	{"x":222,"y":154}
+1470305462364: 	moved	image-11-1470305460656	to	{"x":227,"y":153}
+1470305462371: 	moved	image-11-1470305460656	to	{"x":234,"y":153}
+1470305462379: 	moved	image-11-1470305460656	to	{"x":240,"y":153}
+1470305462388: 	moved	image-11-1470305460656	to	{"x":246,"y":153}
+1470305462395: 	moved	image-11-1470305460656	to	{"x":252,"y":154}
+1470305462404: 	moved	image-11-1470305460656	to	{"x":258,"y":154}
+1470305462413: 	moved	image-11-1470305460656	to	{"x":265,"y":154}
+1470305462421: 	moved	image-11-1470305460656	to	{"x":272,"y":154}
+1470305462429: 	moved	image-11-1470305460656	to	{"x":279,"y":155}
+1470305462438: 	moved	image-11-1470305460656	to	{"x":286,"y":155}
+1470305462446: 	moved	image-11-1470305460656	to	{"x":294,"y":155}
+1470305462455: 	moved	image-11-1470305460656	to	{"x":301,"y":156}
+1470305462463: 	moved	image-11-1470305460656	to	{"x":309,"y":157}
+1470305462471: 	moved	image-11-1470305460656	to	{"x":317,"y":158}
+1470305462479: 	moved	image-11-1470305460656	to	{"x":326,"y":159}
+1470305462488: 	moved	image-11-1470305460656	to	{"x":333,"y":160}
+1470305462498: 	moved	image-11-1470305460656	to	{"x":341,"y":162}
+1470305462503: 	moved	image-11-1470305460656	to	{"x":349,"y":162}
+1470305462512: 	moved	image-11-1470305460656	to	{"x":357,"y":164}
+1470305462520: 	moved	image-11-1470305460656	to	{"x":365,"y":165}
+1470305462529: 	moved	image-11-1470305460656	to	{"x":372,"y":166}
+1470305462538: 	moved	image-11-1470305460656	to	{"x":381,"y":168}
+1470305462546: 	moved	image-11-1470305460656	to	{"x":388,"y":170}
+1470305462553: 	moved	image-11-1470305460656	to	{"x":396,"y":172}
+1470305462562: 	moved	image-11-1470305460656	to	{"x":405,"y":174}
+1470305462570: 	moved	image-11-1470305460656	to	{"x":412,"y":176}
+1470305462578: 	moved	image-11-1470305460656	to	{"x":420,"y":179}
+1470305462587: 	moved	image-11-1470305460656	to	{"x":427,"y":181}
+1470305462596: 	moved	image-11-1470305460656	to	{"x":436,"y":184}
+1470305462603: 	moved	image-11-1470305460656	to	{"x":444,"y":187}
+1470305462612: 	moved	image-11-1470305460656	to	{"x":453,"y":191}
+1470305462620: 	moved	image-11-1470305460656	to	{"x":460,"y":194}
+1470305462628: 	moved	image-11-1470305460656	to	{"x":470,"y":198}
+1470305462637: 	moved	image-11-1470305460656	to	{"x":477,"y":200}
+1470305462646: 	moved	image-11-1470305460656	to	{"x":487,"y":206}
+1470305462653: 	moved	image-11-1470305460656	to	{"x":496,"y":210}
+1470305462662: 	moved	image-11-1470305460656	to	{"x":504,"y":214}
+1470305462670: 	moved	image-11-1470305460656	to	{"x":511,"y":217}
+1470305462678: 	moved	image-11-1470305460656	to	{"x":521,"y":222}
+1470305462688: 	moved	image-11-1470305460656	to	{"x":529,"y":226}
+1470305462696: 	moved	image-11-1470305460656	to	{"x":540,"y":233}
+1470305462703: 	moved	image-11-1470305460656	to	{"x":547,"y":237}
+1470305462712: 	moved	image-11-1470305460656	to	{"x":555,"y":241}
+1470305462721: 	moved	image-11-1470305460656	to	{"x":567,"y":247}
+1470305462728: 	moved	image-11-1470305460656	to	{"x":575,"y":253}
+1470305462737: 	moved	image-11-1470305460656	to	{"x":584,"y":260}
+1470305462745: 	moved	image-11-1470305460656	to	{"x":590,"y":264}
+1470305462753: 	moved	image-11-1470305460656	to	{"x":600,"y":269}
+1470305462762: 	moved	image-11-1470305460656	to	{"x":609,"y":275}
+1470305462770: 	moved	image-11-1470305460656	to	{"x":616,"y":280}
+1470305462778: 	moved	image-11-1470305460656	to	{"x":626,"y":286}
+1470305462788: 	moved	image-11-1470305460656	to	{"x":634,"y":292}
+1470305462795: 	moved	image-11-1470305460656	to	{"x":645,"y":298}
+1470305462804: 	moved	image-11-1470305460656	to	{"x":652,"y":306}
+1470305462812: 	moved	image-11-1470305460656	to	{"x":659,"y":310}
+1470305462820: 	moved	image-11-1470305460656	to	{"x":668,"y":316}
+1470305462828: 	moved	image-11-1470305460656	to	{"x":677,"y":322}
+1470305462837: 	moved	image-11-1470305460656	to	{"x":684,"y":327}
+1470305462845: 	moved	image-11-1470305460656	to	{"x":694,"y":334}
+1470305462854: 	moved	image-11-1470305460656	to	{"x":702,"y":341}
+1470305462862: 	moved	image-11-1470305460656	to	{"x":708,"y":346}
+1470305462870: 	moved	image-11-1470305460656	to	{"x":717,"y":352}
+1470305462878: 	moved	image-11-1470305460656	to	{"x":723,"y":357}
+1470305462887: 	moved	image-11-1470305460656	to	{"x":732,"y":364}
+1470305462895: 	moved	image-11-1470305460656	to	{"x":739,"y":368}
+1470305462903: 	moved	image-11-1470305460656	to	{"x":746,"y":374}
+1470305462912: 	moved	image-11-1470305460656	to	{"x":754,"y":379}
+1470305462920: 	moved	image-11-1470305460656	to	{"x":760,"y":384}
+1470305462928: 	moved	image-11-1470305460656	to	{"x":768,"y":389}
+1470305462937: 	moved	image-11-1470305460656	to	{"x":774,"y":394}
+1470305462945: 	moved	image-11-1470305460656	to	{"x":781,"y":398}
+1470305462954: 	moved	image-11-1470305460656	to	{"x":787,"y":403}
+1470305462962: 	moved	image-11-1470305460656	to	{"x":793,"y":408}
+1470305462970: 	moved	image-11-1470305460656	to	{"x":799,"y":412}
+1470305462978: 	moved	image-11-1470305460656	to	{"x":805,"y":416}
+1470305462988: 	moved	image-11-1470305460656	to	{"x":809,"y":420}
+1470305462995: 	moved	image-11-1470305460656	to	{"x":815,"y":423}
+1470305463003: 	moved	image-11-1470305460656	to	{"x":820,"y":426}
+1470305463012: 	moved	image-11-1470305460656	to	{"x":824,"y":429}
+1470305463020: 	moved	image-11-1470305460656	to	{"x":829,"y":431}
+1470305463028: 	moved	image-11-1470305460656	to	{"x":834,"y":434}
+1470305463038: 	moved	image-11-1470305460656	to	{"x":838,"y":436}
+1470305463046: 	moved	image-11-1470305460656	to	{"x":842,"y":439}
+1470305463053: 	moved	image-11-1470305460656	to	{"x":846,"y":441}
+1470305463075: 	moved	image-11-1470305460656	to	{"x":852,"y":445}
+1470305463078: 	moved	image-11-1470305460656	to	{"x":854,"y":447}
+1470305463087: 	moved	image-11-1470305460656	to	{"x":856,"y":448}
+1470305463095: 	moved	image-11-1470305460656	to	{"x":859,"y":449}
+1470305463103: 	moved	image-11-1470305460656	to	{"x":860,"y":450}
+1470305463113: 	moved	image-11-1470305460656	to	{"x":861,"y":451}
+1470305463120: 	moved	image-11-1470305460656	to	{"x":862,"y":452}
+1470305463129: 	moved	image-11-1470305460656	to	{"x":863,"y":453}
+1470305463137: 	moved	image-11-1470305460656	to	{"x":864,"y":454}
+1470305463154: 	moved	image-11-1470305460656	to	{"x":865,"y":455}
+1470305463171: 	moved	image-11-1470305460656	to	{"x":866,"y":456}
+1470305463188: 	moved	image-11-1470305460656	to	{"x":866,"y":458}
+1470305463471: 	acted on	image-11
+1470305463473: 	selected	image-11
+1470305463504: 	start moving	image-11	from	{"x":140,"y":177}
+1470305463512: 	moved	image-11	to	{"x":499,"y":492}
+1470305463520: 	moved	image-11	to	{"x":495,"y":493}
+1470305463530: 	moved	image-11	to	{"x":491,"y":493}
+1470305463537: 	moved	image-11	to	{"x":488,"y":493}
+1470305463545: 	moved	image-11	to	{"x":484,"y":493}
+1470305463553: 	moved	image-11	to	{"x":481,"y":493}
+1470305463562: 	moved	image-11	to	{"x":479,"y":493}
+1470305463570: 	moved	image-11	to	{"x":475,"y":493}
+1470305463579: 	moved	image-11	to	{"x":472,"y":493}
+1470305463598: 	moved	image-11	to	{"x":469,"y":493}
+1470305463601: 	moved	image-11	to	{"x":467,"y":493}
+1470305463604: 	moved	image-11	to	{"x":465,"y":493}
+1470305463612: 	moved	image-11	to	{"x":462,"y":493}
+1470305463620: 	moved	image-11	to	{"x":460,"y":493}
+1470305463628: 	moved	image-11	to	{"x":459,"y":493}
+1470305463637: 	moved	image-11	to	{"x":457,"y":493}
+1470305463645: 	moved	image-11	to	{"x":456,"y":493}
+1470305463653: 	moved	image-11	to	{"x":455,"y":493}
+1470305463663: 	moved	image-11	to	{"x":454,"y":492}
+1470305463670: 	moved	image-11	to	{"x":452,"y":492}
+1470305463678: 	moved	image-11	to	{"x":451,"y":492}
+1470305463688: 	moved	image-11	to	{"x":450,"y":492}
+1470305463696: 	moved	image-11	to	{"x":449,"y":492}
+1470305463703: 	moved	image-11	to	{"x":448,"y":492}
+1470305463731: 	moved	image-11	to	{"x":447,"y":492}
+1470305463754: 	moved	image-11	to	{"x":447,"y":491}
+1470305464113: 	acted on	image-11-1470305460656
+1470305464115: 	selected	image-11-1470305460656
+1470305464278: 	start moving	image-11-1470305460656	from	{"x":119,"y":203}
+1470305464294: 	moved	image-11-1470305460656	to	{"x":792,"y":507}
+1470305464302: 	moved	image-11-1470305460656	to	{"x":791,"y":507}
+1470305464320: 	moved	image-11-1470305460656	to	{"x":790,"y":507}
+1470305464328: 	moved	image-11-1470305460656	to	{"x":790,"y":508}
+1470305464337: 	moved	image-11-1470305460656	to	{"x":789,"y":508}
+1470305464345: 	moved	image-11-1470305460656	to	{"x":788,"y":509}
+1470305464353: 	moved	image-11-1470305460656	to	{"x":788,"y":510}
+1470305464362: 	moved	image-11-1470305460656	to	{"x":787,"y":511}
+1470305464370: 	moved	image-11-1470305460656	to	{"x":787,"y":512}
+1470305464378: 	moved	image-11-1470305460656	to	{"x":786,"y":512}
+1470305464387: 	moved	image-11-1470305460656	to	{"x":786,"y":513}
+1470305464395: 	moved	image-11-1470305460656	to	{"x":786,"y":514}
+1470305464403: 	moved	image-11-1470305460656	to	{"x":785,"y":515}
+1470305464412: 	moved	image-11-1470305460656	to	{"x":785,"y":516}
+1470305464420: 	moved	image-11-1470305460656	to	{"x":785,"y":517}
+1470305464438: 	moved	image-11-1470305460656	to	{"x":784,"y":518}
+1470305464445: 	moved	image-11-1470305460656	to	{"x":784,"y":519}
+1470305464462: 	moved	image-11-1470305460656	to	{"x":783,"y":521}
+1470305464470: 	moved	image-11-1470305460656	to	{"x":783,"y":522}
+1470305464478: 	moved	image-11-1470305460656	to	{"x":783,"y":523}
+1470305464487: 	moved	image-11-1470305460656	to	{"x":782,"y":524}
+1470305464495: 	moved	image-11-1470305460656	to	{"x":782,"y":525}
+1470305464503: 	moved	image-11-1470305460656	to	{"x":781,"y":526}
+1470305464521: 	moved	image-11-1470305460656	to	{"x":780,"y":528}
+1470305464545: 	moved	image-11-1470305460656	to	{"x":780,"y":529}
+1470305464554: 	moved	image-11-1470305460656	to	{"x":779,"y":529}
+1470305464562: 	moved	image-11-1470305460656	to	{"x":779,"y":530}
+1470305464578: 	moved	image-11-1470305460656	to	{"x":778,"y":531}
+1470305464603: 	moved	image-11-1470305460656	to	{"x":777,"y":532}
+1470305464620: 	moved	image-11-1470305460656	to	{"x":777,"y":533}
+1470305464638: 	moved	image-11-1470305460656	to	{"x":776,"y":533}
+1470305464671: 	moved	image-11-1470305460656	to	{"x":775,"y":534}
+1470305464688: 	moved	image-11-1470305460656	to	{"x":774,"y":534}
+1470305465072: 	acted on	image-11
+1470305465074: 	selected	image-11
+1470305466399: 	acted on	draw
+1470305466463: 	selected	null
+1470305466464: 	mode	draw
+1470305468864: 	acted on	less
+1470305469288: 	acted on	more
+1470305469481: 	acted on	more
+1470305469871: 	acted on	less
+1470305470156: 	acted on	more
+1470305470358: 	acted on	more
+1470305470530: 	acted on	more
+1470305471423: 	acted on	image-5
+1470305471424: 	draw	image-5	{"x":34,"y":66}
+1470305471424: 	draw	image-5	{"x":34,"y":66}
+1470305471505: 	draw	image-5	{"x":21,"y":79}
+1470305471506: 	draw	image-5	{"x":21,"y":79}
+1470305471512: 	draw	image-5	{"x":20,"y":81}
+1470305471512: 	draw	image-5	{"x":20,"y":81}
+1470305471520: 	draw	image-5	{"x":20,"y":84}
+1470305471521: 	draw	image-5	{"x":20,"y":84}
+1470305471529: 	draw	image-5	{"x":20,"y":85}
+1470305471530: 	draw	image-5	{"x":20,"y":85}
+1470305471537: 	draw	image-5	{"x":20,"y":87}
+1470305471537: 	draw	image-5	{"x":20,"y":87}
+1470305471546: 	draw	image-5	{"x":21,"y":88}
+1470305471547: 	draw	image-5	{"x":21,"y":88}
+1470305471554: 	draw	image-5	{"x":21,"y":89}
+1470305471554: 	draw	image-5	{"x":21,"y":89}
+1470305471562: 	draw	image-5	{"x":22,"y":91}
+1470305471562: 	draw	image-5	{"x":22,"y":91}
+1470305471572: 	draw	image-5	{"x":23,"y":91}
+1470305471572: 	draw	image-5	{"x":23,"y":91}
+1470305471579: 	draw	image-5	{"x":25,"y":92}
+1470305471579: 	draw	image-5	{"x":25,"y":92}
+1470305471587: 	draw	image-5	{"x":28,"y":92}
+1470305471587: 	draw	image-5	{"x":28,"y":92}
+1470305471595: 	draw	image-5	{"x":32,"y":91}
+1470305471596: 	draw	image-5	{"x":32,"y":91}
+1470305471604: 	draw	image-5	{"x":35,"y":89}
+1470305471605: 	draw	image-5	{"x":35,"y":89}
+1470305471612: 	draw	image-5	{"x":38,"y":87}
+1470305471612: 	draw	image-5	{"x":38,"y":87}
+1470305471620: 	draw	image-5	{"x":42,"y":84}
+1470305471621: 	draw	image-5	{"x":42,"y":84}
+1470305471630: 	draw	image-5	{"x":45,"y":81}
+1470305471630: 	draw	image-5	{"x":45,"y":81}
+1470305471637: 	draw	image-5	{"x":47,"y":78}
+1470305471638: 	draw	image-5	{"x":47,"y":78}
+1470305471646: 	draw	image-5	{"x":49,"y":75}
+1470305471647: 	draw	image-5	{"x":49,"y":75}
+1470305471654: 	draw	image-5	{"x":50,"y":72}
+1470305471655: 	draw	image-5	{"x":50,"y":72}
+1470305471662: 	draw	image-5	{"x":52,"y":69}
+1470305471662: 	draw	image-5	{"x":52,"y":69}
+1470305471672: 	draw	image-5	{"x":52,"y":66}
+1470305471673: 	draw	image-5	{"x":52,"y":66}
+1470305471679: 	draw	image-5	{"x":52,"y":64}
+1470305471679: 	draw	image-5	{"x":52,"y":64}
+1470305471687: 	draw	image-5	{"x":52,"y":62}
+1470305471688: 	draw	image-5	{"x":52,"y":62}
+1470305471696: 	draw	image-5	{"x":51,"y":61}
+1470305471696: 	draw	image-5	{"x":51,"y":61}
+1470305471704: 	draw	image-5	{"x":50,"y":59}
+1470305471705: 	draw	image-5	{"x":50,"y":59}
+1470305471713: 	draw	image-5	{"x":49,"y":58}
+1470305471714: 	draw	image-5	{"x":49,"y":58}
+1470305471720: 	draw	image-5	{"x":47,"y":57}
+1470305471721: 	draw	image-5	{"x":47,"y":57}
+1470305471731: 	draw	image-5	{"x":45,"y":56}
+1470305471732: 	draw	image-5	{"x":45,"y":56}
+1470305471737: 	draw	image-5	{"x":42,"y":56}
+1470305471737: 	draw	image-5	{"x":42,"y":56}
+1470305471746: 	draw	image-5	{"x":40,"y":56}
+1470305471747: 	draw	image-5	{"x":40,"y":56}
+1470305471755: 	draw	image-5	{"x":36,"y":57}
+1470305471756: 	draw	image-5	{"x":36,"y":57}
+1470305471761: 	draw	image-5	{"x":33,"y":58}
+1470305471762: 	draw	image-5	{"x":33,"y":58}
+1470305471771: 	draw	image-5	{"x":31,"y":59}
+1470305471772: 	draw	image-5	{"x":31,"y":59}
+1470305471778: 	draw	image-5	{"x":29,"y":61}
+1470305471779: 	draw	image-5	{"x":29,"y":61}
+1470305471787: 	draw	image-5	{"x":27,"y":63}
+1470305471788: 	draw	image-5	{"x":27,"y":63}
+1470305471796: 	draw	image-5	{"x":26,"y":65}
+1470305471797: 	draw	image-5	{"x":26,"y":65}
+1470305471804: 	draw	image-5	{"x":25,"y":68}
+1470305471804: 	draw	image-5	{"x":25,"y":68}
+1470305471812: 	draw	image-5	{"x":24,"y":70}
+1470305471813: 	draw	image-5	{"x":24,"y":70}
+1470305471821: 	draw	image-5	{"x":24,"y":71}
+1470305471822: 	draw	image-5	{"x":24,"y":71}
+1470305471829: 	draw	image-5	{"x":24,"y":73}
+1470305471830: 	draw	image-5	{"x":24,"y":73}
+1470305471838: 	draw	image-5	{"x":24,"y":75}
+1470305471839: 	draw	image-5	{"x":24,"y":75}
+1470305471845: 	draw	image-5	{"x":25,"y":77}
+1470305471846: 	draw	image-5	{"x":25,"y":77}
+1470305471853: 	draw	image-5	{"x":26,"y":78}
+1470305471855: 	draw	image-5	{"x":26,"y":78}
+1470305471862: 	draw	image-5	{"x":27,"y":79}
+1470305471862: 	draw	image-5	{"x":27,"y":79}
+1470305471871: 	draw	image-5	{"x":29,"y":81}
+1470305471872: 	draw	image-5	{"x":29,"y":81}
+1470305471879: 	draw	image-5	{"x":32,"y":82}
+1470305471880: 	draw	image-5	{"x":32,"y":82}
+1470305471887: 	draw	image-5	{"x":35,"y":83}
+1470305471888: 	draw	image-5	{"x":35,"y":83}
+1470305471896: 	draw	image-5	{"x":38,"y":84}
+1470305471897: 	draw	image-5	{"x":38,"y":84}
+1470305471903: 	draw	image-5	{"x":40,"y":84}
+1470305471904: 	draw	image-5	{"x":40,"y":84}
+1470305471912: 	draw	image-5	{"x":43,"y":83}
+1470305471913: 	draw	image-5	{"x":43,"y":83}
+1470305471920: 	draw	image-5	{"x":45,"y":82}
+1470305471921: 	draw	image-5	{"x":45,"y":82}
+1470305471928: 	draw	image-5	{"x":47,"y":82}
+1470305471929: 	draw	image-5	{"x":47,"y":82}
+1470305471937: 	draw	image-5	{"x":49,"y":80}
+1470305471938: 	draw	image-5	{"x":49,"y":80}
+1470305471946: 	draw	image-5	{"x":51,"y":79}
+1470305471946: 	draw	image-5	{"x":51,"y":79}
+1470305471954: 	draw	image-5	{"x":52,"y":76}
+1470305471955: 	draw	image-5	{"x":52,"y":76}
+1470305471963: 	draw	image-5	{"x":53,"y":74}
+1470305471963: 	draw	image-5	{"x":53,"y":74}
+1470305471971: 	draw	image-5	{"x":53,"y":72}
+1470305471972: 	draw	image-5	{"x":53,"y":72}
+1470305471979: 	draw	image-5	{"x":53,"y":70}
+1470305471979: 	draw	image-5	{"x":53,"y":70}
+1470305471986: 	draw	image-5	{"x":52,"y":68}
+1470305471987: 	draw	image-5	{"x":52,"y":68}
+1470305471996: 	draw	image-5	{"x":51,"y":66}
+1470305471996: 	draw	image-5	{"x":51,"y":66}
+1470305472004: 	draw	image-5	{"x":50,"y":65}
+1470305472004: 	draw	image-5	{"x":50,"y":65}
+1470305472011: 	draw	image-5	{"x":48,"y":64}
+1470305472012: 	draw	image-5	{"x":48,"y":64}
+1470305472020: 	draw	image-5	{"x":45,"y":64}
+1470305472021: 	draw	image-5	{"x":45,"y":64}
+1470305472028: 	draw	image-5	{"x":41,"y":64}
+1470305472029: 	draw	image-5	{"x":41,"y":64}
+1470305472037: 	draw	image-5	{"x":37,"y":65}
+1470305472038: 	draw	image-5	{"x":37,"y":65}
+1470305472045: 	draw	image-5	{"x":35,"y":67}
+1470305472046: 	draw	image-5	{"x":35,"y":67}
+1470305472055: 	draw	image-5	{"x":33,"y":68}
+1470305472055: 	draw	image-5	{"x":33,"y":68}
+1470305472061: 	draw	image-5	{"x":32,"y":69}
+1470305472062: 	draw	image-5	{"x":32,"y":69}
+1470305472071: 	draw	image-5	{"x":31,"y":71}
+1470305472071: 	draw	image-5	{"x":31,"y":71}
+1470305472078: 	draw	image-5	{"x":31,"y":74}
+1470305472079: 	draw	image-5	{"x":31,"y":74}
+1470305472296: 	acted on	image-5
+1470305472298: 	draw	image-5	{"x":80,"y":97}
+1470305472298: 	draw	image-5	{"x":80,"y":97}
+1470305472354: 	draw	image-5	{"x":65,"y":103}
+1470305472355: 	draw	image-5	{"x":65,"y":103}
+1470305472361: 	draw	image-5	{"x":63,"y":106}
+1470305472361: 	draw	image-5	{"x":63,"y":106}
+1470305472371: 	draw	image-5	{"x":63,"y":108}
+1470305472371: 	draw	image-5	{"x":63,"y":108}
+1470305472378: 	draw	image-5	{"x":62,"y":111}
+1470305472379: 	draw	image-5	{"x":62,"y":111}
+1470305472387: 	draw	image-5	{"x":62,"y":114}
+1470305472387: 	draw	image-5	{"x":62,"y":114}
+1470305472396: 	draw	image-5	{"x":62,"y":116}
+1470305472397: 	draw	image-5	{"x":62,"y":116}
+1470305472404: 	draw	image-5	{"x":63,"y":118}
+1470305472404: 	draw	image-5	{"x":63,"y":118}
+1470305472411: 	draw	image-5	{"x":63,"y":119}
+1470305472411: 	draw	image-5	{"x":63,"y":119}
+1470305472420: 	draw	image-5	{"x":64,"y":120}
+1470305472421: 	draw	image-5	{"x":64,"y":120}
+1470305472428: 	draw	image-5	{"x":65,"y":121}
+1470305472429: 	draw	image-5	{"x":65,"y":121}
+1470305472437: 	draw	image-5	{"x":67,"y":122}
+1470305472437: 	draw	image-5	{"x":67,"y":122}
+1470305472445: 	draw	image-5	{"x":69,"y":123}
+1470305472446: 	draw	image-5	{"x":69,"y":123}
+1470305472453: 	draw	image-5	{"x":72,"y":123}
+1470305472454: 	draw	image-5	{"x":72,"y":123}
+1470305472461: 	draw	image-5	{"x":75,"y":122}
+1470305472462: 	draw	image-5	{"x":75,"y":122}
+1470305472470: 	draw	image-5	{"x":77,"y":121}
+1470305472470: 	draw	image-5	{"x":77,"y":121}
+1470305472478: 	draw	image-5	{"x":81,"y":120}
+1470305472479: 	draw	image-5	{"x":81,"y":120}
+1470305472486: 	draw	image-5	{"x":83,"y":118}
+1470305472487: 	draw	image-5	{"x":83,"y":118}
+1470305472495: 	draw	image-5	{"x":86,"y":116}
+1470305472496: 	draw	image-5	{"x":86,"y":116}
+1470305472503: 	draw	image-5	{"x":88,"y":113}
+1470305472504: 	draw	image-5	{"x":88,"y":113}
+1470305472512: 	draw	image-5	{"x":90,"y":110}
+1470305472512: 	draw	image-5	{"x":90,"y":110}
+1470305472520: 	draw	image-5	{"x":91,"y":106}
+1470305472521: 	draw	image-5	{"x":91,"y":106}
+1470305472529: 	draw	image-5	{"x":91,"y":104}
+1470305472529: 	draw	image-5	{"x":91,"y":104}
+1470305472536: 	draw	image-5	{"x":91,"y":100}
+1470305472537: 	draw	image-5	{"x":91,"y":100}
+1470305472545: 	draw	image-5	{"x":90,"y":98}
+1470305472546: 	draw	image-5	{"x":90,"y":98}
+1470305472554: 	draw	image-5	{"x":88,"y":96}
+1470305472554: 	draw	image-5	{"x":88,"y":96}
+1470305472563: 	draw	image-5	{"x":86,"y":95}
+1470305472563: 	draw	image-5	{"x":86,"y":95}
+1470305472570: 	draw	image-5	{"x":83,"y":93}
+1470305472571: 	draw	image-5	{"x":83,"y":93}
+1470305472581: 	draw	image-5	{"x":81,"y":93}
+1470305472581: 	draw	image-5	{"x":81,"y":93}
+1470305472587: 	draw	image-5	{"x":77,"y":91}
+1470305472588: 	draw	image-5	{"x":77,"y":91}
+1470305472595: 	draw	image-5	{"x":76,"y":91}
+1470305472596: 	draw	image-5	{"x":76,"y":91}
+1470305472603: 	draw	image-5	{"x":73,"y":91}
+1470305472604: 	draw	image-5	{"x":73,"y":91}
+1470305472611: 	draw	image-5	{"x":71,"y":92}
+1470305472612: 	draw	image-5	{"x":71,"y":92}
+1470305472620: 	draw	image-5	{"x":69,"y":92}
+1470305472621: 	draw	image-5	{"x":69,"y":92}
+1470305472629: 	draw	image-5	{"x":67,"y":94}
+1470305472630: 	draw	image-5	{"x":67,"y":94}
+1470305472636: 	draw	image-5	{"x":65,"y":96}
+1470305472637: 	draw	image-5	{"x":65,"y":96}
+1470305472645: 	draw	image-5	{"x":62,"y":98}
+1470305472646: 	draw	image-5	{"x":62,"y":98}
+1470305472653: 	draw	image-5	{"x":61,"y":100}
+1470305472654: 	draw	image-5	{"x":61,"y":100}
+1470305472661: 	draw	image-5	{"x":60,"y":103}
+1470305472662: 	draw	image-5	{"x":60,"y":103}
+1470305472671: 	draw	image-5	{"x":60,"y":105}
+1470305472672: 	draw	image-5	{"x":60,"y":105}
+1470305472678: 	draw	image-5	{"x":59,"y":107}
+1470305472679: 	draw	image-5	{"x":59,"y":107}
+1470305472686: 	draw	image-5	{"x":60,"y":110}
+1470305472687: 	draw	image-5	{"x":60,"y":110}
+1470305472695: 	draw	image-5	{"x":60,"y":111}
+1470305472696: 	draw	image-5	{"x":60,"y":111}
+1470305472704: 	draw	image-5	{"x":61,"y":113}
+1470305472704: 	draw	image-5	{"x":61,"y":113}
+1470305472712: 	draw	image-5	{"x":63,"y":115}
+1470305472713: 	draw	image-5	{"x":63,"y":115}
+1470305472720: 	draw	image-5	{"x":65,"y":116}
+1470305472721: 	draw	image-5	{"x":65,"y":116}
+1470305472728: 	draw	image-5	{"x":68,"y":117}
+1470305472729: 	draw	image-5	{"x":68,"y":117}
+1470305472737: 	draw	image-5	{"x":71,"y":118}
+1470305472737: 	draw	image-5	{"x":71,"y":118}
+1470305472745: 	draw	image-5	{"x":74,"y":118}
+1470305472746: 	draw	image-5	{"x":74,"y":118}
+1470305472753: 	draw	image-5	{"x":77,"y":118}
+1470305472754: 	draw	image-5	{"x":77,"y":118}
+1470305472762: 	draw	image-5	{"x":80,"y":118}
+1470305472763: 	draw	image-5	{"x":80,"y":118}
+1470305472771: 	draw	image-5	{"x":82,"y":117}
+1470305472772: 	draw	image-5	{"x":82,"y":117}
+1470305472778: 	draw	image-5	{"x":85,"y":116}
+1470305472779: 	draw	image-5	{"x":85,"y":116}
+1470305472787: 	draw	image-5	{"x":87,"y":114}
+1470305472788: 	draw	image-5	{"x":87,"y":114}
+1470305472796: 	draw	image-5	{"x":89,"y":111}
+1470305472797: 	draw	image-5	{"x":89,"y":111}
+1470305472803: 	draw	image-5	{"x":90,"y":109}
+1470305472804: 	draw	image-5	{"x":90,"y":109}
+1470305472811: 	draw	image-5	{"x":90,"y":107}
+1470305472812: 	draw	image-5	{"x":90,"y":107}
+1470305472820: 	draw	image-5	{"x":90,"y":104}
+1470305472821: 	draw	image-5	{"x":90,"y":104}
+1470305472828: 	draw	image-5	{"x":89,"y":102}
+1470305472829: 	draw	image-5	{"x":89,"y":102}
+1470305472836: 	draw	image-5	{"x":88,"y":99}
+1470305472837: 	draw	image-5	{"x":88,"y":99}
+1470305472845: 	draw	image-5	{"x":87,"y":99}
+1470305472846: 	draw	image-5	{"x":87,"y":99}
+1470305472853: 	draw	image-5	{"x":84,"y":97}
+1470305472854: 	draw	image-5	{"x":84,"y":97}
+1470305472861: 	draw	image-5	{"x":82,"y":96}
+1470305472862: 	draw	image-5	{"x":82,"y":96}
+1470305472871: 	draw	image-5	{"x":78,"y":96}
+1470305472872: 	draw	image-5	{"x":78,"y":96}
+1470305472883: 	draw	image-5	{"x":75,"y":96}
+1470305472884: 	draw	image-5	{"x":75,"y":96}
+1470305472888: 	draw	image-5	{"x":72,"y":96}
+1470305472889: 	draw	image-5	{"x":72,"y":96}
+1470305472895: 	draw	image-5	{"x":68,"y":97}
+1470305472896: 	draw	image-5	{"x":68,"y":97}
+1470305472906: 	draw	image-5	{"x":65,"y":99}
+1470305472907: 	draw	image-5	{"x":65,"y":99}
+1470305472912: 	draw	image-5	{"x":62,"y":101}
+1470305472915: 	draw	image-5	{"x":62,"y":101}
+1470305472929: 	draw	image-5	{"x":58,"y":106}
+1470305472931: 	draw	image-5	{"x":58,"y":106}
+1470305472937: 	draw	image-5	{"x":57,"y":108}
+1470305472937: 	draw	image-5	{"x":57,"y":108}
+1470305472946: 	draw	image-5	{"x":56,"y":111}
+1470305472947: 	draw	image-5	{"x":56,"y":111}
+1470305472953: 	draw	image-5	{"x":56,"y":113}
+1470305472954: 	draw	image-5	{"x":56,"y":113}
+1470305472961: 	draw	image-5	{"x":58,"y":117}
+1470305472962: 	draw	image-5	{"x":58,"y":117}
+1470305472970: 	draw	image-5	{"x":59,"y":120}
+1470305472971: 	draw	image-5	{"x":59,"y":120}
+1470305477872: 	acted on	draw
+1470305477980: 	selected	null
+1470305477980: 	mode	null
+1470305479472: 	acted on	path-1470305471425
+1470305479473: 	selected	path-1470305471425
+1470305481031: 	acted on	colorPicker
+1470305482387: 	acted on	#00FF33
+1470305482470: 	sub-instrument	#00FF33		false
+1470305482471: 	changed color	path-1470305471425	rgb(188, 0, 188)
+1470305483422: 	acted on	path-1470305472299
+1470305483424: 	selected	path-1470305472299
+1470305484005: 	acted on	colorPicker
+1470305484897: 	acted on	#00FF33
+1470305484996: 	sub-instrument	#00FF33		false
+1470305484997: 	changed color	path-1470305472299	rgb(188, 0, 188)
+1470305485762: 	acted on	content
+1470305485763: 	selected	null
+1470305487405: 	acted on	colorPicker
+1470305488580: 	acted on	#0033CC
+1470305488688: 	sub-instrument	#0033CC		false
+1470305488688: 	changed color	rgb(151, 255, 151)
+1470305489823: 	acted on	less
+1470305489996: 	acted on	less
+1470305490172: 	acted on	less
+1470305490321: 	acted on	less
+1470305490480: 	acted on	less
+1470305490630: 	acted on	less
+1470305490796: 	acted on	less
+1470305490947: 	acted on	less
+1470305491088: 	acted on	less
+1470305491280: 	acted on	less
+1470305492130: 	acted on	draw
+1470305492205: 	selected	null
+1470305492207: 	mode	draw
+1470305493238: 	acted on	image-5
+1470305493240: 	draw	image-5	{"x":73,"y":61}
+1470305493241: 	draw	image-5	{"x":73,"y":61}
+1470305493379: 	draw	image-5	{"x":84,"y":50}
+1470305493380: 	draw	image-5	{"x":84,"y":50}
+1470305493386: 	draw	image-5	{"x":86,"y":48}
+1470305493387: 	draw	image-5	{"x":86,"y":48}
+1470305493394: 	draw	image-5	{"x":88,"y":46}
+1470305493395: 	draw	image-5	{"x":88,"y":46}
+1470305493404: 	draw	image-5	{"x":90,"y":45}
+1470305493404: 	draw	image-5	{"x":90,"y":45}
+1470305493412: 	draw	image-5	{"x":91,"y":44}
+1470305493413: 	draw	image-5	{"x":91,"y":44}
+1470305493420: 	draw	image-5	{"x":93,"y":43}
+1470305493420: 	draw	image-5	{"x":93,"y":43}
+1470305493428: 	draw	image-5	{"x":95,"y":42}
+1470305493429: 	draw	image-5	{"x":95,"y":42}
+1470305493436: 	draw	image-5	{"x":97,"y":40}
+1470305493437: 	draw	image-5	{"x":97,"y":40}
+1470305493446: 	draw	image-5	{"x":99,"y":38}
+1470305493447: 	draw	image-5	{"x":99,"y":38}
+1470305493453: 	draw	image-5	{"x":101,"y":36}
+1470305493454: 	draw	image-5	{"x":101,"y":36}
+1470305493462: 	draw	image-5	{"x":102,"y":35}
+1470305493462: 	draw	image-5	{"x":102,"y":35}
+1470305493469: 	draw	image-5	{"x":104,"y":34}
+1470305493470: 	draw	image-5	{"x":104,"y":34}
+1470305493479: 	draw	image-5	{"x":105,"y":32}
+1470305493479: 	draw	image-5	{"x":105,"y":32}
+1470305493486: 	draw	image-5	{"x":107,"y":30}
+1470305493487: 	draw	image-5	{"x":107,"y":30}
+1470305493494: 	draw	image-5	{"x":108,"y":29}
+1470305493495: 	draw	image-5	{"x":108,"y":29}
+1470305493503: 	draw	image-5	{"x":109,"y":27}
+1470305493504: 	draw	image-5	{"x":109,"y":27}
+1470305493511: 	draw	image-5	{"x":110,"y":26}
+1470305493512: 	draw	image-5	{"x":110,"y":26}
+1470305493519: 	draw	image-5	{"x":111,"y":25}
+1470305493520: 	draw	image-5	{"x":111,"y":25}
+1470305493529: 	draw	image-5	{"x":112,"y":23}
+1470305493530: 	draw	image-5	{"x":112,"y":23}
+1470305493544: 	draw	image-5	{"x":113,"y":22}
+1470305493545: 	draw	image-5	{"x":113,"y":22}
+1470305493553: 	draw	image-5	{"x":114,"y":21}
+1470305493554: 	draw	image-5	{"x":114,"y":21}
+1470305493570: 	draw	image-5	{"x":114,"y":20}
+1470305493571: 	draw	image-5	{"x":114,"y":20}
+1470305493579: 	draw	image-5	{"x":115,"y":20}
+1470305493579: 	draw	image-5	{"x":115,"y":20}
+1470305493670: 	draw	image-5	{"x":115,"y":21}
+1470305493671: 	draw	image-5	{"x":115,"y":21}
+1470305493678: 	draw	image-5	{"x":115,"y":22}
+1470305493679: 	draw	image-5	{"x":115,"y":22}
+1470305493686: 	draw	image-5	{"x":115,"y":25}
+1470305493687: 	draw	image-5	{"x":115,"y":25}
+1470305493694: 	draw	image-5	{"x":114,"y":27}
+1470305493695: 	draw	image-5	{"x":114,"y":27}
+1470305493705: 	draw	image-5	{"x":113,"y":29}
+1470305493706: 	draw	image-5	{"x":113,"y":29}
+1470305493712: 	draw	image-5	{"x":112,"y":32}
+1470305493712: 	draw	image-5	{"x":112,"y":32}
+1470305493720: 	draw	image-5	{"x":111,"y":34}
+1470305493720: 	draw	image-5	{"x":111,"y":34}
+1470305493729: 	draw	image-5	{"x":110,"y":36}
+1470305493729: 	draw	image-5	{"x":110,"y":36}
+1470305493736: 	draw	image-5	{"x":110,"y":39}
+1470305493737: 	draw	image-5	{"x":110,"y":39}
+1470305493744: 	draw	image-5	{"x":109,"y":41}
+1470305493745: 	draw	image-5	{"x":109,"y":41}
+1470305493755: 	draw	image-5	{"x":109,"y":43}
+1470305493755: 	draw	image-5	{"x":109,"y":43}
+1470305493762: 	draw	image-5	{"x":108,"y":45}
+1470305493762: 	draw	image-5	{"x":108,"y":45}
+1470305493769: 	draw	image-5	{"x":107,"y":49}
+1470305493770: 	draw	image-5	{"x":107,"y":49}
+1470305493779: 	draw	image-5	{"x":106,"y":52}
+1470305493780: 	draw	image-5	{"x":106,"y":52}
+1470305493786: 	draw	image-5	{"x":105,"y":54}
+1470305493787: 	draw	image-5	{"x":105,"y":54}
+1470305493794: 	draw	image-5	{"x":105,"y":56}
+1470305493795: 	draw	image-5	{"x":105,"y":56}
+1470305493804: 	draw	image-5	{"x":104,"y":58}
+1470305493805: 	draw	image-5	{"x":104,"y":58}
+1470305493812: 	draw	image-5	{"x":103,"y":62}
+1470305493812: 	draw	image-5	{"x":103,"y":62}
+1470305493820: 	draw	image-5	{"x":101,"y":65}
+1470305493820: 	draw	image-5	{"x":101,"y":65}
+1470305493829: 	draw	image-5	{"x":100,"y":68}
+1470305493830: 	draw	image-5	{"x":100,"y":68}
+1470305493837: 	draw	image-5	{"x":100,"y":69}
+1470305493838: 	draw	image-5	{"x":100,"y":69}
+1470305493844: 	draw	image-5	{"x":98,"y":72}
+1470305493845: 	draw	image-5	{"x":98,"y":72}
+1470305493853: 	draw	image-5	{"x":97,"y":74}
+1470305493854: 	draw	image-5	{"x":97,"y":74}
+1470305493861: 	draw	image-5	{"x":96,"y":76}
+1470305493862: 	draw	image-5	{"x":96,"y":76}
+1470305493869: 	draw	image-5	{"x":95,"y":78}
+1470305493870: 	draw	image-5	{"x":95,"y":78}
+1470305493879: 	draw	image-5	{"x":94,"y":80}
+1470305493880: 	draw	image-5	{"x":94,"y":80}
+1470305493886: 	draw	image-5	{"x":92,"y":82}
+1470305493887: 	draw	image-5	{"x":92,"y":82}
+1470305493894: 	draw	image-5	{"x":91,"y":84}
+1470305493895: 	draw	image-5	{"x":91,"y":84}
+1470305493904: 	draw	image-5	{"x":89,"y":86}
+1470305493904: 	draw	image-5	{"x":89,"y":86}
+1470305493911: 	draw	image-5	{"x":87,"y":88}
+1470305493912: 	draw	image-5	{"x":87,"y":88}
+1470305493921: 	draw	image-5	{"x":86,"y":89}
+1470305493921: 	draw	image-5	{"x":86,"y":89}
+1470305493928: 	draw	image-5	{"x":84,"y":91}
+1470305493929: 	draw	image-5	{"x":84,"y":91}
+1470305493937: 	draw	image-5	{"x":82,"y":92}
+1470305493938: 	draw	image-5	{"x":82,"y":92}
+1470305493944: 	draw	image-5	{"x":81,"y":94}
+1470305493945: 	draw	image-5	{"x":81,"y":94}
+1470305493953: 	draw	image-5	{"x":78,"y":96}
+1470305493954: 	draw	image-5	{"x":78,"y":96}
+1470305496331: 	acted on	draw
+1470305496413: 	selected	null
+1470305496414: 	mode	null
+1470305497580: 	acted on	colorPicker
+1470305498430: 	acted on	#0066FF
+1470305498546: 	sub-instrument	#0066FF		false
+1470305498547: 	changed color	rgb(255, 255, 78)
+1470305499447: 	acted on	circle
+1470305499537: 	selected	null
+1470305499538: 	mode	circle
+1470305499539: 	selected	null
+1470305501022: 	acted on	content
+1470305501163: 	shape started	{"x":1017,"y":152}
+1470305501164: 	shape continued	10	circle
+1470305501166: 	selected	shape-1470305501163
+1470305501173: 	shape continued	10	circle
+1470305501174: 	selected	shape-1470305501163
+1470305501180: 	shape continued	10	circle
+1470305501181: 	selected	shape-1470305501163
+1470305501187: 	shape continued	10	circle
+1470305501188: 	selected	shape-1470305501163
+1470305501195: 	shape continued	11	circle
+1470305501196: 	selected	shape-1470305501163
+1470305501204: 	shape continued	14	circle
+1470305501205: 	selected	shape-1470305501163
+1470305501212: 	shape continued	18	circle
+1470305501213: 	selected	shape-1470305501163
+1470305501220: 	shape continued	21	circle
+1470305501221: 	selected	shape-1470305501163
+1470305501228: 	shape continued	24	circle
+1470305501229: 	selected	shape-1470305501163
+1470305501237: 	shape continued	28	circle
+1470305501239: 	selected	shape-1470305501163
+1470305501245: 	shape continued	31	circle
+1470305501246: 	selected	shape-1470305501163
+1470305501253: 	shape continued	34	circle
+1470305501254: 	selected	shape-1470305501163
+1470305501263: 	shape continued	38	circle
+1470305501264: 	selected	shape-1470305501163
+1470305501270: 	shape continued	41	circle
+1470305501271: 	selected	shape-1470305501163
+1470305501277: 	shape continued	45	circle
+1470305501278: 	selected	shape-1470305501163
+1470305501287: 	shape continued	48	circle
+1470305501288: 	selected	shape-1470305501163
+1470305501294: 	shape continued	52	circle
+1470305501295: 	selected	shape-1470305501163
+1470305501303: 	shape continued	55	circle
+1470305501304: 	selected	shape-1470305501163
+1470305501312: 	shape continued	59	circle
+1470305501313: 	selected	shape-1470305501163
+1470305501320: 	shape continued	62	circle
+1470305501321: 	selected	shape-1470305501163
+1470305501328: 	shape continued	66	circle
+1470305501329: 	selected	shape-1470305501163
+1470305501337: 	shape continued	70	circle
+1470305501338: 	selected	shape-1470305501163
+1470305501344: 	shape continued	74	circle
+1470305501346: 	selected	shape-1470305501163
+1470305501353: 	shape continued	77	circle
+1470305501354: 	selected	shape-1470305501163
+1470305501362: 	shape continued	81	circle
+1470305501363: 	selected	shape-1470305501163
+1470305501369: 	shape continued	85	circle
+1470305501370: 	selected	shape-1470305501163
+1470305501378: 	shape continued	88	circle
+1470305501379: 	selected	shape-1470305501163
+1470305501386: 	shape continued	91	circle
+1470305501387: 	selected	shape-1470305501163
+1470305501394: 	shape continued	94	circle
+1470305501395: 	selected	shape-1470305501163
+1470305501403: 	shape continued	97	circle
+1470305501405: 	selected	shape-1470305501163
+1470305501411: 	shape continued	100	circle
+1470305501412: 	selected	shape-1470305501163
+1470305501420: 	shape continued	103	circle
+1470305501421: 	selected	shape-1470305501163
+1470305501427: 	shape continued	106	circle
+1470305501429: 	selected	shape-1470305501163
+1470305501436: 	shape continued	108	circle
+1470305501437: 	selected	shape-1470305501163
+1470305501444: 	shape continued	110	circle
+1470305501445: 	selected	shape-1470305501163
+1470305501452: 	shape continued	113	circle
+1470305501454: 	selected	shape-1470305501163
+1470305501462: 	shape continued	116	circle
+1470305501463: 	selected	shape-1470305501163
+1470305501469: 	shape continued	119	circle
+1470305501470: 	selected	shape-1470305501163
+1470305501477: 	shape continued	121	circle
+1470305501479: 	selected	shape-1470305501163
+1470305501486: 	shape continued	124	circle
+1470305501487: 	selected	shape-1470305501163
+1470305501494: 	shape continued	126	circle
+1470305501495: 	selected	shape-1470305501163
+1470305501503: 	shape continued	129	circle
+1470305501504: 	selected	shape-1470305501163
+1470305501511: 	shape continued	132	circle
+1470305501512: 	selected	shape-1470305501163
+1470305501520: 	shape continued	135	circle
+1470305501521: 	selected	shape-1470305501163
+1470305501528: 	shape continued	138	circle
+1470305501529: 	selected	shape-1470305501163
+1470305501537: 	shape continued	141	circle
+1470305501538: 	selected	shape-1470305501163
+1470305501544: 	shape continued	144	circle
+1470305501545: 	selected	shape-1470305501163
+1470305501552: 	shape continued	147	circle
+1470305501553: 	selected	shape-1470305501163
+1470305501561: 	shape continued	150	circle
+1470305501562: 	selected	shape-1470305501163
+1470305501570: 	shape continued	154	circle
+1470305501571: 	selected	shape-1470305501163
+1470305501577: 	shape continued	157	circle
+1470305501578: 	selected	shape-1470305501163
+1470305501587: 	shape continued	160	circle
+1470305501588: 	selected	shape-1470305501163
+1470305501594: 	shape continued	164	circle
+1470305501595: 	selected	shape-1470305501163
+1470305501603: 	shape continued	168	circle
+1470305501604: 	selected	shape-1470305501163
+1470305501611: 	shape continued	171	circle
+1470305501612: 	selected	shape-1470305501163
+1470305501619: 	shape continued	175	circle
+1470305501620: 	selected	shape-1470305501163
+1470305501627: 	shape continued	179	circle
+1470305501628: 	selected	shape-1470305501163
+1470305501637: 	shape continued	182	circle
+1470305501638: 	selected	shape-1470305501163
+1470305501644: 	shape continued	186	circle
+1470305501645: 	selected	shape-1470305501163
+1470305501652: 	shape continued	189	circle
+1470305501653: 	selected	shape-1470305501163
+1470305501661: 	shape continued	193	circle
+1470305501663: 	selected	shape-1470305501163
+1470305501669: 	shape continued	196	circle
+1470305501670: 	selected	shape-1470305501163
+1470305501677: 	shape continued	200	circle
+1470305501678: 	selected	shape-1470305501163
+1470305501687: 	shape continued	204	circle
+1470305501688: 	selected	shape-1470305501163
+1470305501694: 	shape continued	208	circle
+1470305501695: 	selected	shape-1470305501163
+1470305501702: 	shape continued	212	circle
+1470305501703: 	selected	shape-1470305501163
+1470305501711: 	shape continued	215	circle
+1470305501712: 	selected	shape-1470305501163
+1470305501719: 	shape continued	218	circle
+1470305501720: 	selected	shape-1470305501163
+1470305501727: 	shape continued	222	circle
+1470305501729: 	selected	shape-1470305501163
+1470305501736: 	shape continued	226	circle
+1470305501737: 	selected	shape-1470305501163
+1470305501745: 	shape continued	229	circle
+1470305501746: 	selected	shape-1470305501163
+1470305501752: 	shape continued	231	circle
+1470305501753: 	selected	shape-1470305501163
+1470305501762: 	shape continued	234	circle
+1470305501763: 	selected	shape-1470305501163
+1470305501769: 	shape continued	237	circle
+1470305501770: 	selected	shape-1470305501163
+1470305501778: 	shape continued	240	circle
+1470305501779: 	selected	shape-1470305501163
+1470305501787: 	shape continued	242	circle
+1470305501788: 	selected	shape-1470305501163
+1470305501794: 	shape continued	244	circle
+1470305501795: 	selected	shape-1470305501163
+1470305501802: 	shape continued	247	circle
+1470305501803: 	selected	shape-1470305501163
+1470305501812: 	shape continued	249	circle
+1470305501813: 	selected	shape-1470305501163
+1470305501820: 	shape continued	252	circle
+1470305501821: 	selected	shape-1470305501163
+1470305501828: 	shape continued	254	circle
+1470305501829: 	selected	shape-1470305501163
+1470305501836: 	shape continued	257	circle
+1470305501837: 	selected	shape-1470305501163
+1470305501844: 	shape continued	259	circle
+1470305501845: 	selected	shape-1470305501163
+1470305501852: 	shape continued	261	circle
+1470305501854: 	selected	shape-1470305501163
+1470305501861: 	shape continued	263	circle
+1470305501862: 	selected	shape-1470305501163
+1470305501869: 	shape continued	266	circle
+1470305501870: 	selected	shape-1470305501163
+1470305501877: 	shape continued	268	circle
+1470305501878: 	selected	shape-1470305501163
+1470305501886: 	shape continued	269	circle
+1470305501887: 	selected	shape-1470305501163
+1470305501894: 	shape continued	271	circle
+1470305501896: 	selected	shape-1470305501163
+1470305501902: 	shape continued	273	circle
+1470305501903: 	selected	shape-1470305501163
+1470305501911: 	shape continued	275	circle
+1470305501912: 	selected	shape-1470305501163
+1470305501920: 	shape continued	277	circle
+1470305501921: 	selected	shape-1470305501163
+1470305501928: 	shape continued	279	circle
+1470305501929: 	selected	shape-1470305501163
+1470305501936: 	shape continued	280	circle
+1470305501937: 	selected	shape-1470305501163
+1470305501944: 	shape continued	282	circle
+1470305501945: 	selected	shape-1470305501163
+1470305501952: 	shape continued	284	circle
+1470305501953: 	selected	shape-1470305501163
+1470305501961: 	shape continued	285	circle
+1470305501962: 	selected	shape-1470305501163
+1470305501970: 	shape continued	288	circle
+1470305501971: 	selected	shape-1470305501163
+1470305501977: 	shape continued	289	circle
+1470305501979: 	selected	shape-1470305501163
+1470305501986: 	shape continued	291	circle
+1470305501987: 	selected	shape-1470305501163
+1470305501994: 	shape continued	293	circle
+1470305501995: 	selected	shape-1470305501163
+1470305502002: 	shape continued	295	circle
+1470305502004: 	selected	shape-1470305501163
+1470305502011: 	shape continued	296	circle
+1470305502012: 	selected	shape-1470305501163
+1470305502019: 	shape continued	298	circle
+1470305502020: 	selected	shape-1470305501163
+1470305502027: 	shape continued	299	circle
+1470305502028: 	selected	shape-1470305501163
+1470305502037: 	shape continued	300	circle
+1470305502038: 	selected	shape-1470305501163
+1470305502044: 	shape continued	302	circle
+1470305502045: 	selected	shape-1470305501163
+1470305502052: 	shape continued	303	circle
+1470305502054: 	selected	shape-1470305501163
+1470305502062: 	shape continued	304	circle
+1470305502063: 	selected	shape-1470305501163
+1470305502069: 	shape continued	305	circle
+1470305502070: 	selected	shape-1470305501163
+1470305502077: 	shape continued	306	circle
+1470305502078: 	selected	shape-1470305501163
+1470305502086: 	shape continued	307	circle
+1470305502088: 	selected	shape-1470305501163
+1470305502094: 	shape continued	308	circle
+1470305502095: 	selected	shape-1470305501163
+1470305502102: 	shape continued	309	circle
+1470305502103: 	selected	shape-1470305501163
+1470305502111: 	shape continued	310	circle
+1470305502113: 	selected	shape-1470305501163
+1470305502119: 	shape continued	311	circle
+1470305502120: 	selected	shape-1470305501163
+1470305502137: 	shape continued	312	circle
+1470305502138: 	selected	shape-1470305501163
+1470305502144: 	shape continued	313	circle
+1470305502145: 	selected	shape-1470305501163
+1470305502162: 	shape continued	314	circle
+1470305502163: 	selected	shape-1470305501163
+1470305502178: 	shape continued	315	circle
+1470305502180: 	selected	shape-1470305501163
+1470305502195: 	shape continued	316	circle
+1470305502196: 	selected	shape-1470305501163
+1470305502203: 	shape continued	317	circle
+1470305502205: 	selected	shape-1470305501163
+1470305502220: 	shape continued	318	circle
+1470305502221: 	selected	shape-1470305501163
+1470305502227: 	shape continued	319	circle
+1470305502228: 	selected	shape-1470305501163
+1470305502245: 	shape continued	320	circle
+1470305502246: 	selected	shape-1470305501163
+1470305502252: 	shape continued	321	circle
+1470305502253: 	selected	shape-1470305501163
+1470305502270: 	shape continued	322	circle
+1470305502272: 	selected	shape-1470305501163
+1470305502277: 	shape continued	323	circle
+1470305502278: 	selected	shape-1470305501163
+1470305502286: 	shape continued	324	circle
+1470305502287: 	selected	shape-1470305501163
+1470305502294: 	shape continued	325	circle
+1470305502295: 	selected	shape-1470305501163
+1470305502302: 	shape continued	326	circle
+1470305502303: 	selected	shape-1470305501163
+1470305502312: 	shape continued	327	circle
+1470305502314: 	selected	shape-1470305501163
+1470305502319: 	shape continued	329	circle
+1470305502320: 	selected	shape-1470305501163
+1470305502327: 	shape continued	330	circle
+1470305502328: 	selected	shape-1470305501163
+1470305502336: 	shape continued	332	circle
+1470305502337: 	selected	shape-1470305501163
+1470305502363: 	selected	shape-1470305501163
+1470305504154: 	acted on	content
+1470305504155: 	selected	null
+1470305516455: 	acted on	image-5
+1470305516457: 	selected	image-5
+1470305517779: 	acted on	copy
+1470305517880: 	copied	image-5
+1470305517881: 	copied	image-5
+1470305517882: 	selected	null
+1470305519438: 	acted on	image-11
+1470305519440: 	selected	image-11
+1470305521305: 	acted on	paste
+1470305521405: 	pasted	image-5-
+1470305521406: 	pasted	image-11
+1470305522430: 	acted on	image-5-1470305521406
+1470305522431: 	selected	image-5-1470305521406
+1470305522886: 	acted on	image-5-1470305521406
+1470305522889: 	selected	image-5-1470305521406
+1470305522963: 	start moving	image-5-1470305521406	from	{"x":450,"y":442}
+1470305522970: 	moved	image-5-1470305521406	to	{"x":454,"y":445}
+1470305522979: 	moved	image-5-1470305521406	to	{"x":458,"y":448}
+1470305522987: 	moved	image-5-1470305521406	to	{"x":462,"y":450}
+1470305522995: 	moved	image-5-1470305521406	to	{"x":467,"y":453}
+1470305523003: 	moved	image-5-1470305521406	to	{"x":473,"y":456}
+1470305523011: 	moved	image-5-1470305521406	to	{"x":478,"y":459}
+1470305523020: 	moved	image-5-1470305521406	to	{"x":484,"y":462}
+1470305523028: 	moved	image-5-1470305521406	to	{"x":490,"y":465}
+1470305523037: 	moved	image-5-1470305521406	to	{"x":497,"y":470}
+1470305523045: 	moved	image-5-1470305521406	to	{"x":503,"y":473}
+1470305523053: 	moved	image-5-1470305521406	to	{"x":511,"y":478}
+1470305523061: 	moved	image-5-1470305521406	to	{"x":517,"y":482}
+1470305523070: 	moved	image-5-1470305521406	to	{"x":524,"y":486}
+1470305523078: 	moved	image-5-1470305521406	to	{"x":531,"y":490}
+1470305523086: 	moved	image-5-1470305521406	to	{"x":539,"y":495}
+1470305523095: 	moved	image-5-1470305521406	to	{"x":546,"y":498}
+1470305523103: 	moved	image-5-1470305521406	to	{"x":554,"y":502}
+1470305523112: 	moved	image-5-1470305521406	to	{"x":560,"y":506}
+1470305523120: 	moved	image-5-1470305521406	to	{"x":567,"y":511}
+1470305523128: 	moved	image-5-1470305521406	to	{"x":573,"y":516}
+1470305523136: 	moved	image-5-1470305521406	to	{"x":580,"y":520}
+1470305523145: 	moved	image-5-1470305521406	to	{"x":586,"y":524}
+1470305523153: 	moved	image-5-1470305521406	to	{"x":592,"y":527}
+1470305523161: 	moved	image-5-1470305521406	to	{"x":599,"y":531}
+1470305523170: 	moved	image-5-1470305521406	to	{"x":604,"y":534}
+1470305523178: 	moved	image-5-1470305521406	to	{"x":610,"y":536}
+1470305523186: 	moved	image-5-1470305521406	to	{"x":614,"y":538}
+1470305523195: 	moved	image-5-1470305521406	to	{"x":617,"y":540}
+1470305523203: 	moved	image-5-1470305521406	to	{"x":621,"y":542}
+1470305523211: 	moved	image-5-1470305521406	to	{"x":624,"y":543}
+1470305523220: 	moved	image-5-1470305521406	to	{"x":627,"y":545}
+1470305523228: 	moved	image-5-1470305521406	to	{"x":629,"y":546}
+1470305523236: 	moved	image-5-1470305521406	to	{"x":630,"y":546}
+1470305523245: 	moved	image-5-1470305521406	to	{"x":631,"y":547}
+1470305523295: 	moved	image-5-1470305521406	to	{"x":631,"y":546}
+1470305523303: 	moved	image-5-1470305521406	to	{"x":627,"y":544}
+1470305523311: 	moved	image-5-1470305521406	to	{"x":620,"y":541}
+1470305523320: 	moved	image-5-1470305521406	to	{"x":614,"y":538}
+1470305523328: 	moved	image-5-1470305521406	to	{"x":607,"y":536}
+1470305523336: 	moved	image-5-1470305521406	to	{"x":598,"y":533}
+1470305523345: 	moved	image-5-1470305521406	to	{"x":590,"y":529}
+1470305523354: 	moved	image-5-1470305521406	to	{"x":581,"y":526}
+1470305523360: 	moved	image-5-1470305521406	to	{"x":571,"y":522}
+1470305523370: 	moved	image-5-1470305521406	to	{"x":561,"y":518}
+1470305523378: 	moved	image-5-1470305521406	to	{"x":552,"y":516}
+1470305523385: 	moved	image-5-1470305521406	to	{"x":544,"y":513}
+1470305523395: 	moved	image-5-1470305521406	to	{"x":535,"y":510}
+1470305523402: 	moved	image-5-1470305521406	to	{"x":526,"y":509}
+1470305523411: 	moved	image-5-1470305521406	to	{"x":519,"y":507}
+1470305523419: 	moved	image-5-1470305521406	to	{"x":511,"y":505}
+1470305523427: 	moved	image-5-1470305521406	to	{"x":504,"y":504}
+1470305523435: 	moved	image-5-1470305521406	to	{"x":498,"y":503}
+1470305523445: 	moved	image-5-1470305521406	to	{"x":495,"y":502}
+1470305523453: 	moved	image-5-1470305521406	to	{"x":492,"y":502}
+1470305523460: 	moved	image-5-1470305521406	to	{"x":490,"y":502}
+1470305523470: 	moved	image-5-1470305521406	to	{"x":490,"y":501}
+1470305523487: 	moved	image-5-1470305521406	to	{"x":489,"y":501}
+1470305523495: 	moved	image-5-1470305521406	to	{"x":490,"y":501}
+1470305523503: 	moved	image-5-1470305521406	to	{"x":495,"y":500}
+1470305523511: 	moved	image-5-1470305521406	to	{"x":506,"y":501}
+1470305523519: 	moved	image-5-1470305521406	to	{"x":516,"y":503}
+1470305523528: 	moved	image-5-1470305521406	to	{"x":530,"y":505}
+1470305523535: 	moved	image-5-1470305521406	to	{"x":543,"y":506}
+1470305523544: 	moved	image-5-1470305521406	to	{"x":557,"y":508}
+1470305523552: 	moved	image-5-1470305521406	to	{"x":570,"y":510}
+1470305523560: 	moved	image-5-1470305521406	to	{"x":584,"y":513}
+1470305523570: 	moved	image-5-1470305521406	to	{"x":598,"y":517}
+1470305523577: 	moved	image-5-1470305521406	to	{"x":610,"y":521}
+1470305523586: 	moved	image-5-1470305521406	to	{"x":624,"y":523}
+1470305523595: 	moved	image-5-1470305521406	to	{"x":636,"y":527}
+1470305523603: 	moved	image-5-1470305521406	to	{"x":648,"y":530}
+1470305523611: 	moved	image-5-1470305521406	to	{"x":659,"y":532}
+1470305523619: 	moved	image-5-1470305521406	to	{"x":668,"y":536}
+1470305523627: 	moved	image-5-1470305521406	to	{"x":676,"y":538}
+1470305523635: 	moved	image-5-1470305521406	to	{"x":683,"y":540}
+1470305523645: 	moved	image-5-1470305521406	to	{"x":691,"y":543}
+1470305523653: 	moved	image-5-1470305521406	to	{"x":698,"y":545}
+1470305523661: 	moved	image-5-1470305521406	to	{"x":703,"y":548}
+1470305523669: 	moved	image-5-1470305521406	to	{"x":708,"y":550}
+1470305523678: 	moved	image-5-1470305521406	to	{"x":711,"y":551}
+1470305523686: 	moved	image-5-1470305521406	to	{"x":714,"y":552}
+1470305523695: 	moved	image-5-1470305521406	to	{"x":717,"y":554}
+1470305523703: 	moved	image-5-1470305521406	to	{"x":718,"y":554}
+1470305523711: 	moved	image-5-1470305521406	to	{"x":719,"y":555}
+1470305523729: 	moved	image-5-1470305521406	to	{"x":720,"y":555}
+1470305523761: 	moved	image-5-1470305521406	to	{"x":720,"y":556}
+1470305523778: 	moved	image-5-1470305521406	to	{"x":719,"y":556}
+1470305523786: 	moved	image-5-1470305521406	to	{"x":716,"y":557}
+1470305523795: 	moved	image-5-1470305521406	to	{"x":709,"y":557}
+1470305523802: 	moved	image-5-1470305521406	to	{"x":703,"y":557}
+1470305523811: 	moved	image-5-1470305521406	to	{"x":697,"y":556}
+1470305523820: 	moved	image-5-1470305521406	to	{"x":690,"y":554}
+1470305523828: 	moved	image-5-1470305521406	to	{"x":682,"y":553}
+1470305523836: 	moved	image-5-1470305521406	to	{"x":673,"y":551}
+1470305523845: 	moved	image-5-1470305521406	to	{"x":662,"y":549}
+1470305523852: 	moved	image-5-1470305521406	to	{"x":652,"y":547}
+1470305523861: 	moved	image-5-1470305521406	to	{"x":638,"y":545}
+1470305523870: 	moved	image-5-1470305521406	to	{"x":626,"y":544}
+1470305523878: 	moved	image-5-1470305521406	to	{"x":613,"y":542}
+1470305523886: 	moved	image-5-1470305521406	to	{"x":600,"y":542}
+1470305523895: 	moved	image-5-1470305521406	to	{"x":585,"y":540}
+1470305523903: 	moved	image-5-1470305521406	to	{"x":570,"y":540}
+1470305523911: 	moved	image-5-1470305521406	to	{"x":554,"y":539}
+1470305523920: 	moved	image-5-1470305521406	to	{"x":538,"y":539}
+1470305523928: 	moved	image-5-1470305521406	to	{"x":522,"y":539}
+1470305523936: 	moved	image-5-1470305521406	to	{"x":505,"y":538}
+1470305523944: 	moved	image-5-1470305521406	to	{"x":489,"y":540}
+1470305523953: 	moved	image-5-1470305521406	to	{"x":471,"y":541}
+1470305523961: 	moved	image-5-1470305521406	to	{"x":456,"y":543}
+1470305523970: 	moved	image-5-1470305521406	to	{"x":440,"y":545}
+1470305523978: 	moved	image-5-1470305521406	to	{"x":426,"y":547}
+1470305523986: 	moved	image-5-1470305521406	to	{"x":412,"y":550}
+1470305523995: 	moved	image-5-1470305521406	to	{"x":398,"y":553}
+1470305524002: 	moved	image-5-1470305521406	to	{"x":385,"y":557}
+1470305524010: 	moved	image-5-1470305521406	to	{"x":374,"y":559}
+1470305524020: 	moved	image-5-1470305521406	to	{"x":365,"y":562}
+1470305524027: 	moved	image-5-1470305521406	to	{"x":359,"y":564}
+1470305524035: 	moved	image-5-1470305521406	to	{"x":351,"y":567}
+1470305524045: 	moved	image-5-1470305521406	to	{"x":344,"y":569}
+1470305524053: 	moved	image-5-1470305521406	to	{"x":339,"y":572}
+1470305524061: 	moved	image-5-1470305521406	to	{"x":337,"y":573}
+1470305524069: 	moved	image-5-1470305521406	to	{"x":335,"y":575}
+1470305524078: 	moved	image-5-1470305521406	to	{"x":335,"y":576}
+1470305524085: 	moved	image-5-1470305521406	to	{"x":334,"y":577}
+1470305524094: 	moved	image-5-1470305521406	to	{"x":334,"y":578}
+1470305524102: 	moved	image-5-1470305521406	to	{"x":335,"y":579}
+1470305524110: 	moved	image-5-1470305521406	to	{"x":336,"y":581}
+1470305524120: 	moved	image-5-1470305521406	to	{"x":343,"y":583}
+1470305524127: 	moved	image-5-1470305521406	to	{"x":350,"y":584}
+1470305524135: 	moved	image-5-1470305521406	to	{"x":359,"y":585}
+1470305524144: 	moved	image-5-1470305521406	to	{"x":371,"y":585}
+1470305524152: 	moved	image-5-1470305521406	to	{"x":381,"y":585}
+1470305524161: 	moved	image-5-1470305521406	to	{"x":395,"y":584}
+1470305524170: 	moved	image-5-1470305521406	to	{"x":408,"y":586}
+1470305524178: 	moved	image-5-1470305521406	to	{"x":421,"y":585}
+1470305524185: 	moved	image-5-1470305521406	to	{"x":434,"y":586}
+1470305524194: 	moved	image-5-1470305521406	to	{"x":448,"y":585}
+1470305524203: 	moved	image-5-1470305521406	to	{"x":461,"y":586}
+1470305524210: 	moved	image-5-1470305521406	to	{"x":475,"y":588}
+1470305524219: 	moved	image-5-1470305521406	to	{"x":490,"y":588}
+1470305524227: 	moved	image-5-1470305521406	to	{"x":504,"y":589}
+1470305524236: 	moved	image-5-1470305521406	to	{"x":517,"y":592}
+1470305524245: 	moved	image-5-1470305521406	to	{"x":531,"y":593}
+1470305524253: 	moved	image-5-1470305521406	to	{"x":543,"y":593}
+1470305524260: 	moved	image-5-1470305521406	to	{"x":555,"y":595}
+1470305524269: 	moved	image-5-1470305521406	to	{"x":566,"y":596}
+1470305524278: 	moved	image-5-1470305521406	to	{"x":574,"y":597}
+1470305524286: 	moved	image-5-1470305521406	to	{"x":581,"y":598}
+1470305524294: 	moved	image-5-1470305521406	to	{"x":588,"y":599}
+1470305524303: 	moved	image-5-1470305521406	to	{"x":594,"y":600}
+1470305524311: 	moved	image-5-1470305521406	to	{"x":597,"y":600}
+1470305524320: 	moved	image-5-1470305521406	to	{"x":600,"y":600}
+1470305524328: 	moved	image-5-1470305521406	to	{"x":601,"y":599}
+1470305524335: 	moved	image-5-1470305521406	to	{"x":602,"y":599}
+1470305524344: 	moved	image-5-1470305521406	to	{"x":602,"y":598}
+1470305524353: 	moved	image-5-1470305521406	to	{"x":602,"y":597}
+1470305524360: 	moved	image-5-1470305521406	to	{"x":601,"y":594}
+1470305524369: 	moved	image-5-1470305521406	to	{"x":595,"y":590}
+1470305524378: 	moved	image-5-1470305521406	to	{"x":590,"y":585}
+1470305524385: 	moved	image-5-1470305521406	to	{"x":584,"y":582}
+1470305524395: 	moved	image-5-1470305521406	to	{"x":577,"y":578}
+1470305524403: 	moved	image-5-1470305521406	to	{"x":571,"y":574}
+1470305524410: 	moved	image-5-1470305521406	to	{"x":565,"y":571}
+1470305524419: 	moved	image-5-1470305521406	to	{"x":559,"y":567}
+1470305524427: 	moved	image-5-1470305521406	to	{"x":553,"y":564}
+1470305524436: 	moved	image-5-1470305521406	to	{"x":548,"y":561}
+1470305524444: 	moved	image-5-1470305521406	to	{"x":543,"y":558}
+1470305524452: 	moved	image-5-1470305521406	to	{"x":539,"y":553}
+1470305524461: 	moved	image-5-1470305521406	to	{"x":535,"y":549}
+1470305524470: 	moved	image-5-1470305521406	to	{"x":534,"y":547}
+1470305524477: 	moved	image-5-1470305521406	to	{"x":532,"y":544}
+1470305524485: 	moved	image-5-1470305521406	to	{"x":531,"y":542}
+1470305524495: 	moved	image-5-1470305521406	to	{"x":530,"y":539}
+1470305524503: 	moved	image-5-1470305521406	to	{"x":530,"y":537}
+1470305524511: 	moved	image-5-1470305521406	to	{"x":530,"y":533}
+1470305524521: 	moved	image-5-1470305521406	to	{"x":531,"y":531}
+1470305524539: 	moved	image-5-1470305521406	to	{"x":532,"y":527}
+1470305524542: 	moved	image-5-1470305521406	to	{"x":533,"y":524}
+1470305524546: 	moved	image-5-1470305521406	to	{"x":534,"y":522}
+1470305524553: 	moved	image-5-1470305521406	to	{"x":536,"y":519}
+1470305524561: 	moved	image-5-1470305521406	to	{"x":537,"y":516}
+1470305524570: 	moved	image-5-1470305521406	to	{"x":538,"y":514}
+1470305524578: 	moved	image-5-1470305521406	to	{"x":539,"y":513}
+1470305524585: 	moved	image-5-1470305521406	to	{"x":540,"y":512}
+1470305524595: 	moved	image-5-1470305521406	to	{"x":541,"y":511}
+1470305524613: 	moved	image-5-1470305521406	to	{"x":541,"y":510}
+1470305525663: 	acted on	delete
+1470305525737: 	cut	image-5-1470305521406
+1470305525739: 	deleted	image-5-1470305521406
+1470305526738: 	acted on	content
+1470305526739: 	selected	null
+1470305529749: 	acted on	image-11
+1470305529751: 	selected	image-11
+1470305530697: 	acted on	cut
+1470305530787: 	cut	image-11
+1470305530788: 	cut	image-11
+1470305530789: 	selected	null
+1470305531996: 	acted on	content
+1470305531997: 	selected	null
+1470305533538: 	acted on	copy
+1470305533605: 	selected	null
+1470305534738: 	acted on	paste
+1470305534812: 	pasted	image-11
+1470305534813: 	pasted	null
+1470305546395: 	acted on	image-111470305534813
+1470305546397: 	selected	image-111470305534813
+1470305551061: 	acted on	delete
+1470305551147: 	cut	image-111470305534813
+1470305551148: 	deleted	image-111470305534813
+1470305553088: 	acted on	paste
+1470305553154: 	pasted	image-111470305534813
+1470305553155: 	pasted	image-111470305534813
+1470305554413: 	acted on	paste
+1470305554504: 	pasted	image-111470305534813
+1470305554505: 	pasted	image-111470305534813
+1470305554872: 	acted on	content
+1470305554875: 	selected	null
+1470305555388: 	acted on	paste
+1470305555446: 	pasted	image-111470305534813
+1470305555447: 	pasted	null
+1470305576145: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305576147: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305577095: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305577097: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305577779: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305577781: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305578569: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305578571: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305579211: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305579213: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305580389: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305580391: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305580912: 	acted on	content
+1470305580913: 	selected	null
+1470305582538: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305582540: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305583530: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305583531: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305583629: 	start moving	image-111470305534813147030555315514703055545041470305555447	from	{"x":233,"y":148}
+1470305583636: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":234,"y":152}
+1470305583643: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":235,"y":155}
+1470305583654: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":236,"y":158}
+1470305583660: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":237,"y":162}
+1470305583669: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":238,"y":165}
+1470305583678: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":239,"y":169}
+1470305583685: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":240,"y":173}
+1470305583693: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":241,"y":177}
+1470305583703: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":242,"y":182}
+1470305583710: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":243,"y":186}
+1470305583718: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":245,"y":190}
+1470305583729: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":246,"y":196}
+1470305583735: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":247,"y":199}
+1470305583743: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":248,"y":202}
+1470305583753: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":249,"y":205}
+1470305583761: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":251,"y":208}
+1470305583768: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":253,"y":213}
+1470305583777: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":254,"y":217}
+1470305583785: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":255,"y":219}
+1470305583793: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":257,"y":223}
+1470305583803: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":258,"y":225}
+1470305583810: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":259,"y":228}
+1470305583819: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":260,"y":230}
+1470305583829: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":261,"y":232}
+1470305583837: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":262,"y":234}
+1470305583845: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":263,"y":236}
+1470305583854: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":265,"y":240}
+1470305583861: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":266,"y":241}
+1470305583870: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":267,"y":243}
+1470305583878: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":268,"y":245}
+1470305583885: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":268,"y":247}
+1470305583893: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":270,"y":249}
+1470305583903: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":271,"y":252}
+1470305583910: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":272,"y":254}
+1470305583919: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":273,"y":257}
+1470305583928: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":274,"y":259}
+1470305583935: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":275,"y":262}
+1470305583943: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":276,"y":264}
+1470305583953: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":277,"y":267}
+1470305583960: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":278,"y":270}
+1470305583968: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":279,"y":272}
+1470305583977: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":279,"y":273}
+1470305583985: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":280,"y":275}
+1470305583993: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":281,"y":277}
+1470305584011: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":282,"y":278}
+1470305584018: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":282,"y":279}
+1470305584027: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":282,"y":280}
+1470305584035: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":283,"y":281}
+1470305584069: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":283,"y":282}
+1470305584086: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":284,"y":282}
+1470305584111: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":284,"y":283}
+1470305584135: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":285,"y":283}
+1470305584144: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":285,"y":284}
+1470305584161: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":286,"y":284}
+1470305584168: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":286,"y":285}
+1470305584178: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":287,"y":286}
+1470305584185: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":288,"y":287}
+1470305584193: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":290,"y":291}
+1470305584203: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":291,"y":293}
+1470305584211: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":292,"y":295}
+1470305584218: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":294,"y":298}
+1470305584228: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":294,"y":300}
+1470305584235: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":295,"y":303}
+1470305584243: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":296,"y":305}
+1470305584252: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":298,"y":309}
+1470305584260: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":299,"y":311}
+1470305584269: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":300,"y":313}
+1470305584277: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":301,"y":315}
+1470305584286: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":301,"y":316}
+1470305584293: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":302,"y":317}
+1470305584302: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":303,"y":318}
+1470305584310: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":303,"y":319}
+1470305584318: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":304,"y":320}
+1470305584327: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":305,"y":321}
+1470305584335: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":306,"y":322}
+1470305584345: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":307,"y":323}
+1470305587338: 	acted on	content
+1470305587339: 	selected	null
+1470305588304: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305588306: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305588621: 	acted on	content
+1470305588623: 	selected	null
+1470305589496: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305589497: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305590053: 	acted on	image-111470305534813147030555315514703055545041470305555447
+1470305590055: 	selected	image-111470305534813147030555315514703055545041470305555447
+1470305590136: 	start moving	image-111470305534813147030555315514703055545041470305555447	from	{"x":190,"y":89}
+1470305590145: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":266,"y":268}
+1470305590153: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":267,"y":271}
+1470305590161: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":269,"y":274}
+1470305590168: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":271,"y":277}
+1470305590177: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":273,"y":281}
+1470305590186: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":275,"y":284}
+1470305590194: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":278,"y":289}
+1470305590202: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":280,"y":294}
+1470305590210: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":282,"y":297}
+1470305590219: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":284,"y":301}
+1470305590227: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":287,"y":306}
+1470305590235: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":290,"y":310}
+1470305590246: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":292,"y":315}
+1470305590251: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":294,"y":318}
+1470305590260: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":297,"y":322}
+1470305590270: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":300,"y":326}
+1470305590277: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":302,"y":329}
+1470305590284: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":305,"y":334}
+1470305590294: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":308,"y":339}
+1470305590302: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":311,"y":342}
+1470305590310: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":314,"y":347}
+1470305590319: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":317,"y":349}
+1470305590327: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":320,"y":354}
+1470305590336: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":323,"y":358}
+1470305590344: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":326,"y":361}
+1470305590352: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":330,"y":365}
+1470305590360: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":332,"y":368}
+1470305590369: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":335,"y":372}
+1470305590377: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":338,"y":377}
+1470305590384: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":340,"y":379}
+1470305590394: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":344,"y":383}
+1470305590402: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":348,"y":387}
+1470305590410: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":350,"y":390}
+1470305590420: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":353,"y":394}
+1470305590427: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":356,"y":398}
+1470305590436: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":358,"y":401}
+1470305590444: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":362,"y":407}
+1470305590454: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":365,"y":411}
+1470305590460: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":367,"y":413}
+1470305590469: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":369,"y":416}
+1470305590477: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":371,"y":419}
+1470305590484: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":374,"y":424}
+1470305590493: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":376,"y":428}
+1470305590501: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":378,"y":430}
+1470305590511: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":380,"y":433}
+1470305590519: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":383,"y":437}
+1470305590527: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":385,"y":441}
+1470305590534: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":386,"y":444}
+1470305590544: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":388,"y":447}
+1470305590552: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":390,"y":451}
+1470305590559: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":391,"y":453}
+1470305590569: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":393,"y":455}
+1470305590577: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":394,"y":457}
+1470305590584: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":395,"y":459}
+1470305590594: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":397,"y":462}
+1470305590601: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":398,"y":465}
+1470305590609: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":399,"y":467}
+1470305590619: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":400,"y":469}
+1470305590627: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":401,"y":471}
+1470305590635: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":403,"y":473}
+1470305590644: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":403,"y":474}
+1470305590651: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":404,"y":476}
+1470305590660: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":405,"y":478}
+1470305590669: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":406,"y":480}
+1470305590676: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":406,"y":481}
+1470305590684: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":408,"y":483}
+1470305590693: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":408,"y":484}
+1470305590701: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":409,"y":486}
+1470305590718: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":410,"y":487}
+1470305590726: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":411,"y":488}
+1470305590743: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":411,"y":489}
+1470305590751: 	moved	image-111470305534813147030555315514703055545041470305555447	to	{"x":412,"y":490}
+1470305591327: 	acted on	content
+1470305591329: 	selected	null
+1470305592794: 	acted on	image-11147030553481314703055545041470305555447
+1470305592796: 	selected	image-11147030553481314703055545041470305555447
+1470305594095: 	acted on	delete
+1470305594170: 	cut	image-11147030553481314703055545041470305555447
+1470305594171: 	deleted	image-11147030553481314703055545041470305555447
+1470305595020: 	acted on	image-11147030553481314703055531551470305555447
+1470305595022: 	selected	image-11147030553481314703055531551470305555447
+1470305595061: 	acted on	image-11147030553481314703055531551470305555447
+1470305595063: 	selected	image-11147030553481314703055531551470305555447
+1470305595068: 	start moving	image-11147030553481314703055531551470305555447	from	{"x":241,"y":184}
+1470305595070: 	changed size	width	image-11147030553481314703055531551470305555447	344
+1470305595071: 	changed size	height	image-11147030553481314703055531551470305555447	344
+1470305595094: 	changed size	width	image-11147030553481314703055531551470305555447	342
+1470305595095: 	changed size	height	image-11147030553481314703055531551470305555447	342
+1470305595719: 	acted on	image-11147030553481314703055531551470305555447
+1470305595721: 	selected	image-11147030553481314703055531551470305555447
+1470305595819: 	start moving	image-11147030553481314703055531551470305555447	from	{"x":267,"y":246}
+1470305595828: 	moved	image-11147030553481314703055531551470305555447	to	{"x":269,"y":250}
+1470305595836: 	moved	image-11147030553481314703055531551470305555447	to	{"x":271,"y":254}
+1470305595843: 	moved	image-11147030553481314703055531551470305555447	to	{"x":271,"y":257}
+1470305595852: 	moved	image-11147030553481314703055531551470305555447	to	{"x":272,"y":261}
+1470305595860: 	moved	image-11147030553481314703055531551470305555447	to	{"x":274,"y":264}
+1470305595869: 	moved	image-11147030553481314703055531551470305555447	to	{"x":275,"y":268}
+1470305595878: 	moved	image-11147030553481314703055531551470305555447	to	{"x":276,"y":271}
+1470305595885: 	moved	image-11147030553481314703055531551470305555447	to	{"x":277,"y":273}
+1470305595893: 	moved	image-11147030553481314703055531551470305555447	to	{"x":279,"y":275}
+1470305595903: 	moved	image-11147030553481314703055531551470305555447	to	{"x":280,"y":278}
+1470305595911: 	moved	image-11147030553481314703055531551470305555447	to	{"x":282,"y":282}
+1470305595919: 	moved	image-11147030553481314703055531551470305555447	to	{"x":283,"y":286}
+1470305595927: 	moved	image-11147030553481314703055531551470305555447	to	{"x":284,"y":289}
+1470305595935: 	moved	image-11147030553481314703055531551470305555447	to	{"x":286,"y":291}
+1470305595944: 	moved	image-11147030553481314703055531551470305555447	to	{"x":287,"y":295}
+1470305595953: 	moved	image-11147030553481314703055531551470305555447	to	{"x":289,"y":297}
+1470305595960: 	moved	image-11147030553481314703055531551470305555447	to	{"x":290,"y":300}
+1470305595968: 	moved	image-11147030553481314703055531551470305555447	to	{"x":292,"y":302}
+1470305595977: 	moved	image-11147030553481314703055531551470305555447	to	{"x":293,"y":305}
+1470305595986: 	moved	image-11147030553481314703055531551470305555447	to	{"x":295,"y":307}
+1470305595993: 	moved	image-11147030553481314703055531551470305555447	to	{"x":296,"y":309}
+1470305596002: 	moved	image-11147030553481314703055531551470305555447	to	{"x":297,"y":311}
+1470305596011: 	moved	image-11147030553481314703055531551470305555447	to	{"x":299,"y":313}
+1470305596019: 	moved	image-11147030553481314703055531551470305555447	to	{"x":301,"y":316}
+1470305596027: 	moved	image-11147030553481314703055531551470305555447	to	{"x":302,"y":318}
+1470305596035: 	moved	image-11147030553481314703055531551470305555447	to	{"x":303,"y":320}
+1470305596043: 	moved	image-11147030553481314703055531551470305555447	to	{"x":305,"y":322}
+1470305596053: 	moved	image-11147030553481314703055531551470305555447	to	{"x":307,"y":324}
+1470305596060: 	moved	image-11147030553481314703055531551470305555447	to	{"x":308,"y":326}
+1470305596068: 	moved	image-11147030553481314703055531551470305555447	to	{"x":311,"y":329}
+1470305596078: 	moved	image-11147030553481314703055531551470305555447	to	{"x":312,"y":331}
+1470305596085: 	moved	image-11147030553481314703055531551470305555447	to	{"x":314,"y":333}
+1470305596093: 	moved	image-11147030553481314703055531551470305555447	to	{"x":316,"y":336}
+1470305596102: 	moved	image-11147030553481314703055531551470305555447	to	{"x":317,"y":338}
+1470305596110: 	moved	image-11147030553481314703055531551470305555447	to	{"x":319,"y":341}
+1470305596118: 	moved	image-11147030553481314703055531551470305555447	to	{"x":320,"y":344}
+1470305596128: 	moved	image-11147030553481314703055531551470305555447	to	{"x":322,"y":347}
+1470305596135: 	moved	image-11147030553481314703055531551470305555447	to	{"x":323,"y":351}
+1470305596143: 	moved	image-11147030553481314703055531551470305555447	to	{"x":325,"y":354}
+1470305596152: 	moved	image-11147030553481314703055531551470305555447	to	{"x":326,"y":356}
+1470305596161: 	moved	image-11147030553481314703055531551470305555447	to	{"x":328,"y":360}
+1470305596168: 	moved	image-11147030553481314703055531551470305555447	to	{"x":330,"y":363}
+1470305596177: 	moved	image-11147030553481314703055531551470305555447	to	{"x":331,"y":366}
+1470305596185: 	moved	image-11147030553481314703055531551470305555447	to	{"x":333,"y":370}
+1470305596193: 	moved	image-11147030553481314703055531551470305555447	to	{"x":335,"y":373}
+1470305596202: 	moved	image-11147030553481314703055531551470305555447	to	{"x":336,"y":376}
+1470305596210: 	moved	image-11147030553481314703055531551470305555447	to	{"x":338,"y":380}
+1470305596218: 	moved	image-11147030553481314703055531551470305555447	to	{"x":340,"y":384}
+1470305596227: 	moved	image-11147030553481314703055531551470305555447	to	{"x":341,"y":387}
+1470305596235: 	moved	image-11147030553481314703055531551470305555447	to	{"x":343,"y":390}
+1470305596243: 	moved	image-11147030553481314703055531551470305555447	to	{"x":344,"y":395}
+1470305596252: 	moved	image-11147030553481314703055531551470305555447	to	{"x":346,"y":398}
+1470305596260: 	moved	image-11147030553481314703055531551470305555447	to	{"x":347,"y":403}
+1470305596268: 	moved	image-11147030553481314703055531551470305555447	to	{"x":349,"y":405}
+1470305596277: 	moved	image-11147030553481314703055531551470305555447	to	{"x":350,"y":409}
+1470305596286: 	moved	image-11147030553481314703055531551470305555447	to	{"x":351,"y":410}
+1470305596293: 	moved	image-11147030553481314703055531551470305555447	to	{"x":353,"y":414}
+1470305596302: 	moved	image-11147030553481314703055531551470305555447	to	{"x":354,"y":415}
+1470305596310: 	moved	image-11147030553481314703055531551470305555447	to	{"x":355,"y":417}
+1470305596318: 	moved	image-11147030553481314703055531551470305555447	to	{"x":356,"y":420}
+1470305596327: 	moved	image-11147030553481314703055531551470305555447	to	{"x":358,"y":422}
+1470305596335: 	moved	image-11147030553481314703055531551470305555447	to	{"x":359,"y":424}
+1470305596344: 	moved	image-11147030553481314703055531551470305555447	to	{"x":360,"y":426}
+1470305596352: 	moved	image-11147030553481314703055531551470305555447	to	{"x":360,"y":427}
+1470305596360: 	moved	image-11147030553481314703055531551470305555447	to	{"x":361,"y":428}
+1470305596369: 	moved	image-11147030553481314703055531551470305555447	to	{"x":362,"y":429}
+1470305596385: 	moved	image-11147030553481314703055531551470305555447	to	{"x":363,"y":430}
+1470305596393: 	moved	image-11147030553481314703055531551470305555447	to	{"x":363,"y":431}
+1470305596401: 	moved	image-11147030553481314703055531551470305555447	to	{"x":364,"y":431}
+1470305596418: 	moved	image-11147030553481314703055531551470305555447	to	{"x":364,"y":432}
+1470305596427: 	moved	image-11147030553481314703055531551470305555447	to	{"x":365,"y":432}
+1470305596444: 	moved	image-11147030553481314703055531551470305555447	to	{"x":365,"y":433}
+1470305596451: 	moved	image-11147030553481314703055531551470305555447	to	{"x":366,"y":433}
+1470305596460: 	moved	image-11147030553481314703055531551470305555447	to	{"x":366,"y":434}
+1470305596468: 	moved	image-11147030553481314703055531551470305555447	to	{"x":367,"y":434}
+1470305596477: 	moved	image-11147030553481314703055531551470305555447	to	{"x":367,"y":435}
+1470305596485: 	moved	image-11147030553481314703055531551470305555447	to	{"x":368,"y":435}
+1470305596492: 	moved	image-11147030553481314703055531551470305555447	to	{"x":369,"y":436}
+1470305596502: 	moved	image-11147030553481314703055531551470305555447	to	{"x":370,"y":437}
+1470305596509: 	moved	image-11147030553481314703055531551470305555447	to	{"x":372,"y":439}
+1470305596518: 	moved	image-11147030553481314703055531551470305555447	to	{"x":373,"y":440}
+1470305596527: 	moved	image-11147030553481314703055531551470305555447	to	{"x":374,"y":443}
+1470305596535: 	moved	image-11147030553481314703055531551470305555447	to	{"x":375,"y":444}
+1470305596542: 	moved	image-11147030553481314703055531551470305555447	to	{"x":377,"y":446}
+1470305596552: 	moved	image-11147030553481314703055531551470305555447	to	{"x":378,"y":448}
+1470305596560: 	moved	image-11147030553481314703055531551470305555447	to	{"x":379,"y":450}
+1470305596567: 	moved	image-11147030553481314703055531551470305555447	to	{"x":380,"y":453}
+1470305596576: 	moved	image-11147030553481314703055531551470305555447	to	{"x":381,"y":456}
+1470305596585: 	moved	image-11147030553481314703055531551470305555447	to	{"x":382,"y":458}
+1470305596592: 	moved	image-11147030553481314703055531551470305555447	to	{"x":383,"y":461}
+1470305596601: 	moved	image-11147030553481314703055531551470305555447	to	{"x":384,"y":463}
+1470305596609: 	moved	image-11147030553481314703055531551470305555447	to	{"x":385,"y":465}
+1470305596618: 	moved	image-11147030553481314703055531551470305555447	to	{"x":386,"y":467}
+1470305596627: 	moved	image-11147030553481314703055531551470305555447	to	{"x":387,"y":469}
+1470305596635: 	moved	image-11147030553481314703055531551470305555447	to	{"x":388,"y":471}
+1470305596642: 	moved	image-11147030553481314703055531551470305555447	to	{"x":389,"y":473}
+1470305596651: 	moved	image-11147030553481314703055531551470305555447	to	{"x":391,"y":476}
+1470305596660: 	moved	image-11147030553481314703055531551470305555447	to	{"x":392,"y":478}
+1470305596668: 	moved	image-11147030553481314703055531551470305555447	to	{"x":393,"y":479}
+1470305596676: 	moved	image-11147030553481314703055531551470305555447	to	{"x":394,"y":481}
+1470305596684: 	moved	image-11147030553481314703055531551470305555447	to	{"x":394,"y":482}
+1470305596692: 	moved	image-11147030553481314703055531551470305555447	to	{"x":396,"y":484}
+1470305596701: 	moved	image-11147030553481314703055531551470305555447	to	{"x":397,"y":485}
+1470305596709: 	moved	image-11147030553481314703055531551470305555447	to	{"x":398,"y":486}
+1470305596717: 	moved	image-11147030553481314703055531551470305555447	to	{"x":399,"y":488}
+1470305596726: 	moved	image-11147030553481314703055531551470305555447	to	{"x":400,"y":489}
+1470305596734: 	moved	image-11147030553481314703055531551470305555447	to	{"x":401,"y":490}
+1470305596743: 	moved	image-11147030553481314703055531551470305555447	to	{"x":402,"y":491}
+1470305596752: 	moved	image-11147030553481314703055531551470305555447	to	{"x":403,"y":492}
+1470305596759: 	moved	image-11147030553481314703055531551470305555447	to	{"x":404,"y":493}
+1470305597620: 	acted on	content
+1470305597622: 	selected	null
+1470305598620: 	acted on	image-1114703055348131470305555447
+1470305598621: 	selected	image-1114703055348131470305555447
+1470305599362: 	acted on	delete
+1470305599444: 	cut	image-1114703055348131470305555447
+1470305599446: 	deleted	image-1114703055348131470305555447
+1470305600253: 	acted on	content
+1470305600254: 	selected	null
+1470305600728: 	acted on	content
+1470305600730: 	selected	null
+1470305601070: 	acted on	content
+1470305601071: 	selected	null
+1470305601302: 	acted on	content
+1470305601304: 	selected	null
+1470305601886: 	acted on	image-11-1470305460656
+1470305601888: 	selected	image-11-1470305460656
+1470305602428: 	acted on	image-11-1470305460656
+1470305602429: 	selected	image-11-1470305460656
+1470305602485: 	start moving	image-11-1470305460656	from	{"x":158,"y":177}
+1470305602493: 	moved	image-11-1470305460656	to	{"x":807,"y":508}
+1470305602501: 	moved	image-11-1470305460656	to	{"x":801,"y":507}
+1470305602509: 	moved	image-11-1470305460656	to	{"x":795,"y":506}
+1470305602518: 	moved	image-11-1470305460656	to	{"x":789,"y":505}
+1470305602526: 	moved	image-11-1470305460656	to	{"x":784,"y":504}
+1470305602534: 	moved	image-11-1470305460656	to	{"x":778,"y":503}
+1470305602543: 	moved	image-11-1470305460656	to	{"x":772,"y":503}
+1470305602551: 	moved	image-11-1470305460656	to	{"x":766,"y":502}
+1470305602559: 	moved	image-11-1470305460656	to	{"x":760,"y":501}
+1470305602568: 	moved	image-11-1470305460656	to	{"x":754,"y":500}
+1470305602576: 	moved	image-11-1470305460656	to	{"x":748,"y":499}
+1470305602584: 	moved	image-11-1470305460656	to	{"x":742,"y":498}
+1470305602593: 	moved	image-11-1470305460656	to	{"x":736,"y":495}
+1470305602601: 	moved	image-11-1470305460656	to	{"x":730,"y":494}
+1470305602609: 	moved	image-11-1470305460656	to	{"x":724,"y":492}
+1470305602618: 	moved	image-11-1470305460656	to	{"x":718,"y":491}
+1470305602626: 	moved	image-11-1470305460656	to	{"x":712,"y":489}
+1470305602634: 	moved	image-11-1470305460656	to	{"x":709,"y":487}
+1470305602643: 	moved	image-11-1470305460656	to	{"x":704,"y":485}
+1470305602651: 	moved	image-11-1470305460656	to	{"x":698,"y":483}
+1470305602659: 	moved	image-11-1470305460656	to	{"x":692,"y":481}
+1470305602668: 	moved	image-11-1470305460656	to	{"x":686,"y":480}
+1470305602676: 	moved	image-11-1470305460656	to	{"x":681,"y":477}
+1470305602684: 	moved	image-11-1470305460656	to	{"x":676,"y":475}
+1470305602693: 	moved	image-11-1470305460656	to	{"x":671,"y":473}
+1470305602701: 	moved	image-11-1470305460656	to	{"x":665,"y":471}
+1470305602709: 	moved	image-11-1470305460656	to	{"x":658,"y":469}
+1470305602718: 	moved	image-11-1470305460656	to	{"x":652,"y":466}
+1470305602726: 	moved	image-11-1470305460656	to	{"x":645,"y":464}
+1470305602734: 	moved	image-11-1470305460656	to	{"x":642,"y":462}
+1470305602743: 	moved	image-11-1470305460656	to	{"x":637,"y":461}
+1470305602751: 	moved	image-11-1470305460656	to	{"x":630,"y":459}
+1470305602758: 	moved	image-11-1470305460656	to	{"x":623,"y":457}
+1470305602768: 	moved	image-11-1470305460656	to	{"x":617,"y":454}
+1470305602776: 	moved	image-11-1470305460656	to	{"x":611,"y":452}
+1470305602784: 	moved	image-11-1470305460656	to	{"x":604,"y":451}
+1470305602793: 	moved	image-11-1470305460656	to	{"x":598,"y":449}
+1470305602801: 	moved	image-11-1470305460656	to	{"x":594,"y":447}
+1470305602809: 	moved	image-11-1470305460656	to	{"x":588,"y":444}
+1470305602818: 	moved	image-11-1470305460656	to	{"x":581,"y":442}
+1470305602826: 	moved	image-11-1470305460656	to	{"x":575,"y":441}
+1470305602834: 	moved	image-11-1470305460656	to	{"x":571,"y":440}
+1470305602843: 	moved	image-11-1470305460656	to	{"x":567,"y":438}
+1470305602851: 	moved	image-11-1470305460656	to	{"x":562,"y":436}
+1470305602859: 	moved	image-11-1470305460656	to	{"x":555,"y":434}
+1470305602868: 	moved	image-11-1470305460656	to	{"x":551,"y":433}
+1470305602876: 	moved	image-11-1470305460656	to	{"x":549,"y":433}
+1470305602884: 	moved	image-11-1470305460656	to	{"x":546,"y":431}
+1470305602893: 	moved	image-11-1470305460656	to	{"x":543,"y":430}
+1470305602901: 	moved	image-11-1470305460656	to	{"x":540,"y":428}
+1470305602909: 	moved	image-11-1470305460656	to	{"x":538,"y":427}
+1470305602918: 	moved	image-11-1470305460656	to	{"x":537,"y":427}
+1470305602926: 	moved	image-11-1470305460656	to	{"x":535,"y":426}
+1470305602934: 	moved	image-11-1470305460656	to	{"x":535,"y":425}
+1470305602943: 	moved	image-11-1470305460656	to	{"x":534,"y":425}
+1470305602951: 	moved	image-11-1470305460656	to	{"x":533,"y":424}
+1470305602969: 	moved	image-11-1470305460656	to	{"x":532,"y":423}
+1470305602976: 	moved	image-11-1470305460656	to	{"x":531,"y":423}
+1470305602985: 	moved	image-11-1470305460656	to	{"x":529,"y":423}
+1470305602993: 	moved	image-11-1470305460656	to	{"x":527,"y":423}
+1470305603001: 	moved	image-11-1470305460656	to	{"x":526,"y":423}
+1470305603228: 	acted on	image-11-1470305460656
+1470305603230: 	selected	image-11-1470305460656
+1470305603252: 	acted on	image-11-1470305460656
+1470305603254: 	selected	image-11-1470305460656
+1470305603259: 	start moving	image-11-1470305460656	from	{"x":153,"y":217}
+1470305603261: 	changed size	width	image-11-1470305460656	344
+1470305603262: 	changed size	height	image-11-1470305460656	344
+1470305603276: 	changed size	width	image-11-1470305460656	342
+1470305603278: 	changed size	height	image-11-1470305460656	342
+1470305603301: 	changed size	width	image-11-1470305460656	340
+1470305603302: 	changed size	height	image-11-1470305460656	340
+1470305603304: 	changed size	width	image-11-1470305460656	338
+1470305603305: 	changed size	height	image-11-1470305460656	338
+1470305603310: 	changed size	width	image-11-1470305460656	336
+1470305603310: 	changed size	height	image-11-1470305460656	336
+1470305603313: 	changed size	width	image-11-1470305460656	334
+1470305603314: 	changed size	height	image-11-1470305460656	334
+1470305603327: 	changed size	width	image-11-1470305460656	332
+1470305603328: 	changed size	height	image-11-1470305460656	332
+1470305603331: 	changed size	width	image-11-1470305460656	330
+1470305603332: 	changed size	height	image-11-1470305460656	330
+1470305603337: 	changed size	width	image-11-1470305460656	328
+1470305603337: 	changed size	height	image-11-1470305460656	328
+1470305603344: 	changed size	width	image-11-1470305460656	326
+1470305603345: 	changed size	height	image-11-1470305460656	326
+1470305603347: 	changed size	width	image-11-1470305460656	324
+1470305603348: 	changed size	height	image-11-1470305460656	324
+1470305603352: 	changed size	width	image-11-1470305460656	322
+1470305603353: 	changed size	height	image-11-1470305460656	322
+1470305603355: 	changed size	width	image-11-1470305460656	320
+1470305603356: 	changed size	height	image-11-1470305460656	320
+1470305603360: 	changed size	width	image-11-1470305460656	318
+1470305603361: 	changed size	height	image-11-1470305460656	318
+1470305603364: 	changed size	width	image-11-1470305460656	316
+1470305603364: 	changed size	height	image-11-1470305460656	316
+1470305603369: 	changed size	width	image-11-1470305460656	314
+1470305603369: 	changed size	height	image-11-1470305460656	314
+1470305603372: 	changed size	width	image-11-1470305460656	312
+1470305603372: 	changed size	height	image-11-1470305460656	312
+1470305603376: 	changed size	width	image-11-1470305460656	310
+1470305603377: 	changed size	height	image-11-1470305460656	310
+1470305603380: 	changed size	width	image-11-1470305460656	308
+1470305603380: 	changed size	height	image-11-1470305460656	308
+1470305603386: 	changed size	width	image-11-1470305460656	306
+1470305603387: 	changed size	height	image-11-1470305460656	306
+1470305603390: 	changed size	width	image-11-1470305460656	304
+1470305603391: 	changed size	height	image-11-1470305460656	304
+1470305603395: 	changed size	width	image-11-1470305460656	302
+1470305603396: 	changed size	height	image-11-1470305460656	302
+1470305603400: 	changed size	width	image-11-1470305460656	300
+1470305603401: 	changed size	height	image-11-1470305460656	300
+1470305603405: 	changed size	width	image-11-1470305460656	298
+1470305603406: 	changed size	height	image-11-1470305460656	298
+1470305603413: 	changed size	width	image-11-1470305460656	296
+1470305603414: 	changed size	height	image-11-1470305460656	296
+1470305603418: 	changed size	width	image-11-1470305460656	294
+1470305603419: 	changed size	height	image-11-1470305460656	294
+1470305603422: 	changed size	width	image-11-1470305460656	292
+1470305603423: 	changed size	height	image-11-1470305460656	292
+1470305603427: 	changed size	width	image-11-1470305460656	290
+1470305603428: 	changed size	height	image-11-1470305460656	290
+1470305603431: 	changed size	width	image-11-1470305460656	288
+1470305603431: 	changed size	height	image-11-1470305460656	288
+1470305603436: 	changed size	width	image-11-1470305460656	286
+1470305603437: 	changed size	height	image-11-1470305460656	286
+1470305603445: 	changed size	width	image-11-1470305460656	284
+1470305603446: 	changed size	height	image-11-1470305460656	284
+1470305603448: 	changed size	width	image-11-1470305460656	282
+1470305603449: 	changed size	height	image-11-1470305460656	282
+1470305603453: 	changed size	width	image-11-1470305460656	280
+1470305603454: 	changed size	height	image-11-1470305460656	280
+1470305603459: 	changed size	width	image-11-1470305460656	278
+1470305603460: 	changed size	height	image-11-1470305460656	278
+1470305603477: 	changed size	width	image-11-1470305460656	276
+1470305603477: 	changed size	height	image-11-1470305460656	276
+1470305603480: 	changed size	width	image-11-1470305460656	274
+1470305603481: 	changed size	height	image-11-1470305460656	274
+1470305603485: 	changed size	width	image-11-1470305460656	272
+1470305603485: 	changed size	height	image-11-1470305460656	272
+1470305603495: 	changed size	width	image-11-1470305460656	270
+1470305603496: 	changed size	height	image-11-1470305460656	270
+1470305603501: 	changed size	width	image-11-1470305460656	268
+1470305603502: 	changed size	height	image-11-1470305460656	268
+1470305603510: 	changed size	width	image-11-1470305460656	266
+1470305603511: 	changed size	height	image-11-1470305460656	266
+1470305603513: 	changed size	width	image-11-1470305460656	264
+1470305603514: 	changed size	height	image-11-1470305460656	264
+1470305603519: 	changed size	width	image-11-1470305460656	262
+1470305603520: 	changed size	height	image-11-1470305460656	262
+1470305603526: 	changed size	width	image-11-1470305460656	260
+1470305603527: 	changed size	height	image-11-1470305460656	260
+1470305603535: 	changed size	width	image-11-1470305460656	258
+1470305603536: 	changed size	height	image-11-1470305460656	258
+1470305603544: 	changed size	width	image-11-1470305460656	256
+1470305603545: 	changed size	height	image-11-1470305460656	256
+1470305603551: 	changed size	width	image-11-1470305460656	254
+1470305603552: 	changed size	height	image-11-1470305460656	254
+1470305603554: 	changed size	width	image-11-1470305460656	252
+1470305603555: 	changed size	height	image-11-1470305460656	252
+1470305603560: 	changed size	width	image-11-1470305460656	250
+1470305603560: 	changed size	height	image-11-1470305460656	250
+1470305603569: 	changed size	width	image-11-1470305460656	248
+1470305603570: 	changed size	height	image-11-1470305460656	248
+1470305603577: 	changed size	width	image-11-1470305460656	246
+1470305603578: 	changed size	height	image-11-1470305460656	246
+1470305603580: 	changed size	width	image-11-1470305460656	244
+1470305603581: 	changed size	height	image-11-1470305460656	244
+1470305603594: 	changed size	width	image-11-1470305460656	242
+1470305603595: 	changed size	height	image-11-1470305460656	242
+1470305603602: 	changed size	width	image-11-1470305460656	240
+1470305603603: 	changed size	height	image-11-1470305460656	240
+1470305603609: 	changed size	width	image-11-1470305460656	238
+1470305603610: 	changed size	height	image-11-1470305460656	238
+1470305603620: 	changed size	width	image-11-1470305460656	236
+1470305603621: 	changed size	height	image-11-1470305460656	236
+1470305603623: 	changed size	width	image-11-1470305460656	234
+1470305603624: 	changed size	height	image-11-1470305460656	234
+1470305603626: 	changed size	width	image-11-1470305460656	232
+1470305603627: 	changed size	height	image-11-1470305460656	232
+1470305603630: 	changed size	width	image-11-1470305460656	230
+1470305603630: 	changed size	height	image-11-1470305460656	230
+1470305603636: 	changed size	width	image-11-1470305460656	228
+1470305603637: 	changed size	height	image-11-1470305460656	228
+1470305603639: 	changed size	width	image-11-1470305460656	226
+1470305603640: 	changed size	height	image-11-1470305460656	226
+1470305603643: 	changed size	width	image-11-1470305460656	224
+1470305603644: 	changed size	height	image-11-1470305460656	224
+1470305603647: 	changed size	width	image-11-1470305460656	222
+1470305603647: 	changed size	height	image-11-1470305460656	222
+1470305603652: 	changed size	width	image-11-1470305460656	220
+1470305603653: 	changed size	height	image-11-1470305460656	220
+1470305603660: 	changed size	width	image-11-1470305460656	218
+1470305603661: 	changed size	height	image-11-1470305460656	218
+1470305603668: 	changed size	width	image-11-1470305460656	216
+1470305603669: 	changed size	height	image-11-1470305460656	216
+1470305603671: 	changed size	width	image-11-1470305460656	214
+1470305603672: 	changed size	height	image-11-1470305460656	214
+1470305603676: 	changed size	width	image-11-1470305460656	212
+1470305603677: 	changed size	height	image-11-1470305460656	212
+1470305603679: 	changed size	width	image-11-1470305460656	210
+1470305603680: 	changed size	height	image-11-1470305460656	210
+1470305603686: 	changed size	width	image-11-1470305460656	208
+1470305603687: 	changed size	height	image-11-1470305460656	208
+1470305603690: 	changed size	width	image-11-1470305460656	206
+1470305603690: 	changed size	height	image-11-1470305460656	206
+1470305603702: 	changed size	width	image-11-1470305460656	204
+1470305603703: 	changed size	height	image-11-1470305460656	204
+1470305603706: 	changed size	width	image-11-1470305460656	202
+1470305603707: 	changed size	height	image-11-1470305460656	202
+1470305603710: 	changed size	width	image-11-1470305460656	200
+1470305603711: 	changed size	height	image-11-1470305460656	200
+1470305603721: 	changed size	width	image-11-1470305460656	198
+1470305603722: 	changed size	height	image-11-1470305460656	198
+1470305603735: 	changed size	width	image-11-1470305460656	196
+1470305603736: 	changed size	height	image-11-1470305460656	196
+1470305604111: 	acted on	image-11-1470305460656
+1470305604112: 	selected	image-11-1470305460656
+1470305604185: 	start moving	image-11-1470305460656	from	{"x":123,"y":104}
+1470305604193: 	moved	image-11-1470305460656	to	{"x":563,"y":424}
+1470305604205: 	moved	image-11-1470305460656	to	{"x":562,"y":422}
+1470305604209: 	moved	image-11-1470305460656	to	{"x":560,"y":421}
+1470305604223: 	moved	image-11-1470305460656	to	{"x":558,"y":420}
+1470305604232: 	moved	image-11-1470305460656	to	{"x":556,"y":419}
+1470305604243: 	moved	image-11-1470305460656	to	{"x":554,"y":418}
+1470305604246: 	moved	image-11-1470305460656	to	{"x":553,"y":417}
+1470305604252: 	moved	image-11-1470305460656	to	{"x":552,"y":416}
+1470305604259: 	moved	image-11-1470305460656	to	{"x":550,"y":415}
+1470305604269: 	moved	image-11-1470305460656	to	{"x":549,"y":415}
+1470305604276: 	moved	image-11-1470305460656	to	{"x":547,"y":413}
+1470305604285: 	moved	image-11-1470305460656	to	{"x":546,"y":412}
+1470305604293: 	moved	image-11-1470305460656	to	{"x":545,"y":411}
+1470305604301: 	moved	image-11-1470305460656	to	{"x":544,"y":410}
+1470305604310: 	moved	image-11-1470305460656	to	{"x":542,"y":409}
+1470305604318: 	moved	image-11-1470305460656	to	{"x":541,"y":408}
+1470305604327: 	moved	image-11-1470305460656	to	{"x":540,"y":407}
+1470305604335: 	moved	image-11-1470305460656	to	{"x":539,"y":406}
+1470305604344: 	moved	image-11-1470305460656	to	{"x":537,"y":404}
+1470305604351: 	moved	image-11-1470305460656	to	{"x":536,"y":402}
+1470305604359: 	moved	image-11-1470305460656	to	{"x":535,"y":401}
+1470305604368: 	moved	image-11-1470305460656	to	{"x":534,"y":400}
+1470305604376: 	moved	image-11-1470305460656	to	{"x":532,"y":398}
+1470305604384: 	moved	image-11-1470305460656	to	{"x":529,"y":397}
+1470305604393: 	moved	image-11-1470305460656	to	{"x":527,"y":395}
+1470305604401: 	moved	image-11-1470305460656	to	{"x":524,"y":393}
+1470305604409: 	moved	image-11-1470305460656	to	{"x":520,"y":392}
+1470305604419: 	moved	image-11-1470305460656	to	{"x":517,"y":390}
+1470305604426: 	moved	image-11-1470305460656	to	{"x":513,"y":388}
+1470305604434: 	moved	image-11-1470305460656	to	{"x":509,"y":386}
+1470305604443: 	moved	image-11-1470305460656	to	{"x":505,"y":384}
+1470305604451: 	moved	image-11-1470305460656	to	{"x":500,"y":381}
+1470305604460: 	moved	image-11-1470305460656	to	{"x":495,"y":379}
+1470305604468: 	moved	image-11-1470305460656	to	{"x":490,"y":377}
+1470305604476: 	moved	image-11-1470305460656	to	{"x":485,"y":374}
+1470305604485: 	moved	image-11-1470305460656	to	{"x":479,"y":371}
+1470305604493: 	moved	image-11-1470305460656	to	{"x":473,"y":367}
+1470305604501: 	moved	image-11-1470305460656	to	{"x":468,"y":364}
+1470305604510: 	moved	image-11-1470305460656	to	{"x":463,"y":360}
+1470305604518: 	moved	image-11-1470305460656	to	{"x":458,"y":356}
+1470305604526: 	moved	image-11-1470305460656	to	{"x":452,"y":353}
+1470305604535: 	moved	image-11-1470305460656	to	{"x":446,"y":349}
+1470305604543: 	moved	image-11-1470305460656	to	{"x":441,"y":345}
+1470305604552: 	moved	image-11-1470305460656	to	{"x":433,"y":341}
+1470305604560: 	moved	image-11-1470305460656	to	{"x":428,"y":337}
+1470305604568: 	moved	image-11-1470305460656	to	{"x":423,"y":333}
+1470305604577: 	moved	image-11-1470305460656	to	{"x":417,"y":329}
+1470305604585: 	moved	image-11-1470305460656	to	{"x":412,"y":325}
+1470305604593: 	moved	image-11-1470305460656	to	{"x":406,"y":321}
+1470305604601: 	moved	image-11-1470305460656	to	{"x":401,"y":318}
+1470305604610: 	moved	image-11-1470305460656	to	{"x":397,"y":314}
+1470305604618: 	moved	image-11-1470305460656	to	{"x":392,"y":311}
+1470305604626: 	moved	image-11-1470305460656	to	{"x":388,"y":307}
+1470305604636: 	moved	image-11-1470305460656	to	{"x":384,"y":303}
+1470305604643: 	moved	image-11-1470305460656	to	{"x":382,"y":300}
+1470305604651: 	moved	image-11-1470305460656	to	{"x":379,"y":296}
+1470305604660: 	moved	image-11-1470305460656	to	{"x":376,"y":293}
+1470305604668: 	moved	image-11-1470305460656	to	{"x":374,"y":290}
+1470305604676: 	moved	image-11-1470305460656	to	{"x":372,"y":288}
+1470305604685: 	moved	image-11-1470305460656	to	{"x":370,"y":286}
+1470305604694: 	moved	image-11-1470305460656	to	{"x":369,"y":285}
+1470305604703: 	moved	image-11-1470305460656	to	{"x":368,"y":283}
+1470305604718: 	moved	image-11-1470305460656	to	{"x":367,"y":281}
+1470305604726: 	moved	image-11-1470305460656	to	{"x":366,"y":280}
+1470305606387: 	acted on	square
+1470305606462: 	selected	null
+1470305606462: 	mode	square
+1470305606463: 	selected	null
+1470305607879: 	acted on	content
+1470305607951: 	acted on	colorPicker
+1470305607959: 	shape started	{"x":189,"y":652}
+1470305607960: 	shape continued	10	square
+1470305607968: 	shape continued	10	square
+1470305608043: 	selected	null
+1470305608186: 	selected	null
+1470305608661: 	acted on	colorPicker
+1470305608753: 	selected	null
+1470305609912: 	acted on	#00CCCC
+1470305610486: 	selected	null
+1470305610661: 	acted on	#006699
+1470305611178: 	selected	null
+1470305614613: 	acted on	#00CCCC
+1470305614711: 	sub-instrument	#00CCCC		false
+1470305614712: 	changed color	rgb(0, 219, 0)
+1470305614713: 	selected	null
+1470305616945: 	acted on	square
+1470305617045: 	selected	null
+1470305617045: 	mode	null
+1470305617769: 	acted on	content
+1470305617770: 	selected	null
+1470305618478: 	acted on	content
+1470305618480: 	selected	null
+1470305620037: 	acted on	square
+1470305620136: 	selected	null
+1470305620137: 	mode	square
+1470305620138: 	selected	null
+1470305620703: 	acted on	content
+1470305620981: 	shape started	{"x":630,"y":387}
+1470305620983: 	shape continued	10	square
+1470305620987: 	selected	shape-1470305620982
+1470305621021: 	shape continued	10	square
+1470305621023: 	selected	shape-1470305620982
+1470305621028: 	shape continued	12	square
+1470305621029: 	selected	shape-1470305620982
+1470305621035: 	shape continued	14	square
+1470305621037: 	selected	shape-1470305620982
+1470305621043: 	shape continued	17	square
+1470305621044: 	selected	shape-1470305620982
+1470305621050: 	shape continued	19	square
+1470305621052: 	selected	shape-1470305620982
+1470305621059: 	shape continued	21	square
+1470305621061: 	selected	shape-1470305620982
+1470305621068: 	shape continued	23	square
+1470305621069: 	selected	shape-1470305620982
+1470305621076: 	shape continued	26	square
+1470305621077: 	selected	shape-1470305620982
+1470305621085: 	shape continued	29	square
+1470305621087: 	selected	shape-1470305620982
+1470305621093: 	shape continued	32	square
+1470305621094: 	selected	shape-1470305620982
+1470305621101: 	shape continued	36	square
+1470305621102: 	selected	shape-1470305620982
+1470305621110: 	shape continued	39	square
+1470305621111: 	selected	shape-1470305620982
+1470305621118: 	shape continued	43	square
+1470305621119: 	selected	shape-1470305620982
+1470305621126: 	shape continued	45	square
+1470305621127: 	selected	shape-1470305620982
+1470305621135: 	shape continued	49	square
+1470305621136: 	selected	shape-1470305620982
+1470305621142: 	shape continued	52	square
+1470305621143: 	selected	shape-1470305620982
+1470305621151: 	shape continued	56	square
+1470305621152: 	selected	shape-1470305620982
+1470305621160: 	shape continued	60	square
+1470305621162: 	selected	shape-1470305620982
+1470305621168: 	shape continued	63	square
+1470305621169: 	selected	shape-1470305620982
+1470305621176: 	shape continued	67	square
+1470305621177: 	selected	shape-1470305620982
+1470305621185: 	shape continued	70	square
+1470305621186: 	selected	shape-1470305620982
+1470305621193: 	shape continued	74	square
+1470305621194: 	selected	shape-1470305620982
+1470305621201: 	shape continued	78	square
+1470305621203: 	selected	shape-1470305620982
+1470305621210: 	shape continued	81	square
+1470305621211: 	selected	shape-1470305620982
+1470305621218: 	shape continued	86	square
+1470305621219: 	selected	shape-1470305620982
+1470305621226: 	shape continued	90	square
+1470305621227: 	selected	shape-1470305620982
+1470305621235: 	shape continued	93	square
+1470305621236: 	selected	shape-1470305620982
+1470305621243: 	shape continued	97	square
+1470305621244: 	selected	shape-1470305620982
+1470305621251: 	shape continued	101	square
+1470305621252: 	selected	shape-1470305620982
+1470305621260: 	shape continued	105	square
+1470305621261: 	selected	shape-1470305620982
+1470305621268: 	shape continued	109	square
+1470305621270: 	selected	shape-1470305620982
+1470305621276: 	shape continued	112	square
+1470305621277: 	selected	shape-1470305620982
+1470305621285: 	shape continued	116	square
+1470305621286: 	selected	shape-1470305620982
+1470305621292: 	shape continued	120	square
+1470305621294: 	selected	shape-1470305620982
+1470305621300: 	shape continued	123	square
+1470305621302: 	selected	shape-1470305620982
+1470305621310: 	shape continued	127	square
+1470305621311: 	selected	shape-1470305620982
+1470305621317: 	shape continued	130	square
+1470305621320: 	selected	shape-1470305620982
+1470305621326: 	shape continued	134	square
+1470305621328: 	selected	shape-1470305620982
+1470305621335: 	shape continued	137	square
+1470305621336: 	selected	shape-1470305620982
+1470305621343: 	shape continued	140	square
+1470305621344: 	selected	shape-1470305620982
+1470305621350: 	shape continued	143	square
+1470305621352: 	selected	shape-1470305620982
+1470305621360: 	shape continued	146	square
+1470305621361: 	selected	shape-1470305620982
+1470305621367: 	shape continued	150	square
+1470305621369: 	selected	shape-1470305620982
+1470305621375: 	shape continued	153	square
+1470305621377: 	selected	shape-1470305620982
+1470305621385: 	shape continued	156	square
+1470305621386: 	selected	shape-1470305620982
+1470305621393: 	shape continued	159	square
+1470305621394: 	selected	shape-1470305620982
+1470305621401: 	shape continued	162	square
+1470305621403: 	selected	shape-1470305620982
+1470305621411: 	shape continued	166	square
+1470305621412: 	selected	shape-1470305620982
+1470305621418: 	shape continued	170	square
+1470305621419: 	selected	shape-1470305620982
+1470305621426: 	shape continued	174	square
+1470305621428: 	selected	shape-1470305620982
+1470305621435: 	shape continued	178	square
+1470305621436: 	selected	shape-1470305620982
+1470305621442: 	shape continued	182	square
+1470305621443: 	selected	shape-1470305620982
+1470305621450: 	shape continued	187	square
+1470305621452: 	selected	shape-1470305620982
+1470305621460: 	shape continued	191	square
+1470305621462: 	selected	shape-1470305620982
+1470305621465: 	acted on	content
+1470305621468: 	shape continued	195	square
+1470305621470: 	selected	shape-1470305620982
+1470305621476: 	shape continued	200	square
+1470305621477: 	selected	shape-1470305620982
+1470305621485: 	shape continued	204	square
+1470305621486: 	selected	shape-1470305620982
+1470305621492: 	shape continued	208	square
+1470305621494: 	selected	shape-1470305620982
+1470305621501: 	shape continued	212	square
+1470305621502: 	selected	shape-1470305620982
+1470305621510: 	shape continued	216	square
+1470305621511: 	selected	shape-1470305620982
+1470305621517: 	shape continued	218	square
+1470305621519: 	selected	shape-1470305620982
+1470305621526: 	shape continued	221	square
+1470305621527: 	selected	shape-1470305620982
+1470305621535: 	shape continued	223	square
+1470305621536: 	selected	shape-1470305620982
+1470305621543: 	shape continued	224	square
+1470305621544: 	selected	shape-1470305620982
+1470305621551: 	shape continued	225	square
+1470305621552: 	selected	shape-1470305620982
+1470305621560: 	shape continued	226	square
+1470305621561: 	selected	shape-1470305620982
+1470305621567: 	shape continued	227	square
+1470305621569: 	selected	shape-1470305620982
+1470305621585: 	shape continued	228	square
+1470305621586: 	selected	shape-1470305620982
+1470305621594: 	selected	shape-1470305620982
+1470305622977: 	acted on	shape-1470305620982
+1470305622979: 	selected	shape-1470305620982
+1470305623687: 	acted on	colorPicker
+1470305623878: 	acted on	content
+1470305623879: 	selected	null
+1470305624636: 	acted on	colorPicker
+1470305628586: 	acted on	#00FFCC
+1470305628711: 	sub-instrument	#00FFCC		false
+1470305628712: 	changed color	rgb(0, 156, 0)
+1470305630159: 	acted on	shape-1470305620982
+1470305630161: 	selected	shape-1470305620982
+1470305630877: 	acted on	shape-1470305620982
+1470305630879: 	selected	shape-1470305620982
+1470305631903: 	acted on	colorPicker
+1470305633169: 	acted on	#00FF66
+1470305633286: 	sub-instrument	#00FF66		false
+1470305633286: 	changed color	shape-1470305620982	rgb(0, 0, 177)
+1470305635119: 	acted on	content
+1470305635120: 	selected	null
+1470305637028: 	acted on	draw
+1470305637104: 	selected	null
+1470305637104: 	mode	draw
+1470305637886: 	acted on	less
+1470305638078: 	acted on	less
+1470305638244: 	acted on	less
+1470305638419: 	acted on	less
+1470305638619: 	acted on	less
+1470305638811: 	acted on	less
+1470305639870: 	acted on	colorPicker
+1470305641295: 	acted on	#003399
+1470305641394: 	sub-instrument	#003399		false
+1470305641394: 	changed color	rgb(161, 255, 255)
+1470305642744: 	acted on	shape-1470305620982
+1470305642745: 	draw	shape-1470305620982	{"x":13,"y":225}
+1470305642745: 	draw	shape-1470305620982	{"x":13,"y":225}
+1470305642793: 	draw	shape-1470305620982	{"x":23,"y":209}
+1470305642794: 	draw	shape-1470305620982	{"x":23,"y":209}
+1470305642800: 	draw	shape-1470305620982	{"x":27,"y":204}
+1470305642801: 	draw	shape-1470305620982	{"x":27,"y":204}
+1470305642808: 	draw	shape-1470305620982	{"x":31,"y":199}
+1470305642809: 	draw	shape-1470305620982	{"x":31,"y":199}
+1470305642818: 	draw	shape-1470305620982	{"x":36,"y":194}
+1470305642818: 	draw	shape-1470305620982	{"x":36,"y":194}
+1470305642826: 	draw	shape-1470305620982	{"x":40,"y":189}
+1470305642827: 	draw	shape-1470305620982	{"x":40,"y":189}
+1470305642835: 	draw	shape-1470305620982	{"x":47,"y":181}
+1470305642835: 	draw	shape-1470305620982	{"x":47,"y":181}
+1470305642843: 	draw	shape-1470305620982	{"x":51,"y":176}
+1470305642844: 	draw	shape-1470305620982	{"x":51,"y":176}
+1470305642850: 	draw	shape-1470305620982	{"x":57,"y":168}
+1470305642851: 	draw	shape-1470305620982	{"x":57,"y":168}
+1470305642859: 	draw	shape-1470305620982	{"x":65,"y":159}
+1470305642859: 	draw	shape-1470305620982	{"x":65,"y":159}
+1470305642867: 	draw	shape-1470305620982	{"x":69,"y":155}
+1470305642868: 	draw	shape-1470305620982	{"x":69,"y":155}
+1470305642875: 	draw	shape-1470305620982	{"x":79,"y":146}
+1470305642876: 	draw	shape-1470305620982	{"x":79,"y":146}
+1470305642884: 	draw	shape-1470305620982	{"x":86,"y":138}
+1470305642884: 	draw	shape-1470305620982	{"x":86,"y":138}
+1470305642892: 	draw	shape-1470305620982	{"x":94,"y":130}
+1470305642893: 	draw	shape-1470305620982	{"x":94,"y":130}
+1470305642900: 	draw	shape-1470305620982	{"x":101,"y":122}
+1470305642901: 	draw	shape-1470305620982	{"x":101,"y":122}
+1470305642909: 	draw	shape-1470305620982	{"x":108,"y":113}
+1470305642909: 	draw	shape-1470305620982	{"x":108,"y":113}
+1470305642917: 	draw	shape-1470305620982	{"x":117,"y":106}
+1470305642918: 	draw	shape-1470305620982	{"x":117,"y":106}
+1470305642925: 	draw	shape-1470305620982	{"x":122,"y":100}
+1470305642926: 	draw	shape-1470305620982	{"x":122,"y":100}
+1470305642934: 	draw	shape-1470305620982	{"x":132,"y":91}
+1470305642935: 	draw	shape-1470305620982	{"x":132,"y":91}
+1470305642943: 	draw	shape-1470305620982	{"x":139,"y":83}
+1470305642944: 	draw	shape-1470305620982	{"x":139,"y":83}
+1470305642950: 	draw	shape-1470305620982	{"x":148,"y":74}
+1470305642951: 	draw	shape-1470305620982	{"x":148,"y":74}
+1470305642959: 	draw	shape-1470305620982	{"x":155,"y":64}
+1470305642959: 	draw	shape-1470305620982	{"x":155,"y":64}
+1470305642967: 	draw	shape-1470305620982	{"x":163,"y":57}
+1470305642968: 	draw	shape-1470305620982	{"x":163,"y":57}
+1470305642975: 	draw	shape-1470305620982	{"x":171,"y":50}
+1470305642976: 	draw	shape-1470305620982	{"x":171,"y":50}
+1470305642983: 	draw	shape-1470305620982	{"x":179,"y":43}
+1470305642984: 	draw	shape-1470305620982	{"x":179,"y":43}
+1470305642992: 	draw	shape-1470305620982	{"x":186,"y":34}
+1470305642993: 	draw	shape-1470305620982	{"x":186,"y":34}
+1470305643000: 	draw	shape-1470305620982	{"x":191,"y":30}
+1470305643001: 	draw	shape-1470305620982	{"x":191,"y":30}
+1470305643008: 	draw	shape-1470305620982	{"x":197,"y":24}
+1470305643009: 	draw	shape-1470305620982	{"x":197,"y":24}
+1470305643017: 	draw	shape-1470305620982	{"x":201,"y":18}
+1470305643019: 	draw	shape-1470305620982	{"x":201,"y":18}
+1470305643025: 	draw	shape-1470305620982	{"x":207,"y":12}
+1470305643026: 	draw	shape-1470305620982	{"x":207,"y":12}
+1470305643034: 	draw	shape-1470305620982	{"x":211,"y":8}
+1470305643035: 	draw	shape-1470305620982	{"x":211,"y":8}
+1470305643042: 	draw	shape-1470305620982	{"x":215,"y":4}
+1470305643043: 	draw	shape-1470305620982	{"x":215,"y":4}
+1470305643050: 	draw	shape-1470305620982	{"x":218,"y":0}
+1470305643051: 	draw	shape-1470305620982	{"x":218,"y":0}
+1470305643058: 	draw	shape-1470305620982	{"x":220,"y":0}
+1470305643059: 	draw	shape-1470305620982	{"x":220,"y":0}
+1470305643067: 	draw	shape-1470305620982	{"x":223,"y":0}
+1470305643068: 	draw	shape-1470305620982	{"x":223,"y":0}
+1470305643075: 	draw	shape-1470305620982	{"x":225,"y":0}
+1470305643076: 	draw	shape-1470305620982	{"x":225,"y":0}
+1470305643083: 	draw	shape-1470305620982	{"x":227,"y":0}
+1470305643083: 	draw	shape-1470305620982	{"x":227,"y":0}
+1470305643092: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643093: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643101: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643102: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643109: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643110: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643118: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643119: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643126: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643127: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643159: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643160: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643218: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305643219: 	draw	shape-1470305620982	{"x":228,"y":0}
+1470305646319: 	acted on	image-11-1470305460656
+1470305646320: 	draw	image-11-1470305460656	{"x":125,"y":125}
+1470305646320: 	draw	image-11-1470305460656	{"x":125,"y":125}
+1470305646902: 	acted on	image-11-1470305460656
+1470305646904: 	draw	image-11-1470305460656	{"x":109,"y":109}
+1470305646904: 	draw	image-11-1470305460656	{"x":109,"y":109}
+1470305649153: 	acted on	copy
+1470305649260: 	selected	null
+1470305650027: 	acted on	content
+1470305650028: 	draw	content	{"x":886,"y":507}
+1470305650029: 	draw	content	{"x":886,"y":507}
+1470305651578: 	acted on	paste
+1470305651661: 	pasted	image-1114703055348131470305555447
+1470305651662: 	pasted	null
+1470305652602: 	acted on	image-11147030553481314703055554471470305651662
+1470305652603: 	draw	image-11147030553481314703055554471470305651662	{"x":228,"y":139}
+1470305652604: 	draw	image-11147030553481314703055554471470305651662	{"x":228,"y":139}
+1470305652660: 	draw	image-11147030553481314703055554471470305651662	{"x":237,"y":155}
+1470305652660: 	draw	image-11147030553481314703055554471470305651662	{"x":237,"y":155}
+1470305652668: 	draw	image-11147030553481314703055554471470305651662	{"x":241,"y":159}
+1470305652668: 	draw	image-11147030553481314703055554471470305651662	{"x":241,"y":159}
+1470305652676: 	draw	image-11147030553481314703055554471470305651662	{"x":245,"y":163}
+1470305652676: 	draw	image-11147030553481314703055554471470305651662	{"x":245,"y":163}
+1470305652685: 	draw	image-11147030553481314703055554471470305651662	{"x":250,"y":169}
+1470305652686: 	draw	image-11147030553481314703055554471470305651662	{"x":250,"y":169}
+1470305652693: 	draw	image-11147030553481314703055554471470305651662	{"x":256,"y":174}
+1470305652694: 	draw	image-11147030553481314703055554471470305651662	{"x":256,"y":174}
+1470305652701: 	draw	image-11147030553481314703055554471470305651662	{"x":262,"y":182}
+1470305652702: 	draw	image-11147030553481314703055554471470305651662	{"x":262,"y":182}
+1470305652709: 	draw	image-11147030553481314703055554471470305651662	{"x":269,"y":188}
+1470305652710: 	draw	image-11147030553481314703055554471470305651662	{"x":269,"y":188}
+1470305652719: 	draw	image-11147030553481314703055554471470305651662	{"x":277,"y":195}
+1470305652719: 	draw	image-11147030553481314703055554471470305651662	{"x":277,"y":195}
+1470305652725: 	draw	image-11147030553481314703055554471470305651662	{"x":287,"y":203}
+1470305652726: 	draw	image-11147030553481314703055554471470305651662	{"x":287,"y":203}
+1470305652735: 	draw	image-11147030553481314703055554471470305651662	{"x":295,"y":211}
+1470305652735: 	draw	image-11147030553481314703055554471470305651662	{"x":295,"y":211}
+1470305652743: 	draw	image-11147030553481314703055554471470305651662	{"x":305,"y":218}
+1470305652744: 	draw	image-11147030553481314703055554471470305651662	{"x":305,"y":218}
+1470305652750: 	draw	image-11147030553481314703055554471470305651662	{"x":314,"y":225}
+1470305652751: 	draw	image-11147030553481314703055554471470305651662	{"x":314,"y":225}
+1470305652759: 	draw	image-11147030553481314703055554471470305651662	{"x":324,"y":232}
+1470305652760: 	draw	image-11147030553481314703055554471470305651662	{"x":324,"y":232}
+1470305652768: 	draw	image-11147030553481314703055554471470305651662	{"x":336,"y":239}
+1470305652768: 	draw	image-11147030553481314703055554471470305651662	{"x":336,"y":239}
+1470305652775: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":246}
+1470305652776: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":246}
+1470305652784: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":253}
+1470305652784: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":253}
+1470305652792: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":261}
+1470305652793: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":261}
+1470305652801: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":270}
+1470305652801: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":270}
+1470305652809: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":276}
+1470305652810: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":276}
+1470305652817: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":283}
+1470305652818: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":283}
+1470305652825: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":291}
+1470305652826: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":291}
+1470305652834: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":299}
+1470305652834: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":299}
+1470305652844: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":305}
+1470305652844: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":305}
+1470305652851: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":312}
+1470305652852: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":312}
+1470305652858: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":319}
+1470305652859: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":319}
+1470305652868: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":326}
+1470305652868: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":326}
+1470305652876: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":333}
+1470305652877: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":333}
+1470305652884: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":340}
+1470305652884: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":340}
+1470305652893: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652894: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652901: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652901: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652909: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652909: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652918: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652918: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652926: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652927: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652933: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652934: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652943: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652943: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652951: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652951: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652958: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652959: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652967: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652968: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652975: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652976: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652983: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652984: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652993: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305652993: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653000: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653001: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653009: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653010: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653017: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653018: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653025: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653026: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653034: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653035: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653043: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653043: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653051: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653051: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653059: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653060: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653067: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653068: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653075: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653076: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653083: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653084: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653092: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653093: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653101: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653101: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653108: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653109: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653118: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653118: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653125: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653126: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653134: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653135: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653167: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653168: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653184: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653184: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653192: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653193: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653251: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653251: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653259: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653260: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653343: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653344: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653401: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653402: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653443: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653443: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653559: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653560: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653618: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305653619: 	draw	image-11147030553481314703055554471470305651662	{"x":346,"y":346}
+1470305654970: 	acted on	draw
+1470305655035: 	selected	null
+1470305655036: 	mode	null
+1470305656651: 	acted on	path-1470305652604
+1470305656653: 	selected	path-1470305652604
+1470305658695: 	acted on	delete
+1470305658776: 	cut	path-1470305652604
+1470305658777: 	deleted	path-1470305652604
+1470305659386: 	acted on	image-11147030553481314703055554471470305651662
+1470305659388: 	selected	image-11147030553481314703055554471470305651662
+1470305660194: 	acted on	image-11147030553481314703055554471470305651662
+1470305660196: 	selected	image-11147030553481314703055554471470305651662
+1470305660210: 	acted on	image-11147030553481314703055554471470305651662
+1470305660212: 	selected	image-11147030553481314703055554471470305651662
+1470305660226: 	start moving	image-11147030553481314703055554471470305651662	from	{"x":276,"y":91}
+1470305660227: 	changed size	width	image-11147030553481314703055554471470305651662	344
+1470305660228: 	changed size	height	image-11147030553481314703055554471470305651662	344
+1470305660232: 	changed size	width	image-11147030553481314703055554471470305651662	342
+1470305660233: 	changed size	height	image-11147030553481314703055554471470305651662	342
+1470305660237: 	changed size	width	image-11147030553481314703055554471470305651662	340
+1470305660238: 	changed size	height	image-11147030553481314703055554471470305651662	340
+1470305660243: 	changed size	width	image-11147030553481314703055554471470305651662	338
+1470305660244: 	changed size	height	image-11147030553481314703055554471470305651662	338
+1470305660247: 	changed size	width	image-11147030553481314703055554471470305651662	336
+1470305660248: 	changed size	height	image-11147030553481314703055554471470305651662	336
+1470305660260: 	changed size	width	image-11147030553481314703055554471470305651662	334
+1470305660261: 	changed size	height	image-11147030553481314703055554471470305651662	334
+1470305660263: 	changed size	width	image-11147030553481314703055554471470305651662	332
+1470305660264: 	changed size	height	image-11147030553481314703055554471470305651662	332
+1470305660267: 	changed size	width	image-11147030553481314703055554471470305651662	330
+1470305660268: 	changed size	height	image-11147030553481314703055554471470305651662	330
+1470305660275: 	changed size	width	image-11147030553481314703055554471470305651662	328
+1470305660276: 	changed size	height	image-11147030553481314703055554471470305651662	328
+1470305660279: 	changed size	width	image-11147030553481314703055554471470305651662	326
+1470305660280: 	changed size	height	image-11147030553481314703055554471470305651662	326
+1470305660285: 	changed size	width	image-11147030553481314703055554471470305651662	324
+1470305660286: 	changed size	height	image-11147030553481314703055554471470305651662	324
+1470305660289: 	changed size	width	image-11147030553481314703055554471470305651662	322
+1470305660290: 	changed size	height	image-11147030553481314703055554471470305651662	322
+1470305660293: 	changed size	width	image-11147030553481314703055554471470305651662	320
+1470305660294: 	changed size	height	image-11147030553481314703055554471470305651662	320
+1470305660300: 	changed size	width	image-11147030553481314703055554471470305651662	318
+1470305660301: 	changed size	height	image-11147030553481314703055554471470305651662	318
+1470305660304: 	changed size	width	image-11147030553481314703055554471470305651662	316
+1470305660305: 	changed size	height	image-11147030553481314703055554471470305651662	316
+1470305660310: 	changed size	width	image-11147030553481314703055554471470305651662	314
+1470305660311: 	changed size	height	image-11147030553481314703055554471470305651662	314
+1470305660313: 	changed size	width	image-11147030553481314703055554471470305651662	312
+1470305660314: 	changed size	height	image-11147030553481314703055554471470305651662	312
+1470305660318: 	changed size	width	image-11147030553481314703055554471470305651662	310
+1470305660319: 	changed size	height	image-11147030553481314703055554471470305651662	310
+1470305660326: 	changed size	width	image-11147030553481314703055554471470305651662	308
+1470305660326: 	changed size	height	image-11147030553481314703055554471470305651662	308
+1470305660329: 	changed size	width	image-11147030553481314703055554471470305651662	306
+1470305660329: 	changed size	height	image-11147030553481314703055554471470305651662	306
+1470305660335: 	changed size	width	image-11147030553481314703055554471470305651662	304
+1470305660336: 	changed size	height	image-11147030553481314703055554471470305651662	304
+1470305660338: 	changed size	width	image-11147030553481314703055554471470305651662	302
+1470305660339: 	changed size	height	image-11147030553481314703055554471470305651662	302
+1470305660345: 	changed size	width	image-11147030553481314703055554471470305651662	300
+1470305660346: 	changed size	height	image-11147030553481314703055554471470305651662	300
+1470305660349: 	changed size	width	image-11147030553481314703055554471470305651662	298
+1470305660350: 	changed size	height	image-11147030553481314703055554471470305651662	298
+1470305660354: 	changed size	width	image-11147030553481314703055554471470305651662	296
+1470305660355: 	changed size	height	image-11147030553481314703055554471470305651662	296
+1470305660362: 	changed size	width	image-11147030553481314703055554471470305651662	294
+1470305660363: 	changed size	height	image-11147030553481314703055554471470305651662	294
+1470305660367: 	changed size	width	image-11147030553481314703055554471470305651662	292
+1470305660368: 	changed size	height	image-11147030553481314703055554471470305651662	292
+1470305660375: 	changed size	width	image-11147030553481314703055554471470305651662	290
+1470305660376: 	changed size	height	image-11147030553481314703055554471470305651662	290
+1470305660379: 	changed size	width	image-11147030553481314703055554471470305651662	288
+1470305660379: 	changed size	height	image-11147030553481314703055554471470305651662	288
+1470305660385: 	changed size	width	image-11147030553481314703055554471470305651662	286
+1470305660386: 	changed size	height	image-11147030553481314703055554471470305651662	286
+1470305660389: 	changed size	width	image-11147030553481314703055554471470305651662	284
+1470305660389: 	changed size	height	image-11147030553481314703055554471470305651662	284
+1470305660395: 	changed size	width	image-11147030553481314703055554471470305651662	282
+1470305660396: 	changed size	height	image-11147030553481314703055554471470305651662	282
+1470305660400: 	changed size	width	image-11147030553481314703055554471470305651662	280
+1470305660401: 	changed size	height	image-11147030553481314703055554471470305651662	280
+1470305660410: 	changed size	width	image-11147030553481314703055554471470305651662	278
+1470305660411: 	changed size	height	image-11147030553481314703055554471470305651662	278
+1470305660415: 	changed size	width	image-11147030553481314703055554471470305651662	276
+1470305660416: 	changed size	height	image-11147030553481314703055554471470305651662	276
+1470305660420: 	changed size	width	image-11147030553481314703055554471470305651662	274
+1470305660421: 	changed size	height	image-11147030553481314703055554471470305651662	274
+1470305660426: 	changed size	width	image-11147030553481314703055554471470305651662	272
+1470305660426: 	changed size	height	image-11147030553481314703055554471470305651662	272
+1470305660429: 	changed size	width	image-11147030553481314703055554471470305651662	270
+1470305660430: 	changed size	height	image-11147030553481314703055554471470305651662	270
+1470305660435: 	changed size	width	image-11147030553481314703055554471470305651662	268
+1470305660436: 	changed size	height	image-11147030553481314703055554471470305651662	268
+1470305660439: 	changed size	width	image-11147030553481314703055554471470305651662	266
+1470305660440: 	changed size	height	image-11147030553481314703055554471470305651662	266
+1470305660444: 	changed size	width	image-11147030553481314703055554471470305651662	264
+1470305660445: 	changed size	height	image-11147030553481314703055554471470305651662	264
+1470305660452: 	changed size	width	image-11147030553481314703055554471470305651662	262
+1470305660453: 	changed size	height	image-11147030553481314703055554471470305651662	262
+1470305660460: 	changed size	width	image-11147030553481314703055554471470305651662	260
+1470305660460: 	changed size	height	image-11147030553481314703055554471470305651662	260
+1470305660468: 	changed size	width	image-11147030553481314703055554471470305651662	258
+1470305660469: 	changed size	height	image-11147030553481314703055554471470305651662	258
+1470305660471: 	changed size	width	image-11147030553481314703055554471470305651662	256
+1470305660472: 	changed size	height	image-11147030553481314703055554471470305651662	256
+1470305660475: 	changed size	width	image-11147030553481314703055554471470305651662	254
+1470305660476: 	changed size	height	image-11147030553481314703055554471470305651662	254
+1470305660479: 	changed size	width	image-11147030553481314703055554471470305651662	252
+1470305660480: 	changed size	height	image-11147030553481314703055554471470305651662	252
+1470305660486: 	changed size	width	image-11147030553481314703055554471470305651662	250
+1470305660487: 	changed size	height	image-11147030553481314703055554471470305651662	250
+1470305660492: 	changed size	width	image-11147030553481314703055554471470305651662	248
+1470305660493: 	changed size	height	image-11147030553481314703055554471470305651662	248
+1470305660510: 	changed size	width	image-11147030553481314703055554471470305651662	246
+1470305660511: 	changed size	height	image-11147030553481314703055554471470305651662	246
+1470305660893: 	acted on	image-11147030553481314703055554471470305651662
+1470305660895: 	selected	image-11147030553481314703055554471470305651662
+1470305660897: 	acted on	image-11147030553481314703055554471470305651662
+1470305660899: 	selected	image-11147030553481314703055554471470305651662
+1470305660903: 	start moving	image-11147030553481314703055554471470305651662	from	{"x":199,"y":63}
+1470305660904: 	changed size	width	image-11147030553481314703055554471470305651662	244
+1470305660905: 	changed size	height	image-11147030553481314703055554471470305651662	244
+1470305660909: 	changed size	width	image-11147030553481314703055554471470305651662	242
+1470305660910: 	changed size	height	image-11147030553481314703055554471470305651662	242
+1470305660925: 	changed size	width	image-11147030553481314703055554471470305651662	240
+1470305660926: 	changed size	height	image-11147030553481314703055554471470305651662	240
+1470305660934: 	changed size	width	image-11147030553481314703055554471470305651662	238
+1470305660935: 	changed size	height	image-11147030553481314703055554471470305651662	238
+1470305660942: 	changed size	width	image-11147030553481314703055554471470305651662	236
+1470305660943: 	changed size	height	image-11147030553481314703055554471470305651662	236
+1470305660951: 	changed size	width	image-11147030553481314703055554471470305651662	234
+1470305660951: 	changed size	height	image-11147030553481314703055554471470305651662	234
+1470305660955: 	changed size	width	image-11147030553481314703055554471470305651662	232
+1470305660956: 	changed size	height	image-11147030553481314703055554471470305651662	232
+1470305660960: 	changed size	width	image-11147030553481314703055554471470305651662	230
+1470305660960: 	changed size	height	image-11147030553481314703055554471470305651662	230
+1470305660963: 	changed size	width	image-11147030553481314703055554471470305651662	228
+1470305660964: 	changed size	height	image-11147030553481314703055554471470305651662	228
+1470305660967: 	changed size	width	image-11147030553481314703055554471470305651662	226
+1470305660968: 	changed size	height	image-11147030553481314703055554471470305651662	226
+1470305660975: 	changed size	width	image-11147030553481314703055554471470305651662	224
+1470305660976: 	changed size	height	image-11147030553481314703055554471470305651662	224
+1470305660978: 	changed size	width	image-11147030553481314703055554471470305651662	222
+1470305660979: 	changed size	height	image-11147030553481314703055554471470305651662	222
+1470305660985: 	changed size	width	image-11147030553481314703055554471470305651662	220
+1470305660986: 	changed size	height	image-11147030553481314703055554471470305651662	220
+1470305660989: 	changed size	width	image-11147030553481314703055554471470305651662	218
+1470305660990: 	changed size	height	image-11147030553481314703055554471470305651662	218
+1470305660993: 	changed size	width	image-11147030553481314703055554471470305651662	216
+1470305660994: 	changed size	height	image-11147030553481314703055554471470305651662	216
+1470305661000: 	changed size	width	image-11147030553481314703055554471470305651662	214
+1470305661001: 	changed size	height	image-11147030553481314703055554471470305651662	214
+1470305661004: 	changed size	width	image-11147030553481314703055554471470305651662	212
+1470305661004: 	changed size	height	image-11147030553481314703055554471470305651662	212
+1470305661011: 	changed size	width	image-11147030553481314703055554471470305651662	210
+1470305661012: 	changed size	height	image-11147030553481314703055554471470305651662	210
+1470305661018: 	changed size	width	image-11147030553481314703055554471470305651662	208
+1470305661019: 	changed size	height	image-11147030553481314703055554471470305651662	208
+1470305661022: 	changed size	width	image-11147030553481314703055554471470305651662	206
+1470305661022: 	changed size	height	image-11147030553481314703055554471470305651662	206
+1470305661027: 	changed size	width	image-11147030553481314703055554471470305651662	204
+1470305661028: 	changed size	height	image-11147030553481314703055554471470305651662	204
+1470305661036: 	changed size	width	image-11147030553481314703055554471470305651662	202
+1470305661037: 	changed size	height	image-11147030553481314703055554471470305651662	202
+1470305661042: 	changed size	width	image-11147030553481314703055554471470305651662	200
+1470305661042: 	changed size	height	image-11147030553481314703055554471470305651662	200
+1470305661047: 	changed size	width	image-11147030553481314703055554471470305651662	198
+1470305661048: 	changed size	height	image-11147030553481314703055554471470305651662	198
+1470305661052: 	changed size	width	image-11147030553481314703055554471470305651662	196
+1470305661052: 	changed size	height	image-11147030553481314703055554471470305651662	196
+1470305661055: 	changed size	width	image-11147030553481314703055554471470305651662	194
+1470305661055: 	changed size	height	image-11147030553481314703055554471470305651662	194
+1470305661059: 	changed size	width	image-11147030553481314703055554471470305651662	192
+1470305661060: 	changed size	height	image-11147030553481314703055554471470305651662	192
+1470305661078: 	changed size	width	image-11147030553481314703055554471470305651662	190
+1470305661079: 	changed size	height	image-11147030553481314703055554471470305651662	190
+1470305661402: 	acted on	image-11147030553481314703055554471470305651662
+1470305661404: 	selected	image-11147030553481314703055554471470305651662
+1470305661460: 	start moving	image-11147030553481314703055554471470305651662	from	{"x":104,"y":111}
+1470305661467: 	moved	image-11147030553481314703055554471470305651662	to	{"x":180,"y":193}
+1470305661475: 	moved	image-11147030553481314703055554471470305651662	to	{"x":178,"y":196}
+1470305661484: 	moved	image-11147030553481314703055554471470305651662	to	{"x":176,"y":201}
+1470305661492: 	moved	image-11147030553481314703055554471470305651662	to	{"x":174,"y":206}
+1470305661501: 	moved	image-11147030553481314703055554471470305651662	to	{"x":173,"y":210}
+1470305661509: 	moved	image-11147030553481314703055554471470305651662	to	{"x":171,"y":214}
+1470305661517: 	moved	image-11147030553481314703055554471470305651662	to	{"x":168,"y":219}
+1470305661526: 	moved	image-11147030553481314703055554471470305651662	to	{"x":166,"y":225}
+1470305661534: 	moved	image-11147030553481314703055554471470305651662	to	{"x":164,"y":230}
+1470305661542: 	moved	image-11147030553481314703055554471470305651662	to	{"x":162,"y":236}
+1470305661550: 	moved	image-11147030553481314703055554471470305651662	to	{"x":161,"y":242}
+1470305661560: 	moved	image-11147030553481314703055554471470305651662	to	{"x":159,"y":248}
+1470305661567: 	moved	image-11147030553481314703055554471470305651662	to	{"x":158,"y":253}
+1470305661575: 	moved	image-11147030553481314703055554471470305651662	to	{"x":156,"y":259}
+1470305661584: 	moved	image-11147030553481314703055554471470305651662	to	{"x":155,"y":265}
+1470305661592: 	moved	image-11147030553481314703055554471470305651662	to	{"x":155,"y":272}
+1470305661601: 	moved	image-11147030553481314703055554471470305651662	to	{"x":154,"y":278}
+1470305661609: 	moved	image-11147030553481314703055554471470305651662	to	{"x":154,"y":284}
+1470305661617: 	moved	image-11147030553481314703055554471470305651662	to	{"x":153,"y":290}
+1470305661626: 	moved	image-11147030553481314703055554471470305651662	to	{"x":152,"y":296}
+1470305661634: 	moved	image-11147030553481314703055554471470305651662	to	{"x":151,"y":303}
+1470305661642: 	moved	image-11147030553481314703055554471470305651662	to	{"x":151,"y":308}
+1470305661651: 	moved	image-11147030553481314703055554471470305651662	to	{"x":152,"y":314}
+1470305661658: 	moved	image-11147030553481314703055554471470305651662	to	{"x":152,"y":321}
+1470305661666: 	moved	image-11147030553481314703055554471470305651662	to	{"x":153,"y":326}
+1470305661675: 	moved	image-11147030553481314703055554471470305651662	to	{"x":154,"y":334}
+1470305661684: 	moved	image-11147030553481314703055554471470305651662	to	{"x":155,"y":339}
+1470305661692: 	moved	image-11147030553481314703055554471470305651662	to	{"x":156,"y":344}
+1470305661701: 	moved	image-11147030553481314703055554471470305651662	to	{"x":158,"y":350}
+1470305661709: 	moved	image-11147030553481314703055554471470305651662	to	{"x":160,"y":355}
+1470305661717: 	moved	image-11147030553481314703055554471470305651662	to	{"x":162,"y":360}
+1470305661726: 	moved	image-11147030553481314703055554471470305651662	to	{"x":164,"y":367}
+1470305661733: 	moved	image-11147030553481314703055554471470305651662	to	{"x":167,"y":373}
+1470305661741: 	moved	image-11147030553481314703055554471470305651662	to	{"x":170,"y":378}
+1470305661751: 	moved	image-11147030553481314703055554471470305651662	to	{"x":173,"y":382}
+1470305661758: 	moved	image-11147030553481314703055554471470305651662	to	{"x":176,"y":387}
+1470305661767: 	moved	image-11147030553481314703055554471470305651662	to	{"x":180,"y":392}
+1470305661776: 	moved	image-11147030553481314703055554471470305651662	to	{"x":184,"y":396}
+1470305661784: 	moved	image-11147030553481314703055554471470305651662	to	{"x":187,"y":401}
+1470305661792: 	moved	image-11147030553481314703055554471470305651662	to	{"x":191,"y":406}
+1470305661800: 	moved	image-11147030553481314703055554471470305651662	to	{"x":195,"y":410}
+1470305661809: 	moved	image-11147030553481314703055554471470305651662	to	{"x":199,"y":414}
+1470305661817: 	moved	image-11147030553481314703055554471470305651662	to	{"x":204,"y":418}
+1470305661826: 	moved	image-11147030553481314703055554471470305651662	to	{"x":209,"y":422}
+1470305661834: 	moved	image-11147030553481314703055554471470305651662	to	{"x":215,"y":425}
+1470305661842: 	moved	image-11147030553481314703055554471470305651662	to	{"x":220,"y":429}
+1470305661851: 	moved	image-11147030553481314703055554471470305651662	to	{"x":224,"y":432}
+1470305661860: 	moved	image-11147030553481314703055554471470305651662	to	{"x":230,"y":435}
+1470305661867: 	moved	image-11147030553481314703055554471470305651662	to	{"x":234,"y":438}
+1470305661876: 	moved	image-11147030553481314703055554471470305651662	to	{"x":240,"y":442}
+1470305661884: 	moved	image-11147030553481314703055554471470305651662	to	{"x":245,"y":445}
+1470305661893: 	moved	image-11147030553481314703055554471470305651662	to	{"x":251,"y":448}
+1470305661901: 	moved	image-11147030553481314703055554471470305651662	to	{"x":256,"y":450}
+1470305661909: 	moved	image-11147030553481314703055554471470305651662	to	{"x":261,"y":453}
+1470305661917: 	moved	image-11147030553481314703055554471470305651662	to	{"x":268,"y":455}
+1470305661926: 	moved	image-11147030553481314703055554471470305651662	to	{"x":274,"y":458}
+1470305661934: 	moved	image-11147030553481314703055554471470305651662	to	{"x":281,"y":459}
+1470305661942: 	moved	image-11147030553481314703055554471470305651662	to	{"x":288,"y":461}
+1470305661950: 	moved	image-11147030553481314703055554471470305651662	to	{"x":295,"y":463}
+1470305661959: 	moved	image-11147030553481314703055554471470305651662	to	{"x":302,"y":463}
+1470305661967: 	moved	image-11147030553481314703055554471470305651662	to	{"x":310,"y":464}
+1470305661976: 	moved	image-11147030553481314703055554471470305651662	to	{"x":318,"y":467}
+1470305661984: 	moved	image-11147030553481314703055554471470305651662	to	{"x":325,"y":468}
+1470305661992: 	moved	image-11147030553481314703055554471470305651662	to	{"x":334,"y":470}
+1470305662001: 	moved	image-11147030553481314703055554471470305651662	to	{"x":341,"y":471}
+1470305662009: 	moved	image-11147030553481314703055554471470305651662	to	{"x":350,"y":472}
+1470305662017: 	moved	image-11147030553481314703055554471470305651662	to	{"x":360,"y":474}
+1470305662026: 	moved	image-11147030553481314703055554471470305651662	to	{"x":370,"y":476}
+1470305662034: 	moved	image-11147030553481314703055554471470305651662	to	{"x":377,"y":476}
+1470305662041: 	moved	image-11147030553481314703055554471470305651662	to	{"x":388,"y":477}
+1470305662051: 	moved	image-11147030553481314703055554471470305651662	to	{"x":398,"y":478}
+1470305662059: 	moved	image-11147030553481314703055554471470305651662	to	{"x":406,"y":478}
+1470305662068: 	moved	image-11147030553481314703055554471470305651662	to	{"x":417,"y":479}
+1470305662076: 	moved	image-11147030553481314703055554471470305651662	to	{"x":427,"y":479}
+1470305662084: 	moved	image-11147030553481314703055554471470305651662	to	{"x":439,"y":479}
+1470305662092: 	moved	image-11147030553481314703055554471470305651662	to	{"x":451,"y":480}
+1470305662101: 	moved	image-11147030553481314703055554471470305651662	to	{"x":462,"y":480}
+1470305662109: 	moved	image-11147030553481314703055554471470305651662	to	{"x":473,"y":480}
+1470305662118: 	moved	image-11147030553481314703055554471470305651662	to	{"x":486,"y":480}
+1470305662126: 	moved	image-11147030553481314703055554471470305651662	to	{"x":498,"y":480}
+1470305662135: 	moved	image-11147030553481314703055554471470305651662	to	{"x":510,"y":481}
+1470305662142: 	moved	image-11147030553481314703055554471470305651662	to	{"x":522,"y":480}
+1470305662151: 	moved	image-11147030553481314703055554471470305651662	to	{"x":535,"y":480}
+1470305662159: 	moved	image-11147030553481314703055554471470305651662	to	{"x":548,"y":479}
+1470305662167: 	moved	image-11147030553481314703055554471470305651662	to	{"x":561,"y":481}
+1470305662176: 	moved	image-11147030553481314703055554471470305651662	to	{"x":575,"y":480}
+1470305662184: 	moved	image-11147030553481314703055554471470305651662	to	{"x":587,"y":481}
+1470305662191: 	moved	image-11147030553481314703055554471470305651662	to	{"x":602,"y":481}
+1470305662201: 	moved	image-11147030553481314703055554471470305651662	to	{"x":615,"y":481}
+1470305662209: 	moved	image-11147030553481314703055554471470305651662	to	{"x":628,"y":481}
+1470305662216: 	moved	image-11147030553481314703055554471470305651662	to	{"x":641,"y":482}
+1470305662226: 	moved	image-11147030553481314703055554471470305651662	to	{"x":656,"y":483}
+1470305662235: 	moved	image-11147030553481314703055554471470305651662	to	{"x":668,"y":484}
+1470305662242: 	moved	image-11147030553481314703055554471470305651662	to	{"x":681,"y":485}
+1470305662251: 	moved	image-11147030553481314703055554471470305651662	to	{"x":693,"y":488}
+1470305662259: 	moved	image-11147030553481314703055554471470305651662	to	{"x":705,"y":489}
+1470305662267: 	moved	image-11147030553481314703055554471470305651662	to	{"x":717,"y":491}
+1470305662276: 	moved	image-11147030553481314703055554471470305651662	to	{"x":730,"y":493}
+1470305662284: 	moved	image-11147030553481314703055554471470305651662	to	{"x":739,"y":496}
+1470305662292: 	moved	image-11147030553481314703055554471470305651662	to	{"x":749,"y":499}
+1470305662301: 	moved	image-11147030553481314703055554471470305651662	to	{"x":758,"y":501}
+1470305662309: 	moved	image-11147030553481314703055554471470305651662	to	{"x":766,"y":502}
+1470305662317: 	moved	image-11147030553481314703055554471470305651662	to	{"x":775,"y":505}
+1470305662326: 	moved	image-11147030553481314703055554471470305651662	to	{"x":782,"y":507}
+1470305662334: 	moved	image-11147030553481314703055554471470305651662	to	{"x":789,"y":509}
+1470305662342: 	moved	image-11147030553481314703055554471470305651662	to	{"x":797,"y":511}
+1470305662350: 	moved	image-11147030553481314703055554471470305651662	to	{"x":803,"y":513}
+1470305662359: 	moved	image-11147030553481314703055554471470305651662	to	{"x":810,"y":516}
+1470305662367: 	moved	image-11147030553481314703055554471470305651662	to	{"x":816,"y":517}
+1470305662376: 	moved	image-11147030553481314703055554471470305651662	to	{"x":822,"y":519}
+1470305662383: 	moved	image-11147030553481314703055554471470305651662	to	{"x":827,"y":521}
+1470305662392: 	moved	image-11147030553481314703055554471470305651662	to	{"x":830,"y":523}
+1470305662400: 	moved	image-11147030553481314703055554471470305651662	to	{"x":834,"y":524}
+1470305662408: 	moved	image-11147030553481314703055554471470305651662	to	{"x":837,"y":525}
+1470305662417: 	moved	image-11147030553481314703055554471470305651662	to	{"x":840,"y":527}
+1470305662426: 	moved	image-11147030553481314703055554471470305651662	to	{"x":843,"y":528}
+1470305662433: 	moved	image-11147030553481314703055554471470305651662	to	{"x":846,"y":529}
+1470305662442: 	moved	image-11147030553481314703055554471470305651662	to	{"x":848,"y":530}
+1470305662450: 	moved	image-11147030553481314703055554471470305651662	to	{"x":850,"y":530}
+1470305662459: 	moved	image-11147030553481314703055554471470305651662	to	{"x":851,"y":531}
+1470305662466: 	moved	image-11147030553481314703055554471470305651662	to	{"x":853,"y":531}
+1470305662476: 	moved	image-11147030553481314703055554471470305651662	to	{"x":853,"y":532}
+1470305662484: 	moved	image-11147030553481314703055554471470305651662	to	{"x":854,"y":533}
+1470305662491: 	moved	image-11147030553481314703055554471470305651662	to	{"x":855,"y":533}
+1470305662501: 	moved	image-11147030553481314703055554471470305651662	to	{"x":856,"y":533}
+1470305662509: 	moved	image-11147030553481314703055554471470305651662	to	{"x":857,"y":534}
+1470305662526: 	moved	image-11147030553481314703055554471470305651662	to	{"x":858,"y":534}
+1470305662533: 	moved	image-11147030553481314703055554471470305651662	to	{"x":858,"y":535}
+1470305662541: 	moved	image-11147030553481314703055554471470305651662	to	{"x":859,"y":535}
+1470305662558: 	moved	image-11147030553481314703055554471470305651662	to	{"x":860,"y":535}
+1470305662576: 	moved	image-11147030553481314703055554471470305651662	to	{"x":861,"y":536}
+1470305662592: 	moved	image-11147030553481314703055554471470305651662	to	{"x":862,"y":536}
+1470305662609: 	moved	image-11147030553481314703055554471470305651662	to	{"x":863,"y":537}
+1470305662616: 	moved	image-11147030553481314703055554471470305651662	to	{"x":864,"y":537}
+1470305662625: 	moved	image-11147030553481314703055554471470305651662	to	{"x":865,"y":537}
+1470305662634: 	moved	image-11147030553481314703055554471470305651662	to	{"x":867,"y":538}
+1470305662651: 	moved	image-11147030553481314703055554471470305651662	to	{"x":869,"y":538}
+1470305662667: 	moved	image-11147030553481314703055554471470305651662	to	{"x":870,"y":539}
+1470305662675: 	moved	image-11147030553481314703055554471470305651662	to	{"x":871,"y":539}
+1470305662691: 	moved	image-11147030553481314703055554471470305651662	to	{"x":872,"y":539}
+1470305662701: 	moved	image-11147030553481314703055554471470305651662	to	{"x":873,"y":539}
+1470305662709: 	moved	image-11147030553481314703055554471470305651662	to	{"x":874,"y":539}
+1470305662717: 	moved	image-11147030553481314703055554471470305651662	to	{"x":876,"y":540}
+1470305662725: 	moved	image-11147030553481314703055554471470305651662	to	{"x":878,"y":540}
+1470305662734: 	moved	image-11147030553481314703055554471470305651662	to	{"x":880,"y":540}
+1470305662741: 	moved	image-11147030553481314703055554471470305651662	to	{"x":883,"y":541}
+1470305663893: 	acted on	content
+1470305663894: 	selected	null

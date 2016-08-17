@@ -1,0 +1,10 @@
+1469998630919: 	acted on	innerText
+1469998630927: 	sub-instrument	start	colorPicker	true
+1469998630931: 	activate	colorPicker
+1469998631711: 	acted on	#00CC00
+1469998631723: 	sub-instrument	#00CC00	colorPicker	true
+1469998633247: 	changed color to	rgba(0, 0, 0, 0.8)
+1469998634260: 	changed color to	rgba(0, 0, 0, 0.8)
+1469998636176: 	acted on	innerText
+1469998636183: 	sub-instrument	stop	colorPicker	false
+1469998636186: 	deactivate	colorPicker

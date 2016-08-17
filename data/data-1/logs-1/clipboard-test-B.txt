@@ -1,0 +1,52 @@
+1470032245437: 	acted on	innerText
+1470032245446: 	sub-instrument	start	clipboard	true
+1470032245450: 	activate	clipboard
+1470032246205: 	acted on	copy
+1470032246213: 	sub-instrument	copy	clipboard	true
+1470032247268: 	copied	path-1470032240360
+1470032249023: 	acted on	paste
+1470032249032: 	sub-instrument	paste	clipboard	true
+1470032250086: 	pasted	path-1470032240360-
+1470032251294: 	acted on	innerText
+1470032251302: 	sub-instrument	stop	clipboard	false
+1470032251305: 	deactivate	clipboard
+1469820161216: 	acted on	innerText
+1469820161297: 	sub-instrument	start	clipboard	true
+1469820161298: 	activate	clipboard
+1469820162016: 	acted on	copy
+1469820162089: 	sub-instrument	copy	clipboard	true
+1469820162798: 	copied	shape-1470032237218
+1469820163923: 	acted on	paste
+1469820164039: 	sub-instrument	paste	clipboard	true
+1469820164639: 	pasted	shape-1470032237218-
+1469820165955: 	pasted	shape-1470032237218-
+1469820167298: 	acted on	delete
+1469820167390: 	sub-instrument	delete	clipboard	true
+1469820168214: 	deleted	shape-1470032237218-1469820165956
+1469820169180: 	acted on	innerText
+1469820169264: 	sub-instrument	stop	clipboard	false
+1469820169265: 	deactivate	clipboard
+1469820291141: 	acted on	innerText
+1469820291233: 	sub-instrument	start	clipboard	true
+1469820291235: 	activate	clipboard
+1469820291554: 	acted on	clipboard
+1469820292213: 	acted on	delete
+1469820292296: 	sub-instrument	delete	clipboard	true
+1469820292846: 	deleted	shape-1469820288734
+1469820293535: 	deleted	shape-1469820285700
+1470037260012: 	deleted	shape-1469820285700
+1469820294029: 	deleted	path-1469820158569
+1469820295360: 	deleted	path-1470032242668
+1469820296104: 	deleted	path-1470032241629
+1469820296827: 	deleted	path-1469820185186
+1469820297610: 	deleted	path-1470032240360
+1469820298093: 	deleted	shape-1470032237218
+1469820298559: 	deleted	path-14700322403601469820164640
+1469820305141: 	acted on	innerText
+1469820305237: 	sub-instrument	stop	clipboard	false
+1469820305238: 	deactivate	clipboard
+1470037355327: 	deleted	path-1469820158569
+1470037356721: 	deleted	path-1470032242668
+1470037357308: 	deleted	path-1470032241629
+1470037357741: 	deleted	path-1469820185186
+1470037358140: 	deleted	path-1470032240360

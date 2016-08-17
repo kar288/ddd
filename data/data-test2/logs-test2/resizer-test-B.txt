@@ -1,0 +1,453 @@
+1469960258934: 	acted on	innerText
+1469960258952: 	sub-instrument	start	resizer	true
+1469960258958: 	activate	resizer
+1469960259680: 	acted on	less-diagonal
+1469960259687: 	sub-instrument	less-diagonal	resizer	true
+1469960260389: 	resizer	sub-instrument-container	sample
+1469960261775: 	resizer	sub-instrument-container	sample
+1469960262832: 	acted on	more-diagonal
+1469960262840: 	sub-instrument	more-diagonal	resizer	true
+1469960264014: 	acted on	less-diagonal
+1469960264021: 	sub-instrument	less-diagonal	resizer	true
+1469960264731: 	resizer	sub-instrument-container	sample
+1469960265115: 	resizer	sub-instrument-container	sample
+1469960266097: 	acted on	more-diagonal
+1469960266104: 	sub-instrument	more-diagonal	resizer	true
+1469960267114: 	resizer	sub-instrument-container	sample
+1469960267496: 	resizer	sub-instrument-container	sample
+1469960268412: 	acted on	less-diagonal
+1469960268419: 	sub-instrument	less-diagonal	resizer	true
+1469960269069: 	resizer	sub-instrument-container	sample
+1469960270088: 	acted on	innerText
+1469960270098: 	sub-instrument	stop	resizer	false
+1469960270102: 	deactivate	resizer
+1469960276351: 	acted on	innerText
+1469960276359: 	sub-instrument	start	resizer	true
+1469960276361: 	activate	resizer
+1469960277166: 	acted on	more-diagonal
+1469960277173: 	sub-instrument	more-diagonal	resizer	true
+1469960277899: 	resizer	sub-instrument-container	sample
+1469960278061: 	resizer	sub-instrument-container	sample
+1469960278231: 	resizer	sub-instrument-container	sample
+1469960278389: 	resizer	sub-instrument-container	sample
+1469960278552: 	resizer	sub-instrument-container	sample
+1469960278717: 	resizer	sub-instrument-container	sample
+1469960279716: 	acted on	innerText
+1469960279724: 	sub-instrument	stop	resizer	false
+1469960279726: 	deactivate	resizer
+1469960823049: 	acted on	innerText
+1469960823063: 	sub-instrument	start	resizer	true
+1469960823072: 	activate	resizer
+1469960824160: 	acted on	less-diagonal
+1469960824169: 	sub-instrument	less-diagonal	resizer	true
+1469960825328: 	resizer	sub-instrument-container	image-58
+1469960825736: 	resizer	sub-instrument-container	image-58
+1469960912860: 	resizer	less-diagonal	image-58
+1469960914199: 	resizer	less-diagonal	image-58
+1469960914804: 	resizer	less-diagonal	image-58
+1469960915239: 	resizer	less-diagonal	image-58
+1469960915471: 	resizer	less-diagonal	image-58
+1469960915687: 	resizer	less-diagonal	image-58
+1469960915886: 	resizer	less-diagonal	image-58
+1469960916089: 	resizer	less-diagonal	image-58
+1469960916281: 	resizer	less-diagonal	image-58
+1469960916479: 	resizer	less-diagonal	image-58
+1469960916667: 	resizer	less-diagonal	image-58
+1469960916847: 	resizer	less-diagonal	image-58
+1469960917021: 	resizer	less-diagonal	image-58
+1469960917200: 	resizer	less-diagonal	image-58
+1469960917446: 	resizer	less-diagonal	image-58
+1469960917693: 	resizer	less-diagonal	image-58
+1469960917709: 	resizer	less-diagonal	image-58
+1469960917727: 	resizer	less-diagonal	image-58
+1469960917743: 	resizer	less-diagonal	image-58
+1469960917761: 	resizer	less-diagonal	image-58
+1469960917805: 	resizer	less-diagonal	image-58
+1469960917847: 	resizer	less-diagonal	image-58
+1469960917869: 	resizer	less-diagonal	image-58
+1469960917886: 	resizer	less-diagonal	image-58
+1469960917903: 	resizer	less-diagonal	image-58
+1469960917920: 	resizer	less-diagonal	image-58
+1469960917936: 	resizer	less-diagonal	image-58
+1469960917954: 	resizer	less-diagonal	image-58
+1469960917970: 	resizer	less-diagonal	image-58
+1469960918078: 	resizer	less-diagonal	image-58
+1469960918093: 	resizer	less-diagonal	image-58
+1469960918110: 	resizer	less-diagonal	image-58
+1469960918127: 	resizer	less-diagonal	image-58
+1469960918143: 	resizer	less-diagonal	image-58
+1469960918160: 	resizer	less-diagonal	image-58
+1469960918177: 	resizer	less-diagonal	image-58
+1469960918194: 	resizer	less-diagonal	image-58
+1469960918212: 	resizer	less-diagonal	image-58
+1469960918229: 	resizer	less-diagonal	image-58
+1469960918245: 	resizer	less-diagonal	image-58
+1469960918263: 	resizer	less-diagonal	image-58
+1469960918283: 	resizer	less-diagonal	image-58
+1469960918298: 	resizer	less-diagonal	image-58
+1469960918318: 	resizer	less-diagonal	image-58
+1469960918333: 	resizer	less-diagonal	image-58
+1469960918352: 	resizer	less-diagonal	image-58
+1469960918368: 	resizer	less-diagonal	image-58
+1469960918385: 	resizer	less-diagonal	image-58
+1469960918400: 	resizer	less-diagonal	image-58
+1469960918417: 	resizer	less-diagonal	image-58
+1469960918471: 	resizer	less-diagonal	image-58
+1469960918503: 	resizer	less-diagonal	image-58
+1469960918520: 	resizer	less-diagonal	image-58
+1469960918537: 	resizer	less-diagonal	image-58
+1469960918554: 	resizer	less-diagonal	image-58
+1469960918571: 	resizer	less-diagonal	image-58
+1469960918591: 	resizer	less-diagonal	image-58
+1469960919685: 	acted on	more-diagonal
+1469960919699: 	sub-instrument	more-diagonal	resizer	true
+1469960920495: 	resizer	more-diagonal	image-66-1469960485876
+1469960920653: 	resizer	more-diagonal	image-66-1469960485876
+1469960920668: 	resizer	more-diagonal	image-66-1469960485876
+1469960920683: 	resizer	more-diagonal	image-66-1469960485876
+1469960920702: 	resizer	more-diagonal	image-66-1469960485876
+1469960920735: 	resizer	more-diagonal	image-66-1469960485876
+1469960920751: 	resizer	more-diagonal	image-66-1469960485876
+1469960920766: 	resizer	more-diagonal	image-66-1469960485876
+1469960920804: 	resizer	more-diagonal	image-66-1469960485876
+1469960920811: 	resizer	more-diagonal	image-66-1469960485876
+1469960920821: 	resizer	more-diagonal	image-66-1469960485876
+1469960920841: 	resizer	more-diagonal	image-66-1469960485876
+1469960920854: 	resizer	more-diagonal	image-66-1469960485876
+1469960920870: 	resizer	more-diagonal	image-66-1469960485876
+1469960920886: 	resizer	more-diagonal	image-66-1469960485876
+1469960920903: 	resizer	more-diagonal	image-66-1469960485876
+1469960920919: 	resizer	more-diagonal	image-66-1469960485876
+1469960920944: 	resizer	more-diagonal	image-66-1469960485876
+1469960920954: 	resizer	more-diagonal	image-66-1469960485876
+1469960920972: 	resizer	more-diagonal	image-66-1469960485876
+1469960920987: 	resizer	more-diagonal	image-66-1469960485876
+1469960921004: 	resizer	more-diagonal	image-66-1469960485876
+1469960921020: 	resizer	more-diagonal	image-66-1469960485876
+1469960921037: 	resizer	more-diagonal	image-66-1469960485876
+1469960921053: 	resizer	more-diagonal	image-66-1469960485876
+1469960921071: 	resizer	more-diagonal	image-66-1469960485876
+1469960921087: 	resizer	more-diagonal	image-66-1469960485876
+1469960921104: 	resizer	more-diagonal	image-66-1469960485876
+1469960921121: 	resizer	more-diagonal	image-66-1469960485876
+1469960921139: 	resizer	more-diagonal	image-66-1469960485876
+1469960921156: 	resizer	more-diagonal	image-66-1469960485876
+1469960921173: 	resizer	more-diagonal	image-66-1469960485876
+1469960921334: 	resizer	more-diagonal	image-66-1469960485876
+1469960921351: 	resizer	more-diagonal	image-66-1469960485876
+1469960921366: 	resizer	more-diagonal	image-66-1469960485876
+1469960921385: 	resizer	more-diagonal	image-66-1469960485876
+1469960921403: 	resizer	more-diagonal	image-66-1469960485876
+1469960921419: 	resizer	more-diagonal	image-66-1469960485876
+1469960921435: 	resizer	more-diagonal	image-66-1469960485876
+1469960921451: 	resizer	more-diagonal	image-66-1469960485876
+1469960921468: 	resizer	more-diagonal	image-66-1469960485876
+1469960921486: 	resizer	more-diagonal	image-66-1469960485876
+1469960921502: 	resizer	more-diagonal	image-66-1469960485876
+1469960921520: 	resizer	more-diagonal	image-66-1469960485876
+1469960921536: 	resizer	more-diagonal	image-66-1469960485876
+1469960921552: 	resizer	more-diagonal	image-66-1469960485876
+1469960921569: 	resizer	more-diagonal	image-66-1469960485876
+1469960921586: 	resizer	more-diagonal	image-66-1469960485876
+1469960921603: 	resizer	more-diagonal	image-66-1469960485876
+1469960921619: 	resizer	more-diagonal	image-66-1469960485876
+1469960921635: 	resizer	more-diagonal	image-66-1469960485876
+1469960921654: 	resizer	more-diagonal	image-66-1469960485876
+1469960921670: 	resizer	more-diagonal	image-66-1469960485876
+1469960921687: 	resizer	more-diagonal	image-66-1469960485876
+1469960921703: 	resizer	more-diagonal	image-66-1469960485876
+1469960921720: 	resizer	more-diagonal	image-66-1469960485876
+1469960921737: 	resizer	more-diagonal	image-66-1469960485876
+1469960921755: 	resizer	more-diagonal	image-66-1469960485876
+1469960921771: 	resizer	more-diagonal	image-66-1469960485876
+1469960922809: 	acted on	innerText
+1469960922824: 	sub-instrument	stop	resizer	false
+1469960922828: 	deactivate	resizer
+1469960947668: 	acted on	less-diagonal
+1469960980343: 	acted on	less-diagonal
+1469960980350: 	sub-instrument	less-diagonal	resizer	false
+1469960995480: 	acted on	innerText
+1469960995495: 	sub-instrument	start	resizer	true
+1469960995501: 	activate	resizer
+1469960996182: 	resizer	less-diagonal	image-66-1469960485876
+1469960996342: 	resizer	less-diagonal	image-66-1469960485876
+1469960996361: 	resizer	less-diagonal	image-66-1469960485876
+1469960996376: 	resizer	less-diagonal	image-66-1469960485876
+1469960996395: 	resizer	less-diagonal	image-66-1469960485876
+1469960996413: 	resizer	less-diagonal	image-66-1469960485876
+1469960996428: 	resizer	less-diagonal	image-66-1469960485876
+1469960996445: 	resizer	less-diagonal	image-66-1469960485876
+1469960996462: 	resizer	less-diagonal	image-66-1469960485876
+1469960996477: 	resizer	less-diagonal	image-66-1469960485876
+1469960996496: 	resizer	less-diagonal	image-66-1469960485876
+1469960996513: 	resizer	less-diagonal	image-66-1469960485876
+1469960996529: 	resizer	less-diagonal	image-66-1469960485876
+1469960996546: 	resizer	less-diagonal	image-66-1469960485876
+1469960996563: 	resizer	less-diagonal	image-66-1469960485876
+1469960996579: 	resizer	less-diagonal	image-66-1469960485876
+1469960996597: 	resizer	less-diagonal	image-66-1469960485876
+1469960996672: 	resizer	less-diagonal	image-66-1469960485876
+1469960996686: 	resizer	less-diagonal	image-66-1469960485876
+1469960996703: 	resizer	less-diagonal	image-66-1469960485876
+1469960996729: 	resizer	less-diagonal	image-66-1469960485876
+1469960996740: 	resizer	less-diagonal	image-66-1469960485876
+1469960996754: 	resizer	less-diagonal	image-66-1469960485876
+1469960996771: 	resizer	less-diagonal	image-66-1469960485876
+1469960996788: 	resizer	less-diagonal	image-66-1469960485876
+1469960996805: 	resizer	less-diagonal	image-66-1469960485876
+1469960996823: 	resizer	less-diagonal	image-66-1469960485876
+1469960996840: 	resizer	less-diagonal	image-66-1469960485876
+1469960996857: 	resizer	less-diagonal	image-66-1469960485876
+1469960996874: 	resizer	less-diagonal	image-66-1469960485876
+1469960996891: 	resizer	less-diagonal	image-66-1469960485876
+1469960996911: 	resizer	less-diagonal	image-66-1469960485876
+1469960996927: 	resizer	less-diagonal	image-66-1469960485876
+1469960996947: 	resizer	less-diagonal	image-66-1469960485876
+1469960996964: 	resizer	less-diagonal	image-66-1469960485876
+1469960996980: 	resizer	less-diagonal	image-66-1469960485876
+1469960996994: 	resizer	less-diagonal	image-66-1469960485876
+1469960997013: 	resizer	less-diagonal	image-66-1469960485876
+1469960997030: 	resizer	less-diagonal	image-66-1469960485876
+1469960997044: 	resizer	less-diagonal	image-66-1469960485876
+1469960997063: 	resizer	less-diagonal	image-66-1469960485876
+1469960997079: 	resizer	less-diagonal	image-66-1469960485876
+1469960997096: 	resizer	less-diagonal	image-66-1469960485876
+1469960997113: 	resizer	less-diagonal	image-66-1469960485876
+1469960997133: 	resizer	less-diagonal	image-66-1469960485876
+1469960997151: 	resizer	less-diagonal	image-66-1469960485876
+1469960997166: 	resizer	less-diagonal	image-66-1469960485876
+1469960997182: 	resizer	less-diagonal	image-66-1469960485876
+1469960997199: 	resizer	less-diagonal	image-66-1469960485876
+1469960997214: 	resizer	less-diagonal	image-66-1469960485876
+1469960998334: 	acted on	more-diagonal
+1469960998343: 	sub-instrument	more-diagonal	resizer	true
+1469960999082: 	resizer	more-diagonal	image-66-1469960485876
+1469960999330: 	resizer	more-diagonal	image-66-1469960485876
+1469960999346: 	resizer	more-diagonal	image-66-1469960485876
+1469960999378: 	resizer	more-diagonal	image-66-1469960485876
+1469960999385: 	resizer	more-diagonal	image-66-1469960485876
+1469960999397: 	resizer	more-diagonal	image-66-1469960485876
+1469961000516: 	resizer	more-diagonal	image-66-1469960485876
+1469961000756: 	resizer	more-diagonal	image-66-1469960485876
+1469961000770: 	resizer	more-diagonal	image-66-1469960485876
+1469961000787: 	resizer	more-diagonal	image-66-1469960485876
+1469961000803: 	resizer	more-diagonal	image-66-1469960485876
+1469961000820: 	resizer	more-diagonal	image-66-1469960485876
+1469961000837: 	resizer	more-diagonal	image-66-1469960485876
+1469961000855: 	resizer	more-diagonal	image-66-1469960485876
+1469961000872: 	resizer	more-diagonal	image-66-1469960485876
+1469961000888: 	resizer	more-diagonal	image-66-1469960485876
+1469961000906: 	resizer	more-diagonal	image-66-1469960485876
+1469961000923: 	resizer	more-diagonal	image-66-1469960485876
+1469961000940: 	resizer	more-diagonal	image-66-1469960485876
+1469961000957: 	resizer	more-diagonal	image-66-1469960485876
+1469961000973: 	resizer	more-diagonal	image-66-1469960485876
+1469961000990: 	resizer	more-diagonal	image-66-1469960485876
+1469961001007: 	resizer	more-diagonal	image-66-1469960485876
+1469961001025: 	resizer	more-diagonal	image-66-1469960485876
+1469961001041: 	resizer	more-diagonal	image-66-1469960485876
+1469961001058: 	resizer	more-diagonal	image-66-1469960485876
+1469961001079: 	resizer	more-diagonal	image-66-1469960485876
+1469961001099: 	resizer	more-diagonal	image-66-1469960485876
+1469961002124: 	acted on	less-diagonal
+1469961002133: 	sub-instrument	less-diagonal	resizer	true
+1469961002869: 	resizer	less-diagonal	sample
+1469961003123: 	resizer	less-diagonal	sample
+1469961003136: 	resizer	less-diagonal	sample
+1469961003153: 	resizer	less-diagonal	sample
+1469961003179: 	resizer	less-diagonal	sample
+1469961003249: 	resizer	less-diagonal	sample
+1469961003273: 	resizer	less-diagonal	sample
+1469961003286: 	resizer	less-diagonal	sample
+1469961003302: 	resizer	less-diagonal	sample
+1469961003316: 	resizer	less-diagonal	sample
+1469961003334: 	resizer	less-diagonal	sample
+1469961003352: 	resizer	less-diagonal	sample
+1469961003385: 	resizer	less-diagonal	sample
+1469961004526: 	acted on	innerText
+1469961004533: 	sub-instrument	stop	resizer	false
+1469961004536: 	deactivate	resizer
+1469961007889: 	acted on	less-diagonal
+1469961007904: 	sub-instrument	less-diagonal	resizer	false
+1469961008793: 	acted on	innerText
+1469961008801: 	sub-instrument	start	resizer	true
+1469961008803: 	activate	resizer
+1469961009654: 	resizer	less-diagonal	sample
+1469961009839: 	resizer	less-diagonal	sample
+1469961010232: 	resizer	less-diagonal	sample
+1469961010416: 	resizer	less-diagonal	sample
+1469961010575: 	resizer	less-diagonal	sample
+1469961010729: 	resizer	less-diagonal	sample
+1469961010910: 	resizer	less-diagonal	sample
+1469961011077: 	resizer	less-diagonal	sample
+1469961011380: 	resizer	less-diagonal	sample
+1469961011709: 	resizer	less-diagonal	sample
+1469961012629: 	acted on	innerText
+1469961012642: 	sub-instrument	stop	resizer	false
+1469961012645: 	deactivate	resizer
+1469964287168: 	acted on	innerText
+1469964287192: 	sub-instrument	start	resizer	true
+1469964287204: 	activate	resizer
+1469964287825: 	acted on	more-diagonal
+1469964287833: 	sub-instrument	more-diagonal	resizer	true
+1469964288407: 	resizer	sub-instrument-container	image-66-1469960485876
+1469964289439: 	resizer	sub-instrument-container	image-66-1469960485876
+1469964291861: 	resizer	sub-instrument-container	image-66-1469960485876
+1469964292907: 	resizer	sub-instrument-container	image-66-1469960485876
+1469964294913: 	resizer	sub-instrument-container	image-66-1469960485876
+1469964296679: 	acted on	innerText
+1469964296696: 	sub-instrument	stop	resizer	false
+1469964296700: 	deactivate	resizer
+1469964352418: 	acted on	innerText
+1469964352438: 	sub-instrument	start	resizer	true
+1469964352446: 	activate	resizer
+1469964353471: 	acted on	less-diagonal
+1469964353482: 	sub-instrument	less-diagonal	resizer	true
+1469964354179: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354188: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354191: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354274: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354278: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354291: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354294: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354308: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354311: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354324: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354329: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354341: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354344: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354359: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354363: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354402: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354406: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354416: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354419: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354430: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354433: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354448: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354451: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354469: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354472: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354483: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354486: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354498: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354501: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354517: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354520: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354579: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354582: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354593: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354596: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354617: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354620: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354629: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354632: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354648: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354650: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354666: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354669: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354681: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354684: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354701: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354704: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354716: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354719: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354732: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354735: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354752: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354755: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354768: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354772: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354785: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354788: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354799: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354802: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354818: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354850: 	resizer	sub-instrument-container	shape-1469964348896
+1469964354853: 	resizer	sub-instrument-container	shape-1469964348896
+1469964356516: 	acted on	more-diagonal
+1469964356523: 	sub-instrument	more-diagonal	resizer	true
+1469964357978: 	acted on	less-diagonal
+1469964357986: 	sub-instrument	less-diagonal	resizer	true
+1469964358735: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358738: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358742: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358813: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358817: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358830: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358833: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358850: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358853: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358867: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358869: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358884: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358887: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358902: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358906: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358933: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358950: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358955: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358967: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358970: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358986: 	resizer	sub-instrument-container	shape-1469964348896
+1469964358989: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359002: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359005: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359017: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359021: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359041: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359046: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359059: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359062: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359109: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359129: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359134: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359147: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359151: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359193: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359199: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359216: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359219: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359237: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359240: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359256: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359259: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359271: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359276: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359287: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359291: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359300: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359304: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359317: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359321: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359335: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359338: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359370: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359373: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359387: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359391: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359404: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359408: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359423: 	resizer	sub-instrument-container	shape-1469964348896
+1469964359428: 	resizer	sub-instrument-container	shape-1469964348896
+1469964376779: 	acted on	innerText
+1469964376788: 	sub-instrument	stop	resizer	false
+1469964376792: 	deactivate	resizer
+1469968917517: 	acted on	innerText
+1469968917534: 	sub-instrument	start	resizer	true
+1469968917540: 	activate	resizer
+1469968918207: 	acted on	more-diagonal
+1469968918216: 	sub-instrument	more-diagonal	resizer	true
+1469968918804: 	resizer	sub-instrument-container	shape-1469968914369
+1469968918810: 	resizer	sub-instrument-container	shape-1469968914369
+1469968918813: 	resizer	sub-instrument-container	shape-1469968914369
+1469968919337: 	resizer	sub-instrument-container	shape-1469968914369
+1469968919340: 	resizer	sub-instrument-container	shape-1469968914369
+1469968919417: 	resizer	sub-instrument-container	shape-1469968914369
+1469968919504: 	resizer	sub-instrument-container	shape-1469968914369
+1469968919506: 	resizer	sub-instrument-container	shape-1469968914369
+1469968919551: 	resizer	sub-instrument-container	shape-1469968914369
+1469968919553: 	resizer	sub-instrument-container	shape-1469968914369
+1469968920779: 	acted on	innerText
+1469968920786: 	sub-instrument	stop	resizer	false
+1469968920789: 	deactivate	resizer

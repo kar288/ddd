@@ -1,0 +1,608 @@
+1469959048434: 	acted on	copy
+1469959048451: 	sub-instrument	copy	clipboard	false
+1469959049370: 	acted on	innerText
+1469959049377: 	sub-instrument	start	clipboard	true
+1469959049380: 	activate	clipboard
+1469959050374: 	copied	image-45
+1469959050377: 	copied	image-45
+1469959064533: 	copied	image-45
+1469959064534: 	copied	image-45
+1469959068970: 	copied	image-45
+1469959068971: 	copied	image-45
+1469959070454: 	copied	image-45
+1469959070455: 	copied	image-45
+1469959071391: 	copied	image-45
+1469959071392: 	copied	image-45
+1469959072939: 	acted on	history
+1469959072959: 	copied	image-45
+1469959072961: 	copied	image-45
+1469959072962: 	copied	image-45
+1469959074448: 	acted on	delete
+1469959074454: 	sub-instrument	delete	clipboard	true
+1469959074467: 	deleted	image-45
+1469959074469: 	deleted	image-45
+1469959074470: 	deleted	image-45
+1469959103378: 	acted on	delete
+1469959103391: 	sub-instrument	delete	clipboard	true
+1469959123406: 	acted on	delete
+1469959123414: 	sub-instrument	delete	clipboard	true
+1469959418957: 	acted on	delete
+1469959418974: 	sub-instrument	delete	clipboard	true
+1469959418984: 	acted on	delete
+1469959418995: 	sub-instrument	delete	clipboard	true
+1469959419001: 	acted on	paste
+1469959419007: 	sub-instrument	paste	clipboard	true
+1469959419016: 	acted on	copy
+1469959419022: 	sub-instrument	copy	clipboard	true
+1469959441559: 	acted on	delete
+1469959441567: 	sub-instrument	delete	clipboard	true
+1469959468481: 	acted on	cut
+1469959501996: 	acted on	cut
+1469959502009: 	sub-instrument	cut	clipboard	true
+1469959517665: 	acted on	paste
+1469959517672: 	sub-instrument	paste	clipboard	true
+1469959524091: 	acted on	delete
+1469959524099: 	sub-instrument	delete	clipboard	true
+1469959567247: 	acted on	paste
+1469959567265: 	sub-instrument	paste	clipboard	true
+1469960087069: 	acted on	delete
+1469960087085: 	sub-instrument	delete	clipboard	true
+1469960206353: 	acted on	innerText
+1469960206361: 	sub-instrument	stop	clipboard	false
+1469960206365: 	deactivate	clipboard
+1469960207311: 	acted on	delete
+1469960207319: 	sub-instrument	delete	clipboard	false
+1469960208225: 	acted on	innerText
+1469960208232: 	sub-instrument	start	clipboard	true
+1469960208234: 	activate	clipboard
+1469960209018: 	acted on	image-45
+1469960209989: 	deleted	image-45
+1469960211763: 	acted on	copy
+1469960211771: 	sub-instrument	copy	clipboard	true
+1469960211786: 	copied	image-45
+1469960212434: 	acted on	paste
+1469960212444: 	sub-instrument	paste	clipboard	true
+1469960212454: 	pasted	image-45
+1469960213005: 	pasted	image-45
+1469960215616: 	pasted	image-45
+1469960216127: 	pasted	image-45
+1469960217230: 	pasted	image-45
+1469960218226: 	acted on	innerText
+1469960218235: 	sub-instrument	stop	clipboard	false
+1469960218240: 	deactivate	clipboard
+1469960218811: 	acted on	innerText
+1469960218819: 	sub-instrument	start	clipboard	true
+1469960218822: 	activate	clipboard
+1469960219736: 	acted on	copy
+1469960219744: 	sub-instrument	copy	clipboard	true
+1469960220588: 	copied	image-66
+1469960221629: 	acted on	paste
+1469960221636: 	sub-instrument	paste	clipboard	true
+1469960221649: 	pasted	image-45
+1469960223335: 	pasted	image-45
+1469960224703: 	acted on	menu
+1469960224731: 	pasted	image-45
+1469960226111: 	acted on	innerText
+1469960226119: 	sub-instrument	stop	clipboard	false
+1469960226122: 	deactivate	clipboard
+1469960483929: 	acted on	innerText
+1469960483938: 	sub-instrument	start	clipboard	true
+1469960483943: 	activate	clipboard
+1469960484882: 	acted on	paste
+1469960484893: 	sub-instrument	paste	clipboard	true
+1469960485874: 	pasted	image-66-
+1469960487390: 	acted on	innerText
+1469960487398: 	sub-instrument	stop	clipboard	false
+1469960487400: 	deactivate	clipboard
+1469960492651: 	acted on	innerText
+1469960492663: 	sub-instrument	start	clipboard	true
+1469960492665: 	activate	clipboard
+1469960493442: 	acted on	copy
+1469960493449: 	sub-instrument	copy	clipboard	true
+1469960494765: 	copied	shape-1469960245766
+1469960497582: 	acted on	paste
+1469960497589: 	sub-instrument	paste	clipboard	true
+1469960497601: 	pasted	shape-1469960245766-
+1469960498471: 	pasted	shape-1469960245766-
+1469960499272: 	pasted	shape-1469960245766-
+1469960500147: 	pasted	shape-1469960245766-
+1469960500626: 	pasted	shape-1469960245766-
+1469960500979: 	pasted	shape-1469960245766-
+1469960501395: 	pasted	shape-1469960245766-
+1469960502757: 	acted on	paste
+1469960502767: 	sub-instrument	paste	clipboard	true
+1469960502777: 	pasted	shape-1469960245766-
+1469960503437: 	acted on	delete
+1469960503447: 	sub-instrument	delete	clipboard	true
+1469960503457: 	deleted	shape-1469960245766
+1469960505395: 	acted on	paste
+1469960505403: 	sub-instrument	paste	clipboard	true
+1469960505414: 	pasted	shape-1469960245766
+1469960506701: 	pasted	shape-1469960245766
+1469960508094: 	acted on	copy
+1469960508103: 	sub-instrument	copy	clipboard	true
+1469960508116: 	copied	shape-1469960245766
+1469960508943: 	acted on	paste
+1469960508950: 	sub-instrument	paste	clipboard	true
+1469960508963: 	pasted	shape-1469960245766-
+1469960509626: 	pasted	shape-1469960245766-
+1469960510373: 	pasted	shape-1469960245766-
+1469960791225: 	acted on	innerText
+1469960791238: 	sub-instrument	stop	clipboard	false
+1469960791243: 	deactivate	clipboard
+1469960792596: 	acted on	shape-14699602457661469960506703
+1469961019521: 	acted on	innerText
+1469961019535: 	sub-instrument	start	clipboard	true
+1469961019543: 	activate	clipboard
+1469961020471: 	acted on	copy
+1469961020483: 	sub-instrument	copy	clipboard	true
+1469961021369: 	copied	image-66-1469960485876
+1469961023658: 	acted on	paste
+1469961023669: 	sub-instrument	paste	clipboard	true
+1469961023684: 	pasted	image-66-1469960485876-
+1469961024594: 	pasted	image-66-1469960485876-
+1469961025500: 	pasted	image-66-1469960485876-
+1469961105405: 	acted on	copy
+1469961105423: 	sub-instrument	copy	clipboard	true
+1469961105449: 	copied	image-66-1469960485876
+1469961108356: 	copied	image-66-1469960485876
+1469961112965: 	copied	image-66-1469960485876
+1469961145828: 	acted on	copy
+1469961145841: 	sub-instrument	copy	clipboard	true
+1469961147369: 	acted on	copy
+1469961147385: 	sub-instrument	copy	clipboard	true
+1469961148212: 	acted on	paste
+1469961148220: 	sub-instrument	paste	clipboard	true
+1469961149084: 	acted on	copy
+1469961149092: 	sub-instrument	copy	clipboard	true
+1469961151118: 	copied	image-66-1469960485876-1469961025502
+1469961160061: 	acted on	paste
+1469961160074: 	sub-instrument	paste	clipboard	true
+1469961160088: 	pasted	image-66-1469960485876-1469961025502-
+1469961164155: 	pasted	image-66-1469960485876-1469961025502-
+1469961170953: 	acted on	innerText
+1469961170961: 	sub-instrument	stop	clipboard	false
+1469961170965: 	deactivate	clipboard
+1469961225258: 	acted on	innerText
+1469961225272: 	sub-instrument	start	clipboard	true
+1469961225279: 	activate	clipboard
+1469961226169: 	acted on	copy
+1469961226177: 	sub-instrument	copy	clipboard	true
+1469961228247: 	copied	image-82
+1469961334917: 	copied	image-82
+1469961348248: 	acted on	copy
+1469961348262: 	sub-instrument	copy	clipboard	true
+1469961353071: 	acted on	copy
+1469961353077: 	sub-instrument	copy	clipboard	true
+1469961353780: 	acted on	paste
+1469961353791: 	sub-instrument	paste	clipboard	true
+1469961354485: 	acted on	copy
+1469961354492: 	sub-instrument	copy	clipboard	true
+1469961355876: 	copied	image-58
+1469961361197: 	acted on	paste
+1469961361203: 	sub-instrument	paste	clipboard	true
+1469961361216: 	pasted	image-58-
+1469961362604: 	pasted	image-58-
+1469961363701: 	pasted	image-58-
+1469961364615: 	pasted	image-58-
+1469961370926: 	acted on	innerText
+1469961370934: 	sub-instrument	stop	clipboard	false
+1469961370937: 	deactivate	clipboard
+1469961418944: 	acted on	copy
+1469961418960: 	sub-instrument	copy	clipboard	false
+1469961421795: 	acted on	innerText
+1469961421803: 	sub-instrument	start	clipboard	true
+1469961421807: 	activate	clipboard
+1469961422817: 	copied	image-82
+1469961470869: 	acted on	copy
+1469961470882: 	sub-instrument	copy	clipboard	true
+1469961474462: 	copied	image-48
+1469961545410: 	acted on	copy
+1469961545425: 	sub-instrument	copy	clipboard	true
+1469961546098: 	acted on	copy
+1469961546104: 	sub-instrument	copy	clipboard	true
+1469961546778: 	acted on	paste
+1469961546785: 	sub-instrument	paste	clipboard	true
+1469961547491: 	acted on	copy
+1469961547502: 	sub-instrument	copy	clipboard	true
+1469961551415: 	copied	image-82
+1469961558013: 	acted on	paste
+1469961558024: 	sub-instrument	paste	clipboard	true
+1469961559207: 	pasted	image-82-
+1469961560753: 	acted on	innerText
+1469961560760: 	sub-instrument	stop	clipboard	false
+1469961560763: 	deactivate	clipboard
+1469961565879: 	acted on	innerText
+1469961565889: 	sub-instrument	start	clipboard	true
+1469961565893: 	activate	clipboard
+1469961566988: 	acted on	delete
+1469961566995: 	sub-instrument	delete	clipboard	true
+1469961568057: 	deleted	image-451469960221650
+1469961568857: 	deleted	image-451469960223336
+1469961569731: 	deleted	image-451469960224732
+1469961570561: 	deleted	image-66
+1469961572180: 	acted on	paste
+1469961572193: 	sub-instrument	paste	clipboard	true
+1469961572854: 	pasted	image-66
+1469961576143: 	acted on	delete
+1469961576149: 	sub-instrument	delete	clipboard	true
+1469961577081: 	deleted	image-66-1469960485876-1469961024596
+1469961577666: 	deleted	image-66-1469960485876-1469961025502
+1469961580396: 	deleted	image-58-1469961364616
+1469961581153: 	deleted	image-58-1469961363702
+1469961582209: 	deleted	image-58-1469961362605
+1469961583075: 	deleted	image-58-1469961361217
+1469961583786: 	deleted	image-58
+1469961585609: 	acted on	paste
+1469961585616: 	sub-instrument	paste	clipboard	true
+1469961586393: 	pasted	image-58
+1469961588187: 	acted on	innerText
+1469961588194: 	sub-instrument	stop	clipboard	false
+1469961588196: 	deactivate	clipboard
+1469961592847: 	acted on	delete
+1469961592860: 	sub-instrument	delete	clipboard	false
+1469961593608: 	acted on	image-58
+1469961594130: 	acted on	image-58
+1469961594570: 	acted on	image-58
+1469961594971: 	acted on	image-58
+1469961595316: 	acted on	image-58
+1469961595645: 	acted on	image-58
+1469961595945: 	acted on	image-58
+1469961596290: 	acted on	image-58
+1469961596906: 	acted on	innerText
+1469961596914: 	sub-instrument	start	clipboard	true
+1469961596917: 	activate	clipboard
+1469961597756: 	acted on	image-58
+1469961597776: 	deleted	image-58
+1469961598270: 	acted on	image-58
+1469961598287: 	deleted	image-58
+1469961598759: 	acted on	image-58
+1469961598775: 	deleted	image-58
+1469961599209: 	acted on	image-58
+1469961599224: 	deleted	image-58
+1469961599600: 	acted on	image-58
+1469961599617: 	deleted	image-58
+1469961600037: 	acted on	image-58
+1469961600053: 	deleted	image-58
+1469961600405: 	acted on	image-58
+1469961600420: 	deleted	image-58
+1469961600742: 	acted on	image-58
+1469961600760: 	deleted	image-58
+1469961602890: 	acted on	image-66-1469960485876-1469961025502
+1469961602907: 	deleted	image-66-1469960485876-1469961025502
+1469961603776: 	acted on	image-58-1469961363702
+1469961603793: 	deleted	image-58-1469961363702
+1469961605372: 	acted on	image-58
+1469961605388: 	deleted	image-58
+1469961607504: 	acted on	image-58
+1469961607521: 	deleted	image-58
+1469961608013: 	acted on	image-58
+1469961608028: 	deleted	image-58
+1469961608494: 	acted on	image-58
+1469961608512: 	deleted	image-58
+1469961608902: 	acted on	image-58
+1469961608919: 	deleted	image-58
+1469961609352: 	acted on	image-58
+1469961609368: 	deleted	image-58
+1469961609688: 	acted on	image-58
+1469961609705: 	deleted	image-58
+1469961613088: 	acted on	image-58-1469961364616
+1469961613105: 	deleted	image-58-1469961364616
+1469961614758: 	acted on	image-58-1469961361217
+1469961614775: 	deleted	image-58-1469961361217
+1469961616381: 	acted on	image-82-
+1469961619210: 	acted on	paste
+1469961619217: 	sub-instrument	paste	clipboard	true
+1469961621539: 	acted on	paste
+1469961621546: 	sub-instrument	paste	clipboard	true
+1469961623806: 	acted on	cut
+1469961623813: 	sub-instrument	cut	clipboard	true
+1469961624481: 	acted on	image-58-1469961361217
+1469961624501: 	cut	image-58-1469961361217
+1469961625919: 	acted on	paste
+1469961625930: 	sub-instrument	paste	clipboard	true
+1469961626649: 	pasted	image-82-
+1469961627898: 	pasted	image-82-
+1469961628646: 	acted on	innerText
+1469961628653: 	sub-instrument	stop	clipboard	false
+1469961628657: 	deactivate	clipboard
+1469962299667: 	acted on	copy
+1469962299675: 	sub-instrument	copy	clipboard	false
+1469962300708: 	acted on	innerText
+1469962300715: 	sub-instrument	start	clipboard	true
+1469962300717: 	activate	clipboard
+1469962301969: 	copied	path-1469960281217
+1469962303552: 	acted on	paste
+1469962303558: 	sub-instrument	paste	clipboard	true
+1469962304743: 	pasted	image-82-
+1469962306484: 	acted on	innerText
+1469962306490: 	sub-instrument	stop	clipboard	false
+1469962306493: 	deactivate	clipboard
+1469962307337: 	acted on	copy
+1469962307346: 	sub-instrument	copy	clipboard	false
+1469962308041: 	acted on	innerText
+1469962308050: 	sub-instrument	start	clipboard	true
+1469962308052: 	activate	clipboard
+1469962309246: 	copied	path-1469961005818
+1469962310604: 	acted on	paste
+1469962310612: 	sub-instrument	paste	clipboard	true
+1469962311937: 	pasted	image-82-
+1469962313528: 	acted on	innerText
+1469962313535: 	sub-instrument	stop	clipboard	false
+1469962313538: 	deactivate	clipboard
+1469962321463: 	acted on	copy
+1469962321470: 	sub-instrument	copy	clipboard	false
+1469962344036: 	acted on	innerText
+1469962344050: 	sub-instrument	start	clipboard	true
+1469962344057: 	activate	clipboard
+1469962344063: 	acted on	innerText
+1469962344069: 	sub-instrument	stop	clipboard	false
+1469962344072: 	deactivate	clipboard
+1469962344077: 	acted on	innerText
+1469962344089: 	sub-instrument	start	clipboard	true
+1469962344092: 	activate	clipboard
+1469962347237: 	pasted	image-82-
+1469962390612: 	pasted	image-82-
+1469962392317: 	acted on	copy
+1469962392333: 	sub-instrument	copy	clipboard	true
+1469962409938: 	copied	path-1469961005818
+1469962419988: 	acted on	paste
+1469962419996: 	sub-instrument	paste	clipboard	true
+1469962536342: 	pasted	image-82-
+1469962667703: 	acted on	copy
+1469962667724: 	sub-instrument	copy	clipboard	true
+1469962673070: 	copied	path-1469961005818
+1469962675431: 	acted on	paste
+1469962675438: 	sub-instrument	paste	clipboard	true
+1469962676451: 	pasted	path-1469961005818-
+1469962679077: 	pasted	path-1469961005818-
+1469962679924: 	acted on	innerText
+1469962679935: 	sub-instrument	stop	clipboard	false
+1469962679939: 	deactivate	clipboard
+1469962830590: 	acted on	copy
+1469962830608: 	sub-instrument	copy	clipboard	false
+1469962831448: 	acted on	innerText
+1469962831456: 	sub-instrument	start	clipboard	true
+1469962831460: 	activate	clipboard
+1469962832553: 	copied	path-1469960248949
+1469962833902: 	acted on	paste
+1469962833910: 	sub-instrument	paste	clipboard	true
+1469962834678: 	pasted	path-1469960248949-
+1469962836413: 	acted on	innerText
+1469962836427: 	sub-instrument	stop	clipboard	false
+1469962836430: 	deactivate	clipboard
+1469963184287: 	acted on	innerText
+1469963184305: 	sub-instrument	start	clipboard	true
+1469963184312: 	activate	clipboard
+1469963185216: 	acted on	copy
+1469963185223: 	sub-instrument	copy	clipboard	true
+1469963187835: 	copied	path-1469960273382
+1469963189420: 	acted on	paste
+1469963189427: 	sub-instrument	paste	clipboard	true
+1469963190349: 	pasted	path-1469960273382-
+1469963192429: 	acted on	innerText
+1469963192445: 	sub-instrument	stop	clipboard	false
+1469963192449: 	deactivate	clipboard
+1469963300834: 	acted on	innerText
+1469963300844: 	sub-instrument	start	clipboard	true
+1469963300847: 	activate	clipboard
+1469963301668: 	acted on	copy
+1469963301676: 	sub-instrument	copy	clipboard	true
+1469963302966: 	copied	path-1469963296495
+1469963304846: 	acted on	paste
+1469963304861: 	sub-instrument	paste	clipboard	true
+1469963306158: 	pasted	path-1469963296495-
+1469963307576: 	acted on	innerText
+1469963307582: 	sub-instrument	stop	clipboard	false
+1469963307586: 	deactivate	clipboard
+1469963334468: 	acted on	image-58-1469961361217
+1469963490800: 	acted on	innerText
+1469963490808: 	sub-instrument	start	clipboard	true
+1469963490813: 	activate	clipboard
+1469963491633: 	acted on	paste
+1469963491640: 	sub-instrument	paste	clipboard	true
+1469963492598: 	pasted	
+1469963494226: 	acted on	innerText
+1469963494234: 	sub-instrument	stop	clipboard	false
+1469963494238: 	deactivate	clipboard
+1469963536132: 	acted on	innerText
+1469963536141: 	sub-instrument	start	clipboard	true
+1469963536144: 	activate	clipboard
+1469963537078: 	acted on	copy
+1469963537087: 	sub-instrument	copy	clipboard	true
+1469963538219: 	copied	path-1469963531147
+1469963541097: 	acted on	paste
+1469963541110: 	sub-instrument	paste	clipboard	true
+1469963541836: 	pasted	path-1469963531147-
+1469963543140: 	acted on	innerText
+1469963543147: 	sub-instrument	stop	clipboard	false
+1469963543150: 	deactivate	clipboard
+1469963576751: 	acted on	innerText
+1469963576768: 	sub-instrument	start	clipboard	true
+1469963576776: 	activate	clipboard
+1469963578247: 	acted on	copy
+1469963578262: 	sub-instrument	copy	clipboard	true
+1469963579496: 	copied	path-1469963566995
+1469963580800: 	acted on	paste
+1469963580814: 	sub-instrument	paste	clipboard	true
+1469963581666: 	pasted	path-1469963566995-
+1469963583243: 	acted on	innerText
+1469963583251: 	sub-instrument	stop	clipboard	false
+1469963583255: 	deactivate	clipboard
+1469963593123: 	acted on	delete
+1469963593130: 	sub-instrument	delete	clipboard	false
+1469963595869: 	acted on	innerText
+1469963595885: 	sub-instrument	start	clipboard	true
+1469963595888: 	activate	clipboard
+1469963596824: 	deleted	image-66-1469960485876-1469961023686
+1469963599465: 	deleted	image-82-1469962536343
+1469963600212: 	deleted	image-82-1469962311938
+1469963600970: 	deleted	image-82-1469962304745
+1469963601709: 	deleted	image-661469961572855
+1469963603043: 	acted on	innerText
+1469963603051: 	sub-instrument	stop	clipboard	false
+1469963603054: 	deactivate	clipboard
+1469963604569: 	acted on	paste
+1469963604582: 	sub-instrument	paste	clipboard	false
+1469963607078: 	acted on	innerText
+1469963607085: 	sub-instrument	start	clipboard	true
+1469963607088: 	activate	clipboard
+1469963607763: 	pasted	path-1469963566995-
+1469963608620: 	pasted	path-1469963566995-
+1469963610284: 	pasted	path-1469963566995-
+1469963613441: 	acted on	paste
+1469963613453: 	sub-instrument	paste	clipboard	true
+1469963614051: 	acted on	image-661469961572855
+1469963615788: 	acted on	delete
+1469963615802: 	sub-instrument	delete	clipboard	true
+1469963616518: 	acted on	paste
+1469963616526: 	sub-instrument	paste	clipboard	true
+1469963617380: 	pasted	path-1469963566995-
+1469963619158: 	acted on	copy
+1469963619183: 	sub-instrument	copy	clipboard	true
+1469963619959: 	copied	image-82-1469961626650
+1469963620858: 	acted on	paste
+1469963620867: 	sub-instrument	paste	clipboard	true
+1469963622250: 	pasted	image-82-1469961626650-
+1469963623425: 	acted on	innerText
+1469963623438: 	sub-instrument	stop	clipboard	false
+1469963623442: 	deactivate	clipboard
+1469963625066: 	acted on	cut
+1469963625074: 	sub-instrument	cut	clipboard	false
+1469963626537: 	acted on	innerText
+1469963626550: 	sub-instrument	start	clipboard	true
+1469963626553: 	activate	clipboard
+1469963627421: 	cut	image-581469961586394
+1469963628670: 	acted on	paste
+1469963628678: 	sub-instrument	paste	clipboard	true
+1469963629311: 	pasted	image-82-1469961626650-
+1469963679213: 	acted on	innerText
+1469963679232: 	sub-instrument	stop	clipboard	false
+1469963679236: 	deactivate	clipboard
+1469963690104: 	acted on	innerText
+1469963690112: 	sub-instrument	start	clipboard	true
+1469963690115: 	activate	clipboard
+1469963690913: 	acted on	copy
+1469963690922: 	sub-instrument	copy	clipboard	true
+1469963692278: 	copied	path-1469963682141
+1469963693891: 	acted on	paste
+1469963693898: 	sub-instrument	paste	clipboard	true
+1469963694732: 	pasted	path-1469963682141-
+1469963696022: 	acted on	innerText
+1469963696029: 	sub-instrument	stop	clipboard	false
+1469963696032: 	deactivate	clipboard
+1469963836284: 	acted on	innerText
+1469963836306: 	sub-instrument	start	clipboard	true
+1469963836316: 	activate	clipboard
+1469963836740: 	acted on	innerText
+1469963836750: 	sub-instrument	stop	clipboard	false
+1469963836753: 	deactivate	clipboard
+1469963961735: 	acted on	innerText
+1469963961746: 	sub-instrument	start	clipboard	true
+1469963961750: 	activate	clipboard
+1469963962565: 	acted on	copy
+1469963962575: 	sub-instrument	copy	clipboard	true
+1469963966534: 	copied	path-1469963937072
+1469963968132: 	acted on	paste
+1469963968140: 	sub-instrument	paste	clipboard	true
+1469963969338: 	pasted	path-1469963937072-
+1469963991842: 	acted on	innerText
+1469963991852: 	sub-instrument	stop	clipboard	false
+1469963991855: 	deactivate	clipboard
+1469964057544: 	acted on	innerText
+1469964057562: 	sub-instrument	start	clipboard	true
+1469964057570: 	activate	clipboard
+1469964058241: 	acted on	delete
+1469964058248: 	sub-instrument	delete	clipboard	true
+1469964059520: 	deleted	path-1469963682141-1469963694733
+1469964062083: 	acted on	delete
+1469964062093: 	sub-instrument	delete	clipboard	true
+1469964062837: 	acted on	delete
+1469964062843: 	sub-instrument	delete	clipboard	true
+1469964063557: 	acted on	delete
+1469964063564: 	sub-instrument	delete	clipboard	true
+1469964066623: 	acted on	paste
+1469964066631: 	sub-instrument	paste	clipboard	true
+1469964067222: 	acted on	delete
+1469964067230: 	sub-instrument	delete	clipboard	true
+1469964068545: 	deleted	path-1469963682141-1469963694733
+1469964177356: 	acted on	delete
+1469964177376: 	sub-instrument	delete	clipboard	true
+1469964179106: 	acted on	paste
+1469964179115: 	sub-instrument	paste	clipboard	true
+1469964179688: 	acted on	delete
+1469964179696: 	sub-instrument	delete	clipboard	true
+1469964180798: 	deleted	path-1469963682141
+1469964181875: 	deleted	path-1469963566995-1469963617381
+1469964182351: 	deleted	path-1469963566995-1469963617381
+1469964182874: 	deleted	path-1469963566995-1469963610285
+1469964183283: 	deleted	path-1469963566995-1469963610285
+1469964184119: 	deleted	path-1469963566995-1469963608621
+1469964184835: 	deleted	path-1469963566995-1469963608621
+1469964185363: 	deleted	path-1469963566995-1469963607764
+1469964186387: 	deleted	path-1469963937072
+1469964188034: 	acted on	innerText
+1469964188047: 	sub-instrument	stop	clipboard	false
+1469964188050: 	deactivate	clipboard
+1469964218510: 	acted on	innerText
+1469964218520: 	sub-instrument	start	clipboard	true
+1469964218523: 	activate	clipboard
+1469964219356: 	acted on	copy
+1469964219363: 	sub-instrument	copy	clipboard	true
+1469964220547: 	copied	path-1469964215573
+1469964221770: 	acted on	paste
+1469964221782: 	sub-instrument	paste	clipboard	true
+1469964222445: 	pasted	path-1469964215573-
+1469964223617: 	acted on	innerText
+1469964223625: 	sub-instrument	stop	clipboard	false
+1469964223629: 	deactivate	clipboard
+1469964374012: 	acted on	innerText
+1469964374031: 	sub-instrument	start	clipboard	true
+1469964374040: 	activate	clipboard
+1469964375739: 	acted on	copy
+1469964375757: 	sub-instrument	copy	clipboard	true
+1469964378014: 	copied	shape-1469964348896
+1469964382250: 	acted on	paste
+1469964382257: 	sub-instrument	paste	clipboard	true
+1469964382929: 	pasted	shape-1469964348896-
+1469964384273: 	acted on	innerText
+1469964384287: 	sub-instrument	stop	clipboard	false
+1469964384291: 	deactivate	clipboard
+1469964390195: 	acted on	innerText
+1469964390204: 	sub-instrument	start	clipboard	true
+1469964390207: 	activate	clipboard
+1469964390916: 	acted on	delete
+1469964390923: 	sub-instrument	delete	clipboard	true
+1469964391585: 	deleted	shape-1469964348896-1469964382931
+1469964392465: 	deleted	shape-1469964348896
+1469964393398: 	deleted	path-1469964341188
+1469964394434: 	deleted	image-82-1469961626650-1469963629313
+1469964395079: 	deleted	image-82-1469961559208
+1469964396164: 	deleted	path-1469964343311
+1469964398115: 	acted on	paste
+1469964398124: 	sub-instrument	paste	clipboard	true
+1469964399674: 	acted on	copy
+1469964399680: 	sub-instrument	copy	clipboard	true
+1469964400309: 	acted on	paste
+1469964400318: 	sub-instrument	paste	clipboard	true
+1469964401015: 	pasted	path-1469964343311
+1469964404393: 	acted on	innerText
+1469964404405: 	sub-instrument	stop	clipboard	false
+1469964404408: 	deactivate	clipboard
+1469964407767: 	acted on	innerText
+1469964407776: 	sub-instrument	start	clipboard	true
+1469964407779: 	activate	clipboard
+1469964408498: 	acted on	delete
+1469964408520: 	sub-instrument	delete	clipboard	true
+1469964409633: 	deleted	path-14699643433111469964401017
+1469964410246: 	deleted	path-14699643433111469964401017
+1469964411143: 	deleted	path-14699643433111469964401017
+1469964411634: 	deleted	path-14699643433111469964401017
+1469964412134: 	deleted	path-14699643433111469964401017
+1469964412533: 	deleted	path-14699643433111469964401017
+1469964412969: 	deleted	image-82-1469961626650
+1469964414743: 	deleted	path-14699643433111469964401017
+1469964415947: 	deleted	path-14699643433111469964401017
+1469964417448: 	acted on	innerText
+1469964417459: 	sub-instrument	stop	clipboard	false
+1469964417462: 	deactivate	clipboard

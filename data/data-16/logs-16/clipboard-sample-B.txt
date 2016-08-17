@@ -1,0 +1,80 @@
+1470657816423: 	acted on	menu
+1470657817187: 	acted on	innerText
+1470657817303: 	sub-instrument	start	clipboard	true
+1470657817304: 	activate	clipboard
+1470657820744: 	acted on	copy
+1470657820895: 	sub-instrument	copy	clipboard	true
+1470657822377: 	copied	image-11
+1470657824128: 	acted on	paste
+1470657824259: 	sub-instrument	paste	clipboard	true
+1470657825118: 	pasted	image-11-
+1470657827045: 	acted on	innerText
+1470657827137: 	sub-instrument	stop	clipboard	false
+1470657827138: 	deactivate	clipboard
+1470657882694: 	acted on	history
+1470657882844: 	acted on	history
+1470657883002: 	acted on	history
+1470657884519: 	acted on	delete
+1470657884578: 	sub-instrument	delete	clipboard	false
+1470657885744: 	acted on	delete
+1470657885810: 	sub-instrument	delete	clipboard	false
+1470657886460: 	acted on	delete
+1470657886510: 	sub-instrument	delete	clipboard	false
+1470657887570: 	acted on	delete
+1470657887644: 	sub-instrument	delete	clipboard	false
+1470657888220: 	acted on	delete
+1470657888277: 	sub-instrument	delete	clipboard	false
+1470657888886: 	acted on	paste
+1470657888935: 	sub-instrument	paste	clipboard	false
+1470657889428: 	acted on	delete
+1470657889477: 	sub-instrument	delete	clipboard	false
+1470657890061: 	acted on	image-11-
+1470657890819: 	acted on	delete
+1470657890885: 	sub-instrument	delete	clipboard	false
+1470657893010: 	acted on	image-11-
+1470657897119: 	acted on	innerText
+1470657897211: 	sub-instrument	start	clipboard	true
+1470657897212: 	activate	clipboard
+1470657898380: 	acted on	delete
+1470657898446: 	sub-instrument	delete	clipboard	true
+1470657899198: 	acted on	delete
+1470657899287: 	sub-instrument	delete	clipboard	true
+1470657900113: 	acted on	delete
+1470657900202: 	sub-instrument	delete	clipboard	true
+1470657900813: 	acted on	delete
+1470657900902: 	sub-instrument	delete	clipboard	true
+1470657901438: 	acted on	delete
+1470657901519: 	sub-instrument	delete	clipboard	true
+1470657901928: 	acted on	delete
+1470657902002: 	sub-instrument	delete	clipboard	true
+1470657902102: 	acted on	delete
+1470657902159: 	sub-instrument	delete	clipboard	true
+1470657903193: 	acted on	image-11-
+1470657903879: 	acted on	delete
+1470657903951: 	sub-instrument	delete	clipboard	true
+1470657906294: 	deleted	image-11
+1470657923427: 	acted on	menu
+1470657930644: 	acted on	menu
+1470657930752: 	sub-instrument	stop	clipboard	false
+1470657930753: 	deactivate	clipboard
+1470657930754: 	switched instrument	clipboard	to	clipboard-sample-B
+1470658001332: 	acted on	innerText
+1470658001442: 	sub-instrument	start	clipboard	true
+1470658001448: 	activate	clipboard
+1470658014176: 	acted on	cut
+1470658014241: 	sub-instrument	cut	clipboard	true
+1470658015451: 	acted on	cut
+1470658015574: 	sub-instrument	cut	clipboard	true
+1470658016184: 	acted on	cut
+1470658016299: 	sub-instrument	cut	clipboard	true
+1470658018110: 	acted on	cut
+1470658018332: 	sub-instrument	cut	clipboard	true
+1470658019324: 	cut	shape-1470657872123
+1470658059528: 	acted on	menu
+1470658061158: 	acted on	innerText
+1470658061259: 	sub-instrument	stop	clipboard	false
+1470658061260: 	deactivate	clipboard
+1470658065077: 	acted on	menu
+1470658065925: 	acted on	menu
+1470658067499: 	acted on	menu
+1470658067606: 	switched instrument	clipboard	to	draw-sample-B

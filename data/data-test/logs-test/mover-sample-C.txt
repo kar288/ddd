@@ -1,0 +1,36 @@
+1469907884870: 	acted on	innerText
+1469907886649: 	acted on	innerText
+1469907886689: 	sub-instrument	start	mover	true
+1469907886703: 	activate	mover
+1469907888274: 	start moving	image-5	from	{"x":15,"y":36}
+1469907888279: 	moved	image-5	to	{"x":111,"y":123}
+1469907888282: 	moved	image-5	to	{"x":111,"y":123}
+1469907888474: 	moved	image-5	to	{"x":110,"y":122}
+1469907888477: 	moved	image-5	to	{"x":110,"y":122}
+1469907888490: 	moved	image-5	to	{"x":101,"y":119}
+1469907888493: 	moved	image-5	to	{"x":101,"y":119}
+1469907888506: 	moved	image-5	to	{"x":90,"y":113}
+1469907888508: 	moved	image-5	to	{"x":90,"y":113}
+1469907888534: 	moved	image-5	to	{"x":82,"y":108}
+1469907888539: 	moved	image-5	to	{"x":82,"y":108}
+1469907888551: 	moved	image-5	to	{"x":77,"y":104}
+1469907888553: 	moved	image-5	to	{"x":77,"y":104}
+1469907888566: 	moved	image-5	to	{"x":73,"y":98}
+1469907888568: 	moved	image-5	to	{"x":73,"y":98}
+1469907888580: 	moved	image-5	to	{"x":70,"y":95}
+1469907888583: 	moved	image-5	to	{"x":70,"y":95}
+1469907888593: 	moved	image-5	to	{"x":69,"y":91}
+1469907888603: 	moved	image-5	to	{"x":69,"y":91}
+1469907888616: 	moved	image-5	to	{"x":69,"y":89}
+1469907888619: 	moved	image-5	to	{"x":69,"y":89}
+1469907888628: 	moved	image-5	to	{"x":68,"y":88}
+1469907888632: 	moved	image-5	to	{"x":68,"y":88}
+1469907888643: 	moved	image-5	to	{"x":68,"y":87}
+1469907888647: 	moved	image-5	to	{"x":68,"y":87}
+1469907888663: 	moved	image-5	to	{"x":67,"y":85}
+1469907888667: 	moved	image-5	to	{"x":67,"y":85}
+1469907888720: 	moved	image-5	to	{"x":67,"y":84}
+1469907888728: 	moved	image-5	to	{"x":67,"y":84}
+1469907888962: 	acted on	innerText
+1469907889007: 	sub-instrument	stop	mover	false
+1469907889025: 	deactivate	mover

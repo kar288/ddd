@@ -1,0 +1,206 @@
+1470124937050: 	acted on	sample
+1470124941798: 	acted on	innerText
+1470124941939: 	sub-instrument	start	shapes	true
+1470124941940: 	activate	shapes
+1470124942648: 	acted on	circle
+1470124942739: 	sub-instrument	circle	shapes	true
+1470124944244: 	shape started	{"x":1018,"y":146}
+1470124944246: 	shape continued	10	circle
+1470124944414: 	shape continued	16	circle
+1470124944422: 	shape continued	19	circle
+1470124944431: 	shape continued	24	circle
+1470124944441: 	shape continued	28	circle
+1470124944447: 	shape continued	32	circle
+1470124944455: 	shape continued	37	circle
+1470124944463: 	shape continued	42	circle
+1470124944472: 	shape continued	47	circle
+1470124944480: 	shape continued	50	circle
+1470124944488: 	shape continued	54	circle
+1470124944497: 	shape continued	58	circle
+1470124944505: 	shape continued	63	circle
+1470124944512: 	shape continued	68	circle
+1470124944523: 	shape continued	75	circle
+1470124944531: 	shape continued	82	circle
+1470124944538: 	shape continued	88	circle
+1470124944547: 	shape continued	94	circle
+1470124944555: 	shape continued	97	circle
+1470124944565: 	shape continued	102	circle
+1470124944572: 	shape continued	107	circle
+1470124944579: 	shape continued	110	circle
+1470124944589: 	shape continued	116	circle
+1470124944597: 	shape continued	120	circle
+1470124944605: 	shape continued	124	circle
+1470124944613: 	shape continued	129	circle
+1470124944621: 	shape continued	135	circle
+1470124944630: 	shape continued	140	circle
+1470124944639: 	shape continued	144	circle
+1470124944647: 	shape continued	149	circle
+1470124944655: 	shape continued	153	circle
+1470124944664: 	shape continued	158	circle
+1470124944672: 	shape continued	162	circle
+1470124944680: 	shape continued	166	circle
+1470124944688: 	shape continued	170	circle
+1470124944696: 	shape continued	175	circle
+1470124944705: 	shape continued	181	circle
+1470124944712: 	shape continued	187	circle
+1470124944722: 	shape continued	192	circle
+1470124944730: 	shape continued	198	circle
+1470124944737: 	shape continued	203	circle
+1470124944747: 	shape continued	209	circle
+1470124944755: 	shape continued	213	circle
+1470124944763: 	shape continued	216	circle
+1470124944772: 	shape continued	220	circle
+1470124944780: 	shape continued	224	circle
+1470124944788: 	shape continued	228	circle
+1470124944797: 	shape continued	231	circle
+1470124944805: 	shape continued	235	circle
+1470124944813: 	shape continued	238	circle
+1470124944822: 	shape continued	242	circle
+1470124944830: 	shape continued	246	circle
+1470124944838: 	shape continued	250	circle
+1470124944847: 	shape continued	254	circle
+1470124944855: 	shape continued	257	circle
+1470124944863: 	shape continued	260	circle
+1470124944872: 	shape continued	263	circle
+1470124944880: 	shape continued	266	circle
+1470124944888: 	shape continued	268	circle
+1470124944897: 	shape continued	271	circle
+1470124944905: 	shape continued	273	circle
+1470124944913: 	shape continued	275	circle
+1470124944922: 	shape continued	278	circle
+1470124944930: 	shape continued	280	circle
+1470124944938: 	shape continued	282	circle
+1470124944947: 	shape continued	285	circle
+1470124944955: 	shape continued	287	circle
+1470124944963: 	shape continued	289	circle
+1470124944972: 	shape continued	291	circle
+1470124944980: 	shape continued	292	circle
+1470124944988: 	shape continued	294	circle
+1470124944997: 	shape continued	295	circle
+1470124945005: 	shape continued	296	circle
+1470124945013: 	shape continued	298	circle
+1470124945022: 	shape continued	299	circle
+1470124945030: 	shape continued	300	circle
+1470124945038: 	shape continued	301	circle
+1470124945055: 	shape continued	302	circle
+1470124945063: 	shape continued	303	circle
+1470124945072: 	shape continued	304	circle
+1470124945080: 	shape continued	304	circle
+1470124945088: 	shape continued	305	circle
+1470124945105: 	shape continued	306	circle
+1470124945130: 	shape continued	307	circle
+1470124945180: 	shape continued	308	circle
+1470124945302: 	shape continued	309	circle
+1470124945317: 	shape continued	309	circle
+1470124945378: 	shape continued	310	circle
+1470124945437: 	shape continued	309	circle
+1470124946682: 	acted on	innerText
+1470124946798: 	sub-instrument	stop	shapes	false
+1470124946799: 	deactivate	shapes
+1470124951107: 	acted on	circle
+1470124951255: 	sub-instrument	circle	shapes	false
+1470124953198: 	acted on	innerText
+1470124953305: 	sub-instrument	start	shapes	true
+1470124953306: 	activate	shapes
+1470124954150: 	acted on	innerText
+1470124954273: 	sub-instrument	stop	shapes	false
+1470124954274: 	deactivate	shapes
+1470124955791: 	acted on	innerText
+1470124955939: 	sub-instrument	start	shapes	true
+1470124955940: 	activate	shapes
+1470124957574: 	acted on	circle
+1470124957747: 	sub-instrument	circle	shapes	true
+1470124959156: 	acted on	rectangle
+1470124959306: 	sub-instrument	rectangle	shapes	true
+1470124960315: 	acted on	innerText
+1470124960454: 	sub-instrument	stop	shapes	false
+1470124960455: 	deactivate	shapes
+1470124975174: 	acted on	menu
+1470124976407: 	acted on	menu
+1470124976579: 	switched instrument	shapes	to	resizer-sample-B
+1470125075672: 	acted on	circle
+1470125075880: 	sub-instrument	circle	shapes	false
+1470125242612: 	acted on	rectangle
+1470125242793: 	sub-instrument	rectangle	shapes	false
+1470125244176: 	acted on	sample
+1470125253877: 	acted on	sample
+1470125258044: 	acted on	innerText
+1470125258177: 	sub-instrument	start	shapes	true
+1470125258178: 	activate	shapes
+1470125259504: 	acted on	sample
+1470125260386: 	acted on	rectangle
+1470125260534: 	sub-instrument	rectangle	shapes	true
+1470125261555: 	shape started	{"x":81,"y":245}
+1470125261557: 	shape continued	10	rectangle
+1470125261684: 	shape continued	10	rectangle
+1470125261693: 	shape continued	10	rectangle
+1470125261703: 	shape continued	12	rectangle
+1470125261709: 	shape continued	14	rectangle
+1470125261718: 	shape continued	16	rectangle
+1470125261729: 	shape continued	18	rectangle
+1470125261743: 	shape continued	22	rectangle
+1470125261760: 	shape continued	27	rectangle
+1470125261752: 	shape continued	25	rectangle
+1470125261768: 	shape continued	30	rectangle
+1470125261778: 	shape continued	32	rectangle
+1470125261784: 	shape continued	34	rectangle
+1470125261792: 	shape continued	36	rectangle
+1470125261801: 	shape continued	39	rectangle
+1470125261809: 	shape continued	40	rectangle
+1470125261816: 	shape continued	42	rectangle
+1470125261826: 	shape continued	45	rectangle
+1470125261834: 	shape continued	47	rectangle
+1470125261842: 	shape continued	49	rectangle
+1470125261851: 	shape continued	51	rectangle
+1470125261860: 	shape continued	53	rectangle
+1470125261866: 	shape continued	56	rectangle
+1470125261876: 	shape continued	58	rectangle
+1470125261883: 	shape continued	60	rectangle
+1470125261892: 	shape continued	63	rectangle
+1470125261901: 	shape continued	65	rectangle
+1470125261909: 	shape continued	68	rectangle
+1470125261916: 	shape continued	71	rectangle
+1470125261925: 	shape continued	74	rectangle
+1470125261934: 	shape continued	78	rectangle
+1470125261943: 	shape continued	81	rectangle
+1470125261951: 	shape continued	84	rectangle
+1470125261961: 	shape continued	87	rectangle
+1470125261967: 	shape continued	91	rectangle
+1470125261975: 	shape continued	94	rectangle
+1470125261984: 	shape continued	97	rectangle
+1470125261993: 	shape continued	99	rectangle
+1470125262001: 	shape continued	103	rectangle
+1470125262008: 	shape continued	106	rectangle
+1470125262016: 	shape continued	109	rectangle
+1470125262026: 	shape continued	112	rectangle
+1470125262035: 	shape continued	115	rectangle
+1470125262041: 	shape continued	117	rectangle
+1470125262051: 	shape continued	120	rectangle
+1470125262058: 	shape continued	123	rectangle
+1470125262066: 	shape continued	125	rectangle
+1470125262076: 	shape continued	128	rectangle
+1470125262084: 	shape continued	130	rectangle
+1470125262091: 	shape continued	133	rectangle
+1470125262100: 	shape continued	135	rectangle
+1470125262109: 	shape continued	137	rectangle
+1470125262116: 	shape continued	140	rectangle
+1470125262126: 	shape continued	142	rectangle
+1470125262133: 	shape continued	144	rectangle
+1470125262142: 	shape continued	146	rectangle
+1470125262154: 	shape continued	148	rectangle
+1470125262167: 	shape continued	152	rectangle
+1470125262175: 	shape continued	153	rectangle
+1470125262183: 	shape continued	154	rectangle
+1470125262193: 	shape continued	155	rectangle
+1470125262202: 	shape continued	156	rectangle
+1470125262209: 	shape continued	157	rectangle
+1470125262216: 	shape continued	158	rectangle
+1470125262226: 	shape continued	158	rectangle
+1470125262233: 	shape continued	159	rectangle
+1470125262242: 	shape continued	159	rectangle
+1470125262259: 	shape continued	160	rectangle
+1470125262266: 	shape continued	160	rectangle
+1470125262359: 	shape continued	160	rectangle
+1470125265510: 	acted on	innerText
+1470125265651: 	sub-instrument	stop	shapes	false
+1470125265652: 	deactivate	shapes

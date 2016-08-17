@@ -1,0 +1,104 @@
+1470134013701: 	acted on	menu
+1470134014509: 	acted on	innerText
+1470134014660: 	sub-instrument	start	clipboard	true
+1470134014661: 	activate	clipboard
+1470134015226: 	acted on	cut
+1470134015360: 	sub-instrument	cut	clipboard	true
+1470134016109: 	cut	path-1470133969286
+1470134016676: 	cut	path-1470133964681
+1470134018002: 	acted on	innerText
+1470134018108: 	sub-instrument	stop	clipboard	false
+1470134018109: 	deactivate	clipboard
+1470134063699: 	acted on	menu
+1470134064166: 	acted on	cut
+1470134064274: 	sub-instrument	cut	clipboard	false
+1470134064775: 	acted on	innerText
+1470134064875: 	sub-instrument	start	clipboard	true
+1470134064876: 	activate	clipboard
+1470134065442: 	acted on	cut
+1470134065549: 	sub-instrument	cut	clipboard	true
+1470134066683: 	cut	shape-1470134054588
+1470134067976: 	cut	shape-1470134050189
+1470134069759: 	acted on	innerText
+1470134069851: 	sub-instrument	stop	clipboard	false
+1470134069852: 	deactivate	clipboard
+1470134160040: 	acted on	innerText
+1470134160173: 	sub-instrument	start	clipboard	true
+1470134160174: 	activate	clipboard
+1470134160842: 	acted on	copy
+1470134160956: 	sub-instrument	copy	clipboard	true
+1470134161799: 	copied	path-1470134022206
+1470134164315: 	acted on	paste
+1470134164472: 	sub-instrument	paste	clipboard	true
+1470134165256: 	pasted	path-1470134022206-
+1470134167257: 	pasted	path-1470134022206-
+1470134170997: 	pasted	path-1470134022206-
+1470134172518: 	acted on	copy
+1470134172674: 	sub-instrument	copy	clipboard	true
+1470134173798: 	copied	path-1470134022206-1470134170998
+1470134180741: 	acted on	innerText
+1470134180841: 	sub-instrument	stop	clipboard	false
+1470134180842: 	deactivate	clipboard
+1470134386113: 	acted on	menu
+1470134387813: 	acted on	innerText
+1470134387919: 	sub-instrument	start	clipboard	true
+1470134387920: 	activate	clipboard
+1470134388479: 	acted on	copy
+1470134388586: 	sub-instrument	copy	clipboard	true
+1470134389436: 	copied	image-37
+1470134392053: 	acted on	paste
+1470134392202: 	sub-instrument	paste	clipboard	true
+1470134393342: 	pasted	image-37-
+1470134395030: 	acted on	innerText
+1470134395161: 	sub-instrument	stop	clipboard	false
+1470134395162: 	deactivate	clipboard
+1470134447803: 	acted on	innerText
+1470134447977: 	sub-instrument	start	clipboard	true
+1470134447980: 	activate	clipboard
+1470134448428: 	acted on	cut
+1470134448577: 	sub-instrument	cut	clipboard	true
+1470134449627: 	cut	path-1470134443039
+1470134450785: 	cut	shape-1470134204093
+1470134452885: 	cut	shape-1470134046098
+1470134456019: 	acted on	copy
+1470134456185: 	sub-instrument	copy	clipboard	true
+1470134457561: 	copied	image-37-1470134393344
+1470134459927: 	copied	image-37-1470134393344
+1470134461501: 	copied	path-1470134438391
+1470134464146: 	acted on	paste
+1470134464295: 	sub-instrument	paste	clipboard	true
+1470134467318: 	pasted	path-1470134438391-
+1470134472101: 	pasted	path-1470134438391-
+1470134473235: 	acted on	cut
+1470134473351: 	sub-instrument	cut	clipboard	true
+1470134474750: 	cut	path-1470134438391-1470134472102
+1470134475343: 	cut	path-1470134438391-1470134467319
+1470134477894: 	acted on	copy
+1470134478060: 	sub-instrument	copy	clipboard	true
+1470134479369: 	copied	image-37-1470134393344
+1470134481494: 	acted on	paste
+1470134481635: 	sub-instrument	paste	clipboard	true
+1470134482410: 	pasted	image-37-1470134393344-
+1470134484852: 	acted on	innerText
+1470134484985: 	sub-instrument	stop	clipboard	false
+1470134484986: 	deactivate	clipboard
+1470134530243: 	acted on	innerText
+1470134530385: 	sub-instrument	start	clipboard	true
+1470134530386: 	activate	clipboard
+1470134530870: 	acted on	cut
+1470134530984: 	sub-instrument	cut	clipboard	true
+1470134531934: 	cut	path-1470134526096
+1470134532919: 	acted on	innerText
+1470134533060: 	sub-instrument	stop	clipboard	false
+1470134533061: 	deactivate	clipboard
+1470134546860: 	acted on	innerText
+1470134546985: 	sub-instrument	start	clipboard	true
+1470134546986: 	activate	clipboard
+1470134547493: 	acted on	cut
+1470134547610: 	sub-instrument	cut	clipboard	true
+1470134548352: 	cut	path-1470134022206-1470134170998
+1470134548918: 	cut	path-1470134022206-1470134165257
+1470134549410: 	cut	path-1470134022206
+1470134550851: 	acted on	innerText
+1470134550935: 	sub-instrument	stop	clipboard	false
+1470134550935: 	deactivate	clipboard

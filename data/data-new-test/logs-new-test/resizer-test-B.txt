@@ -1,0 +1,49 @@
+1469998619923: 	acted on	innerText
+1469998619931: 	sub-instrument	start	resizer	true
+1469998619935: 	activate	resizer
+1469998620799: 	acted on	more-diagonal
+1469998620807: 	sub-instrument	more-diagonal	resizer	true
+1469998621701: 	resizer	more-diagonal	image-45
+1469998621964: 	resizer	more-diagonal	image-45
+1469998621981: 	resizer	more-diagonal	image-45
+1469998621998: 	resizer	more-diagonal	image-45
+1469998622014: 	resizer	more-diagonal	image-45
+1469998622031: 	resizer	more-diagonal	image-45
+1469998622048: 	resizer	more-diagonal	image-45
+1469998622065: 	resizer	more-diagonal	image-45
+1469998622083: 	resizer	more-diagonal	image-45
+1469998622099: 	resizer	more-diagonal	image-45
+1469998622116: 	resizer	more-diagonal	image-45
+1469998622135: 	resizer	more-diagonal	image-45
+1469998622152: 	resizer	more-diagonal	image-45
+1469998622167: 	resizer	more-diagonal	image-45
+1469998622185: 	resizer	more-diagonal	image-45
+1469998622203: 	resizer	more-diagonal	image-45
+1469998622220: 	resizer	more-diagonal	image-45
+1469998622238: 	resizer	more-diagonal	image-45
+1469998622255: 	resizer	more-diagonal	image-45
+1469998622272: 	resizer	more-diagonal	image-45
+1469998622290: 	resizer	more-diagonal	image-45
+1469998622307: 	resizer	more-diagonal	image-45
+1469998622324: 	resizer	more-diagonal	image-45
+1469998622341: 	resizer	more-diagonal	image-45
+1469998622358: 	resizer	more-diagonal	image-45
+1469998622375: 	resizer	more-diagonal	image-45
+1469998622392: 	resizer	more-diagonal	image-45
+1469998622410: 	resizer	more-diagonal	image-45
+1469998622426: 	resizer	more-diagonal	image-45
+1469998622443: 	resizer	more-diagonal	image-45
+1469998622462: 	resizer	more-diagonal	image-45
+1469998622479: 	resizer	more-diagonal	image-45
+1469998622503: 	resizer	more-diagonal	image-45
+1469998622519: 	resizer	more-diagonal	image-45
+1469998622534: 	resizer	more-diagonal	image-45
+1469998622554: 	resizer	more-diagonal	image-45
+1469998622568: 	resizer	more-diagonal	image-45
+1469998622586: 	resizer	more-diagonal	image-45
+1469998622602: 	resizer	more-diagonal	image-45
+1469998622620: 	resizer	more-diagonal	image-45
+1469998622636: 	resizer	more-diagonal	image-45
+1469998623656: 	acted on	innerText
+1469998623664: 	sub-instrument	stop	resizer	false
+1469998623668: 	deactivate	resizer

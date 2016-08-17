@@ -1,0 +1,47 @@
+1470231133452: 	acted on	colorPicker
+1470231134097: 	acted on	sub-instrument-container
+1470231135527: 	acted on	colorPicker
+1470231136340: 	acted on	colorPicker
+1470231137631: 	acted on	colorPicker
+1470231715426: 	acted on	colorPicker
+1470231744875: 	acted on	innerText
+1470231744990: 	sub-instrument	start	colorPicker	true
+1470231745000: 	activate	colorPicker
+1470231746541: 	acted on	#009933
+1470231746629: 	sub-instrument	#009933	colorPicker	true
+1470231750191: 	changed color to	rgb(255, 57, 255)
+1470231750772: 	changed color to	rgb(255, 57, 255)
+1470231752032: 	acted on	#0033CC
+1470231752111: 	sub-instrument	#0033CC	colorPicker	true
+1470231757746: 	changed color to	rgb(151, 255, 151)
+1470231758141: 	acted on	innerText
+1470231762439: 	acted on	innerText
+1470231762571: 	sub-instrument	stop	colorPicker	false
+1470231762585: 	deactivate	colorPicker
+1470231762609: 	sub-instrument	start	colorPicker	true
+1470231762620: 	activate	colorPicker
+1470231763697: 	acted on	innerText
+1470231763767: 	sub-instrument	stop	colorPicker	false
+1470231763784: 	deactivate	colorPicker
+1470231782132: 	acted on	innerText
+1470231782205: 	sub-instrument	start	colorPicker	true
+1470231782216: 	activate	colorPicker
+1470231782862: 	acted on	#0033FF
+1470231782950: 	sub-instrument	#0033FF	colorPicker	true
+1470231789932: 	changed color to	rgb(255, 255, 141)
+1470231790334: 	changed color to	rgb(255, 255, 141)
+1470231789237: 	acted on	innerText
+1470231789359: 	sub-instrument	stop	colorPicker	false
+1470231789373: 	deactivate	colorPicker
+1470231842343: 	acted on	innerText
+1470231842410: 	sub-instrument	start	colorPicker	true
+1470231842419: 	activate	colorPicker
+1470231843593: 	acted on	#00CC99
+1470231843706: 	sub-instrument	#00CC99	colorPicker	true
+1470231844541: 	acted on	#00CC99
+1470231844608: 	sub-instrument	#00CC99	colorPicker	true
+1470231847980: 	changed color to	rgb(0, 229, 229)
+1470231847944: 	acted on	innerText
+1470231848000: 	sub-instrument	stop	colorPicker	false
+1470231848007: 	deactivate	colorPicker
+1470231860508: 	acted on	colorPicker

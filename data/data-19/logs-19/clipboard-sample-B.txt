@@ -1,0 +1,74 @@
+1470743427596: 	acted on	innerText
+1470743427746: 	sub-instrument	start	clipboard	true
+1470743427747: 	activate	clipboard
+1470743428338: 	acted on	copy
+1470743428436: 	sub-instrument	copy	clipboard	true
+1470743429336: 	copied	image-11
+1470743430478: 	acted on	paste
+1470743430603: 	sub-instrument	paste	clipboard	true
+1470743431304: 	pasted	image-11-
+1470743432452: 	acted on	menu
+1470743433070: 	acted on	menu
+1470743433645: 	acted on	innerText
+1470743433746: 	sub-instrument	stop	clipboard	false
+1470743433747: 	deactivate	clipboard
+1470743490853: 	acted on	innerText
+1470743490894: 	sub-instrument	start	clipboard	true
+1470743490895: 	activate	clipboard
+1470743492539: 	acted on	cut
+1470743492602: 	sub-instrument	cut	clipboard	true
+1470743493668: 	cut	image-11-1470743431305
+1470743495328: 	acted on	paste
+1470743495393: 	sub-instrument	paste	clipboard	true
+1470743496560: 	pasted	image-11-1470743431305
+1470743498136: 	acted on	innerText
+1470743498211: 	sub-instrument	stop	clipboard	false
+1470743498212: 	deactivate	clipboard
+1470743512554: 	acted on	innerText
+1470743512635: 	sub-instrument	start	clipboard	true
+1470743512636: 	activate	clipboard
+1470743514644: 	acted on	delete
+1470743514754: 	sub-instrument	delete	clipboard	true
+1470743515669: 	deleted	image-11-14707434313051470743496561
+1470743516969: 	acted on	menu
+1470743517984: 	acted on	innerText
+1470743518051: 	sub-instrument	stop	clipboard	false
+1470743518052: 	deactivate	clipboard
+1470743539436: 	acted on	innerText
+1470743539510: 	sub-instrument	start	clipboard	true
+1470743539511: 	activate	clipboard
+1470743540721: 	acted on	paste
+1470743540809: 	sub-instrument	paste	clipboard	true
+1470743542017: 	pasted	image-11-14707434313051470743496561
+1470743543152: 	acted on	copy
+1470743543235: 	sub-instrument	copy	clipboard	true
+1470743553051: 	copied	path-1470743533954
+1470743554103: 	acted on	innerText
+1470743554178: 	sub-instrument	stop	clipboard	false
+1470743554178: 	deactivate	clipboard
+1470743562151: 	acted on	menu
+1470743562876: 	acted on	innerText
+1470743562977: 	sub-instrument	start	clipboard	true
+1470743562978: 	activate	clipboard
+1470743565369: 	acted on	copy
+1470743565484: 	sub-instrument	copy	clipboard	true
+1470743566676: 	copied	path-1470743533954
+1470743568418: 	acted on	paste
+1470743568526: 	sub-instrument	paste	clipboard	true
+1470743569558: 	pasted	path-1470743533954-
+1470743570550: 	pasted	path-1470743533954-
+1470743577143: 	acted on	innerText
+1470743577218: 	sub-instrument	stop	clipboard	false
+1470743577219: 	deactivate	clipboard
+1470743582951: 	acted on	menu
+1470743583601: 	acted on	innerText
+1470743583684: 	sub-instrument	start	clipboard	true
+1470743583685: 	activate	clipboard
+1470743585387: 	acted on	delete
+1470743585510: 	sub-instrument	delete	clipboard	true
+1470743586343: 	deleted	path-1470743533954-1470743569559
+1470743586958: 	deleted	path-1470743533954-1470743570552
+1470743587552: 	deleted	path-1470743533954
+1470743588977: 	acted on	innerText
+1470743589043: 	sub-instrument	stop	clipboard	false
+1470743589044: 	deactivate	clipboard

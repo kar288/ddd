@@ -1,0 +1,165 @@
+1469983212372: 	acted on	innerText
+1469983212389: 	sub-instrument	start	shapes	true
+1469983212397: 	activate	shapes
+1469983215274: 	shape started	{"x":392,"y":187}
+1469983215282: 	shape continued	10	sub-instrument-container
+1469983215286: 	shape continued	10	sub-instrument-container
+1469983216540: 	shape started	{"x":369,"y":71}
+1469983216542: 	shape continued	10	sub-instrument-container
+1469983216545: 	shape continued	10	sub-instrument-container
+1469983216645: 	shape continued	10	sub-instrument-container
+1469983216662: 	shape continued	11	sub-instrument-container
+1469983216678: 	shape continued	35	sub-instrument-container
+1469983216695: 	shape continued	65	sub-instrument-container
+1469983216712: 	shape continued	106	sub-instrument-container
+1469983216728: 	shape continued	153	sub-instrument-container
+1469983216757: 	shape continued	181	sub-instrument-container
+1469983216764: 	shape continued	199	sub-instrument-container
+1469983216780: 	shape continued	204	sub-instrument-container
+1469983216796: 	shape continued	210	sub-instrument-container
+1469983216813: 	shape continued	212	sub-instrument-container
+1469983216830: 	shape continued	213	sub-instrument-container
+1469983218817: 	acted on	innerText
+1469983218828: 	sub-instrument	stop	shapes	false
+1469983218831: 	deactivate	shapes
+1469983274997: 	acted on	innerText
+1469983275003: 	sub-instrument	start	shapes	true
+1469983275007: 	activate	shapes
+1469983276867: 	acted on	circle
+1469983276873: 	sub-instrument	circle	shapes	true
+1469983279207: 	shape started	{"x":350,"y":286}
+1469983279209: 	shape continued	10	sub-instrument-container
+1469983279212: 	shape continued	10	sub-instrument-container
+1469983279357: 	shape continued	10	sub-instrument-container
+1469983279374: 	shape continued	18	sub-instrument-container
+1469983279390: 	shape continued	41	sub-instrument-container
+1469983279407: 	shape continued	71	sub-instrument-container
+1469983279425: 	shape continued	112	sub-instrument-container
+1469983279441: 	shape continued	160	sub-instrument-container
+1469983279457: 	shape continued	214	sub-instrument-container
+1469983279475: 	shape continued	266	sub-instrument-container
+1469983279492: 	shape continued	314	sub-instrument-container
+1469983279508: 	shape continued	345	sub-instrument-container
+1469983279525: 	shape continued	366	sub-instrument-container
+1469983279542: 	shape continued	387	sub-instrument-container
+1469983279559: 	shape continued	399	sub-instrument-container
+1469983279578: 	shape continued	407	sub-instrument-container
+1469983279593: 	shape continued	411	sub-instrument-container
+1469983279611: 	shape continued	414	sub-instrument-container
+1469983279632: 	shape continued	415	sub-instrument-container
+1469983282402: 	acted on	rectangle
+1469983282408: 	sub-instrument	rectangle	shapes	true
+1469983283059: 	acted on	circle
+1469983283067: 	sub-instrument	circle	shapes	true
+1469983285182: 	shape started	{"x":843,"y":322}
+1469983285185: 	shape continued	10	sample
+1469983285188: 	shape continued	10	sample
+1469983285284: 	shape continued	10	sample
+1469983285298: 	shape continued	10	sample
+1469983285315: 	shape continued	19	sample
+1469983285332: 	shape continued	32	sample
+1469983285348: 	shape continued	45	sample
+1469983285367: 	shape continued	61	sample
+1469983285385: 	shape continued	75	sample
+1469983285400: 	shape continued	88	sample
+1469983285418: 	shape continued	101	sample
+1469983285434: 	shape continued	109	sample
+1469983285451: 	shape continued	119	sample
+1469983285467: 	shape continued	126	sample
+1469983285484: 	shape continued	130	sample
+1469983285501: 	shape continued	135	sample
+1469983285517: 	shape continued	139	sample
+1469983285535: 	shape continued	142	sample
+1469983285551: 	shape continued	145	sample
+1469983285568: 	shape continued	146	sample
+1469983285585: 	shape continued	147	sample
+1469983285603: 	shape continued	148	sample
+1469983313248: 	shape started	{"x":887,"y":135}
+1469983313257: 	shape continued	10	sample
+1469983371806: 	shape continued	10	sample
+1469983384156: 	shape started	{"x":1198,"y":0}
+1469983384164: 	shape continued	10	circle
+1469983384406: 	shape continued	10	circle
+1469983384423: 	shape continued	16	circle
+1469983384440: 	shape continued	36	circle
+1469983384456: 	shape continued	66	circle
+1469983384473: 	shape continued	90	circle
+1469983384490: 	shape continued	107	circle
+1469983384507: 	shape continued	128	circle
+1469983384524: 	shape continued	147	circle
+1469983384542: 	shape continued	162	circle
+1469983384558: 	shape continued	170	circle
+1469983384793: 	shape continued	171	circle
+1469983384812: 	shape continued	186	circle
+1469983384827: 	shape continued	232	circle
+1469983384844: 	shape continued	295	circle
+1469983384861: 	shape continued	356	circle
+1469983384878: 	shape continued	451	circle
+1469983384893: 	shape continued	533	circle
+1469983384911: 	shape continued	595	circle
+1469983384929: 	shape continued	645	circle
+1469983384946: 	shape continued	693	circle
+1469983384961: 	shape continued	725	circle
+1469983384980: 	shape continued	759	circle
+1469983384995: 	shape continued	795	circle
+1469983385016: 	shape continued	809	circle
+1469983385032: 	shape continued	829	circle
+1469983385066: 	shape continued	838	circle
+1469983385082: 	shape continued	839	circle
+1469983385114: 	shape continued	838	circle
+1469983385131: 	shape continued	833	circle
+1469983385150: 	shape continued	826	circle
+1469983385165: 	shape continued	817	circle
+1469983385183: 	shape continued	805	circle
+1469983385207: 	shape continued	795	circle
+1469983385221: 	shape continued	783	circle
+1469983385247: 	shape continued	772	circle
+1469983385265: 	shape continued	763	circle
+1469983385276: 	shape continued	750	circle
+1469983385294: 	shape continued	737	circle
+1469983385311: 	shape continued	718	circle
+1469983385326: 	shape continued	695	circle
+1469983385348: 	shape continued	666	circle
+1469983385355: 	shape continued	638	circle
+1469983385372: 	shape continued	609	circle
+1469983385385: 	shape continued	580	circle
+1469983385402: 	shape continued	548	circle
+1469983385418: 	shape continued	521	circle
+1469983385434: 	shape continued	504	circle
+1469983385451: 	shape continued	484	circle
+1469983385468: 	shape continued	457	circle
+1469983385485: 	shape continued	434	circle
+1469983385503: 	shape continued	421	circle
+1469983385524: 	shape continued	405	circle
+1469983385547: 	shape continued	393	circle
+1469983385559: 	shape continued	382	circle
+1469983385579: 	shape continued	374	circle
+1469983385596: 	shape continued	368	circle
+1469983385611: 	shape continued	364	circle
+1469983385628: 	shape continued	362	circle
+1469983385643: 	shape continued	360	circle
+1469983385661: 	shape continued	359	circle
+1469983385678: 	shape continued	358	circle
+1469983385695: 	shape continued	357	circle
+1469983385712: 	shape continued	355	circle
+1469983385726: 	shape continued	353	circle
+1469983386867: 	shape started	{"x":751,"y":519}
+1469983386869: 	shape continued	10	circle
+1469983386871: 	shape continued	10	circle
+1469983386973: 	shape continued	10	circle
+1469983386987: 	shape continued	12	circle
+1469983387003: 	shape continued	50	circle
+1469983387020: 	shape continued	80	circle
+1469983387038: 	shape continued	125	circle
+1469983387054: 	shape continued	170	circle
+1469983387078: 	shape continued	211	circle
+1469983387088: 	shape continued	236	circle
+1469983387105: 	shape continued	253	circle
+1469983387122: 	shape continued	263	circle
+1469983387139: 	shape continued	268	circle
+1469983387156: 	shape continued	271	circle
+1469983387174: 	shape continued	272	circle
+1469983387192: 	shape continued	273	circle
+1469983389559: 	acted on	innerText
+1469983389568: 	sub-instrument	stop	shapes	false
+1469983389571: 	deactivate	shapes

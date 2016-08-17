@@ -1,0 +1,188 @@
+1470237445640: 	acted on	innerText
+1470237445749: 	sub-instrument	start	shapes	true
+1470237445765: 	activate	shapes
+1470237446242: 	acted on	circle
+1470237446300: 	sub-instrument	circle	shapes	true
+1470237447086: 	acted on	circle
+1470237447147: 	sub-instrument	circle	shapes	true
+1470237448229: 	acted on	menu
+1470237449603: 	acted on	innerText
+1470237449689: 	sub-instrument	stop	shapes	false
+1470237449695: 	deactivate	shapes
+1470237450337: 	acted on	innerText
+1470237451026: 	acted on	innerText
+1470237451123: 	sub-instrument	start	shapes	true
+1470237451131: 	activate	shapes
+1470237451941: 	acted on	menu
+1470237453207: 	acted on	innerText
+1470237453332: 	sub-instrument	stop	shapes	false
+1470237453344: 	deactivate	shapes
+1470237460661: 	acted on	sample
+1470237463854: 	acted on	innerText
+1470237463924: 	sub-instrument	start	shapes	true
+1470237463938: 	activate	shapes
+1470237464941: 	acted on	circle
+1470237465014: 	sub-instrument	circle	shapes	true
+1470237470241: 	shape started	{"x":534,"y":551}
+1470237470247: 	shape continued	10	circle
+1470237470766: 	shape started	{"x":534,"y":528}
+1470237470771: 	shape continued	10	circle
+1470237470963: 	shape started	{"x":537,"y":505}
+1470237470968: 	shape continued	10	circle
+1470237471123: 	shape started	{"x":1,"y":108}
+1470237471128: 	shape continued	10	circle
+1470237471305: 	shape started	{"x":15,"y":134}
+1470237471310: 	shape continued	10	circle
+1470237471464: 	shape started	{"x":578,"y":555}
+1470237471469: 	shape continued	10	circle
+1470237471639: 	shape started	{"x":555,"y":569}
+1470237471645: 	shape continued	10	circle
+1470237471830: 	shape started	{"x":29,"y":137}
+1470237471835: 	shape continued	10	circle
+1470237471998: 	shape started	{"x":62,"y":139}
+1470237472003: 	shape continued	10	circle
+1470237472155: 	shape started	{"x":77,"y":149}
+1470237472160: 	shape continued	10	circle
+1470237472339: 	shape started	{"x":597,"y":557}
+1470237472344: 	shape continued	10	circle
+1470237472522: 	shape started	{"x":6,"y":0}
+1470237472527: 	shape continued	10	circle
+1470237472681: 	shape started	{"x":13,"y":119}
+1470237472686: 	shape continued	10	circle
+1470237472855: 	shape started	{"x":38,"y":129}
+1470237472860: 	shape continued	10	circle
+1470237473030: 	shape started	{"x":6,"y":142}
+1470237473035: 	shape continued	10	circle
+1470237473207: 	shape started	{"x":540,"y":535}
+1470237473212: 	shape continued	10	circle
+1470237473347: 	shape started	{"x":2,"y":114}
+1470237473352: 	shape continued	10	circle
+1470237473505: 	shape started	{"x":0,"y":5}
+1470237473510: 	shape continued	10	circle
+1470237473672: 	shape started	{"x":2,"y":3}
+1470237473677: 	shape continued	10	circle
+1470237473847: 	shape started	{"x":587,"y":565}
+1470237473852: 	shape continued	10	circle
+1470237473912: 	shape continued	19	circle
+1470237473919: 	shape continued	24	circle
+1470237473928: 	shape continued	27	circle
+1470237473988: 	shape started	{"x":95,"y":143}
+1470237473993: 	shape continued	10	circle
+1470237474062: 	shape continued	15	circle
+1470237474070: 	shape continued	18	circle
+1470237474164: 	shape started	{"x":134,"y":134}
+1470237474169: 	shape continued	10	circle
+1470237474323: 	shape started	{"x":698,"y":525}
+1470237474327: 	shape continued	10	circle
+1470237474506: 	shape started	{"x":698,"y":517}
+1470237474511: 	shape continued	10	circle
+1470237474689: 	shape started	{"x":110,"y":143}
+1470237474693: 	shape continued	10	circle
+1470237474864: 	shape started	{"x":610,"y":566}
+1470237474868: 	shape continued	10	circle
+1470237475031: 	shape started	{"x":12,"y":141}
+1470237475035: 	shape continued	10	circle
+1470237475197: 	shape started	{"x":531,"y":503}
+1470237475202: 	shape continued	10	circle
+1470237475363: 	shape started	{"x":536,"y":467}
+1470237475369: 	shape continued	10	circle
+1470237475514: 	shape started	{"x":536,"y":441}
+1470237475520: 	shape continued	10	circle
+1470237475655: 	shape started	{"x":542,"y":417}
+1470237475660: 	shape continued	10	circle
+1470237475814: 	shape started	{"x":14,"y":3}
+1470237475819: 	shape continued	10	circle
+1470237475947: 	shape started	{"x":9,"y":18}
+1470237475952: 	shape continued	10	circle
+1470237476021: 	shape continued	10	circle
+1470237476028: 	shape continued	10	circle
+1470237476038: 	shape continued	10	circle
+1470237476122: 	shape started	{"x":543,"y":459}
+1470237476127: 	shape continued	10	circle
+1470237476212: 	shape continued	10	circle
+1470237476274: 	shape started	{"x":539,"y":484}
+1470237476279: 	shape continued	10	circle
+1470237476480: 	shape started	{"x":546,"y":510}
+1470237476485: 	shape continued	10	circle
+1470237476639: 	shape started	{"x":0,"y":80}
+1470237476644: 	shape continued	10	circle
+1470237476704: 	shape continued	10	circle
+1470237476806: 	shape started	{"x":4,"y":31}
+1470237476810: 	shape continued	10	circle
+1470237476980: 	shape started	{"x":9,"y":8}
+1470237476985: 	shape continued	10	circle
+1470237477139: 	shape started	{"x":8,"y":52}
+1470237477144: 	shape continued	10	circle
+1470237477322: 	shape started	{"x":6,"y":95}
+1470237477327: 	shape continued	10	circle
+1470237477472: 	shape started	{"x":4,"y":127}
+1470237477477: 	shape continued	10	circle
+1470237477639: 	shape started	{"x":570,"y":562}
+1470237477643: 	shape continued	10	circle
+1470237477712: 	shape continued	18	circle
+1470237477719: 	shape continued	21	circle
+1470237477780: 	shape started	{"x":7,"y":4}
+1470237477785: 	shape continued	10	circle
+1470237477973: 	shape started	{"x":633,"y":558}
+1470237477977: 	shape continued	10	circle
+1470237478139: 	shape started	{"x":43,"y":146}
+1470237478144: 	shape continued	10	circle
+1470237478178: 	shape continued	17	circle
+1470237478187: 	shape continued	21	circle
+1470237478194: 	shape continued	24	circle
+1470237478324: 	shape started	{"x":1,"y":3}
+1470237478329: 	shape continued	10	circle
+1470237478371: 	shape continued	10	circle
+1470237478378: 	shape continued	10	circle
+1470237478387: 	shape continued	10	circle
+1470237478472: 	shape started	{"x":5,"y":1}
+1470237478477: 	shape continued	10	circle
+1470237478655: 	shape started	{"x":537,"y":433}
+1470237478660: 	shape continued	10	circle
+1470237478805: 	shape started	{"x":524,"y":455}
+1470237478811: 	shape continued	10	circle
+1470237478862: 	shape continued	10	circle
+1470237478938: 	shape started	{"x":523,"y":493}
+1470237478943: 	shape continued	10	circle
+1470237479108: 	shape started	{"x":525,"y":530}
+1470237479113: 	shape continued	10	circle
+1470237479237: 	shape started	{"x":540,"y":549}
+1470237479242: 	shape continued	10	circle
+1470237479397: 	shape started	{"x":18.5,"y":7.5}
+1470237479402: 	shape continued	10	circle
+1470237479454: 	shape continued	10	circle
+1470237479555: 	shape started	{"x":618,"y":561}
+1470237479560: 	shape continued	10	circle
+1470237479713: 	shape started	{"x":23.5,"y":15.5}
+1470237479718: 	shape continued	10	circle
+1470237479880: 	shape started	{"x":542,"y":557}
+1470237479885: 	shape continued	10	circle
+1470237479928: 	shape continued	10	circle
+1470237480055: 	shape started	{"x":527,"y":488}
+1470237480060: 	shape continued	10	circle
+1470237480215: 	shape started	{"x":2,"y":7}
+1470237480220: 	shape continued	10	circle
+1470237480329: 	shape started	{"x":535,"y":454}
+1470237480335: 	shape continued	10	circle
+1470237480448: 	shape started	{"x":2,"y":3}
+1470237480453: 	shape continued	10	circle
+1470237480504: 	shape continued	10	circle
+1470237480518: 	shape continued	10	circle
+1470237480546: 	shape continued	10	circle
+1470237480589: 	shape started	{"x":5,"y":7}
+1470237480594: 	shape continued	10	circle
+1470237480671: 	shape continued	10	circle
+1470237480678: 	shape continued	10	circle
+1470237480686: 	shape continued	10	circle
+1470237480695: 	shape continued	10	circle
+1470237480704: 	shape continued	10	circle
+1470237480806: 	shape started	{"x":585,"y":582}
+1470237480811: 	shape continued	10	circle
+1470237480822: 	shape continued	585	circle
+1470237480837: 	shape continued	293.5	circle
+1470237480846: 	shape continued	438.25	circle
+1470237480853: 	shape continued	365.875	circle
+1470237480858: 	shape continued	402.0625	circle
+1470237480755: 	acted on	innerText
+1470237480857: 	sub-instrument	stop	shapes	false
+1470237480876: 	deactivate	shapes

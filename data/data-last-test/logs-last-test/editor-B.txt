@@ -1,0 +1,79 @@
+1469985750325: 
+1469985849308: 
+1469985865399: 
+1469988078557: 
+1469991006272: 
+1469991047990: 
+1469991061493: 	action	clipboard	image-45	{"x":77.5,"y":31}
+1469991061500: 	action	clipboard	image-45	{"x":77.5,"y":31}
+1469991061502: 	action	clipboard	image-45	{"x":77.5,"y":31}
+1469991063779: 	action	clipboard	content	{"x":407.5,"y":203}
+1469991063783: 	action	clipboard	content	{"x":407.5,"y":203}
+1469991070843: 	action	clipboard	image-45-1469991063790	{"x":140.5,"y":40}
+1469991070846: 	action	clipboard	image-45-1469991063790	{"x":140.5,"y":40}
+1469991070849: 	action	clipboard	image-45-1469991063790	{"x":140.5,"y":40}
+1469991244104: 
+1469995272301: 	action	colorPicker	sample	{"x":52,"y":121}
+1469995272307: 	action	colorPicker	sample	{"x":52,"y":121}
+1469995272309: 	action	colorPicker	sample	{"x":52,"y":121}
+1469995278371: 
+1469995293269: 	action	colorPicker	sample	{"x":42,"y":109}
+1469995293279: 	action	colorPicker	sample	{"x":42,"y":109}
+1469995293283: 	action	colorPicker	sample	{"x":42,"y":109}
+1469995298868: 	action	colorPicker	sample	{"x":42,"y":112}
+1469995298872: 	action	colorPicker	sample	{"x":42,"y":112}
+1469995298875: 	action	colorPicker	sample	{"x":42,"y":112}
+1469995583940: 
+1469995603382: 	action	colorPicker	sample	{"x":54,"y":116}
+1469995603393: 	action	colorPicker	sample	{"x":54,"y":116}
+1469995603396: 	action	colorPicker	sample	{"x":54,"y":116}
+1469995605721: 	action	colorPicker	sample	{"x":48,"y":119}
+1469995605725: 	action	colorPicker	sample	{"x":48,"y":119}
+1469995605728: 	action	colorPicker	sample	{"x":48,"y":119}
+1469995608537: 	action	colorPicker	sample	{"x":47,"y":121}
+1469995608541: 	action	colorPicker	sample	{"x":47,"y":121}
+1469995608544: 	action	colorPicker	sample	{"x":47,"y":121}
+1469995611288: 	action	colorPicker	sample	{"x":49,"y":114}
+1469995611293: 	action	colorPicker	sample	{"x":49,"y":114}
+1469995611295: 	action	colorPicker	sample	{"x":49,"y":114}
+1469995615507: 	action	resizer	sample	{"x":51,"y":119}
+1469995615519: 	action	resizer	sample	{"x":51,"y":119}
+1469995615522: 	action	resizer	sample	{"x":51,"y":119}
+1469995617228: 	action	resizer	sample	{"x":43,"y":129}
+1469995617232: 	action	resizer	sample	{"x":43,"y":129}
+1469995617235: 	action	resizer	sample	{"x":43,"y":129}
+1469995620720: 	action	shapes	content	{"x":482.5,"y":143}
+1469995620731: 	action	shapes	content	{"x":482.5,"y":143}
+1469995620847: 	action	shapes	content	{"x":481.5,"y":143}
+1469995620857: 	action	shapes	content	{"x":478.5,"y":143}
+1469995620874: 	action	shapes	content	{"x":476.5,"y":143}
+1469995620890: 	action	shapes	content	{"x":469.5,"y":143}
+1469995620908: 	action	shapes	content	{"x":464.5,"y":143}
+1469995620925: 	action	shapes	content	{"x":458.5,"y":141}
+1469995620942: 	action	shapes	content	{"x":455.5,"y":139}
+1469995620959: 	action	shapes	content	{"x":449.5,"y":136}
+1469995620975: 	action	shapes	content	{"x":443.5,"y":134}
+1469995626036: 	action	resizer	sample	{"x":54,"y":119}
+1469995626040: 	action	resizer	sample	{"x":54,"y":119}
+1469995626044: 	action	resizer	sample	{"x":54,"y":119}
+1469995632206: 	action	clipboard	shape-1469995620728	{"x":19.5,"y":24.5}
+1469995632213: 	action	clipboard	shape-1469995620728	{"x":19.5,"y":24.5}
+1469995632215: 	action	clipboard	shape-1469995620728	{"x":19.5,"y":24.5}
+1469995634935: 	action	mover	image-66	{"x":200.5,"y":143}
+1469995634945: 	action	mover	image-66	{"x":200.5,"y":143}
+1469995634949: 	action	mover	image-66	{"x":200.5,"y":143}
+1469995635243: 	action	mover	image-66	{"x":199.5,"y":143}
+1469995635246: 	action	mover	image-66	{"x":199.5,"y":143}
+1469995635259: 	action	mover	image-66	{"x":198.5,"y":143}
+1469995635276: 	action	mover	image-66	{"x":197.5,"y":143}
+1469995635379: 	action	mover	image-66	{"x":196.5,"y":143}
+1469995635398: 	action	mover	image-66	{"x":196.5,"y":142}
+1469995635401: 	action	mover	image-66	{"x":196.5,"y":142}
+1469995635442: 	action	mover	image-66	{"x":195.5,"y":142}
+1469995635445: 	action	mover	image-66	{"x":195.5,"y":142}
+1469995635455: 	action	mover	image-66	{"x":189.5,"y":139}
+1469995635458: 	action	mover	image-66	{"x":189.5,"y":139}
+1469995635467: 	action	mover	image-66	{"x":187.5,"y":138}
+1469995635470: 	action	mover	image-66	{"x":187.5,"y":138}
+1469995635482: 	action	mover	image-66	{"x":185.5,"y":137}
+1469996761659: 

@@ -1,0 +1,100 @@
+1470299975648: 	acted on	innerText
+1470299975752: 	sub-instrument	start	clipboard	true
+1470299975777: 	activate	clipboard
+1470299976194: 	acted on	copy
+1470299976232: 	sub-instrument	copy	clipboard	true
+1470299977934: 	acted on	cut
+1470299977999: 	sub-instrument	cut	clipboard	true
+1470299982865: 	cut	image-39
+1470299980310: 	acted on	paste
+1470299980349: 	sub-instrument	paste	clipboard	true
+1470299984981: 	pasted	image-39
+1470299986281: 	pasted	image-39
+1470299987556: 	pasted	image-39
+1470299987003: 	acted on	innerText
+1470299987071: 	sub-instrument	stop	clipboard	false
+1470299987089: 	deactivate	clipboard
+1470299992056: 	acted on	clipboard
+1470299992514: 	acted on	innerText
+1470299992584: 	sub-instrument	start	clipboard	true
+1470299992598: 	activate	clipboard
+1470299993809: 	acted on	delete
+1470299993842: 	sub-instrument	delete	clipboard	true
+1470299998649: 	deleted	image-391470299987557
+1470299996143: 	acted on	innerText
+1470299996193: 	sub-instrument	stop	clipboard	false
+1470299996211: 	deactivate	clipboard
+1470300002302: 	acted on	innerText
+1470300002347: 	sub-instrument	start	clipboard	true
+1470300002360: 	activate	clipboard
+1470300003757: 	acted on	delete
+1470300003797: 	sub-instrument	delete	clipboard	true
+1470300008489: 	deleted	image-391470299986282
+1470300005771: 	acted on	innerText
+1470300005831: 	sub-instrument	stop	clipboard	false
+1470300005850: 	deactivate	clipboard
+1470300015077: 	acted on	innerText
+1470300015125: 	sub-instrument	start	clipboard	true
+1470300015145: 	activate	clipboard
+1470300016174: 	acted on	cut
+1470300016208: 	sub-instrument	cut	clipboard	true
+1470300020988: 	cut	image-391470299984983
+1470300019448: 	acted on	paste
+1470300019473: 	sub-instrument	paste	clipboard	true
+1470300024639: 	pasted	image-391470299984983
+1470300022686: 	acted on	innerText
+1470300022719: 	sub-instrument	stop	clipboard	false
+1470300022733: 	deactivate	clipboard
+1470300044871: 	acted on	innerText
+1470300044926: 	sub-instrument	start	clipboard	true
+1470300044942: 	activate	clipboard
+1470300045570: 	acted on	copy
+1470300045608: 	sub-instrument	copy	clipboard	true
+1470300050997: 	copied	image-50
+1470300048534: 	acted on	cut
+1470300048606: 	sub-instrument	cut	clipboard	true
+1470300053130: 	cut	image-50
+1470300050482: 	acted on	paste
+1470300050552: 	sub-instrument	paste	clipboard	true
+1470300055163: 	pasted	image-50
+1470300053461: 	acted on	innerText
+1470300053514: 	sub-instrument	stop	clipboard	false
+1470300053530: 	deactivate	clipboard
+1470300093146: 	acted on	innerText
+1470300093188: 	sub-instrument	start	clipboard	true
+1470300093205: 	activate	clipboard
+1470300093785: 	acted on	delete
+1470300093838: 	sub-instrument	delete	clipboard	true
+1470300098563: 	deleted	image-501470300055164
+1470300099905: 	acted on	paste
+1470300099960: 	sub-instrument	paste	clipboard	true
+1470300105390: 	pasted	image-501470300055164
+1470300103929: 	acted on	delete
+1470300103963: 	sub-instrument	delete	clipboard	true
+1470300110824: 	deleted	path-14703000920541470300105391
+1470300108707: 	acted on	innerText
+1470300108760: 	sub-instrument	stop	clipboard	false
+1470300108774: 	deactivate	clipboard
+1470300152529: 	acted on	innerText
+1470300152569: 	sub-instrument	start	clipboard	true
+1470300152584: 	activate	clipboard
+1470300155593: 	acted on	copy
+1470300155628: 	sub-instrument	copy	clipboard	true
+1470300157017: 	acted on	cut
+1470300157044: 	sub-instrument	cut	clipboard	true
+1470300161937: 	cut	image-59
+1470300159635: 	acted on	paste
+1470300159668: 	sub-instrument	paste	clipboard	true
+1470300164455: 	pasted	image-59
+1470300162901: 	acted on	innerText
+1470300162953: 	sub-instrument	stop	clipboard	false
+1470300162968: 	deactivate	clipboard
+1470300332041: 	acted on	innerText
+1470300332124: 	sub-instrument	start	clipboard	true
+1470300332138: 	activate	clipboard
+1470300332696: 	acted on	delete
+1470300332788: 	sub-instrument	delete	clipboard	true
+1470300338151: 	deleted	shape-1470300332012
+1470300335860: 	acted on	innerText
+1470300335922: 	sub-instrument	stop	clipboard	false
+1470300335936: 	deactivate	clipboard

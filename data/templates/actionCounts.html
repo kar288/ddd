@@ -1,0 +1,33 @@
+<!doctype html>
+<title>visualize</title>
+<style>
+  .legend-text {
+    padding: 10px
+  }
+  .legend {
+    background-color: white;
+    height: 30px;
+    position: fixed;
+  }
+  body {
+    font-family: Verdana;
+    color: #333;
+  }
+</style>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type=text/javascript src="{{
+  url_for('static', filename='utils.js') }}"></script>
+<script type=text/javascript src="{{
+  url_for('static', filename='actionCounts.js') }}"></script>
+<script>
+  $.ajax({ url: "/allActions" }).done(actionCounts);
+</script>
+  <div class="legend">
+
+  </div>
+<svg style="height: 4000px; width: 6100px;"></svg>
+<div class=content>
+  <!-- <h1>visualize</h1> -->
+
+</div>

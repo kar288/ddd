@@ -1,0 +1,77 @@
+1470217646588: 	acted on	innerText
+1470217646679: 	sub-instrument	start	clipboard	true
+1470217646680: 	activate	clipboard
+1470217648697: 	acted on	cut
+1470217648770: 	sub-instrument	cut	clipboard	true
+1470217651211: 	cut	path-1470217635477
+1470217652119: 	cut	path-1470217641590
+1470217659448: 	acted on	innerText
+1470217659512: 	sub-instrument	stop	clipboard	false
+1470217659513: 	deactivate	clipboard
+1470217731720: 	acted on	innerText
+1470217731794: 	sub-instrument	start	clipboard	true
+1470217731795: 	activate	clipboard
+1470217732346: 	acted on	cut
+1470217732402: 	sub-instrument	cut	clipboard	true
+1470217733477: 	cut	path-1470217724051
+1470217734936: 	acted on	innerText
+1470217734995: 	sub-instrument	stop	clipboard	false
+1470217734996: 	deactivate	clipboard
+1470217778660: 	acted on	innerText
+1470217778735: 	sub-instrument	start	clipboard	true
+1470217778736: 	activate	clipboard
+1470217779212: 	acted on	cut
+1470217779276: 	sub-instrument	cut	clipboard	true
+1470217780134: 	cut	path-1470217775055
+1470217786977: 	acted on	menu
+1470217787668: 	acted on	innerText
+1470217787735: 	sub-instrument	stop	clipboard	false
+1470217787736: 	deactivate	clipboard
+1470217878326: 	acted on	innerText
+1470217878393: 	sub-instrument	start	clipboard	true
+1470217878394: 	activate	clipboard
+1470217878892: 	acted on	cut
+1470217878968: 	sub-instrument	cut	clipboard	true
+1470217880300: 	cut	shape-1470217870697
+1470217881863: 	acted on	innerText
+1470217881926: 	sub-instrument	stop	clipboard	false
+1470217881927: 	deactivate	clipboard
+1470217921604: 	acted on	menu
+1470217922925: 	acted on	menu
+1470217924013: 	acted on	menu
+1470217924075: 	switched instrument	clipboard	to	mover-B
+1470217946486: 	acted on	copy
+1470217946549: 	sub-instrument	copy	clipboard	false
+1470217954834: 	acted on	paste
+1470217954909: 	sub-instrument	paste	clipboard	false
+1470217961624: 	acted on	innerText
+1470217961683: 	sub-instrument	start	clipboard	true
+1470217961684: 	activate	clipboard
+1470217964144: 	acted on	copy
+1470217964233: 	sub-instrument	copy	clipboard	true
+1470217965506: 	copied	shape-1470217938579
+1470217967232: 	acted on	paste
+1470217967306: 	sub-instrument	paste	clipboard	true
+1470217968623: 	pasted	shape-1470217938579-
+1470217976697: 	pasted	shape-1470217938579-
+1470217977389: 	pasted	shape-1470217938579-
+1470217977873: 	pasted	shape-1470217938579-
+1470217978381: 	pasted	shape-1470217938579-
+1470217978889: 	pasted	shape-1470217938579-
+1470217979423: 	pasted	shape-1470217938579-
+1470217979972: 	pasted	shape-1470217938579-
+1470217981239: 	pasted	shape-1470217938579-
+1470217982096: 	pasted	shape-1470217938579-
+1470217983323: 	acted on	innerText
+1470217983380: 	sub-instrument	stop	clipboard	false
+1470217983381: 	deactivate	clipboard
+1470218118382: 	acted on	innerText
+1470218118470: 	sub-instrument	start	clipboard	true
+1470218118471: 	activate	clipboard
+1470218118864: 	acted on	cut
+1470218118920: 	sub-instrument	cut	clipboard	true
+1470218121111: 	cut	path-1470218113894
+1470218123687: 	acted on	menu
+1470218124437: 	acted on	innerText
+1470218124520: 	sub-instrument	stop	clipboard	false
+1470218124521: 	deactivate	clipboard

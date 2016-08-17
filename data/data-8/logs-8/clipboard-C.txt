@@ -1,0 +1,24 @@
+1470212507556: 	acted on	innerText
+1470212507668: 	sub-instrument	start	clipboard	true
+1470212507691: 	activate	clipboard
+1470212508586: 	acted on	cut
+1470212508651: 	sub-instrument	cut	clipboard	true
+1470212513630: 	cut	path-1470212485961
+1470212514713: 	cut	path-1470212463571
+1470212515437: 	cut	path-1470212467761
+1470212515766: 	acted on	innerText
+1470212515925: 	sub-instrument	stop	clipboard	false
+1470212515942: 	deactivate	clipboard
+1470212769967: 	acted on	innerText
+1470212770017: 	sub-instrument	start	clipboard	true
+1470212770031: 	activate	clipboard
+1470212772266: 	acted on	cut
+1470212772323: 	sub-instrument	cut	clipboard	true
+1470212776543: 	cut	path-1470212709648
+1470212776909: 	cut	path-1470212708107
+1470212778433: 	cut	path-1470212711173
+1470212778835: 	cut	path-1470212719287
+1470212779210: 	cut	path-1470212714871
+1470212779817: 	acted on	innerText
+1470212779882: 	sub-instrument	stop	clipboard	false
+1470212779902: 	deactivate	clipboard

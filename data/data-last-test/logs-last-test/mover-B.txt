@@ -1,0 +1,23 @@
+1469995634297: 	acted on	innerText
+1469995634312: 	sub-instrument	start	mover	true
+1469995634320: 	activate	mover
+1469995634939: 	start moving	image-66	from	{"x":120.5,"y":70}
+1469995634947: 	moved	image-66	to	{"x":200.5,"y":143}
+1469995634950: 	moved	image-66	to	{"x":200.5,"y":143}
+1469995635244: 	moved	image-66	to	{"x":199.5,"y":143}
+1469995635247: 	moved	image-66	to	{"x":199.5,"y":143}
+1469995635260: 	moved	image-66	to	{"x":198.5,"y":143}
+1469995635277: 	moved	image-66	to	{"x":197.5,"y":143}
+1469995635380: 	moved	image-66	to	{"x":196.5,"y":143}
+1469995635399: 	moved	image-66	to	{"x":196.5,"y":142}
+1469995635402: 	moved	image-66	to	{"x":196.5,"y":142}
+1469995635443: 	moved	image-66	to	{"x":195.5,"y":142}
+1469995635446: 	moved	image-66	to	{"x":195.5,"y":142}
+1469995635456: 	moved	image-66	to	{"x":189.5,"y":139}
+1469995635459: 	moved	image-66	to	{"x":189.5,"y":139}
+1469995635468: 	moved	image-66	to	{"x":187.5,"y":138}
+1469995635472: 	moved	image-66	to	{"x":187.5,"y":138}
+1469995635483: 	moved	image-66	to	{"x":185.5,"y":137}
+1469995636559: 	acted on	innerText
+1469995636570: 	sub-instrument	stop	mover	false
+1469995636572: 	deactivate	mover

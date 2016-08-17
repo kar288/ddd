@@ -1,0 +1,60 @@
+1470213276297: 	acted on	innerText
+1470213276363: 	sub-instrument	start	clipboard	true
+1470213276364: 	activate	clipboard
+1470213277071: 	acted on	innerText
+1470213277152: 	sub-instrument	stop	clipboard	false
+1470213277153: 	deactivate	clipboard
+1470213568575: 	acted on	innerText
+1470213568656: 	sub-instrument	start	clipboard	true
+1470213568657: 	activate	clipboard
+1470213569509: 	acted on	cut
+1470213569591: 	sub-instrument	cut	clipboard	true
+1470213570632: 	cut	path-1470213556361
+1470213571808: 	acted on	innerText
+1470213571899: 	sub-instrument	stop	clipboard	false
+1470213571899: 	deactivate	clipboard
+1470213594802: 	acted on	innerText
+1470213594899: 	sub-instrument	start	clipboard	true
+1470213594900: 	activate	clipboard
+1470213595295: 	acted on	cut
+1470213595340: 	sub-instrument	cut	clipboard	true
+1470213598614: 	cut	path-1470213585853
+1470213599823: 	acted on	innerText
+1470213599922: 	sub-instrument	stop	clipboard	false
+1470213599923: 	deactivate	clipboard
+1470213621484: 	acted on	innerText
+1470213621573: 	sub-instrument	start	clipboard	true
+1470213621574: 	activate	clipboard
+1470213622258: 	acted on	copy
+1470213622365: 	sub-instrument	copy	clipboard	true
+1470213622990: 	copied	image-34
+1470213627900: 	acted on	copy
+1470213627989: 	sub-instrument	copy	clipboard	true
+1470213628715: 	acted on	image-34-
+1470213629648: 	acted on	paste
+1470213629738: 	sub-instrument	paste	clipboard	true
+1470213630232: 	acted on	image-34-
+1470213630923: 	acted on	paste
+1470213631013: 	sub-instrument	paste	clipboard	true
+1470213632272: 	pasted	image-34-
+1470213634431: 	acted on	innerText
+1470213634506: 	sub-instrument	stop	clipboard	false
+1470213634506: 	deactivate	clipboard
+1470213643307: 	acted on	innerText
+1470213643389: 	sub-instrument	start	clipboard	true
+1470213643390: 	activate	clipboard
+1470213643939: 	acted on	cut
+1470213644022: 	sub-instrument	cut	clipboard	true
+1470213645180: 	cut	path-1470213636913
+1470213647116: 	acted on	innerText
+1470213647206: 	sub-instrument	stop	clipboard	false
+1470213647206: 	deactivate	clipboard
+1470213739221: 	acted on	innerText
+1470213739295: 	sub-instrument	start	clipboard	true
+1470213739296: 	activate	clipboard
+1470213739753: 	acted on	cut
+1470213739836: 	sub-instrument	cut	clipboard	true
+1470213741162: 	cut	path-1470213733320
+1470213742538: 	acted on	innerText
+1470213742611: 	sub-instrument	stop	clipboard	false
+1470213742612: 	deactivate	clipboard

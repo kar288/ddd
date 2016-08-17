@@ -1,0 +1,52 @@
+1470232964759: 	acted on	innerText
+1470232964847: 	sub-instrument	start	resizer	true
+1470232964850: 	activate	resizer
+1470232965083: 	acted on	less-diagonal
+1470232965172: 	sub-instrument	less-diagonal	resizer	true
+1470232966165: 	resizer	less-diagonal	sample
+1470232966520: 	resizer	less-diagonal	sample
+1470232967038: 	resizer	less-diagonal	sample
+1470232967314: 	resizer	less-diagonal	sample
+1470232967510: 	resizer	less-diagonal	sample
+1470232968047: 	resizer	less-diagonal	sample
+1470232974073: 	acted on	innerText
+1470232974148: 	sub-instrument	stop	resizer	false
+1470232974149: 	deactivate	resizer
+1470232982809: 	acted on	innerText
+1470232982898: 	sub-instrument	start	resizer	true
+1470232982899: 	activate	resizer
+1470232983276: 	acted on	less-diagonal
+1470232983365: 	sub-instrument	less-diagonal	resizer	true
+1470232984546: 	resizer	less-diagonal	sample
+1470232986758: 	acted on	innerText
+1470232986848: 	sub-instrument	stop	resizer	false
+1470232986849: 	deactivate	resizer
+1470232996641: 	acted on	innerText
+1470232996723: 	sub-instrument	start	resizer	true
+1470232996724: 	activate	resizer
+1470232996975: 	acted on	less-diagonal
+1470232997065: 	sub-instrument	less-diagonal	resizer	true
+1470232998403: 	resizer	less-diagonal	sample
+1470232998770: 	resizer	less-diagonal	sample
+1470232999063: 	resizer	less-diagonal	sample
+1470233000047: 	resizer	less-diagonal	sample
+1470233002125: 	acted on	innerText
+1470233002198: 	sub-instrument	stop	resizer	false
+1470233002198: 	deactivate	resizer
+1470233065590: 	acted on	less-diagonal
+1470233065689: 	sub-instrument	less-diagonal	resizer	false
+1470233066130: 	acted on	innerText
+1470233066222: 	sub-instrument	start	resizer	true
+1470233066223: 	activate	resizer
+1470233067139: 	acted on	less-diagonal
+1470233067254: 	sub-instrument	less-diagonal	resizer	true
+1470233067977: 	resizer	less-diagonal	sample
+1470233068124: 	resizer	less-diagonal	sample
+1470233068375: 	resizer	less-diagonal	sample
+1470233068506: 	resizer	less-diagonal	sample
+1470233068742: 	resizer	less-diagonal	sample
+1470233069143: 	resizer	less-diagonal	sample
+1470233069722: 	acted on	menu
+1470233070855: 	acted on	innerText
+1470233070971: 	sub-instrument	stop	resizer	false
+1470233070971: 	deactivate	resizer

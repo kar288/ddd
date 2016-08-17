@@ -1,0 +1,23 @@
+1469976424855: 	acted on	less-diagonal
+1469994960875: 	acted on	innerText
+1469994960887: 	sub-instrument	start	resizer	true
+1469994960892: 	activate	resizer
+1469994961678: 	acted on	innerText
+1469994961683: 	sub-instrument	stop	resizer	false
+1469994961686: 	deactivate	resizer
+1469995570144: 	acted on	innerText
+1469995570156: 	sub-instrument	start	resizer	true
+1469995570161: 	activate	resizer
+1469995570792: 	acted on	more-diagonal
+1469995570802: 	sub-instrument	more-diagonal	resizer	true
+1469995571537: 	resizer	more-diagonal	image-11
+1469995571544: 	resizer	more-diagonal	image-11
+1469995571547: 	resizer	more-diagonal	image-11
+1469995572544: 	acted on	less-diagonal
+1469995572550: 	sub-instrument	less-diagonal	resizer	true
+1469995573176: 	resizer	less-diagonal	image-11
+1469995573181: 	resizer	less-diagonal	image-11
+1469995573186: 	resizer	less-diagonal	image-11
+1469995574674: 	acted on	innerText
+1469995574682: 	sub-instrument	stop	resizer	false
+1469995574686: 	deactivate	resizer

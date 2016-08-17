@@ -1,0 +1,10 @@
+1470047718842: 	acted on	innerText
+1470047718936: 	sub-instrument	start	shapes	true
+1470047718950: 	activate	shapes
+1470047719556: 	acted on	sample
+1470047722329: 	acted on	sample
+1470047722786: 	acted on	sample
+1470047724795: 	acted on	innerText
+1470047725198: 	acted on	innerText
+1470047725253: 	sub-instrument	stop	shapes	false
+1470047725260: 	deactivate	shapes

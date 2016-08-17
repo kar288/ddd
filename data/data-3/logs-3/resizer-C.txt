@@ -1,0 +1,262 @@
+1470127366776: 	acted on	less-diagonal
+1470127366868: 	sub-instrument	less-diagonal	resizer	false
+1470127367546: 	acted on	innerText
+1470127367627: 	sub-instrument	start	resizer	true
+1470127367640: 	activate	resizer
+1470127369956: 	acted on	less-diagonal
+1470127370030: 	sub-instrument	less-diagonal	resizer	true
+1470127370585: 	acted on	less-diagonal
+1470127370731: 	sub-instrument	less-diagonal	resizer	true
+1470127372247: 	resizer	less-diagonal	image-1-1470127345579
+1470127372398: 	resizer	less-diagonal	image-1-1470127345579
+1470127372571: 	resizer	less-diagonal	image-1-1470127345579
+1470127372729: 	resizer	less-diagonal	image-1-1470127345579
+1470127372905: 	resizer	less-diagonal	image-1-1470127345579
+1470127373054: 	resizer	less-diagonal	image-1-1470127345579
+1470127373238: 	resizer	less-diagonal	image-1-1470127345579
+1470127373371: 	resizer	less-diagonal	image-1-1470127345579
+1470127373412: 	resizer	less-diagonal	image-1-1470127345579
+1470127373418: 	resizer	less-diagonal	image-1-1470127345579
+1470127373427: 	resizer	less-diagonal	image-1-1470127345579
+1470127373435: 	resizer	less-diagonal	image-1-1470127345579
+1470127373443: 	resizer	less-diagonal	image-1-1470127345579
+1470127373477: 	resizer	less-diagonal	image-1-1470127345579
+1470127373485: 	resizer	less-diagonal	image-1-1470127345579
+1470127373493: 	resizer	less-diagonal	image-1-1470127345579
+1470127373502: 	resizer	less-diagonal	image-1-1470127345579
+1470127373510: 	resizer	less-diagonal	image-1-1470127345579
+1470127373518: 	resizer	less-diagonal	image-1-1470127345579
+1470127373526: 	resizer	less-diagonal	image-1-1470127345579
+1470127373535: 	resizer	less-diagonal	image-1-1470127345579
+1470127373569: 	resizer	less-diagonal	image-1-1470127345579
+1470127373576: 	resizer	less-diagonal	image-1-1470127345579
+1470127373585: 	resizer	less-diagonal	image-1-1470127345579
+1470127373593: 	resizer	less-diagonal	image-1-1470127345579
+1470127373602: 	resizer	less-diagonal	image-1-1470127345579
+1470127373610: 	resizer	less-diagonal	image-1-1470127345579
+1470127373619: 	resizer	less-diagonal	image-1-1470127345579
+1470127373626: 	resizer	less-diagonal	image-1-1470127345579
+1470127373661: 	resizer	less-diagonal	image-1-1470127345579
+1470127373668: 	resizer	less-diagonal	image-1-1470127345579
+1470127373676: 	resizer	less-diagonal	image-1-1470127345579
+1470127373685: 	resizer	less-diagonal	image-1-1470127345579
+1470127373693: 	resizer	less-diagonal	image-1-1470127345579
+1470127373701: 	resizer	less-diagonal	image-1-1470127345579
+1470127373710: 	resizer	less-diagonal	image-1-1470127345579
+1470127373718: 	resizer	less-diagonal	image-1-1470127345579
+1470127373743: 	resizer	less-diagonal	image-1-1470127345579
+1470127373751: 	resizer	less-diagonal	image-1-1470127345579
+1470127373760: 	resizer	less-diagonal	image-1-1470127345579
+1470127373768: 	resizer	less-diagonal	image-1-1470127345579
+1470127373776: 	resizer	less-diagonal	image-1-1470127345579
+1470127373785: 	resizer	less-diagonal	image-1-1470127345579
+1470127373793: 	resizer	less-diagonal	image-1-1470127345579
+1470127373802: 	resizer	less-diagonal	image-1-1470127345579
+1470127373810: 	resizer	less-diagonal	image-1-1470127345579
+1470127373818: 	resizer	less-diagonal	image-1-1470127345579
+1470127373853: 	resizer	less-diagonal	image-1-1470127345579
+1470127373862: 	resizer	less-diagonal	image-1-1470127345579
+1470127373868: 	resizer	less-diagonal	image-1-1470127345579
+1470127373877: 	resizer	less-diagonal	image-1-1470127345579
+1470127373885: 	resizer	less-diagonal	image-1-1470127345579
+1470127373893: 	resizer	less-diagonal	image-1-1470127345579
+1470127373902: 	resizer	less-diagonal	image-1-1470127345579
+1470127373927: 	resizer	less-diagonal	image-1-1470127345579
+1470127373936: 	resizer	less-diagonal	image-1-1470127345579
+1470127373943: 	resizer	less-diagonal	image-1-1470127345579
+1470127373952: 	resizer	less-diagonal	image-1-1470127345579
+1470127373960: 	resizer	less-diagonal	image-1-1470127345579
+1470127373969: 	resizer	less-diagonal	image-1-1470127345579
+1470127373976: 	resizer	less-diagonal	image-1-1470127345579
+1470127373985: 	resizer	less-diagonal	image-1-1470127345579
+1470127373993: 	resizer	less-diagonal	image-1-1470127345579
+1470127374001: 	resizer	less-diagonal	image-1-1470127345579
+1470127374019: 	resizer	less-diagonal	image-1-1470127345579
+1470127374025: 	resizer	less-diagonal	image-1-1470127345579
+1470127374035: 	resizer	less-diagonal	image-1-1470127345579
+1470127374042: 	resizer	less-diagonal	image-1-1470127345579
+1470127374052: 	resizer	less-diagonal	image-1-1470127345579
+1470127374060: 	resizer	less-diagonal	image-1-1470127345579
+1470127374071: 	resizer	less-diagonal	image-1-1470127345579
+1470127374085: 	resizer	less-diagonal	image-1-1470127345579
+1470127374103: 	resizer	less-diagonal	image-1-1470127345579
+1470127374110: 	resizer	less-diagonal	image-1-1470127345579
+1470127374118: 	resizer	less-diagonal	image-1-1470127345579
+1470127374126: 	resizer	less-diagonal	image-1-1470127345579
+1470127374135: 	resizer	less-diagonal	image-1-1470127345579
+1470127374143: 	resizer	less-diagonal	image-1-1470127345579
+1470127374152: 	resizer	less-diagonal	image-1-1470127345579
+1470127374160: 	resizer	less-diagonal	image-1-1470127345579
+1470127374195: 	resizer	less-diagonal	image-1-1470127345579
+1470127374202: 	resizer	less-diagonal	image-1-1470127345579
+1470127374210: 	resizer	less-diagonal	image-1-1470127345579
+1470127374219: 	resizer	less-diagonal	image-1-1470127345579
+1470127374226: 	resizer	less-diagonal	image-1-1470127345579
+1470127374235: 	resizer	less-diagonal	image-1-1470127345579
+1470127374243: 	resizer	less-diagonal	image-1-1470127345579
+1470127374252: 	resizer	less-diagonal	image-1-1470127345579
+1470127374269: 	resizer	less-diagonal	image-1-1470127345579
+1470127374276: 	resizer	less-diagonal	image-1-1470127345579
+1470127374285: 	resizer	less-diagonal	image-1-1470127345579
+1470127374293: 	resizer	less-diagonal	image-1-1470127345579
+1470127374302: 	resizer	less-diagonal	image-1-1470127345579
+1470127374311: 	resizer	less-diagonal	image-1-1470127345579
+1470127374318: 	resizer	less-diagonal	image-1-1470127345579
+1470127374327: 	resizer	less-diagonal	image-1-1470127345579
+1470127374344: 	resizer	less-diagonal	image-1-1470127345579
+1470127377516: 	acted on	innerText
+1470127377567: 	sub-instrument	stop	resizer	false
+1470127377581: 	deactivate	resizer
+1470127417855: 	acted on	innerText
+1470127417943: 	sub-instrument	start	resizer	true
+1470127417957: 	activate	resizer
+1470127418507: 	acted on	less-diagonal
+1470127418569: 	sub-instrument	less-diagonal	resizer	true
+1470127418695: 	acted on	less-diagonal
+1470127418767: 	sub-instrument	less-diagonal	resizer	true
+1470127418858: 	acted on	less-diagonal
+1470127418940: 	sub-instrument	less-diagonal	resizer	true
+1470127419059: 	acted on	less-diagonal
+1470127419092: 	sub-instrument	less-diagonal	resizer	true
+1470127419173: 	acted on	less-diagonal
+1470127419224: 	sub-instrument	less-diagonal	resizer	true
+1470127420487: 	resizer	less-diagonal	sample
+1470127420695: 	resizer	less-diagonal	sample
+1470127420820: 	resizer	less-diagonal	sample
+1470127420972: 	resizer	less-diagonal	sample
+1470127421036: 	resizer	less-diagonal	sample
+1470127421058: 	resizer	less-diagonal	sample
+1470127421146: 	resizer	less-diagonal	path-1470127420977
+1470127421284: 	resizer	less-diagonal	path-1470127420977
+1470127421439: 	resizer	less-diagonal	sample
+1470127421513: 	resizer	less-diagonal	sample
+1470127421588: 	resizer	less-diagonal	sample
+1470127421745: 	resizer	less-diagonal	sample
+1470127423555: 	acted on	innerText
+1470127423626: 	sub-instrument	stop	resizer	false
+1470127423643: 	deactivate	resizer
+1470127649814: 	acted on	innerText
+1470127649862: 	sub-instrument	start	resizer	true
+1470127649877: 	activate	resizer
+1470127650358: 	acted on	less-diagonal
+1470127650436: 	sub-instrument	less-diagonal	resizer	true
+1470127650506: 	acted on	less-diagonal
+1470127650589: 	sub-instrument	less-diagonal	resizer	true
+1470127650687: 	acted on	less-diagonal
+1470127650752: 	sub-instrument	less-diagonal	resizer	true
+1470127650883: 	acted on	less-diagonal
+1470127650938: 	sub-instrument	less-diagonal	resizer	true
+1470127651009: 	acted on	less-diagonal
+1470127651080: 	sub-instrument	less-diagonal	resizer	true
+1470127651169: 	acted on	less-diagonal
+1470127651245: 	sub-instrument	less-diagonal	resizer	true
+1470127652633: 	resizer	less-diagonal	image-57
+1470127652891: 	resizer	less-diagonal	image-57
+1470127653066: 	resizer	less-diagonal	image-57
+1470127653233: 	resizer	less-diagonal	image-57
+1470127653340: 	resizer	less-diagonal	image-57
+1470127653348: 	resizer	less-diagonal	image-57
+1470127653356: 	resizer	less-diagonal	image-57
+1470127653381: 	resizer	less-diagonal	image-57
+1470127653389: 	resizer	less-diagonal	image-57
+1470127653398: 	resizer	less-diagonal	image-57
+1470127653406: 	resizer	less-diagonal	image-57
+1470127653415: 	resizer	less-diagonal	image-57
+1470127653422: 	resizer	less-diagonal	image-57
+1470127653430: 	resizer	less-diagonal	image-57
+1470127653439: 	resizer	less-diagonal	image-57
+1470127653448: 	resizer	less-diagonal	image-57
+1470127653481: 	resizer	less-diagonal	image-57
+1470127653489: 	resizer	less-diagonal	image-57
+1470127653497: 	resizer	less-diagonal	image-57
+1470127653506: 	resizer	less-diagonal	image-57
+1470127653514: 	resizer	less-diagonal	image-57
+1470127653523: 	resizer	less-diagonal	image-57
+1470127653530: 	resizer	less-diagonal	image-57
+1470127653540: 	resizer	less-diagonal	image-57
+1470127653548: 	resizer	less-diagonal	image-57
+1470127653573: 	resizer	less-diagonal	image-57
+1470127653581: 	resizer	less-diagonal	image-57
+1470127653590: 	resizer	less-diagonal	image-57
+1470127653598: 	resizer	less-diagonal	image-57
+1470127653606: 	resizer	less-diagonal	image-57
+1470127653615: 	resizer	less-diagonal	image-57
+1470127653623: 	resizer	less-diagonal	image-57
+1470127653631: 	resizer	less-diagonal	image-57
+1470127653639: 	resizer	less-diagonal	image-57
+1470127653657: 	resizer	less-diagonal	image-57
+1470127653665: 	resizer	less-diagonal	image-57
+1470127653672: 	resizer	less-diagonal	image-57
+1470127653680: 	resizer	less-diagonal	image-57
+1470127653689: 	resizer	less-diagonal	image-57
+1470127653697: 	resizer	less-diagonal	image-57
+1470127653705: 	resizer	less-diagonal	image-57
+1470127653714: 	resizer	less-diagonal	image-57
+1470127653722: 	resizer	less-diagonal	image-57
+1470127653730: 	resizer	less-diagonal	image-57
+1470127653739: 	resizer	less-diagonal	image-57
+1470127653756: 	resizer	less-diagonal	image-57
+1470127653764: 	resizer	less-diagonal	image-57
+1470127653772: 	resizer	less-diagonal	image-57
+1470127653779: 	resizer	less-diagonal	image-57
+1470127653789: 	resizer	less-diagonal	image-57
+1470127653797: 	resizer	less-diagonal	image-57
+1470127653805: 	resizer	less-diagonal	image-57
+1470127653814: 	resizer	less-diagonal	image-57
+1470127653839: 	resizer	less-diagonal	image-57
+1470127653847: 	resizer	less-diagonal	image-57
+1470127653856: 	resizer	less-diagonal	image-57
+1470127653864: 	resizer	less-diagonal	image-57
+1470127653872: 	resizer	less-diagonal	image-57
+1470127653880: 	resizer	less-diagonal	image-57
+1470127653889: 	resizer	less-diagonal	image-57
+1470127653898: 	resizer	less-diagonal	image-57
+1470127653931: 	resizer	less-diagonal	image-57
+1470127653939: 	resizer	less-diagonal	image-57
+1470127653947: 	resizer	less-diagonal	image-57
+1470127653955: 	resizer	less-diagonal	image-57
+1470127653964: 	resizer	less-diagonal	image-57
+1470127653972: 	resizer	less-diagonal	image-57
+1470127653981: 	resizer	less-diagonal	image-57
+1470127653989: 	resizer	less-diagonal	image-57
+1470127654023: 	resizer	less-diagonal	image-57
+1470127654030: 	resizer	less-diagonal	image-57
+1470127654039: 	resizer	less-diagonal	image-57
+1470127654048: 	resizer	less-diagonal	image-57
+1470127654055: 	resizer	less-diagonal	image-57
+1470127654064: 	resizer	less-diagonal	image-57
+1470127654072: 	resizer	less-diagonal	image-57
+1470127654090: 	resizer	less-diagonal	image-57
+1470127654097: 	resizer	less-diagonal	image-57
+1470127654106: 	resizer	less-diagonal	image-57
+1470127654115: 	resizer	less-diagonal	image-57
+1470127654122: 	resizer	less-diagonal	image-57
+1470127654130: 	resizer	less-diagonal	image-57
+1470127654139: 	resizer	less-diagonal	image-57
+1470127654147: 	resizer	less-diagonal	image-57
+1470127654155: 	resizer	less-diagonal	image-57
+1470127654172: 	resizer	less-diagonal	image-57
+1470127654180: 	resizer	less-diagonal	image-57
+1470127654190: 	resizer	less-diagonal	image-57
+1470127654197: 	resizer	less-diagonal	image-57
+1470127654206: 	resizer	less-diagonal	image-57
+1470127654214: 	resizer	less-diagonal	image-57
+1470127654225: 	resizer	less-diagonal	image-57
+1470127654230: 	resizer	less-diagonal	image-57
+1470127654247: 	resizer	less-diagonal	image-57
+1470127654265: 	resizer	less-diagonal	image-57
+1470127654272: 	resizer	less-diagonal	image-57
+1470127654281: 	resizer	less-diagonal	image-57
+1470127654290: 	resizer	less-diagonal	image-57
+1470127654297: 	resizer	less-diagonal	image-57
+1470127654305: 	resizer	less-diagonal	image-57
+1470127654314: 	resizer	less-diagonal	image-57
+1470127654340: 	resizer	less-diagonal	image-57
+1470127654347: 	resizer	less-diagonal	image-57
+1470127654355: 	resizer	less-diagonal	image-57
+1470127654365: 	resizer	less-diagonal	image-57
+1470127654372: 	resizer	less-diagonal	image-57
+1470127654382: 	resizer	less-diagonal	image-57
+1470127655313: 	acted on	innerText
+1470127655396: 	sub-instrument	stop	resizer	false
+1470127655403: 	deactivate	resizer

@@ -1,0 +1,705 @@
+1469998599913: 	acted on	innerText
+1469998599925: 	sub-instrument	start	draw	true
+1469998599932: 	activate	draw
+1469998600735: 	acted on	content
+1469998600739: 	action	draw	content	{"x":880,"y":65}
+1469998600741: 	draw	content	{"x":880,"y":65}
+1469998600889: 	action	draw	content	{"x":879,"y":65}
+1469998600890: 	draw	content	{"x":879,"y":65}
+1469998600905: 	action	draw	content	{"x":873,"y":65}
+1469998600906: 	draw	content	{"x":873,"y":65}
+1469998600922: 	action	draw	content	{"x":863,"y":65}
+1469998600922: 	draw	content	{"x":863,"y":65}
+1469998600938: 	action	draw	content	{"x":850,"y":65}
+1469998600939: 	draw	content	{"x":850,"y":65}
+1469998600956: 	action	draw	content	{"x":838,"y":70}
+1469998600956: 	draw	content	{"x":838,"y":70}
+1469998600972: 	action	draw	content	{"x":829,"y":77}
+1469998600973: 	draw	content	{"x":829,"y":77}
+1469998600991: 	action	draw	content	{"x":817,"y":87}
+1469998600992: 	draw	content	{"x":817,"y":87}
+1469998601008: 	action	draw	content	{"x":808,"y":100}
+1469998601009: 	draw	content	{"x":808,"y":100}
+1469998601025: 	action	draw	content	{"x":799,"y":112}
+1469998601026: 	draw	content	{"x":799,"y":112}
+1469998601042: 	action	draw	content	{"x":792,"y":126}
+1469998601042: 	draw	content	{"x":792,"y":126}
+1469998601059: 	action	draw	content	{"x":787,"y":143}
+1469998601060: 	draw	content	{"x":787,"y":143}
+1469998601076: 	action	draw	content	{"x":782,"y":158}
+1469998601077: 	draw	content	{"x":782,"y":158}
+1469998601093: 	action	draw	content	{"x":780,"y":171}
+1469998601094: 	draw	content	{"x":780,"y":171}
+1469998601111: 	action	draw	content	{"x":779,"y":177}
+1469998601112: 	draw	content	{"x":779,"y":177}
+1469998601129: 	action	draw	content	{"x":778,"y":184}
+1469998601131: 	draw	content	{"x":778,"y":184}
+1469998601148: 	action	draw	content	{"x":778,"y":187}
+1469998601149: 	draw	content	{"x":778,"y":187}
+1469998601164: 	action	draw	content	{"x":778,"y":188}
+1469998601165: 	draw	content	{"x":778,"y":188}
+1469998601186: 	action	draw	content	{"x":778,"y":189}
+1469998601187: 	draw	content	{"x":778,"y":189}
+1469998601203: 	action	draw	content	{"x":778,"y":190}
+1469998601203: 	draw	content	{"x":778,"y":190}
+1469998601220: 	action	draw	content	{"x":778,"y":192}
+1469998601220: 	draw	content	{"x":778,"y":192}
+1469998601237: 	action	draw	content	{"x":778,"y":197}
+1469998601238: 	draw	content	{"x":778,"y":197}
+1469998601255: 	action	draw	content	{"x":779,"y":202}
+1469998601256: 	draw	content	{"x":779,"y":202}
+1469998601272: 	action	draw	content	{"x":780,"y":207}
+1469998601273: 	draw	content	{"x":780,"y":207}
+1469998601289: 	action	draw	content	{"x":781,"y":209}
+1469998601289: 	draw	content	{"x":781,"y":209}
+1469998601305: 	action	draw	content	{"x":782,"y":210}
+1469998601305: 	draw	content	{"x":782,"y":210}
+1469998601323: 	action	draw	content	{"x":782,"y":211}
+1469998601323: 	draw	content	{"x":782,"y":211}
+1469998601426: 	action	draw	content	{"x":782,"y":217}
+1469998601427: 	draw	content	{"x":782,"y":217}
+1469998601444: 	action	draw	content	{"x":778,"y":232}
+1469998601445: 	draw	content	{"x":778,"y":232}
+1469998601460: 	action	draw	content	{"x":775,"y":246}
+1469998601461: 	draw	content	{"x":775,"y":246}
+1469998601477: 	action	draw	content	{"x":774,"y":259}
+1469998601478: 	draw	content	{"x":774,"y":259}
+1469998601494: 	action	draw	content	{"x":773,"y":278}
+1469998601495: 	draw	content	{"x":773,"y":278}
+1469998601511: 	action	draw	content	{"x":773,"y":305}
+1469998601512: 	draw	content	{"x":773,"y":305}
+1469998601528: 	action	draw	content	{"x":774,"y":325}
+1469998601529: 	draw	content	{"x":774,"y":325}
+1469998601545: 	action	draw	content	{"x":781,"y":339}
+1469998601546: 	draw	content	{"x":781,"y":339}
+1469998601564: 	action	draw	content	{"x":787,"y":354}
+1469998601565: 	draw	content	{"x":787,"y":354}
+1469998601581: 	action	draw	content	{"x":793,"y":365}
+1469998601581: 	draw	content	{"x":793,"y":365}
+1469998601597: 	action	draw	content	{"x":796,"y":375}
+1469998601598: 	draw	content	{"x":796,"y":375}
+1469998601615: 	action	draw	content	{"x":798,"y":382}
+1469998601616: 	draw	content	{"x":798,"y":382}
+1469998601636: 	action	draw	content	{"x":801,"y":388}
+1469998601637: 	draw	content	{"x":801,"y":388}
+1469998601648: 	action	draw	content	{"x":804,"y":392}
+1469998601649: 	draw	content	{"x":804,"y":392}
+1469998601666: 	action	draw	content	{"x":806,"y":394}
+1469998601667: 	draw	content	{"x":806,"y":394}
+1469998601683: 	action	draw	content	{"x":807,"y":394}
+1469998601684: 	draw	content	{"x":807,"y":394}
+1469998601698: 	action	draw	content	{"x":807,"y":395}
+1469998601699: 	draw	content	{"x":807,"y":395}
+1469998601715: 	action	draw	content	{"x":808,"y":395}
+1469998601716: 	draw	content	{"x":808,"y":395}
+1469998601732: 	action	draw	content	{"x":809,"y":395}
+1469998601733: 	draw	content	{"x":809,"y":395}
+1469998601750: 	action	draw	content	{"x":809,"y":394}
+1469998601751: 	draw	content	{"x":809,"y":394}
+1469998601766: 	action	draw	content	{"x":812,"y":391}
+1469998601766: 	draw	content	{"x":812,"y":391}
+1469998601783: 	action	draw	content	{"x":814,"y":385}
+1469998601784: 	draw	content	{"x":814,"y":385}
+1469998601800: 	action	draw	content	{"x":819,"y":375}
+1469998601800: 	draw	content	{"x":819,"y":375}
+1469998601817: 	action	draw	content	{"x":827,"y":363}
+1469998601818: 	draw	content	{"x":827,"y":363}
+1469998601834: 	action	draw	content	{"x":842,"y":341}
+1469998601834: 	draw	content	{"x":842,"y":341}
+1469998601851: 	action	draw	content	{"x":857,"y":325}
+1469998601852: 	draw	content	{"x":857,"y":325}
+1469998601868: 	action	draw	content	{"x":870,"y":313}
+1469998601869: 	draw	content	{"x":870,"y":313}
+1469998601885: 	action	draw	content	{"x":884,"y":299}
+1469998601886: 	draw	content	{"x":884,"y":299}
+1469998601903: 	action	draw	content	{"x":896,"y":289}
+1469998601903: 	draw	content	{"x":896,"y":289}
+1469998601920: 	action	draw	content	{"x":904,"y":281}
+1469998601920: 	draw	content	{"x":904,"y":281}
+1469998601937: 	action	draw	content	{"x":910,"y":273}
+1469998601937: 	draw	content	{"x":910,"y":273}
+1469998601953: 	action	draw	content	{"x":916,"y":267}
+1469998601954: 	draw	content	{"x":916,"y":267}
+1469998601970: 	action	draw	content	{"x":920,"y":261}
+1469998601971: 	draw	content	{"x":920,"y":261}
+1469998601987: 	action	draw	content	{"x":922,"y":257}
+1469998601988: 	draw	content	{"x":922,"y":257}
+1469998602004: 	action	draw	content	{"x":925,"y":251}
+1469998602004: 	draw	content	{"x":925,"y":251}
+1469998602020: 	action	draw	content	{"x":929,"y":247}
+1469998602020: 	draw	content	{"x":929,"y":247}
+1469998602037: 	action	draw	content	{"x":931,"y":241}
+1469998602037: 	draw	content	{"x":931,"y":241}
+1469998602053: 	action	draw	content	{"x":933,"y":238}
+1469998602054: 	draw	content	{"x":933,"y":238}
+1469998602071: 	action	draw	content	{"x":934,"y":234}
+1469998602071: 	draw	content	{"x":934,"y":234}
+1469998602088: 	action	draw	content	{"x":935,"y":233}
+1469998602089: 	draw	content	{"x":935,"y":233}
+1469998602106: 	action	draw	content	{"x":935,"y":232}
+1469998602107: 	draw	content	{"x":935,"y":232}
+1469998602126: 	action	draw	content	{"x":936,"y":232}
+1469998602127: 	draw	content	{"x":936,"y":232}
+1469998602167: 	action	draw	content	{"x":937,"y":232}
+1469998602168: 	draw	content	{"x":937,"y":232}
+1469998603016: 	acted on	innerText
+1469998603022: 	sub-instrument	stop	draw	false
+1469998603024: 	deactivate	draw
+1469998604064: 	acted on	innerText
+1469998604072: 	sub-instrument	start	clipboard	true
+1469998604076: 	activate	clipboard
+1469998604744: 	acted on	copy
+1469998604752: 	sub-instrument	copy	clipboard	true
+1469998605479: 	acted on	image-45
+1469998605481: 	action	clipboard	image-45	{"x":49,"y":20}
+1469998605486: 	copied	image-45
+1469998606602: 	acted on	paste
+1469998606609: 	sub-instrument	paste	clipboard	true
+1469998607158: 	acted on	content
+1469998607160: 	action	clipboard	content	{"x":391,"y":158}
+1469998607167: 	pasted	image-45-
+1469998608311: 	acted on	innerText
+1469998608324: 	sub-instrument	stop	clipboard	false
+1469998608328: 	deactivate	clipboard
+1469998609464: 	acted on	innerText
+1469998609472: 	sub-instrument	start	mover	true
+1469998609476: 	activate	mover
+1469998610681: 	acted on	image-45-1469998607168
+1469998610683: 	action	mover	image-45-1469998607168	{"x":81,"y":72}
+1469998610686: 	start moving	image-45-1469998607168	from	{"x":81,"y":72}
+1469998610729: 	action	mover	image-45-1469998607168	{"x":82,"y":72}
+1469998610730: 	moved	image-45-1469998607168	to	{"x":82,"y":72}
+1469998610818: 	action	mover	image-45-1469998607168	{"x":83,"y":72}
+1469998610819: 	moved	image-45-1469998607168	to	{"x":83,"y":72}
+1469998610834: 	action	mover	image-45-1469998607168	{"x":87,"y":73}
+1469998610835: 	moved	image-45-1469998607168	to	{"x":87,"y":73}
+1469998610851: 	action	mover	image-45-1469998607168	{"x":94,"y":80}
+1469998610852: 	moved	image-45-1469998607168	to	{"x":94,"y":80}
+1469998610867: 	action	mover	image-45-1469998607168	{"x":108,"y":91}
+1469998610868: 	moved	image-45-1469998607168	to	{"x":108,"y":91}
+1469998610884: 	action	mover	image-45-1469998607168	{"x":127,"y":105}
+1469998610885: 	moved	image-45-1469998607168	to	{"x":127,"y":105}
+1469998610901: 	action	mover	image-45-1469998607168	{"x":151,"y":124}
+1469998610902: 	moved	image-45-1469998607168	to	{"x":151,"y":124}
+1469998610918: 	action	mover	image-45-1469998607168	{"x":174,"y":146}
+1469998610919: 	moved	image-45-1469998607168	to	{"x":174,"y":146}
+1469998610934: 	action	mover	image-45-1469998607168	{"x":199,"y":173}
+1469998610935: 	moved	image-45-1469998607168	to	{"x":199,"y":173}
+1469998610952: 	action	mover	image-45-1469998607168	{"x":216,"y":195}
+1469998610952: 	moved	image-45-1469998607168	to	{"x":216,"y":195}
+1469998610970: 	action	mover	image-45-1469998607168	{"x":228,"y":207}
+1469998610971: 	moved	image-45-1469998607168	to	{"x":228,"y":207}
+1469998610986: 	action	mover	image-45-1469998607168	{"x":237,"y":218}
+1469998610987: 	moved	image-45-1469998607168	to	{"x":237,"y":218}
+1469998611003: 	action	mover	image-45-1469998607168	{"x":242,"y":224}
+1469998611004: 	moved	image-45-1469998607168	to	{"x":242,"y":224}
+1469998611021: 	action	mover	image-45-1469998607168	{"x":243,"y":226}
+1469998611022: 	moved	image-45-1469998607168	to	{"x":243,"y":226}
+1469998611037: 	action	mover	image-45-1469998607168	{"x":244,"y":226}
+1469998611038: 	moved	image-45-1469998607168	to	{"x":244,"y":226}
+1469998611250: 	action	mover	image-45-1469998607168	{"x":245,"y":227}
+1469998611251: 	moved	image-45-1469998607168	to	{"x":245,"y":227}
+1469998611267: 	action	mover	image-45-1469998607168	{"x":248,"y":232}
+1469998611268: 	moved	image-45-1469998607168	to	{"x":248,"y":232}
+1469998611284: 	action	mover	image-45-1469998607168	{"x":251,"y":236}
+1469998611285: 	moved	image-45-1469998607168	to	{"x":251,"y":236}
+1469998611304: 	action	mover	image-45-1469998607168	{"x":255,"y":239}
+1469998611305: 	moved	image-45-1469998607168	to	{"x":255,"y":239}
+1469998611318: 	action	mover	image-45-1469998607168	{"x":261,"y":243}
+1469998611319: 	moved	image-45-1469998607168	to	{"x":261,"y":243}
+1469998611334: 	action	mover	image-45-1469998607168	{"x":266,"y":244}
+1469998611335: 	moved	image-45-1469998607168	to	{"x":266,"y":244}
+1469998611352: 	action	mover	image-45-1469998607168	{"x":274,"y":245}
+1469998611352: 	moved	image-45-1469998607168	to	{"x":274,"y":245}
+1469998611368: 	action	mover	image-45-1469998607168	{"x":284,"y":245}
+1469998611369: 	moved	image-45-1469998607168	to	{"x":284,"y":245}
+1469998611386: 	action	mover	image-45-1469998607168	{"x":293,"y":245}
+1469998611386: 	moved	image-45-1469998607168	to	{"x":293,"y":245}
+1469998611404: 	action	mover	image-45-1469998607168	{"x":303,"y":245}
+1469998611405: 	moved	image-45-1469998607168	to	{"x":303,"y":245}
+1469998611420: 	action	mover	image-45-1469998607168	{"x":308,"y":245}
+1469998611422: 	moved	image-45-1469998607168	to	{"x":308,"y":245}
+1469998611438: 	action	mover	image-45-1469998607168	{"x":315,"y":243}
+1469998611439: 	moved	image-45-1469998607168	to	{"x":315,"y":243}
+1469998611455: 	action	mover	image-45-1469998607168	{"x":320,"y":241}
+1469998611456: 	moved	image-45-1469998607168	to	{"x":320,"y":241}
+1469998611471: 	action	mover	image-45-1469998607168	{"x":327,"y":238}
+1469998611472: 	moved	image-45-1469998607168	to	{"x":327,"y":238}
+1469998611488: 	action	mover	image-45-1469998607168	{"x":336,"y":234}
+1469998611489: 	moved	image-45-1469998607168	to	{"x":336,"y":234}
+1469998611505: 	action	mover	image-45-1469998607168	{"x":346,"y":229}
+1469998611506: 	moved	image-45-1469998607168	to	{"x":346,"y":229}
+1469998611523: 	action	mover	image-45-1469998607168	{"x":357,"y":224}
+1469998611524: 	moved	image-45-1469998607168	to	{"x":357,"y":224}
+1469998611538: 	action	mover	image-45-1469998607168	{"x":367,"y":221}
+1469998611539: 	moved	image-45-1469998607168	to	{"x":367,"y":221}
+1469998611556: 	action	mover	image-45-1469998607168	{"x":373,"y":219}
+1469998611558: 	moved	image-45-1469998607168	to	{"x":373,"y":219}
+1469998611573: 	action	mover	image-45-1469998607168	{"x":379,"y":216}
+1469998611574: 	moved	image-45-1469998607168	to	{"x":379,"y":216}
+1469998611591: 	action	mover	image-45-1469998607168	{"x":383,"y":215}
+1469998611592: 	moved	image-45-1469998607168	to	{"x":383,"y":215}
+1469998611607: 	action	mover	image-45-1469998607168	{"x":387,"y":213}
+1469998611609: 	moved	image-45-1469998607168	to	{"x":387,"y":213}
+1469998611624: 	action	mover	image-45-1469998607168	{"x":391,"y":213}
+1469998611625: 	moved	image-45-1469998607168	to	{"x":391,"y":213}
+1469998611642: 	action	mover	image-45-1469998607168	{"x":394,"y":212}
+1469998611643: 	moved	image-45-1469998607168	to	{"x":394,"y":212}
+1469998611659: 	action	mover	image-45-1469998607168	{"x":399,"y":211}
+1469998611661: 	moved	image-45-1469998607168	to	{"x":399,"y":211}
+1469998611676: 	action	mover	image-45-1469998607168	{"x":405,"y":211}
+1469998611677: 	moved	image-45-1469998607168	to	{"x":405,"y":211}
+1469998611693: 	action	mover	image-45-1469998607168	{"x":411,"y":211}
+1469998611694: 	moved	image-45-1469998607168	to	{"x":411,"y":211}
+1469998611710: 	action	mover	image-45-1469998607168	{"x":416,"y":210}
+1469998611711: 	moved	image-45-1469998607168	to	{"x":416,"y":210}
+1469998611726: 	action	mover	image-45-1469998607168	{"x":423,"y":210}
+1469998611727: 	moved	image-45-1469998607168	to	{"x":423,"y":210}
+1469998611743: 	action	mover	image-45-1469998607168	{"x":429,"y":210}
+1469998611744: 	moved	image-45-1469998607168	to	{"x":429,"y":210}
+1469998611760: 	action	mover	image-45-1469998607168	{"x":434,"y":210}
+1469998611761: 	moved	image-45-1469998607168	to	{"x":434,"y":210}
+1469998611777: 	action	mover	image-45-1469998607168	{"x":438,"y":211}
+1469998611778: 	moved	image-45-1469998607168	to	{"x":438,"y":211}
+1469998611794: 	action	mover	image-45-1469998607168	{"x":441,"y":213}
+1469998611795: 	moved	image-45-1469998607168	to	{"x":441,"y":213}
+1469998611811: 	action	mover	image-45-1469998607168	{"x":445,"y":214}
+1469998611812: 	moved	image-45-1469998607168	to	{"x":445,"y":214}
+1469998611828: 	action	mover	image-45-1469998607168	{"x":446,"y":215}
+1469998611829: 	moved	image-45-1469998607168	to	{"x":446,"y":215}
+1469998612974: 	acted on	path-1469998600744
+1469998612976: 	action	mover	path-1469998600744	{"x":792,"y":144}
+1469998612977: 	start moving	path-1469998600744	from	{"x":792,"y":144}
+1469998613119: 	action	mover	path-1469998600744	{"x":785,"y":144}
+1469998613120: 	moved	path-1469998600744	to	{"x":785,"y":144}
+1469998613136: 	action	mover	path-1469998600744	{"x":768,"y":144}
+1469998613137: 	moved	path-1469998600744	to	{"x":768,"y":144}
+1469998613152: 	action	mover	path-1469998600744	{"x":730,"y":144}
+1469998613153: 	moved	path-1469998600744	to	{"x":730,"y":144}
+1469998613169: 	action	mover	path-1469998600744	{"x":656,"y":144}
+1469998613169: 	moved	path-1469998600744	to	{"x":656,"y":144}
+1469998613186: 	action	mover	path-1469998600744	{"x":576,"y":145}
+1469998613187: 	moved	path-1469998600744	to	{"x":576,"y":145}
+1469998613204: 	action	mover	path-1469998600744	{"x":485,"y":147}
+1469998613205: 	moved	path-1469998600744	to	{"x":485,"y":147}
+1469998613219: 	action	mover	path-1469998600744	{"x":425,"y":147}
+1469998613220: 	moved	path-1469998600744	to	{"x":425,"y":147}
+1469998613236: 	action	mover	path-1469998600744	{"x":375,"y":147}
+1469998613237: 	moved	path-1469998600744	to	{"x":375,"y":147}
+1469998613253: 	action	mover	path-1469998600744	{"x":327,"y":147}
+1469998613254: 	moved	path-1469998600744	to	{"x":327,"y":147}
+1469998613269: 	action	mover	path-1469998600744	{"x":308,"y":147}
+1469998613270: 	moved	path-1469998600744	to	{"x":308,"y":147}
+1469998613286: 	action	mover	path-1469998600744	{"x":288,"y":147}
+1469998613287: 	moved	path-1469998600744	to	{"x":288,"y":147}
+1469998613304: 	action	mover	path-1469998600744	{"x":282,"y":146}
+1469998613305: 	moved	path-1469998600744	to	{"x":282,"y":146}
+1469998613321: 	action	mover	path-1469998600744	{"x":276,"y":144}
+1469998613321: 	moved	path-1469998600744	to	{"x":276,"y":144}
+1469998613337: 	action	mover	path-1469998600744	{"x":274,"y":143}
+1469998613338: 	moved	path-1469998600744	to	{"x":274,"y":143}
+1469998613354: 	action	mover	path-1469998600744	{"x":273,"y":142}
+1469998613355: 	moved	path-1469998600744	to	{"x":273,"y":142}
+1469998613372: 	action	mover	path-1469998600744	{"x":272,"y":141}
+1469998613373: 	moved	path-1469998600744	to	{"x":272,"y":141}
+1469998613396: 	action	mover	path-1469998600744	{"x":272,"y":140}
+1469998613397: 	moved	path-1469998600744	to	{"x":272,"y":140}
+1469998613406: 	action	mover	path-1469998600744	{"x":271,"y":139}
+1469998613407: 	moved	path-1469998600744	to	{"x":271,"y":139}
+1469998613433: 	action	mover	path-1469998600744	{"x":271,"y":138}
+1469998613433: 	moved	path-1469998600744	to	{"x":271,"y":138}
+1469998613480: 	action	mover	path-1469998600744	{"x":271,"y":137}
+1469998613481: 	moved	path-1469998600744	to	{"x":271,"y":137}
+1469998613496: 	action	mover	path-1469998600744	{"x":272,"y":137}
+1469998613497: 	moved	path-1469998600744	to	{"x":272,"y":137}
+1469998613513: 	action	mover	path-1469998600744	{"x":275,"y":137}
+1469998613514: 	moved	path-1469998600744	to	{"x":275,"y":137}
+1469998613531: 	action	mover	path-1469998600744	{"x":281,"y":137}
+1469998613534: 	moved	path-1469998600744	to	{"x":281,"y":137}
+1469998613546: 	action	mover	path-1469998600744	{"x":286,"y":137}
+1469998613547: 	moved	path-1469998600744	to	{"x":286,"y":137}
+1469998613565: 	action	mover	path-1469998600744	{"x":292,"y":137}
+1469998613567: 	moved	path-1469998600744	to	{"x":292,"y":137}
+1469998613585: 	action	mover	path-1469998600744	{"x":298,"y":137}
+1469998613586: 	moved	path-1469998600744	to	{"x":298,"y":137}
+1469998613600: 	action	mover	path-1469998600744	{"x":306,"y":137}
+1469998613601: 	moved	path-1469998600744	to	{"x":306,"y":137}
+1469998613619: 	action	mover	path-1469998600744	{"x":314,"y":139}
+1469998613620: 	moved	path-1469998600744	to	{"x":314,"y":139}
+1469998613633: 	action	mover	path-1469998600744	{"x":321,"y":141}
+1469998613634: 	moved	path-1469998600744	to	{"x":321,"y":141}
+1469998613649: 	action	mover	path-1469998600744	{"x":326,"y":143}
+1469998613650: 	moved	path-1469998600744	to	{"x":326,"y":143}
+1469998613670: 	action	mover	path-1469998600744	{"x":331,"y":145}
+1469998613671: 	moved	path-1469998600744	to	{"x":331,"y":145}
+1469998613684: 	action	mover	path-1469998600744	{"x":334,"y":146}
+1469998613685: 	moved	path-1469998600744	to	{"x":334,"y":146}
+1469998613701: 	action	mover	path-1469998600744	{"x":336,"y":148}
+1469998613702: 	moved	path-1469998600744	to	{"x":336,"y":148}
+1469998613717: 	action	mover	path-1469998600744	{"x":338,"y":150}
+1469998613718: 	moved	path-1469998600744	to	{"x":338,"y":150}
+1469998613734: 	action	mover	path-1469998600744	{"x":339,"y":152}
+1469998613735: 	moved	path-1469998600744	to	{"x":339,"y":152}
+1469998613751: 	action	mover	path-1469998600744	{"x":340,"y":154}
+1469998613752: 	moved	path-1469998600744	to	{"x":340,"y":154}
+1469998613768: 	action	mover	path-1469998600744	{"x":341,"y":157}
+1469998613768: 	moved	path-1469998600744	to	{"x":341,"y":157}
+1469998613784: 	action	mover	path-1469998600744	{"x":342,"y":160}
+1469998613785: 	moved	path-1469998600744	to	{"x":342,"y":160}
+1469998613801: 	action	mover	path-1469998600744	{"x":342,"y":164}
+1469998613802: 	moved	path-1469998600744	to	{"x":342,"y":164}
+1469998613818: 	action	mover	path-1469998600744	{"x":343,"y":169}
+1469998613819: 	moved	path-1469998600744	to	{"x":343,"y":169}
+1469998613835: 	action	mover	path-1469998600744	{"x":343,"y":173}
+1469998613836: 	moved	path-1469998600744	to	{"x":343,"y":173}
+1469998613853: 	action	mover	path-1469998600744	{"x":343,"y":177}
+1469998613853: 	moved	path-1469998600744	to	{"x":343,"y":177}
+1469998613870: 	action	mover	path-1469998600744	{"x":343,"y":180}
+1469998613871: 	moved	path-1469998600744	to	{"x":343,"y":180}
+1469998613887: 	action	mover	path-1469998600744	{"x":343,"y":181}
+1469998613887: 	moved	path-1469998600744	to	{"x":343,"y":181}
+1469998613903: 	action	mover	path-1469998600744	{"x":343,"y":182}
+1469998613904: 	moved	path-1469998600744	to	{"x":343,"y":182}
+1469998614136: 	action	mover	path-1469998600744	{"x":343,"y":183}
+1469998614137: 	moved	path-1469998600744	to	{"x":343,"y":183}
+1469998614192: 	action	mover	path-1469998600744	{"x":344,"y":183}
+1469998614193: 	moved	path-1469998600744	to	{"x":344,"y":183}
+1469998614217: 	action	mover	path-1469998600744	{"x":344,"y":184}
+1469998614218: 	moved	path-1469998600744	to	{"x":344,"y":184}
+1469998614233: 	action	mover	path-1469998600744	{"x":345,"y":186}
+1469998614234: 	moved	path-1469998600744	to	{"x":345,"y":186}
+1469998614250: 	action	mover	path-1469998600744	{"x":345,"y":189}
+1469998614251: 	moved	path-1469998600744	to	{"x":345,"y":189}
+1469998614266: 	action	mover	path-1469998600744	{"x":346,"y":191}
+1469998614267: 	moved	path-1469998600744	to	{"x":346,"y":191}
+1469998614283: 	action	mover	path-1469998600744	{"x":347,"y":194}
+1469998614284: 	moved	path-1469998600744	to	{"x":347,"y":194}
+1469998614300: 	action	mover	path-1469998600744	{"x":348,"y":196}
+1469998614301: 	moved	path-1469998600744	to	{"x":348,"y":196}
+1469998614322: 	action	mover	path-1469998600744	{"x":349,"y":198}
+1469998614323: 	moved	path-1469998600744	to	{"x":349,"y":198}
+1469998614334: 	action	mover	path-1469998600744	{"x":349,"y":199}
+1469998614335: 	moved	path-1469998600744	to	{"x":349,"y":199}
+1469998614352: 	action	mover	path-1469998600744	{"x":350,"y":200}
+1469998614353: 	moved	path-1469998600744	to	{"x":350,"y":200}
+1469998614369: 	action	mover	path-1469998600744	{"x":351,"y":201}
+1469998614369: 	moved	path-1469998600744	to	{"x":351,"y":201}
+1469998614386: 	action	mover	path-1469998600744	{"x":352,"y":202}
+1469998614387: 	moved	path-1469998600744	to	{"x":352,"y":202}
+1469998614402: 	action	mover	path-1469998600744	{"x":352,"y":203}
+1469998614403: 	moved	path-1469998600744	to	{"x":352,"y":203}
+1469998614419: 	action	mover	path-1469998600744	{"x":353,"y":204}
+1469998614420: 	moved	path-1469998600744	to	{"x":353,"y":204}
+1469998614435: 	action	mover	path-1469998600744	{"x":353,"y":205}
+1469998614436: 	moved	path-1469998600744	to	{"x":353,"y":205}
+1469998614544: 	action	mover	path-1469998600744	{"x":353,"y":204}
+1469998614545: 	moved	path-1469998600744	to	{"x":353,"y":204}
+1469998614561: 	action	mover	path-1469998600744	{"x":353,"y":203}
+1469998614562: 	moved	path-1469998600744	to	{"x":353,"y":203}
+1469998614576: 	action	mover	path-1469998600744	{"x":352,"y":202}
+1469998614577: 	moved	path-1469998600744	to	{"x":352,"y":202}
+1469998614593: 	action	mover	path-1469998600744	{"x":352,"y":201}
+1469998614594: 	moved	path-1469998600744	to	{"x":352,"y":201}
+1469998614641: 	action	mover	path-1469998600744	{"x":352,"y":200}
+1469998614642: 	moved	path-1469998600744	to	{"x":352,"y":200}
+1469998614664: 	action	mover	path-1469998600744	{"x":351,"y":199}
+1469998614665: 	moved	path-1469998600744	to	{"x":351,"y":199}
+1469998618961: 	acted on	innerText
+1469998618975: 	sub-instrument	stop	mover	false
+1469998618978: 	deactivate	mover
+1469998619923: 	acted on	innerText
+1469998619931: 	sub-instrument	start	resizer	true
+1469998619935: 	activate	resizer
+1469998620799: 	acted on	more-diagonal
+1469998620807: 	sub-instrument	more-diagonal	resizer	true
+1469998621697: 	acted on	image-45
+1469998621699: 	action	resizer	image-45	{"x":98,"y":42}
+1469998621701: 	resizer	more-diagonal	image-45
+1469998621963: 	action	resizer	image-45	{"x":98.5,"y":42.5}
+1469998621964: 	resizer	more-diagonal	image-45
+1469998621980: 	action	resizer	image-45	{"x":99,"y":51}
+1469998621981: 	resizer	more-diagonal	image-45
+1469998621997: 	action	resizer	image-45	{"x":98.5,"y":55.5}
+1469998621998: 	resizer	more-diagonal	image-45
+1469998622013: 	action	resizer	image-45	{"x":98,"y":60}
+1469998622014: 	resizer	more-diagonal	image-45
+1469998622030: 	action	resizer	image-45	{"x":98.5,"y":62.5}
+1469998622031: 	resizer	more-diagonal	image-45
+1469998622047: 	action	resizer	image-45	{"x":98,"y":67}
+1469998622048: 	resizer	more-diagonal	image-45
+1469998622065: 	action	resizer	image-45	{"x":98.5,"y":70.5}
+1469998622065: 	resizer	more-diagonal	image-45
+1469998622083: 	action	resizer	image-45	{"x":99,"y":73}
+1469998622083: 	resizer	more-diagonal	image-45
+1469998622098: 	action	resizer	image-45	{"x":99.5,"y":76.5}
+1469998622099: 	resizer	more-diagonal	image-45
+1469998622115: 	action	resizer	image-45	{"x":100,"y":79}
+1469998622116: 	resizer	more-diagonal	image-45
+1469998622134: 	action	resizer	image-45	{"x":100.5,"y":81.5}
+1469998622135: 	resizer	more-diagonal	image-45
+1469998622152: 	action	resizer	image-45	{"x":101,"y":83}
+1469998622152: 	resizer	more-diagonal	image-45
+1469998622166: 	action	resizer	image-45	{"x":101.5,"y":84.5}
+1469998622167: 	resizer	more-diagonal	image-45
+1469998622184: 	action	resizer	image-45	{"x":103,"y":86}
+1469998622185: 	resizer	more-diagonal	image-45
+1469998622203: 	action	resizer	image-45	{"x":103.5,"y":87.5}
+1469998622203: 	resizer	more-diagonal	image-45
+1469998622219: 	action	resizer	image-45	{"x":105,"y":88}
+1469998622220: 	resizer	more-diagonal	image-45
+1469998622237: 	action	resizer	image-45	{"x":105.5,"y":89.5}
+1469998622238: 	resizer	more-diagonal	image-45
+1469998622254: 	action	resizer	image-45	{"x":107,"y":91}
+1469998622255: 	resizer	more-diagonal	image-45
+1469998622271: 	action	resizer	image-45	{"x":108.5,"y":91.5}
+1469998622272: 	resizer	more-diagonal	image-45
+1469998622289: 	action	resizer	image-45	{"x":111,"y":94}
+1469998622290: 	resizer	more-diagonal	image-45
+1469998622306: 	action	resizer	image-45	{"x":112.5,"y":95.5}
+1469998622307: 	resizer	more-diagonal	image-45
+1469998622323: 	action	resizer	image-45	{"x":115,"y":97}
+1469998622324: 	resizer	more-diagonal	image-45
+1469998622340: 	action	resizer	image-45	{"x":117.5,"y":99.5}
+1469998622341: 	resizer	more-diagonal	image-45
+1469998622357: 	action	resizer	image-45	{"x":119,"y":102}
+1469998622358: 	resizer	more-diagonal	image-45
+1469998622374: 	action	resizer	image-45	{"x":123.5,"y":104.5}
+1469998622375: 	resizer	more-diagonal	image-45
+1469998622391: 	action	resizer	image-45	{"x":127,"y":109}
+1469998622392: 	resizer	more-diagonal	image-45
+1469998622409: 	action	resizer	image-45	{"x":130.5,"y":111.5}
+1469998622410: 	resizer	more-diagonal	image-45
+1469998622426: 	action	resizer	image-45	{"x":133,"y":114}
+1469998622426: 	resizer	more-diagonal	image-45
+1469998622443: 	action	resizer	image-45	{"x":136.5,"y":115.5}
+1469998622443: 	resizer	more-diagonal	image-45
+1469998622461: 	action	resizer	image-45	{"x":138,"y":117}
+1469998622462: 	resizer	more-diagonal	image-45
+1469998622478: 	action	resizer	image-45	{"x":140.5,"y":118.5}
+1469998622479: 	resizer	more-diagonal	image-45
+1469998622502: 	action	resizer	image-45	{"x":141,"y":120}
+1469998622503: 	resizer	more-diagonal	image-45
+1469998622518: 	action	resizer	image-45	{"x":144.5,"y":120.5}
+1469998622519: 	resizer	more-diagonal	image-45
+1469998622534: 	action	resizer	image-45	{"x":146,"y":122}
+1469998622534: 	resizer	more-diagonal	image-45
+1469998622554: 	action	resizer	image-45	{"x":148.5,"y":123.5}
+1469998622554: 	resizer	more-diagonal	image-45
+1469998622567: 	action	resizer	image-45	{"x":152,"y":125}
+1469998622568: 	resizer	more-diagonal	image-45
+1469998622585: 	action	resizer	image-45	{"x":153.5,"y":127.5}
+1469998622586: 	resizer	more-diagonal	image-45
+1469998622602: 	action	resizer	image-45	{"x":155,"y":129}
+1469998622602: 	resizer	more-diagonal	image-45
+1469998622619: 	action	resizer	image-45	{"x":156.5,"y":130.5}
+1469998622620: 	resizer	more-diagonal	image-45
+1469998622635: 	action	resizer	image-45	{"x":158,"y":131}
+1469998622636: 	resizer	more-diagonal	image-45
+1469998623656: 	acted on	innerText
+1469998623664: 	sub-instrument	stop	resizer	false
+1469998623668: 	deactivate	resizer
+1469998626279: 	acted on	innerText
+1469998626285: 	sub-instrument	start	shapes	true
+1469998626289: 	activate	shapes
+1469998627185: 	acted on	circle
+1469998627192: 	sub-instrument	circle	shapes	true
+1469998627711: 	acted on	content
+1469998627713: 	action	shapes	content	{"x":884,"y":295}
+1469998627715: 	shape started	{"x":884,"y":295}
+1469998627719: 	shape continued	10	circle
+1469998627824: 	action	shapes	content	{"x":875,"y":295}
+1469998627825: 	shape continued	10	circle
+1469998627841: 	action	shapes	content	{"x":846,"y":294}
+1469998627842: 	shape continued	38	circle
+1469998627858: 	action	shapes	content	{"x":814,"y":289}
+1469998627859: 	shape continued	70	circle
+1469998627876: 	action	shapes	content	{"x":767,"y":287}
+1469998627876: 	shape continued	117	circle
+1469998627893: 	action	shapes	content	{"x":743,"y":287}
+1469998627893: 	shape continued	141	circle
+1469998627909: 	action	shapes	content	{"x":714,"y":287}
+1469998627910: 	shape continued	170	circle
+1469998627926: 	action	shapes	content	{"x":690,"y":287}
+1469998627926: 	shape continued	194	circle
+1469998627942: 	action	shapes	content	{"x":650,"y":287}
+1469998627943: 	shape continued	234	circle
+1469998627959: 	action	shapes	content	{"x":627,"y":287}
+1469998627960: 	shape continued	257	circle
+1469998627976: 	action	shapes	content	{"x":604,"y":287}
+1469998627976: 	shape continued	280	circle
+1469998627993: 	action	shapes	content	{"x":591,"y":287}
+1469998627994: 	shape continued	293	circle
+1469998628010: 	action	shapes	content	{"x":579,"y":287}
+1469998628010: 	shape continued	305	circle
+1469998628027: 	action	shapes	content	{"x":574,"y":287}
+1469998628027: 	shape continued	310	circle
+1469998628044: 	action	shapes	content	{"x":571,"y":287}
+1469998628044: 	shape continued	313	circle
+1469998628065: 	action	shapes	content	{"x":570,"y":287}
+1469998628065: 	shape continued	314	circle
+1469998629269: 	acted on	innerText
+1469998629276: 	sub-instrument	stop	shapes	false
+1469998629279: 	deactivate	shapes
+1469998630919: 	acted on	innerText
+1469998630927: 	sub-instrument	start	colorPicker	true
+1469998630931: 	activate	colorPicker
+1469998631711: 	acted on	#00CC00
+1469998631723: 	sub-instrument	#00CC00	colorPicker	true
+1469998633237: 	acted on	sample
+1469998633246: 	action	colorPicker	sample	{"x":49,"y":105}
+1469998633247: 	changed color to	rgba(0, 0, 0, 0.8)
+1469998634255: 	acted on	shape-1469998627717
+1469998634258: 	action	colorPicker	shape-1469998627717	{"x":131,"y":95}
+1469998634260: 	changed color to	rgba(0, 0, 0, 0.8)
+1469998636176: 	acted on	innerText
+1469998636183: 	sub-instrument	stop	colorPicker	false
+1469998636186: 	deactivate	colorPicker
+1469998637030: 	acted on	innerText
+1469998637035: 	sub-instrument	start	draw	true
+1469998637037: 	activate	draw
+1469998637661: 	acted on	content
+1469998637663: 	action	draw	content	{"x":882,"y":79}
+1469998637665: 	draw	content	{"x":882,"y":79}
+1469998637772: 	action	draw	content	{"x":881,"y":79}
+1469998637773: 	draw	content	{"x":881,"y":79}
+1469998637789: 	action	draw	content	{"x":874,"y":79}
+1469998637789: 	draw	content	{"x":874,"y":79}
+1469998637805: 	action	draw	content	{"x":863,"y":79}
+1469998637806: 	draw	content	{"x":863,"y":79}
+1469998637822: 	action	draw	content	{"x":848,"y":79}
+1469998637823: 	draw	content	{"x":848,"y":79}
+1469998637840: 	action	draw	content	{"x":832,"y":79}
+1469998637840: 	draw	content	{"x":832,"y":79}
+1469998637857: 	action	draw	content	{"x":822,"y":79}
+1469998637858: 	draw	content	{"x":822,"y":79}
+1469998637874: 	action	draw	content	{"x":816,"y":79}
+1469998637875: 	draw	content	{"x":816,"y":79}
+1469998637891: 	action	draw	content	{"x":812,"y":79}
+1469998637892: 	draw	content	{"x":812,"y":79}
+1469998637909: 	action	draw	content	{"x":811,"y":79}
+1469998637910: 	draw	content	{"x":811,"y":79}
+1469998637932: 	action	draw	content	{"x":811,"y":76}
+1469998637933: 	draw	content	{"x":811,"y":76}
+1469998637950: 	action	draw	content	{"x":825,"y":64}
+1469998637951: 	draw	content	{"x":825,"y":64}
+1469998637966: 	action	draw	content	{"x":850,"y":49}
+1469998637967: 	draw	content	{"x":850,"y":49}
+1469998638068: 	acted on	content
+1469998638069: 	action	draw	content	{"x":995,"y":48}
+1469998638071: 	draw	content	{"x":995,"y":48}
+1469998638075: 	action	draw	content	{"x":996,"y":50}
+1469998638076: 	draw	content	{"x":996,"y":50}
+1469998638088: 	action	draw	content	{"x":996,"y":51}
+1469998638089: 	draw	content	{"x":996,"y":51}
+1469998639180: 	acted on	shape-1469998627717
+1469998639182: 	action	draw	shape-1469998627717	{"x":133,"y":182}
+1469998639183: 	draw	shape-1469998627717	{"x":133,"y":182}
+1469998639318: 	action	draw	shape-1469998627717	{"x":133,"y":181}
+1469998639319: 	draw	shape-1469998627717	{"x":133,"y":181}
+1469998639336: 	action	draw	shape-1469998627717	{"x":133,"y":178}
+1469998639337: 	draw	shape-1469998627717	{"x":133,"y":178}
+1469998639351: 	action	draw	shape-1469998627717	{"x":133,"y":166}
+1469998639352: 	draw	shape-1469998627717	{"x":133,"y":166}
+1469998639370: 	action	draw	shape-1469998627717	{"x":133,"y":158}
+1469998639370: 	draw	shape-1469998627717	{"x":133,"y":158}
+1469998639386: 	action	draw	shape-1469998627717	{"x":136,"y":150}
+1469998639387: 	draw	shape-1469998627717	{"x":136,"y":150}
+1469998639403: 	action	draw	shape-1469998627717	{"x":148,"y":146}
+1469998639403: 	draw	shape-1469998627717	{"x":148,"y":146}
+1469998639419: 	action	draw	shape-1469998627717	{"x":177,"y":146}
+1469998639420: 	draw	shape-1469998627717	{"x":177,"y":146}
+1469998639437: 	action	draw	shape-1469998627717	{"x":202,"y":147}
+1469998639437: 	draw	shape-1469998627717	{"x":202,"y":147}
+1469998639453: 	action	draw	shape-1469998627717	{"x":219,"y":160}
+1469998639454: 	draw	shape-1469998627717	{"x":219,"y":160}
+1469998639471: 	action	draw	shape-1469998627717	{"x":236,"y":182}
+1469998639472: 	draw	shape-1469998627717	{"x":236,"y":182}
+1469998639488: 	action	draw	shape-1469998627717	{"x":247,"y":209}
+1469998639489: 	draw	shape-1469998627717	{"x":247,"y":209}
+1469998639505: 	action	draw	shape-1469998627717	{"x":250,"y":226}
+1469998639506: 	draw	shape-1469998627717	{"x":250,"y":226}
+1469998639522: 	action	draw	shape-1469998627717	{"x":251,"y":242}
+1469998639522: 	draw	shape-1469998627717	{"x":251,"y":242}
+1469998639539: 	action	draw	shape-1469998627717	{"x":248,"y":258}
+1469998639540: 	draw	shape-1469998627717	{"x":248,"y":258}
+1469998639557: 	action	draw	shape-1469998627717	{"x":230,"y":266}
+1469998639557: 	draw	shape-1469998627717	{"x":230,"y":266}
+1469998639573: 	action	draw	shape-1469998627717	{"x":196,"y":268}
+1469998639574: 	draw	shape-1469998627717	{"x":196,"y":268}
+1469998639590: 	action	draw	shape-1469998627717	{"x":155,"y":265}
+1469998639591: 	draw	shape-1469998627717	{"x":155,"y":265}
+1469998639607: 	action	draw	shape-1469998627717	{"x":100,"y":238}
+1469998639608: 	draw	shape-1469998627717	{"x":100,"y":238}
+1469998639624: 	action	draw	shape-1469998627717	{"x":70,"y":212}
+1469998639625: 	draw	shape-1469998627717	{"x":70,"y":212}
+1469998639641: 	action	draw	shape-1469998627717	{"x":41,"y":179}
+1469998639642: 	draw	shape-1469998627717	{"x":41,"y":179}
+1469998639658: 	action	draw	shape-1469998627717	{"x":28,"y":150}
+1469998639659: 	draw	shape-1469998627717	{"x":28,"y":150}
+1469998639675: 	action	draw	shape-1469998627717	{"x":23,"y":125}
+1469998639676: 	draw	shape-1469998627717	{"x":23,"y":125}
+1469998639693: 	action	draw	shape-1469998627717	{"x":22,"y":94}
+1469998639693: 	draw	shape-1469998627717	{"x":22,"y":94}
+1469998639709: 	action	draw	shape-1469998627717	{"x":34,"y":82}
+1469998639710: 	draw	shape-1469998627717	{"x":34,"y":82}
+1469998639726: 	action	draw	shape-1469998627717	{"x":59,"y":78}
+1469998639727: 	draw	shape-1469998627717	{"x":59,"y":78}
+1469998639743: 	action	draw	shape-1469998627717	{"x":100,"y":78}
+1469998639744: 	draw	shape-1469998627717	{"x":100,"y":78}
+1469998639760: 	action	draw	shape-1469998627717	{"x":126,"y":80}
+1469998639761: 	draw	shape-1469998627717	{"x":126,"y":80}
+1469998639778: 	action	draw	shape-1469998627717	{"x":153,"y":90}
+1469998639778: 	draw	shape-1469998627717	{"x":153,"y":90}
+1469998639794: 	action	draw	shape-1469998627717	{"x":171,"y":104}
+1469998639795: 	draw	shape-1469998627717	{"x":171,"y":104}
+1469998639811: 	action	draw	shape-1469998627717	{"x":182,"y":121}
+1469998639811: 	draw	shape-1469998627717	{"x":182,"y":121}
+1469998639827: 	action	draw	shape-1469998627717	{"x":185,"y":137}
+1469998639828: 	draw	shape-1469998627717	{"x":185,"y":137}
+1469998639845: 	action	draw	shape-1469998627717	{"x":187,"y":163}
+1469998639845: 	draw	shape-1469998627717	{"x":187,"y":163}
+1469998639862: 	action	draw	shape-1469998627717	{"x":186,"y":178}
+1469998639862: 	draw	shape-1469998627717	{"x":186,"y":178}
+1469998639879: 	action	draw	shape-1469998627717	{"x":178,"y":191}
+1469998639879: 	draw	shape-1469998627717	{"x":178,"y":191}
+1469998639896: 	action	draw	shape-1469998627717	{"x":169,"y":197}
+1469998639896: 	draw	shape-1469998627717	{"x":169,"y":197}
+1469998639913: 	action	draw	shape-1469998627717	{"x":161,"y":200}
+1469998639913: 	draw	shape-1469998627717	{"x":161,"y":200}
+1469998639930: 	action	draw	shape-1469998627717	{"x":149,"y":200}
+1469998639930: 	draw	shape-1469998627717	{"x":149,"y":200}
+1469998639947: 	action	draw	shape-1469998627717	{"x":138,"y":187}
+1469998639948: 	draw	shape-1469998627717	{"x":138,"y":187}
+1469998639965: 	action	draw	shape-1469998627717	{"x":129,"y":167}
+1469998639965: 	draw	shape-1469998627717	{"x":129,"y":167}
+1469998639982: 	action	draw	shape-1469998627717	{"x":125,"y":127}
+1469998639982: 	draw	shape-1469998627717	{"x":125,"y":127}
+1469998639998: 	action	draw	shape-1469998627717	{"x":127,"y":97}
+1469998639998: 	draw	shape-1469998627717	{"x":127,"y":97}
+1469998640015: 	action	draw	shape-1469998627717	{"x":150,"y":63}
+1469998640015: 	draw	shape-1469998627717	{"x":150,"y":63}
+1469998640031: 	action	draw	shape-1469998627717	{"x":171,"y":51}
+1469998640032: 	draw	shape-1469998627717	{"x":171,"y":51}
+1469998640048: 	action	draw	shape-1469998627717	{"x":198,"y":44}
+1469998640049: 	draw	shape-1469998627717	{"x":198,"y":44}
+1469998640066: 	action	draw	shape-1469998627717	{"x":224,"y":44}
+1469998640066: 	draw	shape-1469998627717	{"x":224,"y":44}
+1469998640083: 	action	draw	shape-1469998627717	{"x":246,"y":50}
+1469998640084: 	draw	shape-1469998627717	{"x":246,"y":50}
+1469998640100: 	action	draw	shape-1469998627717	{"x":263,"y":63}
+1469998640100: 	draw	shape-1469998627717	{"x":263,"y":63}
+1469998640117: 	action	draw	shape-1469998627717	{"x":274,"y":80}
+1469998640118: 	draw	shape-1469998627717	{"x":274,"y":80}
+1469998640133: 	action	draw	shape-1469998627717	{"x":278,"y":91}
+1469998640134: 	draw	shape-1469998627717	{"x":278,"y":91}
+1469998640150: 	action	draw	shape-1469998627717	{"x":282,"y":98}
+1469998640151: 	draw	shape-1469998627717	{"x":282,"y":98}
+1469998640167: 	action	draw	shape-1469998627717	{"x":282,"y":102}
+1469998640168: 	draw	shape-1469998627717	{"x":282,"y":102}
+1469998640187: 	action	draw	shape-1469998627717	{"x":282,"y":104}
+1469998640187: 	draw	shape-1469998627717	{"x":282,"y":104}
+1469998640204: 	action	draw	shape-1469998627717	{"x":282,"y":105}
+1469998640205: 	draw	shape-1469998627717	{"x":282,"y":105}
+1469998641307: 	acted on	innerText
+1469998641316: 	sub-instrument	stop	draw	false
+1469998641319: 	deactivate	draw

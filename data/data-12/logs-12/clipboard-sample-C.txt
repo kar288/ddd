@@ -1,0 +1,54 @@
+1470235164784: 	acted on	history
+1470236490730: 	acted on	history
+1470236491365: 	acted on	history
+1470236756694: 	acted on	innerText
+1470236756747: 	sub-instrument	start	clipboard	true
+1470236756761: 	activate	clipboard
+1470236758304: 	acted on	copy
+1470236758453: 	sub-instrument	copy	clipboard	true
+1470236764274: 	copied	image-11
+1470236762792: 	acted on	paste
+1470236762829: 	sub-instrument	paste	clipboard	true
+1470236768074: 	pasted	image-11-
+1470236767105: 	acted on	copy
+1470236767173: 	sub-instrument	copy	clipboard	true
+1470236771749: 	copied	image-5
+1470236769709: 	acted on	paste
+1470236769775: 	sub-instrument	paste	clipboard	true
+1470236774682: 	pasted	image-5-
+1470236774318: 	acted on	delete
+1470236774418: 	sub-instrument	delete	clipboard	true
+1470236779040: 	deleted	image-5-1470236774683
+1470236776677: 	acted on	innerText
+1470236776738: 	sub-instrument	stop	clipboard	false
+1470236776756: 	deactivate	clipboard
+1470236868185: 	acted on	innerText
+1470236868239: 	sub-instrument	start	clipboard	true
+1470236868252: 	activate	clipboard
+1470236869059: 	acted on	delete
+1470236869140: 	sub-instrument	delete	clipboard	true
+1470236873912: 	deleted	shape-1470236859353
+1470236874596: 	deleted	path-1470236789421
+1470236875247: 	deleted	path-1470236788391
+1470236875455: 	deleted	path-1470236837143
+1470236875665: 	deleted	path-1470236836320
+1470236873871: 	acted on	innerText
+1470236873932: 	deactivate	clipboard
+1470236873919: 	sub-instrument	stop	clipboard	false
+1470236930131: 	acted on	innerText
+1470236930200: 	sub-instrument	start	clipboard	true
+1470236930215: 	activate	clipboard
+1470236930801: 	acted on	delete
+1470236930917: 	sub-instrument	delete	clipboard	true
+1470236935413: 	deleted	shape-1470236889700
+1470236935930: 	deleted	shape-1470236895573
+1470236936454: 	deleted	shape-1470236894452
+1470236937129: 	deleted	shape-1470236888901
+1470236938095: 	deleted	shape-1470236895358
+1470236940430: 	deleted	shape-1470236893975
+1470236941163: 	deleted	shape-1470236929182
+1470236942004: 	deleted	shape-1470236896891
+1470236943363: 	deleted	image-11-1470236768076
+1470236942645: 	acted on	innerText
+1470236942768: 	sub-instrument	stop	clipboard	false
+1470236942783: 	deactivate	clipboard

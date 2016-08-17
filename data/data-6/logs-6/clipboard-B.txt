@@ -1,0 +1,77 @@
+1470150068888: 	acted on	copy
+1470150068971: 	sub-instrument	copy	clipboard	false
+1470150071223: 	acted on	innerText
+1470150071311: 	sub-instrument	start	clipboard	true
+1470150071312: 	activate	clipboard
+1470150071856: 	acted on	copy
+1470150071928: 	sub-instrument	copy	clipboard	true
+1470150073045: 	copied	image-75
+1470150080206: 	acted on	paste
+1470150080278: 	sub-instrument	paste	clipboard	true
+1470150081153: 	pasted	image-75-
+1470150082596: 	acted on	innerText
+1470150082662: 	sub-instrument	stop	clipboard	false
+1470150082663: 	deactivate	clipboard
+1470150148672: 	acted on	innerText
+1470150148721: 	sub-instrument	start	clipboard	true
+1470150148723: 	activate	clipboard
+1470150149371: 	acted on	copy
+1470150149435: 	sub-instrument	copy	clipboard	true
+1470150150469: 	copied	image-75
+1470150152553: 	acted on	paste
+1470150152627: 	sub-instrument	paste	clipboard	true
+1470150153201: 	pasted	image-75-
+1470150154303: 	acted on	innerText
+1470150154387: 	sub-instrument	stop	clipboard	false
+1470150154388: 	deactivate	clipboard
+1470150159329: 	acted on	innerText
+1470150159386: 	sub-instrument	start	clipboard	true
+1470150159387: 	activate	clipboard
+1470150163428: 	acted on	delete
+1470150163487: 	sub-instrument	delete	clipboard	true
+1470150164202: 	deleted	image-75-1470150153202
+1470150165562: 	acted on	copy
+1470150165627: 	sub-instrument	copy	clipboard	true
+1470150166727: 	copied	image-41
+1470150168539: 	acted on	paste
+1470150168603: 	sub-instrument	paste	clipboard	true
+1470150169102: 	pasted	image-41-
+1470150169787: 	acted on	innerText
+1470150169844: 	sub-instrument	stop	clipboard	false
+1470150169845: 	deactivate	clipboard
+1470150183394: 	acted on	innerText
+1470150183428: 	sub-instrument	start	clipboard	true
+1470150183429: 	activate	clipboard
+1470150184286: 	acted on	copy
+1470150184336: 	sub-instrument	copy	clipboard	true
+1470150186077: 	copied	image-52
+1470150188152: 	acted on	paste
+1470150188203: 	sub-instrument	paste	clipboard	true
+1470150189169: 	pasted	image-52-
+1470150190136: 	acted on	innerText
+1470150190194: 	sub-instrument	stop	clipboard	false
+1470150190195: 	deactivate	clipboard
+1470150222435: 	acted on	innerText
+1470150222509: 	sub-instrument	start	clipboard	true
+1470150222510: 	activate	clipboard
+1470150223143: 	acted on	copy
+1470150223201: 	sub-instrument	copy	clipboard	true
+1470150226126: 	copied	image-53
+1470150234993: 	acted on	paste
+1470150235068: 	sub-instrument	paste	clipboard	true
+1470150235566: 	pasted	image-53-
+1470150236001: 	acted on	innerText
+1470150236076: 	sub-instrument	stop	clipboard	false
+1470150236077: 	deactivate	clipboard
+1470150248885: 	acted on	innerText
+1470150248951: 	sub-instrument	start	clipboard	true
+1470150248952: 	activate	clipboard
+1470150249352: 	acted on	copy
+1470150249400: 	sub-instrument	copy	clipboard	true
+1470150304282: 	copied	image-52
+1470150305751: 	acted on	paste
+1470150305816: 	sub-instrument	paste	clipboard	true
+1470150306357: 	pasted	image-52-
+1470150307333: 	acted on	innerText
+1470150307399: 	sub-instrument	stop	clipboard	false
+1470150307400: 	deactivate	clipboard

@@ -1,0 +1,25 @@
+1470238933453: 	acted on	innerText
+1470238933542: 	sub-instrument	start	clipboard	true
+1470238933544: 	activate	clipboard
+1470238934043: 	acted on	copy
+1470238934143: 	sub-instrument	copy	clipboard	true
+1470238935001: 	copied	image-11
+1470238936134: 	acted on	paste
+1470238936251: 	sub-instrument	paste	clipboard	true
+1470238936885: 	pasted	image-11-
+1470238937953: 	acted on	innerText
+1470238938034: 	sub-instrument	stop	clipboard	false
+1470238938036: 	deactivate	clipboard
+1470238985234: 	acted on	innerText
+1470238985309: 	sub-instrument	start	clipboard	true
+1470238985310: 	activate	clipboard
+1470238985834: 	acted on	delete
+1470238985876: 	sub-instrument	delete	clipboard	true
+1470238986403: 	acted on	delete
+1470238986509: 	sub-instrument	delete	clipboard	true
+1470238987410: 	deleted	image-11
+1470238987958: 	deleted	image-11-1470238936886
+1470238988434: 	deleted	shape-1470238968272
+1470238989784: 	acted on	innerText
+1470238989884: 	sub-instrument	stop	clipboard	false
+1470238989884: 	deactivate	clipboard

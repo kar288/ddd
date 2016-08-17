@@ -1,0 +1,12 @@
+1469977299708: 	acted on	innerText
+1469977299885: 	sub-instrument	start	draw	true
+1469977299896: 	activate	draw
+1469977300635: 	acted on	innerText
+1469977300767: 	sub-instrument	stop	draw	false
+1469977300774: 	deactivate	draw
+1469977349944: 	acted on	sample
+1469977351959: 	acted on	sample
+1469977412017: 	acted on	sample
+1469977412735: 	acted on	sample
+1469977414500: 	acted on	sample
+1469977415251: 	acted on	menu

@@ -1,0 +1,98 @@
+1470743769907: 	acted on	sample
+1470743770639: 	acted on	sample
+1470743771039: 	acted on	sample
+1470743771423: 	acted on	sample
+1470743771890: 	acted on	sample
+1470743777414: 	acted on	innerText
+1470743777481: 	sub-instrument	start	shapes	true
+1470743777482: 	activate	shapes
+1470743777956: 	acted on	circle
+1470743778022: 	sub-instrument	circle	shapes	true
+1470743779110: 	shape started	{"x":750,"y":255}
+1470743779113: 	shape continued	10	circle
+1470743779740: 	shape continued	12	circle
+1470743779789: 	shape continued	13	circle
+1470743779832: 	shape continued	14	circle
+1470743779856: 	shape continued	14	circle
+1470743779881: 	shape continued	15	circle
+1470743779932: 	shape continued	16	circle
+1470743780006: 	shape continued	17	circle
+1470743780265: 	shape continued	18	circle
+1470743780339: 	shape continued	18	circle
+1470743780348: 	shape continued	19	circle
+1470743780431: 	shape continued	20	circle
+1470743780489: 	shape continued	20	circle
+1470743780514: 	shape continued	21	circle
+1470743780590: 	shape continued	22	circle
+1470743780664: 	shape continued	23	circle
+1470743780731: 	shape continued	24	circle
+1470743780781: 	shape continued	24	circle
+1470743781598: 	acted on	innerText
+1470743781664: 	sub-instrument	stop	shapes	false
+1470743781665: 	deactivate	shapes
+1470744024919: 	acted on	menu
+1470744025486: 	acted on	circle
+1470744025560: 	sub-instrument	circle	shapes	false
+1470744029486: 	acted on	innerText
+1470744029561: 	sub-instrument	start	shapes	true
+1470744029561: 	activate	shapes
+1470744037919: 	acted on	circle
+1470744037985: 	sub-instrument	circle	shapes	true
+1470744038730: 	shape started	{"x":56,"y":249}
+1470744038733: 	shape continued	10	circle
+1470744039128: 	shape continued	15	circle
+1470744039152: 	shape continued	16	circle
+1470744039167: 	shape continued	17	circle
+1470744039193: 	shape continued	18	circle
+1470744039210: 	shape continued	19	circle
+1470744039277: 	shape continued	20	circle
+1470744039310: 	shape continued	21	circle
+1470744039353: 	shape continued	22	circle
+1470744039394: 	shape continued	23	circle
+1470744039436: 	shape continued	24	circle
+1470744039510: 	shape continued	25	circle
+1470744039578: 	shape continued	26	circle
+1470744040179: 	shape started	{"x":10,"y":272}
+1470744040182: 	shape continued	10	circle
+1470744040645: 	shape continued	15	circle
+1470744040659: 	shape continued	16	circle
+1470744040694: 	shape continued	17	circle
+1470744040710: 	shape continued	18	circle
+1470744040726: 	shape continued	19	circle
+1470744040760: 	shape continued	20	circle
+1470744040794: 	shape continued	21	circle
+1470744040836: 	shape continued	22	circle
+1470744040877: 	shape continued	23	circle
+1470744040910: 	shape continued	24	circle
+1470744040969: 	shape continued	25	circle
+1470744041086: 	shape continued	25	circle
+1470744041852: 	acted on	innerText
+1470744041919: 	sub-instrument	stop	shapes	false
+1470744041920: 	deactivate	shapes
+1470744117237: 	acted on	menu
+1470744118028: 	acted on	innerText
+1470744118103: 	sub-instrument	start	shapes	true
+1470744118104: 	activate	shapes
+1470744118710: 	acted on	circle
+1470744118794: 	sub-instrument	circle	shapes	true
+1470744120522: 	shape started	{"x":619,"y":356}
+1470744120525: 	shape continued	10	circle
+1470744120902: 	shape continued	15	circle
+1470744120909: 	shape continued	16	circle
+1470744120926: 	shape continued	17	circle
+1470744120934: 	shape continued	18	circle
+1470744120951: 	shape continued	19	circle
+1470744120960: 	shape continued	20	circle
+1470744120977: 	shape continued	21	circle
+1470744120994: 	shape continued	22	circle
+1470744121019: 	shape continued	23	circle
+1470744121028: 	shape continued	24	circle
+1470744121044: 	shape continued	24	circle
+1470744121060: 	shape continued	25	circle
+1470744121143: 	shape continued	26	circle
+1470744121194: 	shape continued	27	circle
+1470744121226: 	shape continued	27	circle
+1470744121261: 	shape continued	28	circle
+1470744123035: 	acted on	innerText
+1470744123110: 	sub-instrument	stop	shapes	false
+1470744123111: 	deactivate	shapes

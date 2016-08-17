@@ -1,0 +1,67 @@
+1470740794803: 	acted on	innerText
+1470740794900: 	sub-instrument	start	colorPicker	true
+1470740794912: 	activate	colorPicker
+1470740795996: 	acted on	#009933
+1470740796071: 	sub-instrument	#009933	colorPicker	true
+1470740809317: 	changed color to	rgb(255, 57, 255)
+1470740810041: 	changed color to	rgb(255, 57, 255)
+1470740803664: 	acted on	#0066CC
+1470740803796: 	sub-instrument	#0066CC	colorPicker	true
+1470740817140: 	changed color to	rgb(88, 255, 88)
+1470740809320: 	acted on	menu
+1470740810630: 	acted on	innerText
+1470740810742: 	sub-instrument	stop	colorPicker	false
+1470740810759: 	deactivate	colorPicker
+1470740827135: 	acted on	innerText
+1470740827191: 	sub-instrument	start	colorPicker	true
+1470740827197: 	activate	colorPicker
+1470740828077: 	acted on	#0066FF
+1470740828176: 	sub-instrument	#0066FF	colorPicker	true
+1470740844827: 	changed color to	rgb(255, 255, 78)
+1470740845302: 	changed color to	rgb(255, 255, 78)
+1470740836743: 	acted on	innerText
+1470740837601: 	acted on	innerText
+1470740838470: 	acted on	innerText
+1470740838630: 	sub-instrument	stop	colorPicker	false
+1470740838636: 	deactivate	colorPicker
+1470740838650: 	sub-instrument	start	colorPicker	true
+1470740838659: 	activate	colorPicker
+1470740839603: 	acted on	innerText
+1470740840590: 	acted on	innerText
+1470740840620: 	sub-instrument	stop	colorPicker	false
+1470740840624: 	deactivate	colorPicker
+1470740840634: 	sub-instrument	start	colorPicker	true
+1470740840639: 	activate	colorPicker
+1470740841750: 	acted on	innerText
+1470740841823: 	sub-instrument	stop	colorPicker	false
+1470740841836: 	deactivate	colorPicker
+1470740920800: 	acted on	menu
+1470740925237: 	acted on	menu
+1470740925975: 	acted on	menu
+1470740928392: 	acted on	menu
+1470740930571: 	acted on	innerText
+1470740930671: 	sub-instrument	start	colorPicker	true
+1470740930704: 	activate	colorPicker
+1470740932390: 	acted on	menu
+1470740937237: 	acted on	menu
+1470740937386: 	sub-instrument	stop	colorPicker	false
+1470740937389: 	deactivate	colorPicker
+1470740937391: 	switched instrument	colorPicker	to	clipboard-sample-C
+1470740983836: 	acted on	#009966
+1470740983934: 	sub-instrument	#009966	colorPicker	false
+1470740989746: 	acted on	innerText
+1470740991312: 	acted on	innerText
+1470740991374: 	sub-instrument	start	colorPicker	true
+1470740991386: 	activate	colorPicker
+1470740991398: 	sub-instrument	stop	colorPicker	false
+1470740991407: 	deactivate	colorPicker
+1470740991548: 	acted on	innerText
+1470740991659: 	sub-instrument	start	colorPicker	true
+1470740991670: 	activate	colorPicker
+1470741003489: 	changed color to	rgb(47, 47, 255)
+1470741004681: 	changed color to	rgb(47, 47, 255)
+1470741006689: 	changed color to	rgb(47, 47, 255)
+1470740999193: 	acted on	menu
+1470740999420: 	acted on	innerText
+1470740999579: 	sub-instrument	stop	colorPicker	false
+1470740999586: 	deactivate	colorPicker

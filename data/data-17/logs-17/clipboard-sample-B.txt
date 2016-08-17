@@ -1,0 +1,12 @@
+1470666591872: 	acted on	innerText
+1470666591988: 	sub-instrument	start	clipboard	true
+1470666591989: 	activate	clipboard
+1470666592388: 	acted on	copy
+1470666592504: 	sub-instrument	copy	clipboard	true
+1470666593671: 	copied	image-11
+1470666595155: 	acted on	paste
+1470666595271: 	sub-instrument	paste	clipboard	true
+1470666595954: 	pasted	image-11-
+1470666597163: 	acted on	innerText
+1470666597262: 	sub-instrument	stop	clipboard	false
+1470666597263: 	deactivate	clipboard

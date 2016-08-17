@@ -1,0 +1,27 @@
+1470165852427: 	acted on	innerText
+1470165852443: 	sub-instrument	start	mover	true
+1470165852451: 	activate	mover
+1470165853330: 	start moving	image-66	from	{"x":69,"y":47}
+1470165853454: 	moved	image-66	to	{"x":150,"y":120}
+1470165853468: 	moved	image-66	to	{"x":156,"y":120}
+1470165853486: 	moved	image-66	to	{"x":167,"y":120}
+1470165853502: 	moved	image-66	to	{"x":183,"y":120}
+1470165853519: 	moved	image-66	to	{"x":199,"y":120}
+1470165853536: 	moved	image-66	to	{"x":208,"y":120}
+1470165853552: 	moved	image-66	to	{"x":219,"y":120}
+1470165853571: 	moved	image-66	to	{"x":228,"y":120}
+1470165853586: 	moved	image-66	to	{"x":235,"y":120}
+1470165853602: 	moved	image-66	to	{"x":238,"y":120}
+1470165853621: 	moved	image-66	to	{"x":242,"y":120}
+1470165853635: 	moved	image-66	to	{"x":244,"y":119}
+1470165853653: 	moved	image-66	to	{"x":247,"y":116}
+1470165853669: 	moved	image-66	to	{"x":248,"y":112}
+1470165853686: 	moved	image-66	to	{"x":248,"y":106}
+1470165853703: 	moved	image-66	to	{"x":248,"y":98}
+1470165853720: 	moved	image-66	to	{"x":243,"y":91}
+1470165853738: 	moved	image-66	to	{"x":237,"y":86}
+1470165853755: 	moved	image-66	to	{"x":230,"y":83}
+1470165853774: 	moved	image-66	to	{"x":221,"y":82}
+1470165855102: 	acted on	innerText
+1470165855111: 	sub-instrument	stop	mover	false
+1470165855114: 	deactivate	mover

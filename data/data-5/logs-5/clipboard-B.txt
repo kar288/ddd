@@ -1,0 +1,15 @@
+1470141116114: 	acted on	history
+1470141539433: 	acted on	delete
+1470141539606: 	sub-instrument	delete	clipboard	false
+1470141541107: 	acted on	innerText
+1470141541198: 	sub-instrument	start	clipboard	true
+1470141541199: 	activate	clipboard
+1470141541698: 	acted on	delete
+1470141541830: 	sub-instrument	delete	clipboard	true
+1470141551088: 	deleted	path-1470141500448
+1470141551947: 	deleted	path-1470141503102
+1470141554064: 	deleted	path-1470141445229
+1470141554638: 	deleted	path-1470141440986
+1470141555272: 	deleted	path-1470141438638
+1470141556921: 	deleted	path-1470141258974
+1470141665927: 	deleted	sub-instrument-container

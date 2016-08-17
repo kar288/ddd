@@ -1,0 +1,43 @@
+1469994951580: 	acted on	innerText
+1469994951601: 	sub-instrument	start	draw	true
+1469994955336: 	activate	draw
+1469994956177: 	draw	content	{"x":956,"y":283}
+1469994956190: 	draw	content	{"x":956,"y":283}
+1469994956260: 	draw	content	{"x":956,"y":282}
+1469994956274: 	draw	content	{"x":956,"y":271}
+1469994956293: 	draw	content	{"x":956,"y":262}
+1469994956308: 	draw	content	{"x":956,"y":254}
+1469994956326: 	draw	content	{"x":956,"y":240}
+1469994956342: 	draw	content	{"x":956,"y":225}
+1469994956361: 	draw	content	{"x":960,"y":219}
+1469994956375: 	draw	content	{"x":968,"y":209}
+1469994956395: 	draw	content	{"x":978,"y":199}
+1469994956410: 	draw	content	{"x":991,"y":191}
+1469994957742: 	acted on	innerText
+1469994957750: 	sub-instrument	stop	draw	false
+1469994957754: 	deactivate	draw
+1469995333141: 	acted on	sample
+1469995334027: 	acted on	sample
+1469995335170: 	acted on	sample
+1469995349148: 	acted on	sample
+1469995349730: 	acted on	sample
+1469995563141: 	acted on	innerText
+1469995563150: 	sub-instrument	start	draw	true
+1469995563155: 	activate	draw
+1469995563810: 	draw	content	{"x":905,"y":295}
+1469995563819: 	draw	content	{"x":905,"y":295}
+1469995563894: 	draw	content	{"x":905,"y":292}
+1469995563909: 	draw	content	{"x":905,"y":280}
+1469995563927: 	draw	content	{"x":905,"y":262}
+1469995563943: 	draw	content	{"x":914,"y":228}
+1469995563969: 	draw	content	{"x":922,"y":213}
+1469995563982: 	draw	content	{"x":935,"y":200}
+1469995563995: 	draw	content	{"x":955,"y":189}
+1469995564011: 	draw	content	{"x":981,"y":179}
+1469995564028: 	draw	content	{"x":1015,"y":168}
+1469995564045: 	draw	content	{"x":1038,"y":161}
+1469995564062: 	draw	content	{"x":1048,"y":158}
+1469995564079: 	draw	content	{"x":1058,"y":154}
+1469995565666: 	acted on	innerText
+1469995565678: 	sub-instrument	stop	draw	false
+1469995565682: 	deactivate	draw

@@ -1,0 +1,13 @@
+1470141665789: 	acted on	sub-instrument-container
+1470141683709: 	acted on	innerText
+1470141683829: 	sub-instrument	start	shapes	true
+1470141683830: 	activate	shapes
+1470141685674: 	acted on	circle
+1470141685822: 	sub-instrument	circle	shapes	true
+1470141686574: 	acted on	sample
+1470141694546: 	acted on	sample
+1470141695346: 	acted on	sample
+1470141696037: 	acted on	sample
+1470141699254: 	acted on	sample
+1470141699871: 	acted on	sample
+1470141700854: 	acted on	sample

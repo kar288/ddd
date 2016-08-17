@@ -1,0 +1,17 @@
+1470306326534: 	acted on	history
+1470306327197: 	acted on	history
+1470306522599: 	acted on	innerText
+1470306522694: 	sub-instrument	start	clipboard	true
+1470306522728: 	activate	clipboard
+1470306523536: 	acted on	copy
+1470306523589: 	sub-instrument	copy	clipboard	true
+1470306527754: 	copied	image-11
+1470306526181: 	acted on	paste
+1470306526252: 	sub-instrument	paste	clipboard	true
+1470306530138: 	pasted	image-11-
+1470306528611: 	acted on	innerText
+1470306528651: 	sub-instrument	stop	clipboard	false
+1470306528665: 	deactivate	clipboard
+1470306703296: 	acted on	menu
+1470306705891: 	acted on	menu
+1470306705930: 	switched instrument	clipboard	to	mover-sample-C

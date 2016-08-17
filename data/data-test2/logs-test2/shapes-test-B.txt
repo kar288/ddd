@@ -1,0 +1,73 @@
+1469960244495: 	acted on	innerText
+1469960244514: 	sub-instrument	start	shapes	true
+1469960244522: 	activate	shapes
+1469960245205: 	acted on	rectangle
+1469960245214: 	sub-instrument	rectangle	shapes	true
+1469960245762: 	shape started	{"x":787,"y":138}
+1469960245767: 	shape continued	10	sub-instrument-container
+1469960245872: 	shape continued	10	sub-instrument-container
+1469960245889: 	shape continued	39	sub-instrument-container
+1469960245905: 	shape continued	87	sub-instrument-container
+1469960245923: 	shape continued	120	sub-instrument-container
+1469960245939: 	shape continued	148	sub-instrument-container
+1469960245956: 	shape continued	176	sub-instrument-container
+1469960245972: 	shape continued	199	sub-instrument-container
+1469960245990: 	shape continued	213	sub-instrument-container
+1469960246007: 	shape continued	227	sub-instrument-container
+1469960246025: 	shape continued	237	sub-instrument-container
+1469960246042: 	shape continued	245	sub-instrument-container
+1469960246060: 	shape continued	254	sub-instrument-container
+1469960246075: 	shape continued	262	sub-instrument-container
+1469960246095: 	shape continued	270	sub-instrument-container
+1469960246111: 	shape continued	280	sub-instrument-container
+1469960246128: 	shape continued	286	sub-instrument-container
+1469960246146: 	shape continued	291	sub-instrument-container
+1469960246162: 	shape continued	293	sub-instrument-container
+1469960247181: 	acted on	innerText
+1469960247189: 	sub-instrument	stop	shapes	false
+1469960247193: 	deactivate	shapes
+1469960298662: 	acted on	rectangle
+1469960298678: 	sub-instrument	rectangle	shapes	false
+1469961637690: 	acted on	innerText
+1469961637705: 	sub-instrument	start	shapes	true
+1469961637711: 	activate	shapes
+1469961640645: 	acted on	innerText
+1469961640651: 	sub-instrument	stop	shapes	false
+1469961640653: 	deactivate	shapes
+1469964347596: 	acted on	innerText
+1469964347613: 	sub-instrument	start	shapes	true
+1469964347621: 	activate	shapes
+1469964348324: 	acted on	rectangle
+1469964348331: 	sub-instrument	rectangle	shapes	true
+1469964348889: 	shape started	{"x":878,"y":459}
+1469964348898: 	shape continued	10	sub-instrument-container
+1469964348901: 	shape continued	10	sub-instrument-container
+1469964348981: 	shape continued	10	sub-instrument-container
+1469964348992: 	shape continued	42	sub-instrument-container
+1469964349011: 	shape continued	104	sub-instrument-container
+1469964349027: 	shape continued	187	sub-instrument-container
+1469964349046: 	shape continued	233	sub-instrument-container
+1469964349063: 	shape continued	294	sub-instrument-container
+1469964349081: 	shape continued	326	sub-instrument-container
+1469964351262: 	acted on	innerText
+1469964351269: 	sub-instrument	stop	shapes	false
+1469964351274: 	deactivate	shapes
+1469968913727: 	acted on	innerText
+1469968913742: 	sub-instrument	start	shapes	true
+1469968913749: 	activate	shapes
+1469968914364: 	shape started	{"x":314,"y":339}
+1469968914371: 	shape continued	10	sub-instrument-container
+1469968914373: 	shape continued	10	sub-instrument-container
+1469968914449: 	shape continued	10	sub-instrument-container
+1469968914464: 	shape continued	34	sub-instrument-container
+1469968914481: 	shape continued	100	sub-instrument-container
+1469968914498: 	shape continued	152	sub-instrument-container
+1469968914516: 	shape continued	231	sub-instrument-container
+1469968914531: 	shape continued	279	sub-instrument-container
+1469968914550: 	shape continued	293	sub-instrument-container
+1469968914567: 	shape continued	314	sub-instrument-container
+1469968915856: 	acted on	innerText
+1469968915866: 	sub-instrument	stop	shapes	false
+1469968915868: 	deactivate	shapes
+1469969056495: 	acted on	sample
+1469969057342: 	acted on	sample

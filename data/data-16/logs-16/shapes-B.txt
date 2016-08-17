@@ -1,0 +1,40 @@
+1470658914328: 	acted on	innerText
+1470658914518: 	sub-instrument	start	shapes	true
+1470658914519: 	activate	shapes
+1470658915737: 	acted on	circle
+1470658915876: 	sub-instrument	circle	shapes	true
+1470658917479: 	shape started	{"x":1008,"y":355}
+1470658917482: 	shape continued	10	circle
+1470658919289: 	shape started	{"x":1005,"y":355}
+1470658919291: 	shape continued	10	circle
+1470658920153: 	shape started	{"x":1011,"y":362}
+1470658920155: 	shape continued	10	circle
+1470658920234: 	shape continued	10	circle
+1470658920259: 	shape continued	10	circle
+1470658920325: 	shape continued	10	circle
+1470658920332: 	shape continued	10	circle
+1470658920342: 	shape continued	10	circle
+1470658920349: 	shape continued	10	circle
+1470658920357: 	shape continued	10	circle
+1470658920366: 	shape continued	10	circle
+1470658920374: 	shape continued	10	circle
+1470658920444: 	shape continued	10	circle
+1470658920463: 	shape continued	10	circle
+1470658920489: 	shape continued	10	circle
+1470658920563: 	shape continued	10	circle
+1470658920600: 	shape continued	10	circle
+1470658921678: 	shape started	{"x":1029,"y":555}
+1470658921680: 	shape continued	10	circle
+1470658925071: 	shape started	{"x":43,"y":52}
+1470658925073: 	shape continued	10	circle
+1470658927209: 	shape started	{"x":21,"y":100}
+1470658927211: 	shape continued	10	circle
+1470658928370: 	shape started	{"x":0,"y":0}
+1470658928372: 	shape continued	10	circle
+1470658929028: 	shape started	{"x":0,"y":7}
+1470658929030: 	shape continued	10	circle
+1470658934031: 	shape started	{"x":7,"y":5}
+1470658934033: 	shape continued	10	circle
+1470658935878: 	acted on	innerText
+1470658935976: 	sub-instrument	stop	shapes	false
+1470658935976: 	deactivate	shapes

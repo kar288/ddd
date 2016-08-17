@@ -1,0 +1,3447 @@
+1470232660609: 
+1470232661110: 	selected	null
+1470233439080: 
+1470233439829: 	selected	null
+1470233538431: 	acted on	image-11
+1470233538435: 	selected	image-11
+1470233540270: 	acted on	image-11
+1470233540272: 	selected	image-11
+1470233540311: 	moved	image-11	to	{"x":593,"y":138}
+1470233540319: 	moved	image-11	to	{"x":588,"y":138}
+1470233540327: 	moved	image-11	to	{"x":582,"y":138}
+1470233540335: 	moved	image-11	to	{"x":576,"y":139}
+1470233540344: 	moved	image-11	to	{"x":570,"y":141}
+1470233540352: 	moved	image-11	to	{"x":563,"y":142}
+1470233540360: 	moved	image-11	to	{"x":557,"y":143}
+1470233540369: 	moved	image-11	to	{"x":550,"y":144}
+1470233540377: 	moved	image-11	to	{"x":544,"y":145}
+1470233540385: 	moved	image-11	to	{"x":537,"y":146}
+1470233540393: 	moved	image-11	to	{"x":530,"y":148}
+1470233540402: 	moved	image-11	to	{"x":524,"y":149}
+1470233540410: 	moved	image-11	to	{"x":517,"y":150}
+1470233540419: 	moved	image-11	to	{"x":509,"y":152}
+1470233540427: 	moved	image-11	to	{"x":502,"y":153}
+1470233540434: 	moved	image-11	to	{"x":495,"y":155}
+1470233540444: 	moved	image-11	to	{"x":489,"y":156}
+1470233540451: 	moved	image-11	to	{"x":482,"y":159}
+1470233540460: 	moved	image-11	to	{"x":475,"y":161}
+1470233540469: 	moved	image-11	to	{"x":469,"y":162}
+1470233540477: 	moved	image-11	to	{"x":462,"y":164}
+1470233540485: 	moved	image-11	to	{"x":456,"y":166}
+1470233540494: 	moved	image-11	to	{"x":450,"y":168}
+1470233540501: 	moved	image-11	to	{"x":444,"y":170}
+1470233540510: 	moved	image-11	to	{"x":438,"y":172}
+1470233540520: 	moved	image-11	to	{"x":433,"y":173}
+1470233540526: 	moved	image-11	to	{"x":426,"y":176}
+1470233540535: 	moved	image-11	to	{"x":420,"y":178}
+1470233540543: 	moved	image-11	to	{"x":415,"y":179}
+1470233540552: 	moved	image-11	to	{"x":409,"y":181}
+1470233540560: 	moved	image-11	to	{"x":405,"y":183}
+1470233540569: 	moved	image-11	to	{"x":401,"y":184}
+1470233540576: 	moved	image-11	to	{"x":395,"y":186}
+1470233540585: 	moved	image-11	to	{"x":392,"y":188}
+1470233540594: 	moved	image-11	to	{"x":389,"y":190}
+1470233540602: 	moved	image-11	to	{"x":385,"y":192}
+1470233540610: 	moved	image-11	to	{"x":382,"y":193}
+1470233540619: 	moved	image-11	to	{"x":380,"y":194}
+1470233540626: 	moved	image-11	to	{"x":376,"y":196}
+1470233540635: 	moved	image-11	to	{"x":374,"y":197}
+1470233540644: 	moved	image-11	to	{"x":372,"y":198}
+1470233540652: 	moved	image-11	to	{"x":371,"y":199}
+1470233540936: 	acted on	image-11
+1470233540938: 	selected	image-11
+1470233541002: 	start moving	image-11	from	{"x":95,"y":69}
+1470233541010: 	moved	image-11	to	{"x":601,"y":166}
+1470233541020: 	moved	image-11	to	{"x":597,"y":167}
+1470233541026: 	moved	image-11	to	{"x":594,"y":168}
+1470233541034: 	moved	image-11	to	{"x":589,"y":170}
+1470233541043: 	moved	image-11	to	{"x":584,"y":171}
+1470233541051: 	moved	image-11	to	{"x":581,"y":172}
+1470233541060: 	moved	image-11	to	{"x":577,"y":173}
+1470233541069: 	moved	image-11	to	{"x":572,"y":175}
+1470233541076: 	moved	image-11	to	{"x":569,"y":176}
+1470233541086: 	moved	image-11	to	{"x":565,"y":177}
+1470233541093: 	moved	image-11	to	{"x":561,"y":179}
+1470233541101: 	moved	image-11	to	{"x":558,"y":180}
+1470233541110: 	moved	image-11	to	{"x":555,"y":182}
+1470233541118: 	moved	image-11	to	{"x":553,"y":183}
+1470233541126: 	moved	image-11	to	{"x":549,"y":184}
+1470233541135: 	moved	image-11	to	{"x":546,"y":186}
+1470233541144: 	moved	image-11	to	{"x":544,"y":188}
+1470233541151: 	moved	image-11	to	{"x":541,"y":189}
+1470233541160: 	moved	image-11	to	{"x":538,"y":191}
+1470233541168: 	moved	image-11	to	{"x":535,"y":193}
+1470233541178: 	moved	image-11	to	{"x":533,"y":194}
+1470233541184: 	moved	image-11	to	{"x":531,"y":196}
+1470233541194: 	moved	image-11	to	{"x":529,"y":197}
+1470233541201: 	moved	image-11	to	{"x":527,"y":199}
+1470233541210: 	moved	image-11	to	{"x":526,"y":200}
+1470233541218: 	moved	image-11	to	{"x":525,"y":201}
+1470233541226: 	moved	image-11	to	{"x":524,"y":202}
+1470233541235: 	moved	image-11	to	{"x":523,"y":203}
+1470233541245: 	moved	image-11	to	{"x":522,"y":203}
+1470233541251: 	moved	image-11	to	{"x":521,"y":205}
+1470233541261: 	moved	image-11	to	{"x":520,"y":206}
+1470233541269: 	moved	image-11	to	{"x":519,"y":207}
+1470233541276: 	moved	image-11	to	{"x":518,"y":208}
+1470233541286: 	moved	image-11	to	{"x":517,"y":208}
+1470233541294: 	moved	image-11	to	{"x":516,"y":209}
+1470233541301: 	moved	image-11	to	{"x":514,"y":210}
+1470233541310: 	moved	image-11	to	{"x":512,"y":211}
+1470233541318: 	moved	image-11	to	{"x":509,"y":212}
+1470233541326: 	moved	image-11	to	{"x":505,"y":213}
+1470233541335: 	moved	image-11	to	{"x":501,"y":215}
+1470233541344: 	moved	image-11	to	{"x":497,"y":216}
+1470233541352: 	moved	image-11	to	{"x":493,"y":218}
+1470233541361: 	moved	image-11	to	{"x":488,"y":219}
+1470233541369: 	moved	image-11	to	{"x":482,"y":220}
+1470233541377: 	moved	image-11	to	{"x":477,"y":222}
+1470233541385: 	moved	image-11	to	{"x":471,"y":223}
+1470233541393: 	moved	image-11	to	{"x":465,"y":225}
+1470233541401: 	moved	image-11	to	{"x":459,"y":226}
+1470233541410: 	moved	image-11	to	{"x":451,"y":228}
+1470233541418: 	moved	image-11	to	{"x":444,"y":230}
+1470233541427: 	moved	image-11	to	{"x":436,"y":232}
+1470233541436: 	moved	image-11	to	{"x":427,"y":234}
+1470233541443: 	moved	image-11	to	{"x":419,"y":237}
+1470233541452: 	moved	image-11	to	{"x":411,"y":239}
+1470233541460: 	moved	image-11	to	{"x":403,"y":241}
+1470233541468: 	moved	image-11	to	{"x":392,"y":244}
+1470233541476: 	moved	image-11	to	{"x":384,"y":246}
+1470233541485: 	moved	image-11	to	{"x":376,"y":248}
+1470233541493: 	moved	image-11	to	{"x":366,"y":252}
+1470233541502: 	moved	image-11	to	{"x":356,"y":255}
+1470233541510: 	moved	image-11	to	{"x":348,"y":258}
+1470233541518: 	moved	image-11	to	{"x":339,"y":261}
+1470233541527: 	moved	image-11	to	{"x":328,"y":267}
+1470233541536: 	moved	image-11	to	{"x":321,"y":269}
+1470233541543: 	moved	image-11	to	{"x":313,"y":273}
+1470233541551: 	moved	image-11	to	{"x":303,"y":278}
+1470233541560: 	moved	image-11	to	{"x":297,"y":281}
+1470233541568: 	moved	image-11	to	{"x":290,"y":285}
+1470233541577: 	moved	image-11	to	{"x":284,"y":288}
+1470233541585: 	moved	image-11	to	{"x":277,"y":293}
+1470233541593: 	moved	image-11	to	{"x":272,"y":296}
+1470233541602: 	moved	image-11	to	{"x":267,"y":301}
+1470233541610: 	moved	image-11	to	{"x":263,"y":305}
+1470233541618: 	moved	image-11	to	{"x":260,"y":308}
+1470233541627: 	moved	image-11	to	{"x":257,"y":312}
+1470233541635: 	moved	image-11	to	{"x":255,"y":316}
+1470233541643: 	moved	image-11	to	{"x":254,"y":318}
+1470233541652: 	moved	image-11	to	{"x":254,"y":322}
+1470233541660: 	moved	image-11	to	{"x":254,"y":323}
+1470233541669: 	moved	image-11	to	{"x":255,"y":326}
+1470233541677: 	moved	image-11	to	{"x":257,"y":331}
+1470233541685: 	moved	image-11	to	{"x":259,"y":332}
+1470233541693: 	moved	image-11	to	{"x":262,"y":335}
+1470233541702: 	moved	image-11	to	{"x":267,"y":337}
+1470233541710: 	moved	image-11	to	{"x":273,"y":339}
+1470233541719: 	moved	image-11	to	{"x":280,"y":339}
+1470233541727: 	moved	image-11	to	{"x":288,"y":339}
+1470233541735: 	moved	image-11	to	{"x":297,"y":338}
+1470233541744: 	moved	image-11	to	{"x":306,"y":338}
+1470233541752: 	moved	image-11	to	{"x":317,"y":336}
+1470233541760: 	moved	image-11	to	{"x":329,"y":335}
+1470233541769: 	moved	image-11	to	{"x":341,"y":332}
+1470233541776: 	moved	image-11	to	{"x":353,"y":331}
+1470233541785: 	moved	image-11	to	{"x":366,"y":329}
+1470233541793: 	moved	image-11	to	{"x":378,"y":327}
+1470233541802: 	moved	image-11	to	{"x":392,"y":325}
+1470233541809: 	moved	image-11	to	{"x":405,"y":322}
+1470233541819: 	moved	image-11	to	{"x":419,"y":320}
+1470233541826: 	moved	image-11	to	{"x":434,"y":318}
+1470233541835: 	moved	image-11	to	{"x":449,"y":316}
+1470233541843: 	moved	image-11	to	{"x":464,"y":314}
+1470233541851: 	moved	image-11	to	{"x":479,"y":313}
+1470233541860: 	moved	image-11	to	{"x":494,"y":309}
+1470233541868: 	moved	image-11	to	{"x":509,"y":309}
+1470233541876: 	moved	image-11	to	{"x":524,"y":308}
+1470233541885: 	moved	image-11	to	{"x":539,"y":308}
+1470233541894: 	moved	image-11	to	{"x":554,"y":308}
+1470233541902: 	moved	image-11	to	{"x":570,"y":308}
+1470233541910: 	moved	image-11	to	{"x":582,"y":308}
+1470233541918: 	moved	image-11	to	{"x":598,"y":309}
+1470233541927: 	moved	image-11	to	{"x":611,"y":311}
+1470233541935: 	moved	image-11	to	{"x":625,"y":312}
+1470233541943: 	moved	image-11	to	{"x":638,"y":313}
+1470233541952: 	moved	image-11	to	{"x":651,"y":315}
+1470233541961: 	moved	image-11	to	{"x":664,"y":316}
+1470233541969: 	moved	image-11	to	{"x":675,"y":319}
+1470233541976: 	moved	image-11	to	{"x":686,"y":321}
+1470233541985: 	moved	image-11	to	{"x":697,"y":325}
+1470233541995: 	moved	image-11	to	{"x":705,"y":327}
+1470233542001: 	moved	image-11	to	{"x":713,"y":329}
+1470233542010: 	moved	image-11	to	{"x":723,"y":335}
+1470233542018: 	moved	image-11	to	{"x":730,"y":337}
+1470233542027: 	moved	image-11	to	{"x":738,"y":340}
+1470233542035: 	moved	image-11	to	{"x":744,"y":344}
+1470233542043: 	moved	image-11	to	{"x":752,"y":348}
+1470233542051: 	moved	image-11	to	{"x":756,"y":352}
+1470233542059: 	moved	image-11	to	{"x":761,"y":356}
+1470233542068: 	moved	image-11	to	{"x":764,"y":358}
+1470233542076: 	moved	image-11	to	{"x":767,"y":361}
+1470233542085: 	moved	image-11	to	{"x":769,"y":364}
+1470233542092: 	moved	image-11	to	{"x":771,"y":366}
+1470233542101: 	moved	image-11	to	{"x":771,"y":369}
+1470233542110: 	moved	image-11	to	{"x":772,"y":372}
+1470233542118: 	moved	image-11	to	{"x":772,"y":375}
+1470233542126: 	moved	image-11	to	{"x":771,"y":378}
+1470233542135: 	moved	image-11	to	{"x":768,"y":382}
+1470233542144: 	moved	image-11	to	{"x":765,"y":385}
+1470233542152: 	moved	image-11	to	{"x":762,"y":387}
+1470233542160: 	moved	image-11	to	{"x":757,"y":390}
+1470233542168: 	moved	image-11	to	{"x":750,"y":391}
+1470233542176: 	moved	image-11	to	{"x":744,"y":393}
+1470233542185: 	moved	image-11	to	{"x":734,"y":393}
+1470233542207: 	moved	image-11	to	{"x":713,"y":394}
+1470233542210: 	moved	image-11	to	{"x":702,"y":394}
+1470233542218: 	moved	image-11	to	{"x":689,"y":394}
+1470233542226: 	moved	image-11	to	{"x":677,"y":395}
+1470233542235: 	moved	image-11	to	{"x":665,"y":394}
+1470233542243: 	moved	image-11	to	{"x":652,"y":394}
+1470233542251: 	moved	image-11	to	{"x":640,"y":393}
+1470233542261: 	moved	image-11	to	{"x":628,"y":394}
+1470233542269: 	moved	image-11	to	{"x":618,"y":394}
+1470233542276: 	moved	image-11	to	{"x":605,"y":394}
+1470233542286: 	moved	image-11	to	{"x":594,"y":394}
+1470233542294: 	moved	image-11	to	{"x":586,"y":395}
+1470233542302: 	moved	image-11	to	{"x":577,"y":395}
+1470233542311: 	moved	image-11	to	{"x":567,"y":396}
+1470233542319: 	moved	image-11	to	{"x":558,"y":396}
+1470233542326: 	moved	image-11	to	{"x":550,"y":397}
+1470233542335: 	moved	image-11	to	{"x":543,"y":397}
+1470233542344: 	moved	image-11	to	{"x":536,"y":398}
+1470233542352: 	moved	image-11	to	{"x":529,"y":399}
+1470233542360: 	moved	image-11	to	{"x":523,"y":400}
+1470233542368: 	moved	image-11	to	{"x":519,"y":401}
+1470233542376: 	moved	image-11	to	{"x":514,"y":401}
+1470233542385: 	moved	image-11	to	{"x":511,"y":402}
+1470233542394: 	moved	image-11	to	{"x":508,"y":402}
+1470233542401: 	moved	image-11	to	{"x":507,"y":403}
+1470233542410: 	moved	image-11	to	{"x":505,"y":403}
+1470233542418: 	moved	image-11	to	{"x":504,"y":403}
+1470233542436: 	moved	image-11	to	{"x":503,"y":404}
+1470233542486: 	moved	image-11	to	{"x":503,"y":403}
+1470233542845: 	acted on	image-11
+1470233542847: 	selected	image-11
+1470233542849: 	acted on	image-11
+1470233542850: 	selected	image-11
+1470233542854: 	start moving	image-11	from	{"x":107,"y":56}
+1470233542856: 	changed size	width	image-11	152
+1470233542857: 	changed size	height	image-11	152
+1470233542860: 	changed size	width	image-11	154
+1470233542861: 	changed size	height	image-11	154
+1470233542864: 	changed size	width	image-11	156
+1470233542864: 	changed size	height	image-11	156
+1470233542869: 	changed size	width	image-11	158
+1470233542870: 	changed size	height	image-11	158
+1470233542877: 	changed size	width	image-11	160
+1470233542878: 	changed size	height	image-11	160
+1470233542882: 	changed size	width	image-11	162
+1470233542882: 	changed size	height	image-11	162
+1470233542886: 	changed size	width	image-11	164
+1470233542887: 	changed size	height	image-11	164
+1470233542893: 	changed size	width	image-11	166
+1470233542894: 	changed size	height	image-11	166
+1470233542897: 	changed size	width	image-11	168
+1470233542897: 	changed size	height	image-11	168
+1470233542903: 	changed size	width	image-11	170
+1470233542904: 	changed size	height	image-11	170
+1470233542907: 	changed size	width	image-11	172
+1470233542908: 	changed size	height	image-11	172
+1470233542913: 	changed size	width	image-11	174
+1470233542913: 	changed size	height	image-11	174
+1470233542916: 	changed size	width	image-11	176
+1470233542916: 	changed size	height	image-11	176
+1470233542919: 	changed size	width	image-11	178
+1470233542920: 	changed size	height	image-11	178
+1470233542923: 	changed size	width	image-11	180
+1470233542924: 	changed size	height	image-11	180
+1470233542927: 	changed size	width	image-11	182
+1470233542928: 	changed size	height	image-11	182
+1470233542931: 	changed size	width	image-11	184
+1470233542931: 	changed size	height	image-11	184
+1470233542936: 	changed size	width	image-11	186
+1470233542937: 	changed size	height	image-11	186
+1470233542940: 	changed size	width	image-11	188
+1470233542941: 	changed size	height	image-11	188
+1470233542946: 	changed size	width	image-11	190
+1470233542947: 	changed size	height	image-11	190
+1470233542955: 	changed size	width	image-11	192
+1470233542955: 	changed size	height	image-11	192
+1470233542958: 	changed size	width	image-11	194
+1470233542959: 	changed size	height	image-11	194
+1470233542962: 	changed size	width	image-11	196
+1470233542963: 	changed size	height	image-11	196
+1470233542969: 	changed size	width	image-11	198
+1470233542969: 	changed size	height	image-11	198
+1470233542972: 	changed size	width	image-11	200
+1470233542973: 	changed size	height	image-11	200
+1470233542978: 	changed size	width	image-11	202
+1470233542978: 	changed size	height	image-11	202
+1470233542981: 	changed size	width	image-11	204
+1470233542981: 	changed size	height	image-11	204
+1470233542986: 	changed size	width	image-11	206
+1470233542987: 	changed size	height	image-11	206
+1470233542989: 	changed size	width	image-11	208
+1470233542990: 	changed size	height	image-11	208
+1470233542994: 	changed size	width	image-11	210
+1470233542995: 	changed size	height	image-11	210
+1470233542997: 	changed size	width	image-11	212
+1470233542998: 	changed size	height	image-11	212
+1470233543003: 	changed size	width	image-11	214
+1470233543004: 	changed size	height	image-11	214
+1470233543007: 	changed size	width	image-11	216
+1470233543007: 	changed size	height	image-11	216
+1470233543011: 	changed size	width	image-11	218
+1470233543011: 	changed size	height	image-11	218
+1470233543015: 	changed size	width	image-11	220
+1470233543016: 	changed size	height	image-11	220
+1470233543019: 	changed size	width	image-11	222
+1470233543020: 	changed size	height	image-11	222
+1470233543024: 	changed size	width	image-11	224
+1470233543024: 	changed size	height	image-11	224
+1470233543028: 	changed size	width	image-11	226
+1470233543029: 	changed size	height	image-11	226
+1470233543036: 	changed size	width	image-11	228
+1470233543036: 	changed size	height	image-11	228
+1470233543042: 	changed size	width	image-11	230
+1470233543042: 	changed size	height	image-11	230
+1470233543045: 	changed size	width	image-11	232
+1470233543046: 	changed size	height	image-11	232
+1470233543052: 	changed size	width	image-11	234
+1470233543053: 	changed size	height	image-11	234
+1470233543056: 	changed size	width	image-11	236
+1470233543056: 	changed size	height	image-11	236
+1470233543062: 	changed size	width	image-11	238
+1470233543063: 	changed size	height	image-11	238
+1470233543066: 	changed size	width	image-11	240
+1470233543067: 	changed size	height	image-11	240
+1470233543070: 	changed size	width	image-11	242
+1470233543071: 	changed size	height	image-11	242
+1470233543077: 	changed size	width	image-11	244
+1470233543078: 	changed size	height	image-11	244
+1470233543080: 	changed size	width	image-11	246
+1470233543081: 	changed size	height	image-11	246
+1470233543086: 	changed size	width	image-11	248
+1470233543087: 	changed size	height	image-11	248
+1470233543089: 	changed size	width	image-11	250
+1470233543090: 	changed size	height	image-11	250
+1470233543094: 	changed size	width	image-11	252
+1470233543094: 	changed size	height	image-11	252
+1470233543097: 	changed size	width	image-11	254
+1470233543098: 	changed size	height	image-11	254
+1470233543102: 	changed size	width	image-11	256
+1470233543102: 	changed size	height	image-11	256
+1470233543106: 	changed size	width	image-11	258
+1470233543106: 	changed size	height	image-11	258
+1470233543112: 	changed size	width	image-11	260
+1470233543116: 	changed size	width	image-11	262
+1470233543113: 	changed size	height	image-11	260
+1470233543116: 	changed size	height	image-11	262
+1470233543120: 	changed size	width	image-11	264
+1470233543121: 	changed size	height	image-11	264
+1470233543128: 	changed size	width	image-11	266
+1470233543129: 	changed size	height	image-11	266
+1470233543131: 	changed size	width	image-11	268
+1470233543132: 	changed size	height	image-11	268
+1470233543136: 	changed size	width	image-11	270
+1470233543137: 	changed size	height	image-11	270
+1470233543144: 	changed size	width	image-11	272
+1470233543145: 	changed size	height	image-11	272
+1470233543147: 	changed size	width	image-11	274
+1470233543148: 	changed size	height	image-11	274
+1470233543152: 	changed size	width	image-11	276
+1470233543153: 	changed size	height	image-11	276
+1470233543155: 	changed size	width	image-11	278
+1470233543156: 	changed size	height	image-11	278
+1470233543161: 	changed size	width	image-11	280
+1470233543162: 	changed size	height	image-11	280
+1470233543165: 	changed size	width	image-11	282
+1470233543165: 	changed size	height	image-11	282
+1470233543169: 	changed size	width	image-11	284
+1470233543169: 	changed size	height	image-11	284
+1470233543172: 	changed size	width	image-11	286
+1470233543173: 	changed size	height	image-11	286
+1470233543177: 	changed size	width	image-11	288
+1470233543178: 	changed size	height	image-11	288
+1470233543180: 	changed size	width	image-11	290
+1470233543181: 	changed size	height	image-11	290
+1470233543186: 	changed size	width	image-11	292
+1470233543186: 	changed size	height	image-11	292
+1470233543189: 	changed size	width	image-11	294
+1470233543190: 	changed size	height	image-11	294
+1470233543194: 	changed size	width	image-11	296
+1470233543195: 	changed size	height	image-11	296
+1470233543198: 	changed size	width	image-11	298
+1470233543199: 	changed size	height	image-11	298
+1470233543202: 	changed size	width	image-11	300
+1470233543202: 	changed size	height	image-11	300
+1470233543210: 	changed size	width	image-11	302
+1470233543211: 	changed size	height	image-11	302
+1470233543213: 	changed size	width	image-11	304
+1470233543214: 	changed size	height	image-11	304
+1470233543220: 	changed size	width	image-11	306
+1470233543220: 	changed size	height	image-11	306
+1470233543238: 	changed size	width	image-11	308
+1470233543239: 	changed size	height	image-11	308
+1470233543242: 	changed size	width	image-11	310
+1470233543243: 	changed size	height	image-11	310
+1470233543247: 	changed size	width	image-11	312
+1470233543248: 	changed size	height	image-11	312
+1470233543254: 	changed size	width	image-11	314
+1470233543255: 	changed size	height	image-11	314
+1470233543261: 	changed size	width	image-11	316
+1470233543262: 	changed size	height	image-11	316
+1470233543287: 	changed size	width	image-11	318
+1470233543288: 	changed size	height	image-11	318
+1470233543711: 	acted on	image-11
+1470233543712: 	selected	image-11
+1470233543726: 	acted on	image-11
+1470233543728: 	selected	image-11
+1470233543743: 	start moving	image-11	from	{"x":101,"y":244}
+1470233543745: 	changed size	width	image-11	316
+1470233543746: 	changed size	height	image-11	316
+1470233543751: 	changed size	width	image-11	314
+1470233543752: 	changed size	height	image-11	314
+1470233543761: 	changed size	width	image-11	312
+1470233543762: 	changed size	height	image-11	312
+1470233543769: 	changed size	width	image-11	310
+1470233543770: 	changed size	height	image-11	310
+1470233543776: 	changed size	width	image-11	308
+1470233543777: 	changed size	height	image-11	308
+1470233543786: 	changed size	width	image-11	306
+1470233543787: 	changed size	height	image-11	306
+1470233543789: 	changed size	width	image-11	304
+1470233543790: 	changed size	height	image-11	304
+1470233543793: 	changed size	width	image-11	302
+1470233543794: 	changed size	height	image-11	302
+1470233543796: 	changed size	width	image-11	300
+1470233543797: 	changed size	height	image-11	300
+1470233543804: 	changed size	width	image-11	298
+1470233543805: 	changed size	height	image-11	298
+1470233543811: 	changed size	width	image-11	296
+1470233543811: 	changed size	height	image-11	296
+1470233543819: 	changed size	width	image-11	294
+1470233543820: 	changed size	height	image-11	294
+1470233543822: 	changed size	width	image-11	292
+1470233543823: 	changed size	height	image-11	292
+1470233543827: 	changed size	width	image-11	290
+1470233543828: 	changed size	height	image-11	290
+1470233543830: 	changed size	width	image-11	288
+1470233543831: 	changed size	height	image-11	288
+1470233543836: 	changed size	width	image-11	286
+1470233543837: 	changed size	height	image-11	286
+1470233543839: 	changed size	width	image-11	284
+1470233543839: 	changed size	height	image-11	284
+1470233543844: 	changed size	width	image-11	282
+1470233543845: 	changed size	height	image-11	282
+1470233543848: 	changed size	width	image-11	280
+1470233543849: 	changed size	height	image-11	280
+1470233543852: 	changed size	width	image-11	278
+1470233543853: 	changed size	height	image-11	278
+1470233543863: 	changed size	width	image-11	276
+1470233543863: 	changed size	height	image-11	276
+1470233543866: 	changed size	width	image-11	274
+1470233543867: 	changed size	height	image-11	274
+1470233543870: 	changed size	width	image-11	272
+1470233543871: 	changed size	height	image-11	272
+1470233543877: 	changed size	width	image-11	270
+1470233543878: 	changed size	height	image-11	270
+1470233543881: 	changed size	width	image-11	268
+1470233543882: 	changed size	height	image-11	268
+1470233543885: 	changed size	width	image-11	266
+1470233543886: 	changed size	height	image-11	266
+1470233543889: 	changed size	width	image-11	264
+1470233543889: 	changed size	height	image-11	264
+1470233543893: 	changed size	width	image-11	262
+1470233543894: 	changed size	height	image-11	262
+1470233543896: 	changed size	width	image-11	260
+1470233543897: 	changed size	height	image-11	260
+1470233543901: 	changed size	width	image-11	258
+1470233543902: 	changed size	height	image-11	258
+1470233543905: 	changed size	width	image-11	256
+1470233543905: 	changed size	height	image-11	256
+1470233543912: 	changed size	width	image-11	254
+1470233543913: 	changed size	height	image-11	254
+1470233543915: 	changed size	width	image-11	252
+1470233543916: 	changed size	height	image-11	252
+1470233543919: 	changed size	width	image-11	250
+1470233543920: 	changed size	height	image-11	250
+1470233543927: 	changed size	width	image-11	248
+1470233543928: 	changed size	height	image-11	248
+1470233543936: 	changed size	width	image-11	246
+1470233543937: 	changed size	height	image-11	246
+1470233543942: 	changed size	width	image-11	244
+1470233543943: 	changed size	height	image-11	244
+1470233543945: 	changed size	width	image-11	242
+1470233543946: 	changed size	height	image-11	242
+1470233543952: 	changed size	width	image-11	240
+1470233543953: 	changed size	height	image-11	240
+1470233543955: 	changed size	width	image-11	238
+1470233543955: 	changed size	height	image-11	238
+1470233543969: 	changed size	width	image-11	236
+1470233543970: 	changed size	height	image-11	236
+1470233543977: 	changed size	width	image-11	234
+1470233543978: 	changed size	height	image-11	234
+1470233543986: 	changed size	width	image-11	232
+1470233543986: 	changed size	height	image-11	232
+1470233543994: 	changed size	width	image-11	230
+1470233543994: 	changed size	height	image-11	230
+1470233544020: 	changed size	width	image-11	228
+1470233544020: 	changed size	height	image-11	228
+1470233544428: 	acted on	image-11
+1470233544429: 	selected	image-11
+1470233544431: 	acted on	image-11
+1470233544433: 	selected	image-11
+1470233544436: 	start moving	image-11	from	{"x":152,"y":92}
+1470233544437: 	changed size	width	image-11	230
+1470233544438: 	changed size	height	image-11	230
+1470233544444: 	changed size	width	image-11	232
+1470233544444: 	changed size	height	image-11	232
+1470233544453: 	changed size	width	image-11	234
+1470233544454: 	changed size	height	image-11	234
+1470233544456: 	changed size	width	image-11	236
+1470233544457: 	changed size	height	image-11	236
+1470233544461: 	changed size	width	image-11	238
+1470233544461: 	changed size	height	image-11	238
+1470233544464: 	changed size	width	image-11	240
+1470233544464: 	changed size	height	image-11	240
+1470233544468: 	changed size	width	image-11	242
+1470233544469: 	changed size	height	image-11	242
+1470233544476: 	changed size	width	image-11	244
+1470233544478: 	changed size	height	image-11	244
+1470233544481: 	changed size	width	image-11	246
+1470233544481: 	changed size	height	image-11	246
+1470233544486: 	changed size	width	image-11	248
+1470233544487: 	changed size	height	image-11	248
+1470233544489: 	changed size	width	image-11	250
+1470233544489: 	changed size	height	image-11	250
+1470233544494: 	changed size	width	image-11	252
+1470233544494: 	changed size	height	image-11	252
+1470233544497: 	changed size	width	image-11	254
+1470233544497: 	changed size	height	image-11	254
+1470233544502: 	changed size	width	image-11	256
+1470233544503: 	changed size	height	image-11	256
+1470233544506: 	changed size	width	image-11	258
+1470233544506: 	changed size	height	image-11	258
+1470233544511: 	changed size	width	image-11	260
+1470233544511: 	changed size	height	image-11	260
+1470233544514: 	changed size	width	image-11	262
+1470233544514: 	changed size	height	image-11	262
+1470233544521: 	changed size	width	image-11	264
+1470233544522: 	changed size	height	image-11	264
+1470233544525: 	changed size	width	image-11	266
+1470233544526: 	changed size	height	image-11	266
+1470233544529: 	changed size	width	image-11	268
+1470233544529: 	changed size	height	image-11	268
+1470233544538: 	changed size	width	image-11	270
+1470233544539: 	changed size	height	image-11	270
+1470233544542: 	changed size	width	image-11	272
+1470233544543: 	changed size	height	image-11	272
+1470233544545: 	changed size	width	image-11	274
+1470233544546: 	changed size	height	image-11	274
+1470233544552: 	changed size	width	image-11	276
+1470233544553: 	changed size	height	image-11	276
+1470233544555: 	changed size	width	image-11	278
+1470233544556: 	changed size	height	image-11	278
+1470233544561: 	changed size	width	image-11	280
+1470233544562: 	changed size	height	image-11	280
+1470233544564: 	changed size	width	image-11	282
+1470233544565: 	changed size	height	image-11	282
+1470233544568: 	changed size	width	image-11	284
+1470233544569: 	changed size	height	image-11	284
+1470233544572: 	changed size	width	image-11	286
+1470233544573: 	changed size	height	image-11	286
+1470233544576: 	changed size	width	image-11	288
+1470233544577: 	changed size	height	image-11	288
+1470233544580: 	changed size	width	image-11	290
+1470233544580: 	changed size	height	image-11	290
+1470233544588: 	changed size	width	image-11	292
+1470233544588: 	changed size	height	image-11	292
+1470233544590: 	changed size	width	image-11	294
+1470233544591: 	changed size	height	image-11	294
+1470233544594: 	changed size	width	image-11	296
+1470233544595: 	changed size	height	image-11	296
+1470233544599: 	changed size	width	image-11	298
+1470233544600: 	changed size	height	image-11	298
+1470233544602: 	changed size	width	image-11	300
+1470233544603: 	changed size	height	image-11	300
+1470233544614: 	changed size	width	image-11	302
+1470233544614: 	changed size	height	image-11	302
+1470233544618: 	changed size	width	image-11	304
+1470233544619: 	changed size	height	image-11	304
+1470233544621: 	changed size	width	image-11	306
+1470233544622: 	changed size	height	image-11	306
+1470233544627: 	changed size	width	image-11	308
+1470233544628: 	changed size	height	image-11	308
+1470233544636: 	changed size	width	image-11	310
+1470233544637: 	changed size	height	image-11	310
+1470233544644: 	changed size	width	image-11	312
+1470233544644: 	changed size	height	image-11	312
+1470233544648: 	changed size	width	image-11	314
+1470233544648: 	changed size	height	image-11	314
+1470233544651: 	changed size	width	image-11	316
+1470233544652: 	changed size	height	image-11	316
+1470233544660: 	changed size	width	image-11	318
+1470233544661: 	changed size	height	image-11	318
+1470233544668: 	changed size	width	image-11	320
+1470233544669: 	changed size	height	image-11	320
+1470233544678: 	changed size	width	image-11	322
+1470233544679: 	changed size	height	image-11	322
+1470233544685: 	changed size	width	image-11	324
+1470233544686: 	changed size	height	image-11	324
+1470233544701: 	changed size	width	image-11	326
+1470233544702: 	changed size	height	image-11	326
+1470233544710: 	changed size	width	image-11	328
+1470233544711: 	changed size	height	image-11	328
+1470233544718: 	changed size	width	image-11	330
+1470233544719: 	changed size	height	image-11	330
+1470233544726: 	changed size	width	image-11	332
+1470233544727: 	changed size	height	image-11	332
+1470233544736: 	changed size	width	image-11	334
+1470233544737: 	changed size	height	image-11	334
+1470233544743: 	changed size	width	image-11	336
+1470233544744: 	changed size	height	image-11	336
+1470233544752: 	changed size	width	image-11	338
+1470233544753: 	changed size	height	image-11	338
+1470233544756: 	changed size	width	image-11	340
+1470233544756: 	changed size	height	image-11	340
+1470233544769: 	changed size	width	image-11	342
+1470233544770: 	changed size	height	image-11	342
+1470233544777: 	changed size	width	image-11	344
+1470233544778: 	changed size	height	image-11	344
+1470233545262: 	acted on	image-11
+1470233545263: 	selected	image-11
+1470233545386: 	start moving	image-11	from	{"x":190,"y":241}
+1470233545393: 	moved	image-11	to	{"x":502,"y":479}
+1470233545401: 	moved	image-11	to	{"x":503,"y":481}
+1470233545410: 	moved	image-11	to	{"x":503,"y":482}
+1470233545419: 	moved	image-11	to	{"x":505,"y":484}
+1470233545426: 	moved	image-11	to	{"x":505,"y":485}
+1470233545436: 	moved	image-11	to	{"x":507,"y":487}
+1470233545443: 	moved	image-11	to	{"x":508,"y":488}
+1470233545451: 	moved	image-11	to	{"x":509,"y":490}
+1470233545460: 	moved	image-11	to	{"x":510,"y":492}
+1470233545468: 	moved	image-11	to	{"x":511,"y":494}
+1470233545476: 	moved	image-11	to	{"x":513,"y":496}
+1470233545485: 	moved	image-11	to	{"x":514,"y":498}
+1470233545493: 	moved	image-11	to	{"x":515,"y":500}
+1470233545502: 	moved	image-11	to	{"x":516,"y":502}
+1470233545510: 	moved	image-11	to	{"x":517,"y":503}
+1470233545519: 	moved	image-11	to	{"x":518,"y":505}
+1470233545527: 	moved	image-11	to	{"x":519,"y":507}
+1470233545535: 	moved	image-11	to	{"x":520,"y":508}
+1470233545544: 	moved	image-11	to	{"x":521,"y":509}
+1470233545552: 	moved	image-11	to	{"x":522,"y":511}
+1470233545560: 	moved	image-11	to	{"x":522,"y":512}
+1470233545570: 	moved	image-11	to	{"x":523,"y":513}
+1470233545577: 	moved	image-11	to	{"x":524,"y":515}
+1470233545586: 	moved	image-11	to	{"x":525,"y":517}
+1470233545593: 	moved	image-11	to	{"x":526,"y":518}
+1470233545603: 	moved	image-11	to	{"x":526,"y":520}
+1470233545610: 	moved	image-11	to	{"x":527,"y":521}
+1470233545620: 	moved	image-11	to	{"x":528,"y":522}
+1470233545627: 	moved	image-11	to	{"x":528,"y":523}
+1470233545636: 	moved	image-11	to	{"x":529,"y":524}
+1470233545645: 	moved	image-11	to	{"x":530,"y":526}
+1470233545652: 	moved	image-11	to	{"x":530,"y":527}
+1470233545660: 	moved	image-11	to	{"x":531,"y":528}
+1470233545670: 	moved	image-11	to	{"x":531,"y":529}
+1470233545677: 	moved	image-11	to	{"x":531,"y":530}
+1470233545686: 	moved	image-11	to	{"x":532,"y":531}
+1470233545693: 	moved	image-11	to	{"x":532,"y":532}
+1470233545702: 	moved	image-11	to	{"x":533,"y":534}
+1470233545719: 	moved	image-11	to	{"x":533,"y":535}
+1470233545726: 	moved	image-11	to	{"x":534,"y":537}
+1470233545744: 	moved	image-11	to	{"x":534,"y":538}
+1470233545752: 	moved	image-11	to	{"x":535,"y":538}
+1470233545761: 	moved	image-11	to	{"x":535,"y":539}
+1470233545768: 	moved	image-11	to	{"x":535,"y":540}
+1470233545786: 	moved	image-11	to	{"x":535,"y":541}
+1470233545802: 	moved	image-11	to	{"x":536,"y":541}
+1470233545810: 	moved	image-11	to	{"x":536,"y":542}
+1470233545846: 	moved	image-11	to	{"x":536,"y":543}
+1470233545878: 	moved	image-11	to	{"x":536,"y":544}
+1470233546478: 	acted on	image-11
+1470233546480: 	selected	image-11
+1470233546803: 	start moving	image-11	from	{"x":244,"y":243}
+1470233546843: 	moved	image-11	to	{"x":589,"y":546}
+1470233546851: 	moved	image-11	to	{"x":589,"y":547}
+1470233546860: 	moved	image-11	to	{"x":586,"y":547}
+1470233546867: 	moved	image-11	to	{"x":582,"y":546}
+1470233546877: 	moved	image-11	to	{"x":580,"y":546}
+1470233546884: 	moved	image-11	to	{"x":578,"y":546}
+1470233546893: 	moved	image-11	to	{"x":576,"y":545}
+1470233546902: 	moved	image-11	to	{"x":574,"y":544}
+1470233546909: 	moved	image-11	to	{"x":572,"y":543}
+1470233546918: 	moved	image-11	to	{"x":570,"y":543}
+1470233546927: 	moved	image-11	to	{"x":568,"y":542}
+1470233546935: 	moved	image-11	to	{"x":567,"y":541}
+1470233546942: 	moved	image-11	to	{"x":565,"y":541}
+1470233546952: 	moved	image-11	to	{"x":563,"y":540}
+1470233546959: 	moved	image-11	to	{"x":562,"y":540}
+1470233546968: 	moved	image-11	to	{"x":560,"y":540}
+1470233546977: 	moved	image-11	to	{"x":559,"y":539}
+1470233546984: 	moved	image-11	to	{"x":557,"y":539}
+1470233546992: 	moved	image-11	to	{"x":556,"y":538}
+1470233547002: 	moved	image-11	to	{"x":555,"y":538}
+1470233547018: 	moved	image-11	to	{"x":554,"y":538}
+1470233547027: 	moved	image-11	to	{"x":553,"y":538}
+1470233547034: 	moved	image-11	to	{"x":552,"y":537}
+1470233547053: 	moved	image-11	to	{"x":551,"y":537}
+1470233547077: 	moved	image-11	to	{"x":550,"y":537}
+1470233547404: 	acted on	image-11
+1470233547405: 	selected	image-11
+1470233547493: 	start moving	image-11	from	{"x":268,"y":223}
+1470233547501: 	moved	image-11	to	{"x":572,"y":519}
+1470233547509: 	moved	image-11	to	{"x":570,"y":520}
+1470233547518: 	moved	image-11	to	{"x":567,"y":521}
+1470233547526: 	moved	image-11	to	{"x":566,"y":522}
+1470233547535: 	moved	image-11	to	{"x":564,"y":524}
+1470233547543: 	moved	image-11	to	{"x":562,"y":525}
+1470233547551: 	moved	image-11	to	{"x":561,"y":526}
+1470233547560: 	moved	image-11	to	{"x":560,"y":527}
+1470233547568: 	moved	image-11	to	{"x":559,"y":527}
+1470233547576: 	moved	image-11	to	{"x":558,"y":528}
+1470233547585: 	moved	image-11	to	{"x":557,"y":529}
+1470233547602: 	moved	image-11	to	{"x":556,"y":529}
+1470233556720: 	acted on	image-11
+1470233556722: 	selected	image-11
+1470233556735: 	acted on	image-11
+1470233556737: 	selected	image-11
+1470233556743: 	start moving	image-11	from	{"x":129,"y":256}
+1470233556744: 	changed size	width	image-11	342
+1470233556745: 	changed size	height	image-11	342
+1470233556793: 	changed size	width	image-11	340
+1470233556794: 	changed size	height	image-11	340
+1470233556810: 	changed size	width	image-11	338
+1470233556811: 	changed size	height	image-11	338
+1470233556851: 	changed size	width	image-11	336
+1470233556852: 	changed size	height	image-11	336
+1470233556868: 	changed size	width	image-11	334
+1470233556868: 	changed size	height	image-11	334
+1470233556885: 	changed size	width	image-11	332
+1470233556886: 	changed size	height	image-11	332
+1470233556893: 	changed size	width	image-11	330
+1470233556894: 	changed size	height	image-11	330
+1470233556901: 	changed size	width	image-11	328
+1470233556902: 	changed size	height	image-11	328
+1470233556904: 	changed size	width	image-11	326
+1470233556905: 	changed size	height	image-11	326
+1470233556910: 	changed size	width	image-11	324
+1470233556911: 	changed size	height	image-11	324
+1470233556920: 	changed size	width	image-11	322
+1470233556920: 	changed size	height	image-11	322
+1470233556935: 	changed size	width	image-11	320
+1470233556936: 	changed size	height	image-11	320
+1470233556939: 	changed size	width	image-11	318
+1470233556940: 	changed size	height	image-11	318
+1470233556944: 	changed size	width	image-11	316
+1470233556945: 	changed size	height	image-11	316
+1470233556960: 	changed size	width	image-11	314
+1470233556961: 	changed size	height	image-11	314
+1470233556964: 	changed size	width	image-11	312
+1470233556965: 	changed size	height	image-11	312
+1470233556969: 	changed size	width	image-11	310
+1470233556970: 	changed size	height	image-11	310
+1470233556976: 	changed size	width	image-11	308
+1470233556977: 	changed size	height	image-11	308
+1470233556980: 	changed size	width	image-11	306
+1470233556980: 	changed size	height	image-11	306
+1470233556985: 	changed size	width	image-11	304
+1470233556986: 	changed size	height	image-11	304
+1470233556995: 	changed size	width	image-11	302
+1470233556996: 	changed size	height	image-11	302
+1470233556998: 	changed size	width	image-11	300
+1470233557000: 	changed size	height	image-11	300
+1470233557011: 	changed size	width	image-11	298
+1470233557012: 	changed size	height	image-11	298
+1470233557014: 	changed size	width	image-11	296
+1470233557015: 	changed size	height	image-11	296
+1470233557019: 	changed size	width	image-11	294
+1470233557020: 	changed size	height	image-11	294
+1470233557035: 	changed size	width	image-11	292
+1470233557036: 	changed size	height	image-11	292
+1470233557043: 	changed size	width	image-11	290
+1470233557044: 	changed size	height	image-11	290
+1470233557069: 	changed size	width	image-11	288
+1470233557070: 	changed size	height	image-11	288
+1470233557077: 	changed size	width	image-11	286
+1470233557078: 	changed size	height	image-11	286
+1470233557102: 	changed size	width	image-11	284
+1470233557103: 	changed size	height	image-11	284
+1470233557110: 	changed size	width	image-11	282
+1470233557111: 	changed size	height	image-11	282
+1470233557178: 	changed size	width	image-11	280
+1470233557179: 	changed size	height	image-11	280
+1470233557794: 	acted on	image-11
+1470233557796: 	selected	image-11
+1470233557844: 	start moving	image-11	from	{"x":161,"y":152}
+1470233557851: 	moved	image-11	to	{"x":485,"y":489}
+1470233557860: 	moved	image-11	to	{"x":489,"y":488}
+1470233557868: 	moved	image-11	to	{"x":494,"y":487}
+1470233557877: 	moved	image-11	to	{"x":498,"y":487}
+1470233557885: 	moved	image-11	to	{"x":503,"y":486}
+1470233557895: 	moved	image-11	to	{"x":508,"y":485}
+1470233557900: 	moved	image-11	to	{"x":512,"y":484}
+1470233557910: 	moved	image-11	to	{"x":518,"y":483}
+1470233557918: 	moved	image-11	to	{"x":522,"y":483}
+1470233557928: 	moved	image-11	to	{"x":526,"y":483}
+1470233557934: 	moved	image-11	to	{"x":531,"y":483}
+1470233557943: 	moved	image-11	to	{"x":536,"y":482}
+1470233557950: 	moved	image-11	to	{"x":540,"y":482}
+1470233557960: 	moved	image-11	to	{"x":545,"y":481}
+1470233557967: 	moved	image-11	to	{"x":548,"y":481}
+1470233557976: 	moved	image-11	to	{"x":553,"y":481}
+1470233557984: 	moved	image-11	to	{"x":556,"y":481}
+1470233557994: 	moved	image-11	to	{"x":560,"y":481}
+1470233558000: 	moved	image-11	to	{"x":563,"y":481}
+1470233558009: 	moved	image-11	to	{"x":566,"y":481}
+1470233558019: 	moved	image-11	to	{"x":569,"y":482}
+1470233558026: 	moved	image-11	to	{"x":572,"y":482}
+1470233558035: 	moved	image-11	to	{"x":575,"y":482}
+1470233558043: 	moved	image-11	to	{"x":576,"y":482}
+1470233558051: 	moved	image-11	to	{"x":578,"y":482}
+1470233558060: 	moved	image-11	to	{"x":579,"y":482}
+1470233558069: 	moved	image-11	to	{"x":580,"y":483}
+1470233558076: 	moved	image-11	to	{"x":581,"y":483}
+1470233558085: 	moved	image-11	to	{"x":582,"y":483}
+1470233558110: 	moved	image-11	to	{"x":583,"y":483}
+1470233558361: 	acted on	image-11
+1470233558362: 	selected	image-11
+1470233558436: 	start moving	image-11	from	{"x":187,"y":118}
+1470233558443: 	moved	image-11	to	{"x":604,"y":450}
+1470233558450: 	moved	image-11	to	{"x":599,"y":452}
+1470233558459: 	moved	image-11	to	{"x":594,"y":454}
+1470233558468: 	moved	image-11	to	{"x":588,"y":456}
+1470233558475: 	moved	image-11	to	{"x":582,"y":458}
+1470233558485: 	moved	image-11	to	{"x":578,"y":459}
+1470233558493: 	moved	image-11	to	{"x":572,"y":462}
+1470233558500: 	moved	image-11	to	{"x":567,"y":463}
+1470233558509: 	moved	image-11	to	{"x":562,"y":464}
+1470233558518: 	moved	image-11	to	{"x":557,"y":467}
+1470233558525: 	moved	image-11	to	{"x":552,"y":469}
+1470233558535: 	moved	image-11	to	{"x":548,"y":470}
+1470233558543: 	moved	image-11	to	{"x":543,"y":472}
+1470233558550: 	moved	image-11	to	{"x":537,"y":474}
+1470233558559: 	moved	image-11	to	{"x":534,"y":476}
+1470233558568: 	moved	image-11	to	{"x":530,"y":478}
+1470233558575: 	moved	image-11	to	{"x":526,"y":479}
+1470233558585: 	moved	image-11	to	{"x":523,"y":480}
+1470233558593: 	moved	image-11	to	{"x":519,"y":482}
+1470233558601: 	moved	image-11	to	{"x":515,"y":484}
+1470233558609: 	moved	image-11	to	{"x":512,"y":485}
+1470233558618: 	moved	image-11	to	{"x":509,"y":486}
+1470233558626: 	moved	image-11	to	{"x":507,"y":487}
+1470233558635: 	moved	image-11	to	{"x":505,"y":488}
+1470233558643: 	moved	image-11	to	{"x":504,"y":489}
+1470233558651: 	moved	image-11	to	{"x":502,"y":489}
+1470233558660: 	moved	image-11	to	{"x":501,"y":490}
+1470233558668: 	moved	image-11	to	{"x":500,"y":490}
+1470233558675: 	moved	image-11	to	{"x":499,"y":490}
+1470233558701: 	moved	image-11	to	{"x":498,"y":490}
+1470233559385: 	acted on	image-11
+1470233559387: 	selected	image-11
+1470233559389: 	acted on	image-11
+1470233559390: 	selected	image-11
+1470233559392: 	start moving	image-11	from	{"x":198,"y":93}
+1470233559394: 	changed size	width	image-11	282
+1470233559394: 	changed size	height	image-11	282
+1470233559401: 	changed size	width	image-11	284
+1470233559402: 	changed size	height	image-11	284
+1470233559404: 	changed size	width	image-11	286
+1470233559405: 	changed size	height	image-11	286
+1470233559410: 	changed size	width	image-11	288
+1470233559410: 	changed size	height	image-11	288
+1470233559420: 	changed size	width	image-11	290
+1470233559420: 	changed size	height	image-11	290
+1470233559422: 	changed size	width	image-11	292
+1470233559423: 	changed size	height	image-11	292
+1470233559427: 	changed size	width	image-11	294
+1470233559427: 	changed size	height	image-11	294
+1470233559435: 	changed size	width	image-11	296
+1470233559435: 	changed size	height	image-11	296
+1470233559438: 	changed size	width	image-11	298
+1470233559438: 	changed size	height	image-11	298
+1470233559443: 	changed size	width	image-11	300
+1470233559444: 	changed size	height	image-11	300
+1470233559452: 	changed size	width	image-11	302
+1470233559453: 	changed size	height	image-11	302
+1470233559455: 	changed size	width	image-11	304
+1470233559455: 	changed size	height	image-11	304
+1470233559460: 	changed size	height	image-11	306
+1470233559459: 	changed size	width	image-11	306
+1470233559468: 	changed size	width	image-11	308
+1470233559469: 	changed size	height	image-11	308
+1470233559476: 	changed size	width	image-11	310
+1470233559478: 	changed size	height	image-11	310
+1470233559485: 	changed size	width	image-11	312
+1470233559486: 	changed size	height	image-11	312
+1470233559488: 	changed size	width	image-11	314
+1470233559489: 	changed size	height	image-11	314
+1470233559492: 	changed size	width	image-11	316
+1470233559493: 	changed size	height	image-11	316
+1470233559502: 	changed size	width	image-11	318
+1470233559503: 	changed size	height	image-11	318
+1470233559510: 	changed size	width	image-11	320
+1470233559511: 	changed size	height	image-11	320
+1470233559513: 	changed size	width	image-11	322
+1470233559514: 	changed size	height	image-11	322
+1470233559517: 	changed size	width	image-11	324
+1470233559518: 	changed size	height	image-11	324
+1470233559526: 	changed size	width	image-11	326
+1470233559527: 	changed size	height	image-11	326
+1470233559529: 	changed size	width	image-11	328
+1470233559530: 	changed size	height	image-11	328
+1470233559535: 	changed size	width	image-11	330
+1470233559536: 	changed size	height	image-11	330
+1470233559543: 	changed size	width	image-11	332
+1470233559544: 	changed size	height	image-11	332
+1470233559552: 	changed size	width	image-11	334
+1470233559553: 	changed size	height	image-11	334
+1470233559561: 	changed size	width	image-11	336
+1470233559561: 	changed size	height	image-11	336
+1470233559569: 	changed size	width	image-11	338
+1470233559570: 	changed size	height	image-11	338
+1470233559572: 	changed size	width	image-11	340
+1470233559572: 	changed size	height	image-11	340
+1470233559576: 	changed size	width	image-11	342
+1470233559577: 	changed size	height	image-11	342
+1470233559580: 	changed size	width	image-11	344
+1470233559580: 	changed size	height	image-11	344
+1470233559585: 	changed size	width	image-11	346
+1470233559585: 	changed size	height	image-11	346
+1470233559594: 	changed size	width	image-11	348
+1470233559595: 	changed size	height	image-11	348
+1470233559602: 	changed size	width	image-11	350
+1470233559603: 	changed size	height	image-11	350
+1470233559610: 	changed size	width	image-11	352
+1470233559611: 	changed size	height	image-11	352
+1470233559619: 	changed size	width	image-11	354
+1470233559620: 	changed size	height	image-11	354
+1470233559635: 	changed size	width	image-11	356
+1470233559636: 	changed size	height	image-11	356
+1470233559686: 	changed size	width	image-11	358
+1470233559687: 	changed size	height	image-11	358
+1470233560886: 	acted on	image-11
+1470233560887: 	selected	image-11
+1470233560927: 	start moving	image-11	from	{"x":220,"y":179}
+1470233560934: 	moved	image-11	to	{"x":494,"y":509}
+1470233560943: 	moved	image-11	to	{"x":497,"y":507}
+1470233560951: 	moved	image-11	to	{"x":501,"y":504}
+1470233560959: 	moved	image-11	to	{"x":504,"y":502}
+1470233560968: 	moved	image-11	to	{"x":508,"y":499}
+1470233560977: 	moved	image-11	to	{"x":512,"y":496}
+1470233560984: 	moved	image-11	to	{"x":516,"y":494}
+1470233560992: 	moved	image-11	to	{"x":521,"y":490}
+1470233561002: 	moved	image-11	to	{"x":525,"y":487}
+1470233561009: 	moved	image-11	to	{"x":529,"y":484}
+1470233561018: 	moved	image-11	to	{"x":533,"y":481}
+1470233561027: 	moved	image-11	to	{"x":537,"y":479}
+1470233561034: 	moved	image-11	to	{"x":541,"y":476}
+1470233561042: 	moved	image-11	to	{"x":545,"y":473}
+1470233561052: 	moved	image-11	to	{"x":549,"y":470}
+1470233561060: 	moved	image-11	to	{"x":552,"y":468}
+1470233561068: 	moved	image-11	to	{"x":555,"y":466}
+1470233561076: 	moved	image-11	to	{"x":558,"y":464}
+1470233561084: 	moved	image-11	to	{"x":561,"y":462}
+1470233561093: 	moved	image-11	to	{"x":563,"y":461}
+1470233561102: 	moved	image-11	to	{"x":565,"y":459}
+1470233561110: 	moved	image-11	to	{"x":567,"y":458}
+1470233561119: 	moved	image-11	to	{"x":568,"y":457}
+1470233561126: 	moved	image-11	to	{"x":569,"y":456}
+1470233561135: 	moved	image-11	to	{"x":570,"y":455}
+1470233561144: 	moved	image-11	to	{"x":571,"y":454}
+1470233561168: 	moved	image-11	to	{"x":571,"y":453}
+1470233561185: 	moved	image-11	to	{"x":572,"y":453}
+1470233563211: 	acted on	image-11
+1470233563212: 	selected	image-11
+1470233563235: 	acted on	image-11
+1470233563236: 	selected	image-11
+1470233563242: 	start moving	image-11	from	{"x":272,"y":118}
+1470233563243: 	changed size	width	image-11	356
+1470233563244: 	changed size	height	image-11	356
+1470233563252: 	changed size	width	image-11	354
+1470233563253: 	changed size	height	image-11	354
+1470233563260: 	changed size	width	image-11	352
+1470233563260: 	changed size	height	image-11	352
+1470233563267: 	changed size	width	image-11	350
+1470233563268: 	changed size	height	image-11	350
+1470233563277: 	changed size	width	image-11	348
+1470233563278: 	changed size	height	image-11	348
+1470233563284: 	changed size	width	image-11	346
+1470233563285: 	changed size	height	image-11	346
+1470233563287: 	changed size	width	image-11	344
+1470233563288: 	changed size	height	image-11	344
+1470233563293: 	changed size	width	image-11	342
+1470233563294: 	changed size	height	image-11	342
+1470233563296: 	changed size	width	image-11	340
+1470233563297: 	changed size	height	image-11	340
+1470233563302: 	changed size	width	image-11	338
+1470233563303: 	changed size	height	image-11	338
+1470233563305: 	changed size	width	image-11	336
+1470233563306: 	changed size	height	image-11	336
+1470233563309: 	changed size	width	image-11	334
+1470233563310: 	changed size	height	image-11	334
+1470233563313: 	changed size	width	image-11	332
+1470233563314: 	changed size	height	image-11	332
+1470233563318: 	changed size	width	image-11	330
+1470233563319: 	changed size	height	image-11	330
+1470233563322: 	changed size	width	image-11	328
+1470233563322: 	changed size	height	image-11	328
+1470233563326: 	changed size	width	image-11	326
+1470233563327: 	changed size	height	image-11	326
+1470233563330: 	changed size	width	image-11	324
+1470233563330: 	changed size	height	image-11	324
+1470233563334: 	changed size	width	image-11	322
+1470233563335: 	changed size	height	image-11	322
+1470233563338: 	changed size	width	image-11	320
+1470233563338: 	changed size	height	image-11	320
+1470233563345: 	changed size	width	image-11	318
+1470233563346: 	changed size	height	image-11	318
+1470233563352: 	changed size	width	image-11	316
+1470233563352: 	changed size	height	image-11	316
+1470233563355: 	changed size	width	image-11	314
+1470233563356: 	changed size	height	image-11	314
+1470233563359: 	changed size	width	image-11	312
+1470233563360: 	changed size	height	image-11	312
+1470233563362: 	changed size	width	image-11	310
+1470233563363: 	changed size	height	image-11	310
+1470233563371: 	changed size	width	image-11	308
+1470233563371: 	changed size	height	image-11	308
+1470233563374: 	changed size	width	image-11	306
+1470233563374: 	changed size	height	image-11	306
+1470233563378: 	changed size	width	image-11	304
+1470233563379: 	changed size	height	image-11	304
+1470233563386: 	changed size	width	image-11	302
+1470233563387: 	changed size	height	image-11	302
+1470233563390: 	changed size	width	image-11	300
+1470233563391: 	changed size	height	image-11	300
+1470233563394: 	changed size	width	image-11	298
+1470233563394: 	changed size	height	image-11	298
+1470233563404: 	changed size	width	image-11	296
+1470233563405: 	changed size	height	image-11	296
+1470233563419: 	changed size	width	image-11	294
+1470233563420: 	changed size	height	image-11	294
+1470233563424: 	changed size	width	image-11	292
+1470233563425: 	changed size	height	image-11	292
+1470233563428: 	changed size	width	image-11	290
+1470233563429: 	changed size	height	image-11	290
+1470233563443: 	changed size	width	image-11	288
+1470233563444: 	changed size	height	image-11	288
+1470233563452: 	changed size	width	image-11	286
+1470233563452: 	changed size	height	image-11	286
+1470233563460: 	changed size	width	image-11	284
+1470233563461: 	changed size	height	image-11	284
+1470233563469: 	changed size	width	image-11	282
+1470233563470: 	changed size	height	image-11	282
+1470233563473: 	changed size	width	image-11	280
+1470233563473: 	changed size	height	image-11	280
+1470233563476: 	changed size	width	image-11	278
+1470233563477: 	changed size	height	image-11	278
+1470233563484: 	changed size	width	image-11	276
+1470233563485: 	changed size	height	image-11	276
+1470233563495: 	changed size	width	image-11	274
+1470233563496: 	changed size	height	image-11	274
+1470233563835: 	acted on	image-11
+1470233563837: 	selected	image-11
+1470233563843: 	acted on	image-11
+1470233563844: 	selected	image-11
+1470233563851: 	start moving	image-11	from	{"x":110,"y":200}
+1470233563852: 	changed size	width	image-11	276
+1470233563853: 	changed size	height	image-11	276
+1470233563856: 	changed size	width	image-11	278
+1470233563856: 	changed size	height	image-11	278
+1470233563859: 	changed size	width	image-11	280
+1470233563860: 	changed size	height	image-11	280
+1470233563868: 	changed size	width	image-11	282
+1470233563869: 	changed size	height	image-11	282
+1470233563871: 	changed size	width	image-11	284
+1470233563872: 	changed size	height	image-11	284
+1470233563877: 	changed size	width	image-11	286
+1470233563878: 	changed size	height	image-11	286
+1470233563880: 	changed size	width	image-11	288
+1470233563881: 	changed size	height	image-11	288
+1470233563885: 	changed size	width	image-11	290
+1470233563886: 	changed size	height	image-11	290
+1470233563888: 	changed size	width	image-11	292
+1470233563889: 	changed size	height	image-11	292
+1470233563893: 	changed size	width	image-11	294
+1470233563894: 	changed size	height	image-11	294
+1470233563896: 	changed size	width	image-11	296
+1470233563897: 	changed size	height	image-11	296
+1470233563902: 	changed size	width	image-11	298
+1470233563903: 	changed size	height	image-11	298
+1470233563905: 	changed size	width	image-11	300
+1470233563906: 	changed size	height	image-11	300
+1470233563911: 	changed size	width	image-11	302
+1470233563912: 	changed size	height	image-11	302
+1470233563918: 	changed size	width	image-11	304
+1470233563919: 	changed size	height	image-11	304
+1470233563922: 	changed size	width	image-11	306
+1470233563923: 	changed size	height	image-11	306
+1470233563926: 	changed size	width	image-11	308
+1470233563927: 	changed size	height	image-11	308
+1470233563929: 	changed size	width	image-11	310
+1470233563930: 	changed size	height	image-11	310
+1470233563934: 	changed size	width	image-11	312
+1470233563935: 	changed size	height	image-11	312
+1470233563938: 	changed size	width	image-11	314
+1470233563938: 	changed size	height	image-11	314
+1470233563944: 	changed size	width	image-11	316
+1470233563944: 	changed size	height	image-11	316
+1470233563947: 	changed size	width	image-11	318
+1470233563948: 	changed size	height	image-11	318
+1470233563951: 	changed size	width	image-11	320
+1470233563952: 	changed size	height	image-11	320
+1470233563955: 	changed size	width	image-11	322
+1470233563956: 	changed size	height	image-11	322
+1470233563962: 	changed size	width	image-11	324
+1470233563962: 	changed size	height	image-11	324
+1470233563969: 	changed size	width	image-11	326
+1470233563970: 	changed size	height	image-11	326
+1470233563974: 	changed size	width	image-11	328
+1470233563975: 	changed size	height	image-11	328
+1470233563978: 	changed size	width	image-11	330
+1470233563979: 	changed size	height	image-11	330
+1470233563984: 	changed size	width	image-11	332
+1470233563985: 	changed size	height	image-11	332
+1470233563987: 	changed size	width	image-11	334
+1470233563988: 	changed size	height	image-11	334
+1470233563994: 	changed size	width	image-11	336
+1470233563995: 	changed size	height	image-11	336
+1470233563997: 	changed size	width	image-11	338
+1470233563998: 	changed size	height	image-11	338
+1470233564001: 	changed size	width	image-11	340
+1470233564002: 	changed size	height	image-11	340
+1470233564005: 	changed size	width	image-11	342
+1470233564006: 	changed size	height	image-11	342
+1470233564012: 	changed size	width	image-11	344
+1470233564013: 	changed size	height	image-11	344
+1470233564015: 	changed size	width	image-11	346
+1470233564015: 	changed size	height	image-11	346
+1470233564019: 	changed size	width	image-11	348
+1470233564019: 	changed size	height	image-11	348
+1470233564022: 	changed size	width	image-11	350
+1470233564022: 	changed size	height	image-11	350
+1470233564026: 	changed size	width	image-11	352
+1470233564027: 	changed size	height	image-11	352
+1470233564036: 	changed size	width	image-11	354
+1470233564036: 	changed size	height	image-11	354
+1470233564060: 	changed size	width	image-11	356
+1470233564061: 	changed size	height	image-11	356
+1470233564477: 	acted on	image-11
+1470233564478: 	selected	image-11
+1470233564493: 	acted on	image-11
+1470233564494: 	selected	image-11
+1470233564501: 	start moving	image-11	from	{"x":136,"y":261}
+1470233564502: 	changed size	width	image-11	354
+1470233564503: 	changed size	height	image-11	354
+1470233564506: 	changed size	width	image-11	352
+1470233564507: 	changed size	height	image-11	352
+1470233564511: 	changed size	width	image-11	350
+1470233564512: 	changed size	height	image-11	350
+1470233564518: 	changed size	width	image-11	348
+1470233564519: 	changed size	height	image-11	348
+1470233564534: 	changed size	width	image-11	346
+1470233564535: 	changed size	height	image-11	346
+1470233564543: 	changed size	width	image-11	344
+1470233564544: 	changed size	height	image-11	344
+1470233564546: 	changed size	width	image-11	342
+1470233564546: 	changed size	height	image-11	342
+1470233564552: 	changed size	width	image-11	340
+1470233564552: 	changed size	height	image-11	340
+1470233564555: 	changed size	width	image-11	338
+1470233564555: 	changed size	height	image-11	338
+1470233564560: 	changed size	width	image-11	336
+1470233564560: 	changed size	height	image-11	336
+1470233564563: 	changed size	width	image-11	334
+1470233564563: 	changed size	height	image-11	334
+1470233564568: 	changed size	width	image-11	332
+1470233564569: 	changed size	height	image-11	332
+1470233564571: 	changed size	width	image-11	330
+1470233564572: 	changed size	height	image-11	330
+1470233564576: 	changed size	width	image-11	328
+1470233564577: 	changed size	height	image-11	328
+1470233564580: 	changed size	width	image-11	326
+1470233564580: 	changed size	height	image-11	326
+1470233564584: 	changed size	width	image-11	324
+1470233564585: 	changed size	height	image-11	324
+1470233564588: 	changed size	width	image-11	322
+1470233564589: 	changed size	height	image-11	322
+1470233564593: 	changed size	width	image-11	320
+1470233564594: 	changed size	height	image-11	320
+1470233564596: 	changed size	width	image-11	318
+1470233564597: 	changed size	height	image-11	318
+1470233564601: 	changed size	width	image-11	316
+1470233564602: 	changed size	height	image-11	316
+1470233564605: 	changed size	width	image-11	314
+1470233564606: 	changed size	height	image-11	314
+1470233564609: 	changed size	width	image-11	312
+1470233564610: 	changed size	height	image-11	312
+1470233564613: 	changed size	width	image-11	310
+1470233564614: 	changed size	height	image-11	310
+1470233564620: 	changed size	width	image-11	308
+1470233564620: 	changed size	height	image-11	308
+1470233564626: 	changed size	width	image-11	306
+1470233564627: 	changed size	height	image-11	306
+1470233564629: 	changed size	width	image-11	304
+1470233564630: 	changed size	height	image-11	304
+1470233564635: 	changed size	width	image-11	302
+1470233564636: 	changed size	height	image-11	302
+1470233564639: 	changed size	width	image-11	300
+1470233564640: 	changed size	height	image-11	300
+1470233564644: 	changed size	width	image-11	298
+1470233564645: 	changed size	height	image-11	298
+1470233564648: 	changed size	width	image-11	296
+1470233564649: 	changed size	height	image-11	296
+1470233564652: 	changed size	width	image-11	294
+1470233564652: 	changed size	height	image-11	294
+1470233564660: 	changed size	width	image-11	292
+1470233564661: 	changed size	height	image-11	292
+1470233564663: 	changed size	width	image-11	290
+1470233564664: 	changed size	height	image-11	290
+1470233564668: 	changed size	width	image-11	288
+1470233564669: 	changed size	height	image-11	288
+1470233564674: 	changed size	width	image-11	286
+1470233564674: 	changed size	height	image-11	286
+1470233564677: 	changed size	width	image-11	284
+1470233564678: 	changed size	height	image-11	284
+1470233564685: 	changed size	width	image-11	282
+1470233564686: 	changed size	height	image-11	282
+1470233564695: 	changed size	width	image-11	280
+1470233564695: 	changed size	height	image-11	280
+1470233564702: 	changed size	width	image-11	278
+1470233564703: 	changed size	height	image-11	278
+1470233564726: 	changed size	width	image-11	276
+1470233564727: 	changed size	height	image-11	276
+1470233565010: 	acted on	image-11
+1470233565011: 	selected	image-11
+1470233565203: 	start moving	image-11	from	{"x":137,"y":150}
+1470233565209: 	moved	image-11	to	{"x":525,"y":469}
+1470233565219: 	moved	image-11	to	{"x":521,"y":472}
+1470233565227: 	moved	image-11	to	{"x":518,"y":475}
+1470233565234: 	moved	image-11	to	{"x":512,"y":479}
+1470233565244: 	moved	image-11	to	{"x":509,"y":481}
+1470233565254: 	moved	image-11	to	{"x":506,"y":482}
+1470233565261: 	moved	image-11	to	{"x":501,"y":485}
+1470233565268: 	moved	image-11	to	{"x":496,"y":488}
+1470233565276: 	moved	image-11	to	{"x":493,"y":489}
+1470233565284: 	moved	image-11	to	{"x":488,"y":491}
+1470233565293: 	moved	image-11	to	{"x":484,"y":493}
+1470233565301: 	moved	image-11	to	{"x":480,"y":495}
+1470233565309: 	moved	image-11	to	{"x":475,"y":498}
+1470233565318: 	moved	image-11	to	{"x":470,"y":500}
+1470233565326: 	moved	image-11	to	{"x":466,"y":502}
+1470233565334: 	moved	image-11	to	{"x":461,"y":504}
+1470233565343: 	moved	image-11	to	{"x":458,"y":505}
+1470233565351: 	moved	image-11	to	{"x":454,"y":506}
+1470233565359: 	moved	image-11	to	{"x":450,"y":507}
+1470233565369: 	moved	image-11	to	{"x":446,"y":508}
+1470233565376: 	moved	image-11	to	{"x":442,"y":509}
+1470233565384: 	moved	image-11	to	{"x":439,"y":510}
+1470233565393: 	moved	image-11	to	{"x":437,"y":510}
+1470233565401: 	moved	image-11	to	{"x":434,"y":510}
+1470233565409: 	moved	image-11	to	{"x":432,"y":510}
+1470233565418: 	moved	image-11	to	{"x":430,"y":510}
+1470233565426: 	moved	image-11	to	{"x":428,"y":509}
+1470233565434: 	moved	image-11	to	{"x":426,"y":509}
+1470233565443: 	moved	image-11	to	{"x":425,"y":508}
+1470233565451: 	moved	image-11	to	{"x":423,"y":508}
+1470233565459: 	moved	image-11	to	{"x":423,"y":507}
+1470233565468: 	moved	image-11	to	{"x":422,"y":507}
+1470233565476: 	moved	image-11	to	{"x":421,"y":506}
+1470233565878: 	acted on	image-11
+1470233565879: 	selected	image-11
+1470233565927: 	start moving	image-11	from	{"x":192,"y":107}
+1470233565934: 	moved	image-11	to	{"x":482,"y":462}
+1470233565944: 	moved	image-11	to	{"x":488,"y":460}
+1470233565951: 	moved	image-11	to	{"x":494,"y":459}
+1470233565959: 	moved	image-11	to	{"x":501,"y":458}
+1470233565967: 	moved	image-11	to	{"x":508,"y":457}
+1470233565975: 	moved	image-11	to	{"x":515,"y":457}
+1470233565985: 	moved	image-11	to	{"x":524,"y":456}
+1470233565994: 	moved	image-11	to	{"x":532,"y":455}
+1470233566001: 	moved	image-11	to	{"x":540,"y":455}
+1470233566009: 	moved	image-11	to	{"x":549,"y":454}
+1470233566018: 	moved	image-11	to	{"x":558,"y":454}
+1470233566026: 	moved	image-11	to	{"x":566,"y":454}
+1470233566034: 	moved	image-11	to	{"x":575,"y":454}
+1470233566043: 	moved	image-11	to	{"x":583,"y":454}
+1470233566051: 	moved	image-11	to	{"x":592,"y":454}
+1470233566059: 	moved	image-11	to	{"x":599,"y":454}
+1470233566068: 	moved	image-11	to	{"x":607,"y":455}
+1470233566076: 	moved	image-11	to	{"x":614,"y":455}
+1470233566084: 	moved	image-11	to	{"x":621,"y":455}
+1470233566092: 	moved	image-11	to	{"x":628,"y":456}
+1470233566101: 	moved	image-11	to	{"x":634,"y":457}
+1470233566109: 	moved	image-11	to	{"x":639,"y":457}
+1470233566119: 	moved	image-11	to	{"x":643,"y":458}
+1470233566126: 	moved	image-11	to	{"x":646,"y":458}
+1470233566135: 	moved	image-11	to	{"x":649,"y":459}
+1470233566143: 	moved	image-11	to	{"x":652,"y":459}
+1470233566151: 	moved	image-11	to	{"x":654,"y":459}
+1470233566160: 	moved	image-11	to	{"x":655,"y":459}
+1470233566168: 	moved	image-11	to	{"x":656,"y":459}
+1470233566176: 	moved	image-11	to	{"x":657,"y":459}
+1470233566184: 	moved	image-11	to	{"x":658,"y":459}
+1470233566209: 	moved	image-11	to	{"x":659,"y":459}
+1470233566260: 	moved	image-11	to	{"x":658,"y":459}
+1470233566269: 	moved	image-11	to	{"x":658,"y":458}
+1470233566276: 	moved	image-11	to	{"x":655,"y":457}
+1470233566285: 	moved	image-11	to	{"x":650,"y":455}
+1470233566293: 	moved	image-11	to	{"x":645,"y":454}
+1470233566301: 	moved	image-11	to	{"x":640,"y":453}
+1470233566309: 	moved	image-11	to	{"x":635,"y":451}
+1470233566318: 	moved	image-11	to	{"x":628,"y":450}
+1470233566327: 	moved	image-11	to	{"x":623,"y":449}
+1470233566335: 	moved	image-11	to	{"x":617,"y":448}
+1470233566343: 	moved	image-11	to	{"x":610,"y":447}
+1470233566352: 	moved	image-11	to	{"x":604,"y":446}
+1470233566360: 	moved	image-11	to	{"x":597,"y":446}
+1470233566369: 	moved	image-11	to	{"x":589,"y":446}
+1470233566376: 	moved	image-11	to	{"x":582,"y":445}
+1470233566385: 	moved	image-11	to	{"x":574,"y":444}
+1470233566394: 	moved	image-11	to	{"x":567,"y":444}
+1470233566401: 	moved	image-11	to	{"x":560,"y":444}
+1470233566409: 	moved	image-11	to	{"x":553,"y":444}
+1470233566419: 	moved	image-11	to	{"x":546,"y":444}
+1470233566426: 	moved	image-11	to	{"x":540,"y":444}
+1470233566435: 	moved	image-11	to	{"x":534,"y":444}
+1470233566443: 	moved	image-11	to	{"x":529,"y":445}
+1470233566451: 	moved	image-11	to	{"x":524,"y":445}
+1470233566460: 	moved	image-11	to	{"x":519,"y":446}
+1470233566468: 	moved	image-11	to	{"x":514,"y":446}
+1470233566477: 	moved	image-11	to	{"x":510,"y":447}
+1470233566485: 	moved	image-11	to	{"x":506,"y":448}
+1470233566493: 	moved	image-11	to	{"x":503,"y":449}
+1470233566501: 	moved	image-11	to	{"x":500,"y":450}
+1470233566509: 	moved	image-11	to	{"x":497,"y":451}
+1470233566518: 	moved	image-11	to	{"x":495,"y":452}
+1470233566526: 	moved	image-11	to	{"x":493,"y":454}
+1470233566534: 	moved	image-11	to	{"x":491,"y":455}
+1470233566543: 	moved	image-11	to	{"x":490,"y":456}
+1470233566552: 	moved	image-11	to	{"x":488,"y":457}
+1470233566560: 	moved	image-11	to	{"x":488,"y":459}
+1470233566568: 	moved	image-11	to	{"x":487,"y":460}
+1470233566578: 	moved	image-11	to	{"x":486,"y":461}
+1470233566585: 	moved	image-11	to	{"x":486,"y":462}
+1470233566593: 	moved	image-11	to	{"x":486,"y":463}
+1470233566602: 	moved	image-11	to	{"x":485,"y":464}
+1470233566610: 	moved	image-11	to	{"x":485,"y":466}
+1470233566619: 	moved	image-11	to	{"x":485,"y":468}
+1470233566627: 	moved	image-11	to	{"x":486,"y":470}
+1470233566634: 	moved	image-11	to	{"x":487,"y":472}
+1470233566643: 	moved	image-11	to	{"x":488,"y":474}
+1470233566652: 	moved	image-11	to	{"x":489,"y":476}
+1470233566660: 	moved	image-11	to	{"x":490,"y":478}
+1470233566668: 	moved	image-11	to	{"x":492,"y":480}
+1470233566676: 	moved	image-11	to	{"x":493,"y":482}
+1470233566685: 	moved	image-11	to	{"x":494,"y":484}
+1470233566694: 	moved	image-11	to	{"x":496,"y":486}
+1470233566702: 	moved	image-11	to	{"x":497,"y":488}
+1470233566709: 	moved	image-11	to	{"x":499,"y":490}
+1470233566719: 	moved	image-11	to	{"x":501,"y":491}
+1470233566726: 	moved	image-11	to	{"x":502,"y":493}
+1470233566735: 	moved	image-11	to	{"x":504,"y":495}
+1470233566742: 	moved	image-11	to	{"x":505,"y":496}
+1470233567510: 	acted on	image-11
+1470233567512: 	selected	image-11
+1470233567544: 	start moving	image-11	from	{"x":171,"y":42}
+1470233567550: 	moved	image-11	to	{"x":487,"y":428}
+1470233567561: 	moved	image-11	to	{"x":491,"y":424}
+1470233567568: 	moved	image-11	to	{"x":495,"y":421}
+1470233567575: 	moved	image-11	to	{"x":501,"y":418}
+1470233567583: 	moved	image-11	to	{"x":506,"y":415}
+1470233567593: 	moved	image-11	to	{"x":511,"y":412}
+1470233567601: 	moved	image-11	to	{"x":517,"y":409}
+1470233567609: 	moved	image-11	to	{"x":524,"y":407}
+1470233567618: 	moved	image-11	to	{"x":530,"y":404}
+1470233567626: 	moved	image-11	to	{"x":535,"y":402}
+1470233567633: 	moved	image-11	to	{"x":542,"y":400}
+1470233567643: 	moved	image-11	to	{"x":549,"y":399}
+1470233567650: 	moved	image-11	to	{"x":555,"y":398}
+1470233567659: 	moved	image-11	to	{"x":563,"y":396}
+1470233567668: 	moved	image-11	to	{"x":569,"y":395}
+1470233567677: 	moved	image-11	to	{"x":576,"y":394}
+1470233567683: 	moved	image-11	to	{"x":583,"y":392}
+1470233567693: 	moved	image-11	to	{"x":589,"y":391}
+1470233567701: 	moved	image-11	to	{"x":594,"y":390}
+1470233567715: 	moved	image-11	to	{"x":599,"y":389}
+1470233567718: 	moved	image-11	to	{"x":604,"y":389}
+1470233567726: 	moved	image-11	to	{"x":608,"y":388}
+1470233567737: 	moved	image-11	to	{"x":612,"y":388}
+1470233567748: 	moved	image-11	to	{"x":616,"y":387}
+1470233567753: 	moved	image-11	to	{"x":620,"y":387}
+1470233567759: 	moved	image-11	to	{"x":622,"y":388}
+1470233567768: 	moved	image-11	to	{"x":625,"y":388}
+1470233567776: 	moved	image-11	to	{"x":627,"y":388}
+1470233567784: 	moved	image-11	to	{"x":628,"y":388}
+1470233567793: 	moved	image-11	to	{"x":630,"y":388}
+1470233567801: 	moved	image-11	to	{"x":631,"y":388}
+1470233567809: 	moved	image-11	to	{"x":632,"y":388}
+1470233567818: 	moved	image-11	to	{"x":634,"y":389}
+1470233567826: 	moved	image-11	to	{"x":635,"y":389}
+1470233568494: 	acted on	image-11
+1470233568495: 	selected	image-11
+1470233568518: 	start moving	image-11	from	{"x":157,"y":153}
+1470233568526: 	moved	image-11	to	{"x":616,"y":497}
+1470233568535: 	moved	image-11	to	{"x":611,"y":494}
+1470233568543: 	moved	image-11	to	{"x":606,"y":491}
+1470233568552: 	moved	image-11	to	{"x":601,"y":489}
+1470233568562: 	moved	image-11	to	{"x":595,"y":486}
+1470233568568: 	moved	image-11	to	{"x":589,"y":484}
+1470233568576: 	moved	image-11	to	{"x":583,"y":482}
+1470233568584: 	moved	image-11	to	{"x":577,"y":480}
+1470233568593: 	moved	image-11	to	{"x":571,"y":477}
+1470233568601: 	moved	image-11	to	{"x":565,"y":475}
+1470233568611: 	moved	image-11	to	{"x":559,"y":473}
+1470233568618: 	moved	image-11	to	{"x":553,"y":471}
+1470233568626: 	moved	image-11	to	{"x":547,"y":469}
+1470233568636: 	moved	image-11	to	{"x":542,"y":466}
+1470233568642: 	moved	image-11	to	{"x":537,"y":464}
+1470233568651: 	moved	image-11	to	{"x":533,"y":462}
+1470233568659: 	moved	image-11	to	{"x":529,"y":459}
+1470233568668: 	moved	image-11	to	{"x":525,"y":457}
+1470233568676: 	moved	image-11	to	{"x":521,"y":455}
+1470233568685: 	moved	image-11	to	{"x":518,"y":453}
+1470233568693: 	moved	image-11	to	{"x":515,"y":451}
+1470233568702: 	moved	image-11	to	{"x":513,"y":450}
+1470233568710: 	moved	image-11	to	{"x":510,"y":448}
+1470233568718: 	moved	image-11	to	{"x":508,"y":447}
+1470233568726: 	moved	image-11	to	{"x":506,"y":446}
+1470233568735: 	moved	image-11	to	{"x":505,"y":445}
+1470233568743: 	moved	image-11	to	{"x":504,"y":443}
+1470233568751: 	moved	image-11	to	{"x":503,"y":443}
+1470233568760: 	moved	image-11	to	{"x":502,"y":442}
+1470233568768: 	moved	image-11	to	{"x":501,"y":441}
+1470233568776: 	moved	image-11	to	{"x":500,"y":440}
+1470233569152: 	acted on	image-11
+1470233569154: 	selected	image-11
+1470233569185: 	start moving	image-11	from	{"x":173,"y":39}
+1470233569193: 	moved	image-11	to	{"x":523,"y":321}
+1470233569202: 	moved	image-11	to	{"x":530,"y":318}
+1470233569210: 	moved	image-11	to	{"x":539,"y":315}
+1470233569218: 	moved	image-11	to	{"x":548,"y":312}
+1470233569226: 	moved	image-11	to	{"x":559,"y":310}
+1470233569235: 	moved	image-11	to	{"x":571,"y":307}
+1470233569244: 	moved	image-11	to	{"x":579,"y":307}
+1470233569251: 	moved	image-11	to	{"x":591,"y":306}
+1470233569260: 	moved	image-11	to	{"x":604,"y":306}
+1470233569267: 	moved	image-11	to	{"x":612,"y":307}
+1470233569276: 	moved	image-11	to	{"x":626,"y":308}
+1470233569285: 	moved	image-11	to	{"x":635,"y":311}
+1470233569292: 	moved	image-11	to	{"x":643,"y":312}
+1470233569300: 	moved	image-11	to	{"x":654,"y":314}
+1470233569309: 	moved	image-11	to	{"x":661,"y":316}
+1470233569317: 	moved	image-11	to	{"x":670,"y":318}
+1470233569325: 	moved	image-11	to	{"x":677,"y":321}
+1470233569334: 	moved	image-11	to	{"x":685,"y":324}
+1470233569343: 	moved	image-11	to	{"x":692,"y":327}
+1470233569352: 	moved	image-11	to	{"x":699,"y":330}
+1470233569360: 	moved	image-11	to	{"x":705,"y":333}
+1470233569368: 	moved	image-11	to	{"x":710,"y":336}
+1470233569376: 	moved	image-11	to	{"x":715,"y":339}
+1470233569384: 	moved	image-11	to	{"x":719,"y":343}
+1470233569392: 	moved	image-11	to	{"x":723,"y":348}
+1470233569635: 	acted on	image-11
+1470233569637: 	selected	image-11
+1470233569650: 	start moving	image-11	from	{"x":127,"y":85}
+1470233569660: 	moved	image-11	to	{"x":668,"y":395}
+1470233569667: 	moved	image-11	to	{"x":658,"y":396}
+1470233569676: 	moved	image-11	to	{"x":647,"y":397}
+1470233569685: 	moved	image-11	to	{"x":633,"y":399}
+1470233569693: 	moved	image-11	to	{"x":625,"y":400}
+1470233569700: 	moved	image-11	to	{"x":611,"y":402}
+1470233569710: 	moved	image-11	to	{"x":600,"y":404}
+1470233569719: 	moved	image-11	to	{"x":588,"y":405}
+1470233569725: 	moved	image-11	to	{"x":575,"y":408}
+1470233569736: 	moved	image-11	to	{"x":566,"y":410}
+1470233569743: 	moved	image-11	to	{"x":553,"y":412}
+1470233569751: 	moved	image-11	to	{"x":541,"y":414}
+1470233569760: 	moved	image-11	to	{"x":528,"y":416}
+1470233569768: 	moved	image-11	to	{"x":517,"y":419}
+1470233569776: 	moved	image-11	to	{"x":504,"y":422}
+1470233569785: 	moved	image-11	to	{"x":492,"y":425}
+1470233569793: 	moved	image-11	to	{"x":480,"y":428}
+1470233569800: 	moved	image-11	to	{"x":469,"y":431}
+1470233569810: 	moved	image-11	to	{"x":457,"y":433}
+1470233569818: 	moved	image-11	to	{"x":446,"y":436}
+1470233569825: 	moved	image-11	to	{"x":436,"y":439}
+1470233569836: 	moved	image-11	to	{"x":428,"y":441}
+1470233569842: 	moved	image-11	to	{"x":417,"y":443}
+1470233569850: 	moved	image-11	to	{"x":408,"y":446}
+1470233569860: 	moved	image-11	to	{"x":401,"y":449}
+1470233569867: 	moved	image-11	to	{"x":394,"y":451}
+1470233570019: 	acted on	image-11
+1470233570031: 	selected	image-11
+1470233570060: 	start moving	image-11	from	{"x":163,"y":107}
+1470233570068: 	moved	image-11	to	{"x":437,"y":475}
+1470233570078: 	moved	image-11	to	{"x":442,"y":477}
+1470233570085: 	moved	image-11	to	{"x":449,"y":479}
+1470233570094: 	moved	image-11	to	{"x":456,"y":480}
+1470233570102: 	moved	image-11	to	{"x":464,"y":482}
+1470233570111: 	moved	image-11	to	{"x":473,"y":484}
+1470233570119: 	moved	image-11	to	{"x":481,"y":485}
+1470233570127: 	moved	image-11	to	{"x":489,"y":486}
+1470233570136: 	moved	image-11	to	{"x":497,"y":487}
+1470233570144: 	moved	image-11	to	{"x":505,"y":489}
+1470233570152: 	moved	image-11	to	{"x":512,"y":490}
+1470233570161: 	moved	image-11	to	{"x":519,"y":491}
+1470233570169: 	moved	image-11	to	{"x":525,"y":493}
+1470233570176: 	moved	image-11	to	{"x":530,"y":495}
+1470233570185: 	moved	image-11	to	{"x":533,"y":496}
+1470233570193: 	moved	image-11	to	{"x":536,"y":497}
+1470233570202: 	moved	image-11	to	{"x":538,"y":498}
+1470233570210: 	moved	image-11	to	{"x":540,"y":499}
+1470233570227: 	moved	image-11	to	{"x":541,"y":500}
+1470233570244: 	moved	image-11	to	{"x":541,"y":501}
+1470233570260: 	moved	image-11	to	{"x":541,"y":502}
+1470233570268: 	moved	image-11	to	{"x":537,"y":505}
+1470233570276: 	moved	image-11	to	{"x":530,"y":507}
+1470233570285: 	moved	image-11	to	{"x":524,"y":508}
+1470233570294: 	moved	image-11	to	{"x":517,"y":510}
+1470233570300: 	moved	image-11	to	{"x":510,"y":512}
+1470233570311: 	moved	image-11	to	{"x":502,"y":514}
+1470233570318: 	moved	image-11	to	{"x":495,"y":517}
+1470233570326: 	moved	image-11	to	{"x":488,"y":519}
+1470233570335: 	moved	image-11	to	{"x":481,"y":521}
+1470233570342: 	moved	image-11	to	{"x":475,"y":522}
+1470233570351: 	moved	image-11	to	{"x":471,"y":523}
+1470233570360: 	moved	image-11	to	{"x":467,"y":524}
+1470233570367: 	moved	image-11	to	{"x":464,"y":525}
+1470233570376: 	moved	image-11	to	{"x":463,"y":525}
+1470233570385: 	moved	image-11	to	{"x":461,"y":525}
+1470233570401: 	moved	image-11	to	{"x":460,"y":525}
+1470233570476: 	moved	image-11	to	{"x":460,"y":524}
+1470233570510: 	moved	image-11	to	{"x":460,"y":523}
+1470233570518: 	moved	image-11	to	{"x":461,"y":521}
+1470233570526: 	moved	image-11	to	{"x":463,"y":518}
+1470233571052: 	acted on	image-5
+1470233571054: 	selected	image-5
+1470233571861: 	acted on	image-5
+1470233571862: 	selected	image-5
+1470233571918: 	start moving	image-5	from	{"x":102,"y":57}
+1470233571926: 	moved	image-5	to	{"x":113,"y":67}
+1470233571935: 	moved	image-5	to	{"x":120,"y":68}
+1470233571942: 	moved	image-5	to	{"x":126,"y":69}
+1470233571951: 	moved	image-5	to	{"x":132,"y":71}
+1470233571959: 	moved	image-5	to	{"x":138,"y":73}
+1470233571967: 	moved	image-5	to	{"x":145,"y":75}
+1470233571976: 	moved	image-5	to	{"x":151,"y":77}
+1470233571986: 	moved	image-5	to	{"x":159,"y":78}
+1470233571994: 	moved	image-5	to	{"x":167,"y":81}
+1470233572001: 	moved	image-5	to	{"x":176,"y":83}
+1470233572010: 	moved	image-5	to	{"x":184,"y":85}
+1470233572017: 	moved	image-5	to	{"x":193,"y":88}
+1470233572026: 	moved	image-5	to	{"x":204,"y":90}
+1470233572035: 	moved	image-5	to	{"x":215,"y":92}
+1470233572042: 	moved	image-5	to	{"x":228,"y":95}
+1470233572051: 	moved	image-5	to	{"x":237,"y":97}
+1470233572059: 	moved	image-5	to	{"x":250,"y":101}
+1470233572068: 	moved	image-5	to	{"x":262,"y":103}
+1470233572077: 	moved	image-5	to	{"x":274,"y":106}
+1470233572085: 	moved	image-5	to	{"x":286,"y":109}
+1470233572092: 	moved	image-5	to	{"x":298,"y":111}
+1470233572101: 	moved	image-5	to	{"x":310,"y":114}
+1470233572109: 	moved	image-5	to	{"x":323,"y":115}
+1470233572118: 	moved	image-5	to	{"x":336,"y":118}
+1470233572126: 	moved	image-5	to	{"x":349,"y":119}
+1470233572134: 	moved	image-5	to	{"x":362,"y":122}
+1470233572142: 	moved	image-5	to	{"x":376,"y":124}
+1470233572150: 	moved	image-5	to	{"x":389,"y":126}
+1470233572160: 	moved	image-5	to	{"x":402,"y":128}
+1470233572168: 	moved	image-5	to	{"x":415,"y":131}
+1470233572175: 	moved	image-5	to	{"x":428,"y":132}
+1470233572184: 	moved	image-5	to	{"x":441,"y":136}
+1470233572193: 	moved	image-5	to	{"x":453,"y":137}
+1470233572201: 	moved	image-5	to	{"x":466,"y":139}
+1470233572209: 	moved	image-5	to	{"x":480,"y":141}
+1470233572218: 	moved	image-5	to	{"x":492,"y":141}
+1470233572226: 	moved	image-5	to	{"x":504,"y":143}
+1470233572234: 	moved	image-5	to	{"x":516,"y":143}
+1470233572243: 	moved	image-5	to	{"x":529,"y":142}
+1470233572251: 	moved	image-5	to	{"x":541,"y":144}
+1470233572260: 	moved	image-5	to	{"x":550,"y":144}
+1470233572268: 	moved	image-5	to	{"x":563,"y":144}
+1470233572276: 	moved	image-5	to	{"x":572,"y":145}
+1470233572285: 	moved	image-5	to	{"x":582,"y":145}
+1470233572292: 	moved	image-5	to	{"x":593,"y":146}
+1470233572301: 	moved	image-5	to	{"x":602,"y":146}
+1470233572310: 	moved	image-5	to	{"x":611,"y":146}
+1470233572317: 	moved	image-5	to	{"x":621,"y":146}
+1470233572326: 	moved	image-5	to	{"x":628,"y":147}
+1470233572335: 	moved	image-5	to	{"x":636,"y":147}
+1470233572343: 	moved	image-5	to	{"x":643,"y":148}
+1470233572351: 	moved	image-5	to	{"x":651,"y":148}
+1470233572359: 	moved	image-5	to	{"x":658,"y":148}
+1470233572367: 	moved	image-5	to	{"x":665,"y":149}
+1470233572376: 	moved	image-5	to	{"x":670,"y":148}
+1470233572384: 	moved	image-5	to	{"x":675,"y":148}
+1470233572393: 	moved	image-5	to	{"x":678,"y":148}
+1470233572401: 	moved	image-5	to	{"x":681,"y":148}
+1470233572410: 	moved	image-5	to	{"x":684,"y":147}
+1470233572418: 	moved	image-5	to	{"x":686,"y":147}
+1470233572427: 	moved	image-5	to	{"x":687,"y":147}
+1470233572434: 	moved	image-5	to	{"x":688,"y":147}
+1470233572451: 	moved	image-5	to	{"x":689,"y":147}
+1470233572543: 	moved	image-5	to	{"x":688,"y":147}
+1470233572551: 	moved	image-5	to	{"x":687,"y":146}
+1470233572559: 	moved	image-5	to	{"x":686,"y":146}
+1470233572567: 	moved	image-5	to	{"x":685,"y":146}
+1470233572576: 	moved	image-5	to	{"x":683,"y":145}
+1470233572584: 	moved	image-5	to	{"x":682,"y":145}
+1470233572602: 	moved	image-5	to	{"x":681,"y":144}
+1470233572618: 	moved	image-5	to	{"x":680,"y":143}
+1470233572652: 	moved	image-5	to	{"x":679,"y":142}
+1470233572701: 	moved	image-5	to	{"x":679,"y":141}
+1470233572752: 	moved	image-5	to	{"x":680,"y":141}
+1470233573712: 	acted on	image-11
+1470233573713: 	selected	image-11
+1470233573777: 	start moving	image-11	from	{"x":185,"y":69}
+1470233573784: 	moved	image-11	to	{"x":485,"y":477}
+1470233573793: 	moved	image-11	to	{"x":485,"y":475}
+1470233573801: 	moved	image-11	to	{"x":486,"y":473}
+1470233573810: 	moved	image-11	to	{"x":486,"y":472}
+1470233573819: 	moved	image-11	to	{"x":486,"y":470}
+1470233573826: 	moved	image-11	to	{"x":486,"y":469}
+1470233573834: 	moved	image-11	to	{"x":486,"y":467}
+1470233573843: 	moved	image-11	to	{"x":486,"y":465}
+1470233573851: 	moved	image-11	to	{"x":486,"y":464}
+1470233573860: 	moved	image-11	to	{"x":486,"y":463}
+1470233573867: 	moved	image-11	to	{"x":485,"y":462}
+1470233573877: 	moved	image-11	to	{"x":485,"y":461}
+1470233573885: 	moved	image-11	to	{"x":485,"y":460}
+1470233573893: 	moved	image-11	to	{"x":485,"y":459}
+1470233573901: 	moved	image-11	to	{"x":485,"y":458}
+1470233573909: 	moved	image-11	to	{"x":484,"y":458}
+1470233573918: 	moved	image-11	to	{"x":484,"y":457}
+1470233573935: 	moved	image-11	to	{"x":484,"y":456}
+1470233574511: 	acted on	image-11
+1470233574513: 	selected	image-11
+1470233574515: 	acted on	image-11
+1470233574517: 	selected	image-11
+1470233574519: 	start moving	image-11	from	{"x":200,"y":98}
+1470233574520: 	changed size	width	image-11	278
+1470233574521: 	changed size	height	image-11	278
+1470233574527: 	changed size	width	image-11	280
+1470233574528: 	changed size	height	image-11	280
+1470233574530: 	changed size	width	image-11	282
+1470233574531: 	changed size	height	image-11	282
+1470233574534: 	changed size	width	image-11	284
+1470233574535: 	changed size	height	image-11	284
+1470233574537: 	changed size	width	image-11	286
+1470233574538: 	changed size	height	image-11	286
+1470233574542: 	changed size	width	image-11	288
+1470233574543: 	changed size	height	image-11	288
+1470233574545: 	changed size	width	image-11	290
+1470233574546: 	changed size	height	image-11	290
+1470233574553: 	changed size	width	image-11	292
+1470233574553: 	changed size	height	image-11	292
+1470233574556: 	changed size	width	image-11	294
+1470233574556: 	changed size	height	image-11	294
+1470233574560: 	changed size	width	image-11	296
+1470233574561: 	changed size	height	image-11	296
+1470233574563: 	changed size	width	image-11	298
+1470233574564: 	changed size	height	image-11	298
+1470233574567: 	changed size	width	image-11	300
+1470233574568: 	changed size	height	image-11	300
+1470233574570: 	changed size	width	image-11	302
+1470233574571: 	changed size	height	image-11	302
+1470233574577: 	changed size	width	image-11	304
+1470233574578: 	changed size	height	image-11	304
+1470233574580: 	changed size	width	image-11	306
+1470233574581: 	changed size	height	image-11	306
+1470233574585: 	changed size	width	image-11	308
+1470233574586: 	changed size	height	image-11	308
+1470233574596: 	changed size	width	image-11	310
+1470233574596: 	changed size	height	image-11	310
+1470233574599: 	changed size	width	image-11	312
+1470233574599: 	changed size	height	image-11	312
+1470233574602: 	changed size	width	image-11	314
+1470233574603: 	changed size	height	image-11	314
+1470233574610: 	changed size	width	image-11	316
+1470233574610: 	changed size	height	image-11	316
+1470233574618: 	changed size	width	image-11	318
+1470233574619: 	changed size	height	image-11	318
+1470233574621: 	changed size	width	image-11	320
+1470233574621: 	changed size	height	image-11	320
+1470233574628: 	changed size	width	image-11	322
+1470233574629: 	changed size	height	image-11	322
+1470233574631: 	changed size	width	image-11	324
+1470233574632: 	changed size	height	image-11	324
+1470233574635: 	changed size	width	image-11	326
+1470233574636: 	changed size	height	image-11	326
+1470233574642: 	changed size	width	image-11	328
+1470233574643: 	changed size	height	image-11	328
+1470233574645: 	changed size	width	image-11	330
+1470233574646: 	changed size	height	image-11	330
+1470233574651: 	changed size	width	image-11	332
+1470233574652: 	changed size	height	image-11	332
+1470233574662: 	changed size	width	image-11	334
+1470233574663: 	changed size	height	image-11	334
+1470233574667: 	changed size	width	image-11	336
+1470233574668: 	changed size	height	image-11	336
+1470233574671: 	changed size	width	image-11	338
+1470233574672: 	changed size	height	image-11	338
+1470233574679: 	changed size	width	image-11	340
+1470233574680: 	changed size	height	image-11	340
+1470233574687: 	changed size	width	image-11	342
+1470233574687: 	changed size	height	image-11	342
+1470233574690: 	changed size	width	image-11	344
+1470233574691: 	changed size	height	image-11	344
+1470233574694: 	changed size	width	image-11	346
+1470233574695: 	changed size	height	image-11	346
+1470233574703: 	changed size	width	image-11	348
+1470233574703: 	changed size	height	image-11	348
+1470233574710: 	changed size	width	image-11	350
+1470233574711: 	changed size	height	image-11	350
+1470233574718: 	changed size	width	image-11	352
+1470233574719: 	changed size	height	image-11	352
+1470233574742: 	changed size	width	image-11	354
+1470233574743: 	changed size	height	image-11	354
+1470233574751: 	changed size	width	image-11	356
+1470233574752: 	changed size	height	image-11	356
+1470233574759: 	changed size	width	image-11	358
+1470233574760: 	changed size	height	image-11	358
+1470233574776: 	changed size	width	image-11	360
+1470233574777: 	changed size	height	image-11	360
+1470233574793: 	changed size	width	image-11	362
+1470233574794: 	changed size	height	image-11	362
+1470233576577: 	acted on	image-5
+1470233576579: 	selected	image-5
+1470233576877: 	start moving	image-5	from	{"x":134,"y":72}
+1470233576885: 	moved	image-5	to	{"x":715,"y":155}
+1470233576893: 	moved	image-5	to	{"x":718,"y":155}
+1470233576901: 	moved	image-5	to	{"x":721,"y":154}
+1470233576909: 	moved	image-5	to	{"x":724,"y":154}
+1470233576919: 	moved	image-5	to	{"x":727,"y":154}
+1470233576926: 	moved	image-5	to	{"x":730,"y":154}
+1470233576934: 	moved	image-5	to	{"x":734,"y":153}
+1470233576943: 	moved	image-5	to	{"x":737,"y":153}
+1470233576951: 	moved	image-5	to	{"x":741,"y":154}
+1470233576959: 	moved	image-5	to	{"x":744,"y":154}
+1470233576968: 	moved	image-5	to	{"x":748,"y":154}
+1470233576976: 	moved	image-5	to	{"x":752,"y":153}
+1470233576986: 	moved	image-5	to	{"x":755,"y":154}
+1470233576995: 	moved	image-5	to	{"x":759,"y":154}
+1470233577001: 	moved	image-5	to	{"x":763,"y":155}
+1470233577011: 	moved	image-5	to	{"x":768,"y":155}
+1470233577019: 	moved	image-5	to	{"x":773,"y":155}
+1470233577026: 	moved	image-5	to	{"x":778,"y":156}
+1470233577034: 	moved	image-5	to	{"x":782,"y":156}
+1470233577043: 	moved	image-5	to	{"x":788,"y":156}
+1470233577051: 	moved	image-5	to	{"x":793,"y":155}
+1470233577059: 	moved	image-5	to	{"x":799,"y":155}
+1470233577068: 	moved	image-5	to	{"x":804,"y":155}
+1470233577076: 	moved	image-5	to	{"x":808,"y":155}
+1470233577084: 	moved	image-5	to	{"x":814,"y":155}
+1470233577093: 	moved	image-5	to	{"x":818,"y":155}
+1470233577102: 	moved	image-5	to	{"x":824,"y":156}
+1470233577109: 	moved	image-5	to	{"x":830,"y":156}
+1470233577118: 	moved	image-5	to	{"x":834,"y":156}
+1470233577126: 	moved	image-5	to	{"x":840,"y":156}
+1470233577134: 	moved	image-5	to	{"x":845,"y":156}
+1470233577143: 	moved	image-5	to	{"x":850,"y":156}
+1470233577151: 	moved	image-5	to	{"x":856,"y":156}
+1470233577159: 	moved	image-5	to	{"x":862,"y":156}
+1470233577169: 	moved	image-5	to	{"x":868,"y":157}
+1470233577176: 	moved	image-5	to	{"x":874,"y":158}
+1470233577184: 	moved	image-5	to	{"x":879,"y":159}
+1470233577193: 	moved	image-5	to	{"x":885,"y":159}
+1470233577200: 	moved	image-5	to	{"x":891,"y":159}
+1470233577209: 	moved	image-5	to	{"x":895,"y":160}
+1470233577218: 	moved	image-5	to	{"x":899,"y":161}
+1470233577225: 	moved	image-5	to	{"x":905,"y":162}
+1470233577234: 	moved	image-5	to	{"x":911,"y":164}
+1470233577243: 	moved	image-5	to	{"x":915,"y":165}
+1470233577250: 	moved	image-5	to	{"x":920,"y":166}
+1470233577260: 	moved	image-5	to	{"x":925,"y":168}
+1470233577268: 	moved	image-5	to	{"x":929,"y":169}
+1470233577276: 	moved	image-5	to	{"x":933,"y":170}
+1470233577285: 	moved	image-5	to	{"x":937,"y":171}
+1470233577293: 	moved	image-5	to	{"x":941,"y":172}
+1470233577301: 	moved	image-5	to	{"x":944,"y":174}
+1470233577309: 	moved	image-5	to	{"x":947,"y":175}
+1470233577318: 	moved	image-5	to	{"x":951,"y":177}
+1470233577326: 	moved	image-5	to	{"x":953,"y":179}
+1470233577335: 	moved	image-5	to	{"x":955,"y":181}
+1470233577343: 	moved	image-5	to	{"x":957,"y":183}
+1470233577351: 	moved	image-5	to	{"x":959,"y":185}
+1470233577359: 	moved	image-5	to	{"x":961,"y":187}
+1470233577368: 	moved	image-5	to	{"x":962,"y":188}
+1470233577376: 	moved	image-5	to	{"x":963,"y":189}
+1470233577385: 	moved	image-5	to	{"x":965,"y":190}
+1470233577393: 	moved	image-5	to	{"x":965,"y":191}
+1470233577402: 	moved	image-5	to	{"x":966,"y":192}
+1470233577409: 	moved	image-5	to	{"x":967,"y":193}
+1470233577426: 	moved	image-5	to	{"x":968,"y":194}
+1470233577443: 	moved	image-5	to	{"x":969,"y":195}
+1470233577468: 	moved	image-5	to	{"x":970,"y":195}
+1470233577910: 	acted on	image-11
+1470233577912: 	selected	image-11
+1470233578252: 	acted on	image-11
+1470233578253: 	selected	image-11
+1470233578326: 	start moving	image-11	from	{"x":264,"y":162}
+1470233578334: 	moved	image-11	to	{"x":518,"y":503}
+1470233578343: 	moved	image-11	to	{"x":516,"y":498}
+1470233578352: 	moved	image-11	to	{"x":514,"y":494}
+1470233578359: 	moved	image-11	to	{"x":512,"y":490}
+1470233578368: 	moved	image-11	to	{"x":510,"y":484}
+1470233578377: 	moved	image-11	to	{"x":508,"y":479}
+1470233578384: 	moved	image-11	to	{"x":507,"y":474}
+1470233578393: 	moved	image-11	to	{"x":505,"y":468}
+1470233578400: 	moved	image-11	to	{"x":504,"y":463}
+1470233578409: 	moved	image-11	to	{"x":502,"y":457}
+1470233578418: 	moved	image-11	to	{"x":500,"y":451}
+1470233578426: 	moved	image-11	to	{"x":499,"y":445}
+1470233578434: 	moved	image-11	to	{"x":497,"y":439}
+1470233578443: 	moved	image-11	to	{"x":496,"y":434}
+1470233578451: 	moved	image-11	to	{"x":495,"y":429}
+1470233578460: 	moved	image-11	to	{"x":493,"y":424}
+1470233578467: 	moved	image-11	to	{"x":492,"y":418}
+1470233578476: 	moved	image-11	to	{"x":491,"y":412}
+1470233578485: 	moved	image-11	to	{"x":490,"y":406}
+1470233578493: 	moved	image-11	to	{"x":489,"y":401}
+1470233578502: 	moved	image-11	to	{"x":488,"y":396}
+1470233578510: 	moved	image-11	to	{"x":488,"y":389}
+1470233578518: 	moved	image-11	to	{"x":487,"y":383}
+1470233578525: 	moved	image-11	to	{"x":486,"y":378}
+1470233578534: 	moved	image-11	to	{"x":485,"y":372}
+1470233578543: 	moved	image-11	to	{"x":485,"y":366}
+1470233578551: 	moved	image-11	to	{"x":484,"y":361}
+1470233578559: 	moved	image-11	to	{"x":483,"y":355}
+1470233578568: 	moved	image-11	to	{"x":483,"y":348}
+1470233578576: 	moved	image-11	to	{"x":483,"y":343}
+1470233578584: 	moved	image-11	to	{"x":483,"y":336}
+1470233578593: 	moved	image-11	to	{"x":483,"y":330}
+1470233578601: 	moved	image-11	to	{"x":483,"y":324}
+1470233578609: 	moved	image-11	to	{"x":483,"y":318}
+1470233578620: 	moved	image-11	to	{"x":483,"y":312}
+1470233578628: 	moved	image-11	to	{"x":484,"y":304}
+1470233578634: 	moved	image-11	to	{"x":484,"y":298}
+1470233578643: 	moved	image-11	to	{"x":484,"y":292}
+1470233578651: 	moved	image-11	to	{"x":485,"y":287}
+1470233578659: 	moved	image-11	to	{"x":485,"y":281}
+1470233578669: 	moved	image-11	to	{"x":486,"y":274}
+1470233578676: 	moved	image-11	to	{"x":487,"y":268}
+1470233578684: 	moved	image-11	to	{"x":487,"y":261}
+1470233578694: 	moved	image-11	to	{"x":488,"y":255}
+1470233578701: 	moved	image-11	to	{"x":489,"y":249}
+1470233578710: 	moved	image-11	to	{"x":490,"y":242}
+1470233578718: 	moved	image-11	to	{"x":491,"y":236}
+1470233578727: 	moved	image-11	to	{"x":494,"y":228}
+1470233578734: 	moved	image-11	to	{"x":496,"y":221}
+1470233578745: 	moved	image-11	to	{"x":498,"y":215}
+1470233578753: 	moved	image-11	to	{"x":500,"y":208}
+1470233578759: 	moved	image-11	to	{"x":502,"y":202}
+1470233578768: 	moved	image-11	to	{"x":504,"y":197}
+1470233578777: 	moved	image-11	to	{"x":506,"y":193}
+1470233578784: 	moved	image-11	to	{"x":507,"y":190}
+1470233578793: 	moved	image-11	to	{"x":508,"y":187}
+1470233578802: 	moved	image-11	to	{"x":509,"y":184}
+1470233578809: 	moved	image-11	to	{"x":510,"y":183}
+1470233578818: 	moved	image-11	to	{"x":511,"y":181}
+1470233578827: 	moved	image-11	to	{"x":512,"y":180}
+1470233578844: 	moved	image-11	to	{"x":513,"y":179}
+1470233578868: 	moved	image-11	to	{"x":513,"y":178}
+1470233578910: 	moved	image-11	to	{"x":514,"y":179}
+1470233578934: 	moved	image-11	to	{"x":517,"y":182}
+1470233578943: 	moved	image-11	to	{"x":518,"y":185}
+1470233578952: 	moved	image-11	to	{"x":518,"y":189}
+1470233578959: 	moved	image-11	to	{"x":517,"y":194}
+1470233578967: 	moved	image-11	to	{"x":516,"y":200}
+1470233578977: 	moved	image-11	to	{"x":515,"y":206}
+1470233578984: 	moved	image-11	to	{"x":514,"y":211}
+1470233578995: 	moved	image-11	to	{"x":512,"y":216}
+1470233579002: 	moved	image-11	to	{"x":511,"y":222}
+1470233579009: 	moved	image-11	to	{"x":510,"y":228}
+1470233579019: 	moved	image-11	to	{"x":509,"y":235}
+1470233579026: 	moved	image-11	to	{"x":507,"y":241}
+1470233579034: 	moved	image-11	to	{"x":505,"y":247}
+1470233579043: 	moved	image-11	to	{"x":504,"y":255}
+1470233579050: 	moved	image-11	to	{"x":502,"y":262}
+1470233579059: 	moved	image-11	to	{"x":500,"y":271}
+1470233579069: 	moved	image-11	to	{"x":498,"y":278}
+1470233579077: 	moved	image-11	to	{"x":497,"y":285}
+1470233579085: 	moved	image-11	to	{"x":496,"y":292}
+1470233579093: 	moved	image-11	to	{"x":495,"y":298}
+1470233579102: 	moved	image-11	to	{"x":494,"y":307}
+1470233579110: 	moved	image-11	to	{"x":493,"y":315}
+1470233579119: 	moved	image-11	to	{"x":493,"y":320}
+1470233579126: 	moved	image-11	to	{"x":493,"y":326}
+1470233579134: 	moved	image-11	to	{"x":493,"y":332}
+1470233579144: 	moved	image-11	to	{"x":493,"y":339}
+1470233579151: 	moved	image-11	to	{"x":494,"y":344}
+1470233579160: 	moved	image-11	to	{"x":495,"y":350}
+1470233579168: 	moved	image-11	to	{"x":496,"y":355}
+1470233579176: 	moved	image-11	to	{"x":497,"y":361}
+1470233579185: 	moved	image-11	to	{"x":498,"y":366}
+1470233579193: 	moved	image-11	to	{"x":499,"y":371}
+1470233579200: 	moved	image-11	to	{"x":500,"y":376}
+1470233579209: 	moved	image-11	to	{"x":501,"y":379}
+1470233579218: 	moved	image-11	to	{"x":502,"y":383}
+1470233579225: 	moved	image-11	to	{"x":504,"y":389}
+1470233579235: 	moved	image-11	to	{"x":506,"y":393}
+1470233579245: 	moved	image-11	to	{"x":508,"y":396}
+1470233579252: 	moved	image-11	to	{"x":510,"y":398}
+1470233579259: 	moved	image-11	to	{"x":512,"y":402}
+1470233579269: 	moved	image-11	to	{"x":515,"y":404}
+1470233579276: 	moved	image-11	to	{"x":517,"y":406}
+1470233579285: 	moved	image-11	to	{"x":519,"y":408}
+1470233579293: 	moved	image-11	to	{"x":522,"y":409}
+1470233579301: 	moved	image-11	to	{"x":525,"y":411}
+1470233579309: 	moved	image-11	to	{"x":528,"y":412}
+1470233579318: 	moved	image-11	to	{"x":531,"y":413}
+1470233579326: 	moved	image-11	to	{"x":534,"y":414}
+1470233579334: 	moved	image-11	to	{"x":537,"y":415}
+1470233579343: 	moved	image-11	to	{"x":539,"y":415}
+1470233579351: 	moved	image-11	to	{"x":543,"y":415}
+1470233579359: 	moved	image-11	to	{"x":546,"y":415}
+1470233579368: 	moved	image-11	to	{"x":549,"y":415}
+1470233579376: 	moved	image-11	to	{"x":552,"y":414}
+1470233579384: 	moved	image-11	to	{"x":555,"y":414}
+1470233579393: 	moved	image-11	to	{"x":559,"y":412}
+1470233579401: 	moved	image-11	to	{"x":562,"y":412}
+1470233579409: 	moved	image-11	to	{"x":564,"y":411}
+1470233579419: 	moved	image-11	to	{"x":567,"y":411}
+1470233579426: 	moved	image-11	to	{"x":570,"y":411}
+1470233579434: 	moved	image-11	to	{"x":573,"y":411}
+1470233579443: 	moved	image-11	to	{"x":576,"y":411}
+1470233579770: 	acted on	image-5
+1470233579772: 	selected	image-5
+1470233579775: 	acted on	image-5
+1470233579777: 	selected	image-5
+1470233579779: 	start moving	image-5	from	{"x":111,"y":10}
+1470233579781: 	changed size	width	image-5	152
+1470233579781: 	changed size	height	image-5	152
+1470233579784: 	acted on	image-5
+1470233579785: 	selected	image-5
+1470233579788: 	changed size	width	image-5	154
+1470233579788: 	changed size	height	image-5	154
+1470233579791: 	acted on	content
+1470233579792: 	selected	null
+1470233580419: 	acted on	image-5
+1470233580421: 	selected	image-5
+1470233580476: 	acted on	image-5
+1470233580477: 	selected	image-5
+1470233580486: 	start moving	image-5	from	{"x":113,"y":87}
+1470233580487: 	changed size	width	image-5	156
+1470233580488: 	changed size	height	image-5	156
+1470233580492: 	changed size	width	image-5	154
+1470233580493: 	changed size	height	image-5	154
+1470233580496: 	changed size	width	image-5	156
+1470233580497: 	changed size	height	image-5	156
+1470233580502: 	changed size	width	image-5	158
+1470233580502: 	changed size	height	image-5	158
+1470233580505: 	changed size	width	image-5	160
+1470233580505: 	changed size	height	image-5	160
+1470233580509: 	changed size	width	image-5	162
+1470233580510: 	changed size	height	image-5	162
+1470233580513: 	changed size	width	image-5	164
+1470233580513: 	changed size	height	image-5	164
+1470233580521: 	changed size	width	image-5	166
+1470233580522: 	changed size	height	image-5	166
+1470233580525: 	changed size	width	image-5	168
+1470233580526: 	changed size	height	image-5	168
+1470233580529: 	changed size	width	image-5	170
+1470233580529: 	changed size	height	image-5	170
+1470233580535: 	changed size	width	image-5	172
+1470233580536: 	changed size	height	image-5	172
+1470233580539: 	changed size	width	image-5	174
+1470233580541: 	changed size	height	image-5	174
+1470233580544: 	changed size	width	image-5	176
+1470233580544: 	changed size	height	image-5	176
+1470233580552: 	changed size	width	image-5	178
+1470233580553: 	changed size	height	image-5	178
+1470233580555: 	changed size	width	image-5	180
+1470233580556: 	changed size	height	image-5	180
+1470233580561: 	changed size	width	image-5	182
+1470233580561: 	changed size	height	image-5	182
+1470233580569: 	changed size	width	image-5	184
+1470233580569: 	changed size	height	image-5	184
+1470233580572: 	changed size	width	image-5	186
+1470233580572: 	changed size	height	image-5	186
+1470233580576: 	changed size	width	image-5	188
+1470233580577: 	changed size	height	image-5	188
+1470233580579: 	changed size	width	image-5	190
+1470233580580: 	changed size	height	image-5	190
+1470233580584: 	changed size	width	image-5	192
+1470233580585: 	changed size	height	image-5	192
+1470233580587: 	changed size	width	image-5	194
+1470233580588: 	changed size	height	image-5	194
+1470233580594: 	changed size	width	image-5	196
+1470233580594: 	changed size	height	image-5	196
+1470233580598: 	changed size	width	image-5	198
+1470233580599: 	changed size	height	image-5	198
+1470233580602: 	changed size	width	image-5	200
+1470233580603: 	changed size	height	image-5	200
+1470233580610: 	changed size	width	image-5	202
+1470233580611: 	changed size	height	image-5	202
+1470233580613: 	changed size	width	image-5	204
+1470233580614: 	changed size	height	image-5	204
+1470233580619: 	changed size	width	image-5	206
+1470233580619: 	changed size	height	image-5	206
+1470233580621: 	changed size	width	image-5	208
+1470233580622: 	changed size	height	image-5	208
+1470233580626: 	changed size	width	image-5	210
+1470233580627: 	changed size	height	image-5	210
+1470233580629: 	changed size	width	image-5	212
+1470233580630: 	changed size	height	image-5	212
+1470233580634: 	changed size	width	image-5	214
+1470233580635: 	changed size	height	image-5	214
+1470233580637: 	changed size	width	image-5	216
+1470233580638: 	changed size	height	image-5	216
+1470233580644: 	changed size	width	image-5	218
+1470233580645: 	changed size	height	image-5	218
+1470233580647: 	changed size	width	image-5	220
+1470233580648: 	changed size	height	image-5	220
+1470233580651: 	changed size	width	image-5	222
+1470233580651: 	changed size	height	image-5	222
+1470233580654: 	changed size	width	image-5	224
+1470233580655: 	changed size	height	image-5	224
+1470233580660: 	changed size	width	image-5	226
+1470233580661: 	changed size	height	image-5	226
+1470233580663: 	changed size	width	image-5	228
+1470233580664: 	changed size	height	image-5	228
+1470233580668: 	changed size	width	image-5	230
+1470233580669: 	changed size	height	image-5	230
+1470233580671: 	changed size	width	image-5	232
+1470233580672: 	changed size	height	image-5	232
+1470233580676: 	changed size	width	image-5	234
+1470233580677: 	changed size	height	image-5	234
+1470233580680: 	changed size	width	image-5	236
+1470233580680: 	changed size	height	image-5	236
+1470233580685: 	changed size	width	image-5	238
+1470233580686: 	changed size	height	image-5	238
+1470233580688: 	changed size	width	image-5	240
+1470233580689: 	changed size	height	image-5	240
+1470233580694: 	changed size	width	image-5	242
+1470233580694: 	changed size	height	image-5	242
+1470233580697: 	changed size	width	image-5	244
+1470233580697: 	changed size	height	image-5	244
+1470233580701: 	changed size	width	image-5	246
+1470233580702: 	changed size	height	image-5	246
+1470233580704: 	changed size	width	image-5	248
+1470233580705: 	changed size	height	image-5	248
+1470233580710: 	changed size	width	image-5	250
+1470233580710: 	changed size	height	image-5	250
+1470233580718: 	changed size	width	image-5	252
+1470233580719: 	changed size	height	image-5	252
+1470233580726: 	changed size	width	image-5	254
+1470233580727: 	changed size	height	image-5	254
+1470233580731: 	changed size	width	image-5	256
+1470233580732: 	changed size	height	image-5	256
+1470233581561: 	acted on	image-5
+1470233581563: 	selected	image-5
+1470233581570: 	acted on	image-5
+1470233581572: 	selected	image-5
+1470233581609: 	start moving	image-5	from	{"x":180,"y":84}
+1470233581611: 	changed size	width	image-5	254
+1470233581611: 	changed size	height	image-5	254
+1470233581615: 	changed size	width	image-5	252
+1470233581615: 	changed size	height	image-5	252
+1470233581626: 	changed size	width	image-5	250
+1470233581627: 	changed size	height	image-5	250
+1470233581634: 	changed size	width	image-5	248
+1470233581635: 	changed size	height	image-5	248
+1470233581637: 	changed size	width	image-5	246
+1470233581638: 	changed size	height	image-5	246
+1470233581643: 	changed size	width	image-5	244
+1470233581644: 	changed size	height	image-5	244
+1470233581651: 	changed size	width	image-5	242
+1470233581652: 	changed size	height	image-5	242
+1470233581659: 	changed size	width	image-5	240
+1470233581660: 	changed size	height	image-5	240
+1470233581662: 	changed size	width	image-5	238
+1470233581663: 	changed size	height	image-5	238
+1470233581668: 	changed size	width	image-5	236
+1470233581668: 	changed size	height	image-5	236
+1470233581670: 	changed size	width	image-5	234
+1470233581671: 	changed size	height	image-5	234
+1470233581676: 	changed size	width	image-5	232
+1470233581676: 	changed size	height	image-5	232
+1470233581678: 	changed size	width	image-5	230
+1470233581679: 	changed size	height	image-5	230
+1470233581684: 	changed size	width	image-5	228
+1470233581685: 	changed size	height	image-5	228
+1470233581687: 	changed size	width	image-5	226
+1470233581688: 	changed size	height	image-5	226
+1470233581692: 	changed size	width	image-5	224
+1470233581693: 	changed size	height	image-5	224
+1470233581695: 	changed size	width	image-5	222
+1470233581696: 	changed size	height	image-5	222
+1470233581702: 	changed size	width	image-5	220
+1470233581703: 	changed size	height	image-5	220
+1470233581705: 	changed size	width	image-5	218
+1470233581705: 	changed size	height	image-5	218
+1470233581710: 	changed size	width	image-5	216
+1470233581710: 	changed size	height	image-5	216
+1470233581719: 	changed size	width	image-5	214
+1470233581720: 	changed size	height	image-5	214
+1470233581723: 	changed size	width	image-5	212
+1470233581724: 	changed size	height	image-5	212
+1470233581726: 	changed size	width	image-5	210
+1470233581727: 	changed size	height	image-5	210
+1470233581734: 	changed size	width	image-5	208
+1470233581735: 	changed size	height	image-5	208
+1470233581737: 	changed size	width	image-5	206
+1470233581738: 	changed size	height	image-5	206
+1470233581743: 	changed size	width	image-5	204
+1470233581744: 	changed size	height	image-5	204
+1470233581747: 	changed size	width	image-5	202
+1470233581748: 	changed size	height	image-5	202
+1470233581750: 	changed size	width	image-5	200
+1470233581751: 	changed size	height	image-5	200
+1470233581761: 	changed size	width	image-5	198
+1470233581762: 	changed size	height	image-5	198
+1470233581765: 	changed size	width	image-5	196
+1470233581766: 	changed size	height	image-5	196
+1470233581768: 	changed size	width	image-5	194
+1470233581769: 	changed size	height	image-5	194
+1470233581775: 	changed size	width	image-5	192
+1470233581776: 	changed size	height	image-5	192
+1470233581778: 	changed size	width	image-5	190
+1470233581779: 	changed size	height	image-5	190
+1470233581786: 	changed size	width	image-5	188
+1470233581786: 	changed size	height	image-5	188
+1470233581788: 	changed size	width	image-5	186
+1470233581789: 	changed size	height	image-5	186
+1470233581792: 	changed size	width	image-5	184
+1470233581793: 	changed size	height	image-5	184
+1470233581795: 	changed size	width	image-5	182
+1470233581796: 	changed size	height	image-5	182
+1470233581801: 	changed size	width	image-5	180
+1470233581801: 	changed size	height	image-5	180
+1470233581810: 	changed size	width	image-5	178
+1470233581811: 	changed size	height	image-5	178
+1470233581814: 	changed size	width	image-5	176
+1470233581815: 	changed size	height	image-5	176
+1470233581817: 	changed size	width	image-5	174
+1470233581818: 	changed size	height	image-5	174
+1470233581826: 	changed size	width	image-5	172
+1470233581827: 	changed size	height	image-5	172
+1470233581835: 	changed size	width	image-5	170
+1470233581835: 	changed size	height	image-5	170
+1470233581844: 	changed size	width	image-5	168
+1470233581844: 	changed size	height	image-5	168
+1470233581851: 	changed size	width	image-5	166
+1470233581852: 	changed size	height	image-5	166
+1470233582109: 	acted on	image-5
+1470233582111: 	selected	image-5
+1470233582269: 	acted on	image-5
+1470233582270: 	selected	image-5
+1470233582309: 	acted on	image-5
+1470233582311: 	selected	image-5
+1470233582317: 	start moving	image-5	from	{"x":146,"y":41}
+1470233582318: 	changed size	width	image-5	164
+1470233582319: 	changed size	height	image-5	164
+1470233582334: 	changed size	width	image-5	162
+1470233582335: 	changed size	height	image-5	162
+1470233582350: 	changed size	width	image-5	160
+1470233582351: 	changed size	height	image-5	160
+1470233582353: 	changed size	width	image-5	158
+1470233582354: 	changed size	height	image-5	158
+1470233582359: 	changed size	width	image-5	156
+1470233582360: 	changed size	height	image-5	156
+1470233582367: 	changed size	width	image-5	154
+1470233582368: 	changed size	height	image-5	154
+1470233582370: 	changed size	width	image-5	152
+1470233582371: 	changed size	height	image-5	152
+1470233582376: 	changed size	width	image-5	150
+1470233582377: 	changed size	height	image-5	150
+1470233582379: 	changed size	width	image-5	148
+1470233582379: 	changed size	height	image-5	148
+1470233582388: 	changed size	width	image-5	146
+1470233582388: 	changed size	height	image-5	146
+1470233582392: 	changed size	width	image-5	144
+1470233582393: 	changed size	height	image-5	144
+1470233582395: 	changed size	width	image-5	142
+1470233582396: 	changed size	height	image-5	142
+1470233582400: 	changed size	width	image-5	140
+1470233582401: 	changed size	height	image-5	140
+1470233582403: 	changed size	width	image-5	138
+1470233582404: 	changed size	height	image-5	138
+1470233582412: 	changed size	width	image-5	136
+1470233582412: 	changed size	height	image-5	136
+1470233582418: 	changed size	width	image-5	134
+1470233582419: 	changed size	height	image-5	134
+1470233582421: 	changed size	width	image-5	132
+1470233582421: 	changed size	height	image-5	132
+1470233582427: 	changed size	width	image-5	130
+1470233582428: 	changed size	height	image-5	130
+1470233582430: 	changed size	width	image-5	128
+1470233582431: 	changed size	height	image-5	128
+1470233582434: 	changed size	width	image-5	126
+1470233582435: 	changed size	height	image-5	126
+1470233582437: 	changed size	width	image-5	124
+1470233582438: 	changed size	height	image-5	124
+1470233582443: 	changed size	width	image-5	122
+1470233582444: 	changed size	height	image-5	122
+1470233582447: 	changed size	width	image-5	120
+1470233582448: 	changed size	height	image-5	120
+1470233582451: 	changed size	width	image-5	118
+1470233582452: 	changed size	height	image-5	118
+1470233582459: 	changed size	width	image-5	116
+1470233582460: 	changed size	height	image-5	116
+1470233582469: 	changed size	width	image-5	114
+1470233582470: 	changed size	height	image-5	114
+1470233582472: 	changed size	width	image-5	112
+1470233582473: 	changed size	height	image-5	112
+1470233582475: 	changed size	width	image-5	110
+1470233582476: 	changed size	height	image-5	110
+1470233582484: 	changed size	width	image-5	108
+1470233582485: 	changed size	height	image-5	108
+1470233582487: 	changed size	width	image-5	106
+1470233582488: 	changed size	height	image-5	106
+1470233582493: 	changed size	width	image-5	104
+1470233582494: 	changed size	height	image-5	104
+1470233582496: 	changed size	width	image-5	102
+1470233582497: 	changed size	height	image-5	102
+1470233582501: 	changed size	width	image-5	100
+1470233582502: 	changed size	height	image-5	100
+1470233582504: 	changed size	width	image-5	98
+1470233582504: 	changed size	height	image-5	98
+1470233582509: 	changed size	width	image-5	96
+1470233582510: 	changed size	height	image-5	96
+1470233582512: 	changed size	width	image-5	94
+1470233582513: 	changed size	height	image-5	94
+1470233582519: 	changed size	width	image-5	92
+1470233582520: 	changed size	height	image-5	92
+1470233582522: 	changed size	width	image-5	90
+1470233582523: 	changed size	height	image-5	90
+1470233582525: 	changed size	width	image-5	88
+1470233582526: 	changed size	height	image-5	88
+1470233582528: 	changed size	width	image-5	86
+1470233582529: 	changed size	height	image-5	86
+1470233582545: 	changed size	width	image-5	84
+1470233582546: 	changed size	height	image-5	84
+1470233582549: 	changed size	width	image-5	82
+1470233582549: 	changed size	height	image-5	82
+1470233582552: 	changed size	width	image-5	80
+1470233582552: 	changed size	height	image-5	80
+1470233582569: 	changed size	width	image-5	78
+1470233582570: 	changed size	height	image-5	78
+1470233582584: 	changed size	width	image-5	76
+1470233582585: 	changed size	height	image-5	76
+1470233582587: 	changed size	width	image-5	74
+1470233582587: 	changed size	height	image-5	74
+1470233582592: 	changed size	width	image-5	72
+1470233582593: 	changed size	height	image-5	72
+1470233582600: 	changed size	width	image-5	70
+1470233582601: 	changed size	height	image-5	70
+1470233582610: 	changed size	width	image-5	68
+1470233582611: 	changed size	height	image-5	68
+1470233582685: 	changed size	width	image-5	66
+1470233582686: 	changed size	height	image-5	66
+1470233583636: 	acted on	image-11
+1470233583637: 	selected	image-11
+1470233583760: 	start moving	image-11	from	{"x":288,"y":249}
+1470233583768: 	moved	image-11	to	{"x":600,"y":500}
+1470233583776: 	moved	image-11	to	{"x":600,"y":502}
+1470233583786: 	moved	image-11	to	{"x":599,"y":504}
+1470233583792: 	moved	image-11	to	{"x":599,"y":506}
+1470233583801: 	moved	image-11	to	{"x":599,"y":508}
+1470233583809: 	moved	image-11	to	{"x":599,"y":510}
+1470233583818: 	moved	image-11	to	{"x":598,"y":512}
+1470233583826: 	moved	image-11	to	{"x":598,"y":514}
+1470233583834: 	moved	image-11	to	{"x":598,"y":516}
+1470233583842: 	moved	image-11	to	{"x":598,"y":518}
+1470233583850: 	moved	image-11	to	{"x":597,"y":520}
+1470233583859: 	moved	image-11	to	{"x":597,"y":521}
+1470233583867: 	moved	image-11	to	{"x":597,"y":522}
+1470233583876: 	moved	image-11	to	{"x":597,"y":523}
+1470233583885: 	moved	image-11	to	{"x":597,"y":525}
+1470233583892: 	moved	image-11	to	{"x":597,"y":526}
+1470233583900: 	moved	image-11	to	{"x":596,"y":527}
+1470233583909: 	moved	image-11	to	{"x":596,"y":528}
+1470233583926: 	moved	image-11	to	{"x":596,"y":530}
+1470233583951: 	moved	image-11	to	{"x":596,"y":531}
+1470233583960: 	moved	image-11	to	{"x":596,"y":532}
+1470233583975: 	moved	image-11	to	{"x":596,"y":533}
+1470233583993: 	moved	image-11	to	{"x":596,"y":534}
+1470233584025: 	moved	image-11	to	{"x":596,"y":535}
+1470233584050: 	moved	image-11	to	{"x":596,"y":536}
+1470233584067: 	moved	image-11	to	{"x":596,"y":537}
+1470233584084: 	moved	image-11	to	{"x":595,"y":538}
+1470233584092: 	moved	image-11	to	{"x":595,"y":539}
+1470233584117: 	moved	image-11	to	{"x":595,"y":540}
+1470233584134: 	moved	image-11	to	{"x":595,"y":541}
+1470233584150: 	moved	image-11	to	{"x":595,"y":542}
+1470233584217: 	moved	image-11	to	{"x":595,"y":543}
+1470233584255: 	moved	image-11	to	{"x":595,"y":544}
+1470233584279: 	moved	image-11	to	{"x":595,"y":545}
+1470233584304: 	moved	image-11	to	{"x":595,"y":546}
+1470233584329: 	moved	image-11	to	{"x":595,"y":547}
+1470233584346: 	moved	image-11	to	{"x":594,"y":549}
+1470233584362: 	moved	image-11	to	{"x":594,"y":551}
+1470233584388: 	moved	image-11	to	{"x":594,"y":552}
+1470233584414: 	moved	image-11	to	{"x":594,"y":553}
+1470233586632: 	acted on	copy
+1470233586695: 	copied	image-11
+1470233586697: 	copied	image-11
+1470233586697: 	selected	null
+1470233589594: 	acted on	paste
+1470233589686: 	pasted	image-11-
+1470233589687: 	pasted	null
+1470233591146: 	acted on	image-11-1470233589687
+1470233591148: 	selected	image-11-1470233589687
+1470233592430: 	acted on	image-11-1470233589687
+1470233592431: 	selected	image-11-1470233589687
+1470233592543: 	start moving	image-11-1470233589687	from	{"x":213,"y":242}
+1470233592552: 	moved	image-11-1470233589687	to	{"x":217,"y":243}
+1470233592559: 	moved	image-11-1470233589687	to	{"x":220,"y":245}
+1470233592568: 	moved	image-11-1470233589687	to	{"x":223,"y":246}
+1470233592575: 	moved	image-11-1470233589687	to	{"x":227,"y":247}
+1470233592583: 	moved	image-11-1470233589687	to	{"x":231,"y":248}
+1470233592593: 	moved	image-11-1470233589687	to	{"x":235,"y":249}
+1470233592600: 	moved	image-11-1470233589687	to	{"x":240,"y":250}
+1470233592609: 	moved	image-11-1470233589687	to	{"x":245,"y":252}
+1470233592619: 	moved	image-11-1470233589687	to	{"x":251,"y":254}
+1470233592625: 	moved	image-11-1470233589687	to	{"x":257,"y":256}
+1470233592633: 	moved	image-11-1470233589687	to	{"x":263,"y":257}
+1470233592643: 	moved	image-11-1470233589687	to	{"x":269,"y":258}
+1470233592650: 	moved	image-11-1470233589687	to	{"x":275,"y":260}
+1470233592658: 	moved	image-11-1470233589687	to	{"x":281,"y":262}
+1470233592668: 	moved	image-11-1470233589687	to	{"x":288,"y":265}
+1470233592675: 	moved	image-11-1470233589687	to	{"x":294,"y":266}
+1470233592684: 	moved	image-11-1470233589687	to	{"x":301,"y":268}
+1470233592693: 	moved	image-11-1470233589687	to	{"x":307,"y":271}
+1470233592700: 	moved	image-11-1470233589687	to	{"x":314,"y":272}
+1470233592709: 	moved	image-11-1470233589687	to	{"x":321,"y":274}
+1470233592718: 	moved	image-11-1470233589687	to	{"x":327,"y":276}
+1470233592725: 	moved	image-11-1470233589687	to	{"x":334,"y":278}
+1470233592733: 	moved	image-11-1470233589687	to	{"x":341,"y":281}
+1470233592743: 	moved	image-11-1470233589687	to	{"x":349,"y":283}
+1470233592750: 	moved	image-11-1470233589687	to	{"x":357,"y":285}
+1470233592758: 	moved	image-11-1470233589687	to	{"x":364,"y":287}
+1470233592767: 	moved	image-11-1470233589687	to	{"x":372,"y":289}
+1470233592776: 	moved	image-11-1470233589687	to	{"x":380,"y":292}
+1470233592784: 	moved	image-11-1470233589687	to	{"x":389,"y":295}
+1470233592793: 	moved	image-11-1470233589687	to	{"x":397,"y":297}
+1470233592800: 	moved	image-11-1470233589687	to	{"x":408,"y":302}
+1470233592808: 	moved	image-11-1470233589687	to	{"x":416,"y":305}
+1470233592817: 	moved	image-11-1470233589687	to	{"x":426,"y":309}
+1470233592825: 	moved	image-11-1470233589687	to	{"x":434,"y":313}
+1470233592833: 	moved	image-11-1470233589687	to	{"x":448,"y":317}
+1470233592842: 	moved	image-11-1470233589687	to	{"x":454,"y":320}
+1470233592850: 	moved	image-11-1470233589687	to	{"x":466,"y":325}
+1470233592859: 	moved	image-11-1470233589687	to	{"x":473,"y":327}
+1470233592867: 	moved	image-11-1470233589687	to	{"x":486,"y":333}
+1470233592876: 	moved	image-11-1470233589687	to	{"x":495,"y":337}
+1470233592883: 	moved	image-11-1470233589687	to	{"x":506,"y":341}
+1470233592892: 	moved	image-11-1470233589687	to	{"x":517,"y":346}
+1470233592900: 	moved	image-11-1470233589687	to	{"x":528,"y":348}
+1470233592908: 	moved	image-11-1470233589687	to	{"x":537,"y":352}
+1470233592917: 	moved	image-11-1470233589687	to	{"x":549,"y":356}
+1470233592925: 	moved	image-11-1470233589687	to	{"x":560,"y":361}
+1470233592934: 	moved	image-11-1470233589687	to	{"x":571,"y":366}
+1470233592943: 	moved	image-11-1470233589687	to	{"x":582,"y":369}
+1470233592950: 	moved	image-11-1470233589687	to	{"x":591,"y":374}
+1470233592959: 	moved	image-11-1470233589687	to	{"x":603,"y":378}
+1470233592967: 	moved	image-11-1470233589687	to	{"x":613,"y":383}
+1470233592975: 	moved	image-11-1470233589687	to	{"x":623,"y":388}
+1470233592984: 	moved	image-11-1470233589687	to	{"x":634,"y":392}
+1470233592992: 	moved	image-11-1470233589687	to	{"x":644,"y":396}
+1470233593000: 	moved	image-11-1470233589687	to	{"x":654,"y":401}
+1470233593009: 	moved	image-11-1470233589687	to	{"x":661,"y":405}
+1470233593018: 	moved	image-11-1470233589687	to	{"x":671,"y":410}
+1470233593025: 	moved	image-11-1470233589687	to	{"x":681,"y":415}
+1470233593033: 	moved	image-11-1470233589687	to	{"x":690,"y":419}
+1470233593042: 	moved	image-11-1470233589687	to	{"x":699,"y":424}
+1470233593050: 	moved	image-11-1470233589687	to	{"x":708,"y":429}
+1470233593058: 	moved	image-11-1470233589687	to	{"x":716,"y":434}
+1470233593068: 	moved	image-11-1470233589687	to	{"x":724,"y":437}
+1470233593075: 	moved	image-11-1470233589687	to	{"x":733,"y":442}
+1470233593084: 	moved	image-11-1470233589687	to	{"x":740,"y":446}
+1470233593092: 	moved	image-11-1470233589687	to	{"x":748,"y":449}
+1470233593100: 	moved	image-11-1470233589687	to	{"x":757,"y":455}
+1470233593109: 	moved	image-11-1470233589687	to	{"x":764,"y":458}
+1470233593118: 	moved	image-11-1470233589687	to	{"x":771,"y":462}
+1470233593125: 	moved	image-11-1470233589687	to	{"x":778,"y":466}
+1470233593134: 	moved	image-11-1470233589687	to	{"x":785,"y":469}
+1470233593143: 	moved	image-11-1470233589687	to	{"x":793,"y":473}
+1470233593150: 	moved	image-11-1470233589687	to	{"x":799,"y":476}
+1470233593162: 	moved	image-11-1470233589687	to	{"x":805,"y":479}
+1470233593168: 	moved	image-11-1470233589687	to	{"x":810,"y":483}
+1470233593176: 	moved	image-11-1470233589687	to	{"x":815,"y":487}
+1470233593183: 	moved	image-11-1470233589687	to	{"x":820,"y":490}
+1470233593193: 	moved	image-11-1470233589687	to	{"x":824,"y":494}
+1470233593200: 	moved	image-11-1470233589687	to	{"x":829,"y":498}
+1470233593208: 	moved	image-11-1470233589687	to	{"x":833,"y":501}
+1470233593217: 	moved	image-11-1470233589687	to	{"x":837,"y":504}
+1470233593226: 	moved	image-11-1470233589687	to	{"x":840,"y":507}
+1470233593233: 	moved	image-11-1470233589687	to	{"x":843,"y":508}
+1470233593254: 	moved	image-11-1470233589687	to	{"x":847,"y":512}
+1470233593259: 	moved	image-11-1470233589687	to	{"x":849,"y":514}
+1470233593268: 	moved	image-11-1470233589687	to	{"x":850,"y":516}
+1470233593276: 	moved	image-11-1470233589687	to	{"x":850,"y":517}
+1470233593284: 	moved	image-11-1470233589687	to	{"x":850,"y":519}
+1470233593293: 	moved	image-11-1470233589687	to	{"x":850,"y":520}
+1470233593301: 	moved	image-11-1470233589687	to	{"x":850,"y":521}
+1470233593308: 	moved	image-11-1470233589687	to	{"x":850,"y":522}
+1470233593325: 	moved	image-11-1470233589687	to	{"x":850,"y":523}
+1470233593343: 	moved	image-11-1470233589687	to	{"x":849,"y":524}
+1470233593359: 	moved	image-11-1470233589687	to	{"x":849,"y":525}
+1470233593393: 	moved	image-11-1470233589687	to	{"x":848,"y":525}
+1470233593418: 	moved	image-11-1470233589687	to	{"x":848,"y":526}
+1470233593434: 	moved	image-11-1470233589687	to	{"x":847,"y":526}
+1470233593671: 	acted on	image-11
+1470233593673: 	selected	image-11
+1470233593684: 	start moving	image-11	from	{"x":213,"y":166}
+1470233593693: 	moved	image-11	to	{"x":512,"y":468}
+1470233593700: 	moved	image-11	to	{"x":504,"y":467}
+1470233593708: 	moved	image-11	to	{"x":498,"y":465}
+1470233593718: 	moved	image-11	to	{"x":491,"y":464}
+1470233593725: 	moved	image-11	to	{"x":485,"y":463}
+1470233593733: 	moved	image-11	to	{"x":479,"y":462}
+1470233593742: 	moved	image-11	to	{"x":473,"y":461}
+1470233593750: 	moved	image-11	to	{"x":467,"y":460}
+1470233593758: 	moved	image-11	to	{"x":463,"y":459}
+1470233593768: 	moved	image-11	to	{"x":457,"y":459}
+1470233593775: 	moved	image-11	to	{"x":454,"y":458}
+1470233593784: 	moved	image-11	to	{"x":451,"y":457}
+1470233593793: 	moved	image-11	to	{"x":449,"y":457}
+1470233593800: 	moved	image-11	to	{"x":446,"y":456}
+1470233593809: 	moved	image-11	to	{"x":445,"y":455}
+1470233593817: 	moved	image-11	to	{"x":444,"y":454}
+1470233593825: 	moved	image-11	to	{"x":442,"y":454}
+1470233593833: 	moved	image-11	to	{"x":442,"y":453}
+1470233593844: 	moved	image-11	to	{"x":441,"y":453}
+1470233593851: 	moved	image-11	to	{"x":441,"y":452}
+1470233593858: 	moved	image-11	to	{"x":440,"y":452}
+1470233594259: 	acted on	image-11-1470233589687
+1470233594261: 	selected	image-11-1470233589687
+1470233594351: 	start moving	image-11-1470233589687	from	{"x":95,"y":200}
+1470233594359: 	moved	image-11-1470233589687	to	{"x":727,"y":485}
+1470233594370: 	moved	image-11-1470233589687	to	{"x":726,"y":485}
+1470233594378: 	moved	image-11-1470233589687	to	{"x":724,"y":485}
+1470233594393: 	moved	image-11-1470233589687	to	{"x":723,"y":485}
+1470233594411: 	moved	image-11-1470233589687	to	{"x":722,"y":485}
+1470233594435: 	moved	image-11-1470233589687	to	{"x":722,"y":484}
+1470233594443: 	moved	image-11-1470233589687	to	{"x":721,"y":484}
+1470233594451: 	moved	image-11-1470233589687	to	{"x":720,"y":483}
+1470233595804: 	acted on	image-5
+1470233595805: 	selected	image-5
+1470233596169: 	acted on	image-5
+1470233596170: 	selected	image-5
+1470233596260: 	start moving	image-5	from	{"x":32,"y":28}
+1470233596267: 	moved	image-5	to	{"x":907,"y":191}
+1470233596276: 	moved	image-5	to	{"x":903,"y":189}
+1470233596285: 	moved	image-5	to	{"x":899,"y":187}
+1470233596292: 	moved	image-5	to	{"x":895,"y":185}
+1470233596301: 	moved	image-5	to	{"x":892,"y":182}
+1470233596310: 	moved	image-5	to	{"x":889,"y":180}
+1470233596318: 	moved	image-5	to	{"x":884,"y":178}
+1470233596325: 	moved	image-5	to	{"x":880,"y":175}
+1470233596335: 	moved	image-5	to	{"x":876,"y":172}
+1470233596343: 	moved	image-5	to	{"x":871,"y":169}
+1470233596350: 	moved	image-5	to	{"x":867,"y":166}
+1470233596359: 	moved	image-5	to	{"x":862,"y":164}
+1470233596367: 	moved	image-5	to	{"x":857,"y":160}
+1470233596376: 	moved	image-5	to	{"x":852,"y":157}
+1470233596384: 	moved	image-5	to	{"x":847,"y":153}
+1470233596393: 	moved	image-5	to	{"x":842,"y":150}
+1470233596400: 	moved	image-5	to	{"x":837,"y":148}
+1470233596410: 	moved	image-5	to	{"x":831,"y":145}
+1470233596418: 	moved	image-5	to	{"x":826,"y":142}
+1470233596426: 	moved	image-5	to	{"x":820,"y":139}
+1470233596434: 	moved	image-5	to	{"x":815,"y":135}
+1470233596443: 	moved	image-5	to	{"x":809,"y":131}
+1470233596450: 	moved	image-5	to	{"x":803,"y":128}
+1470233596460: 	moved	image-5	to	{"x":797,"y":125}
+1470233596467: 	moved	image-5	to	{"x":791,"y":122}
+1470233596476: 	moved	image-5	to	{"x":785,"y":119}
+1470233596485: 	moved	image-5	to	{"x":779,"y":116}
+1470233596492: 	moved	image-5	to	{"x":773,"y":113}
+1470233596501: 	moved	image-5	to	{"x":767,"y":111}
+1470233596509: 	moved	image-5	to	{"x":762,"y":108}
+1470233596517: 	moved	image-5	to	{"x":756,"y":105}
+1470233596525: 	moved	image-5	to	{"x":750,"y":103}
+1470233596534: 	moved	image-5	to	{"x":745,"y":100}
+1470233596542: 	moved	image-5	to	{"x":739,"y":97}
+1470233596551: 	moved	image-5	to	{"x":734,"y":95}
+1470233596559: 	moved	image-5	to	{"x":728,"y":93}
+1470233596568: 	moved	image-5	to	{"x":722,"y":91}
+1470233596576: 	moved	image-5	to	{"x":716,"y":89}
+1470233596584: 	moved	image-5	to	{"x":711,"y":87}
+1470233596592: 	moved	image-5	to	{"x":707,"y":85}
+1470233596600: 	moved	image-5	to	{"x":702,"y":83}
+1470233596609: 	moved	image-5	to	{"x":695,"y":81}
+1470233596617: 	moved	image-5	to	{"x":690,"y":79}
+1470233596625: 	moved	image-5	to	{"x":686,"y":78}
+1470233596635: 	moved	image-5	to	{"x":680,"y":76}
+1470233596642: 	moved	image-5	to	{"x":675,"y":75}
+1470233596650: 	moved	image-5	to	{"x":671,"y":74}
+1470233596659: 	moved	image-5	to	{"x":666,"y":72}
+1470233596667: 	moved	image-5	to	{"x":662,"y":71}
+1470233596675: 	moved	image-5	to	{"x":657,"y":70}
+1470233596685: 	moved	image-5	to	{"x":653,"y":69}
+1470233596693: 	moved	image-5	to	{"x":648,"y":68}
+1470233596700: 	moved	image-5	to	{"x":644,"y":67}
+1470233596709: 	moved	image-5	to	{"x":640,"y":66}
+1470233596718: 	moved	image-5	to	{"x":636,"y":65}
+1470233596725: 	moved	image-5	to	{"x":633,"y":64}
+1470233596734: 	moved	image-5	to	{"x":629,"y":63}
+1470233596742: 	moved	image-5	to	{"x":625,"y":62}
+1470233596751: 	moved	image-5	to	{"x":622,"y":62}
+1470233596759: 	moved	image-5	to	{"x":620,"y":61}
+1470233596767: 	moved	image-5	to	{"x":617,"y":60}
+1470233596776: 	moved	image-5	to	{"x":614,"y":60}
+1470233596784: 	moved	image-5	to	{"x":612,"y":60}
+1470233596792: 	moved	image-5	to	{"x":609,"y":60}
+1470233596800: 	moved	image-5	to	{"x":607,"y":60}
+1470233596809: 	moved	image-5	to	{"x":605,"y":60}
+1470233596817: 	moved	image-5	to	{"x":601,"y":60}
+1470233598311: 	acted on	copy
+1470233598417: 	copied	image-5
+1470233598418: 	copied	image-5
+1470233598419: 	selected	null
+1470233599919: 	acted on	image-11-1470233589687
+1470233599920: 	selected	image-11-1470233589687
+1470233601236: 	acted on	paste
+1470233601303: 	pasted	image-5-
+1470233601303: 	pasted	image-11-1470233589687
+1470233602569: 	acted on	image-5-1470233601303
+1470233602570: 	selected	image-5-1470233601303
+1470233604611: 	acted on	delete
+1470233604670: 	cut	image-5-1470233601303
+1470233604671: 	deleted	image-5-1470233601303
+1470233606252: 	acted on	image-5
+1470233606254: 	selected	image-5
+1470233606911: 	acted on	image-5
+1470233606952: 	acted on	image-5
+1470233606913: 	selected	image-5
+1470233606953: 	selected	image-5
+1470233606960: 	start moving	image-5	from	{"x":22,"y":58}
+1470233606962: 	changed size	width	image-5	68
+1470233606962: 	changed size	height	image-5	68
+1470233606970: 	changed size	width	image-5	70
+1470233606970: 	changed size	height	image-5	70
+1470233606977: 	changed size	width	image-5	72
+1470233606978: 	changed size	height	image-5	72
+1470233606986: 	changed size	width	image-5	74
+1470233606986: 	changed size	height	image-5	74
+1470233606989: 	changed size	width	image-5	76
+1470233606990: 	changed size	height	image-5	76
+1470233606994: 	changed size	width	image-5	78
+1470233606994: 	changed size	height	image-5	78
+1470233607002: 	changed size	width	image-5	80
+1470233607002: 	changed size	height	image-5	80
+1470233607009: 	changed size	width	image-5	82
+1470233607010: 	changed size	height	image-5	82
+1470233607018: 	changed size	width	image-5	84
+1470233607019: 	changed size	height	image-5	84
+1470233607026: 	changed size	width	image-5	86
+1470233607027: 	changed size	height	image-5	86
+1470233607029: 	changed size	width	image-5	88
+1470233607030: 	changed size	height	image-5	88
+1470233607036: 	changed size	width	image-5	90
+1470233607036: 	changed size	height	image-5	90
+1470233607052: 	changed size	width	image-5	92
+1470233607053: 	changed size	height	image-5	92
+1470233607060: 	changed size	width	image-5	94
+1470233607061: 	changed size	height	image-5	94
+1470233607068: 	changed size	width	image-5	96
+1470233607068: 	changed size	height	image-5	96
+1470233607071: 	changed size	width	image-5	98
+1470233607072: 	changed size	height	image-5	98
+1470233607077: 	changed size	width	image-5	100
+1470233607078: 	changed size	height	image-5	100
+1470233607080: 	changed size	width	image-5	102
+1470233607081: 	changed size	height	image-5	102
+1470233607086: 	changed size	width	image-5	104
+1470233607087: 	changed size	height	image-5	104
+1470233607093: 	changed size	width	image-5	106
+1470233607094: 	changed size	height	image-5	106
+1470233607097: 	changed size	width	image-5	108
+1470233607098: 	changed size	height	image-5	108
+1470233607101: 	changed size	width	image-5	110
+1470233607102: 	changed size	height	image-5	110
+1470233607109: 	changed size	width	image-5	112
+1470233607110: 	changed size	height	image-5	112
+1470233607118: 	changed size	width	image-5	114
+1470233607119: 	changed size	height	image-5	114
+1470233607122: 	changed size	width	image-5	116
+1470233607122: 	changed size	height	image-5	116
+1470233607126: 	changed size	width	image-5	118
+1470233607127: 	changed size	height	image-5	118
+1470233607135: 	changed size	width	image-5	120
+1470233607136: 	changed size	height	image-5	120
+1470233607143: 	changed size	width	image-5	122
+1470233607144: 	changed size	height	image-5	122
+1470233607152: 	changed size	width	image-5	124
+1470233607152: 	changed size	height	image-5	124
+1470233607154: 	changed size	width	image-5	126
+1470233607155: 	changed size	height	image-5	126
+1470233607161: 	changed size	width	image-5	128
+1470233607162: 	changed size	height	image-5	128
+1470233607164: 	changed size	width	image-5	130
+1470233607164: 	changed size	height	image-5	130
+1470233607178: 	changed size	width	image-5	132
+1470233607179: 	changed size	height	image-5	132
+1470233607181: 	changed size	width	image-5	134
+1470233607182: 	changed size	height	image-5	134
+1470233607186: 	changed size	width	image-5	136
+1470233607186: 	changed size	height	image-5	136
+1470233607193: 	changed size	width	image-5	138
+1470233607194: 	changed size	height	image-5	138
+1470233607202: 	changed size	width	image-5	140
+1470233607203: 	changed size	height	image-5	140
+1470233607205: 	changed size	width	image-5	142
+1470233607205: 	changed size	height	image-5	142
+1470233607219: 	changed size	width	image-5	144
+1470233607219: 	changed size	height	image-5	144
+1470233607222: 	changed size	width	image-5	146
+1470233607223: 	changed size	height	image-5	146
+1470233607227: 	changed size	width	image-5	148
+1470233607227: 	changed size	height	image-5	148
+1470233607236: 	changed size	width	image-5	150
+1470233607237: 	changed size	height	image-5	150
+1470233607243: 	changed size	width	image-5	152
+1470233607244: 	changed size	height	image-5	152
+1470233607251: 	changed size	width	image-5	154
+1470233607252: 	changed size	height	image-5	154
+1470233607260: 	changed size	width	image-5	156
+1470233607261: 	changed size	height	image-5	156
+1470233607263: 	changed size	width	image-5	158
+1470233607264: 	changed size	height	image-5	158
+1470233607270: 	changed size	width	image-5	160
+1470233607270: 	changed size	height	image-5	160
+1470233607278: 	changed size	width	image-5	162
+1470233607279: 	changed size	height	image-5	162
+1470233607284: 	changed size	width	image-5	164
+1470233607285: 	changed size	height	image-5	164
+1470233607287: 	changed size	width	image-5	166
+1470233607288: 	changed size	height	image-5	166
+1470233607293: 	changed size	width	image-5	168
+1470233607294: 	changed size	height	image-5	168
+1470233607302: 	changed size	width	image-5	170
+1470233607302: 	changed size	height	image-5	170
+1470233607304: 	changed size	width	image-5	172
+1470233607305: 	changed size	height	image-5	172
+1470233607309: 	changed size	width	image-5	174
+1470233607310: 	changed size	height	image-5	174
+1470233607328: 	changed size	width	image-5	176
+1470233607328: 	changed size	height	image-5	176
+1470233607334: 	changed size	width	image-5	178
+1470233607335: 	changed size	height	image-5	178
+1470233607343: 	changed size	width	image-5	180
+1470233607345: 	changed size	height	image-5	180
+1470233607361: 	changed size	width	image-5	182
+1470233607362: 	changed size	height	image-5	182
+1470233607368: 	changed size	width	image-5	184
+1470233607369: 	changed size	height	image-5	184
+1470233607377: 	changed size	width	image-5	186
+1470233607378: 	changed size	height	image-5	186
+1470233607380: 	changed size	width	image-5	188
+1470233607381: 	changed size	height	image-5	188
+1470233607393: 	changed size	width	image-5	190
+1470233607394: 	changed size	height	image-5	190
+1470233607396: 	changed size	width	image-5	192
+1470233607397: 	changed size	height	image-5	192
+1470233607410: 	changed size	width	image-5	194
+1470233607411: 	changed size	height	image-5	194
+1470233607435: 	changed size	width	image-5	196
+1470233607435: 	changed size	height	image-5	196
+1470233607644: 	acted on	image-5
+1470233607646: 	selected	image-5
+1470233607719: 	start moving	image-5	from	{"x":143,"y":125}
+1470233607726: 	moved	image-5	to	{"x":646,"y":94}
+1470233607735: 	moved	image-5	to	{"x":644,"y":97}
+1470233607742: 	moved	image-5	to	{"x":642,"y":100}
+1470233607751: 	moved	image-5	to	{"x":640,"y":104}
+1470233607760: 	moved	image-5	to	{"x":639,"y":106}
+1470233607771: 	moved	image-5	to	{"x":638,"y":108}
+1470233607776: 	moved	image-5	to	{"x":637,"y":110}
+1470233607785: 	moved	image-5	to	{"x":636,"y":111}
+1470233607794: 	moved	image-5	to	{"x":635,"y":114}
+1470233607801: 	moved	image-5	to	{"x":634,"y":116}
+1470233607809: 	moved	image-5	to	{"x":633,"y":118}
+1470233607817: 	moved	image-5	to	{"x":632,"y":119}
+1470233607826: 	moved	image-5	to	{"x":631,"y":121}
+1470233607834: 	moved	image-5	to	{"x":631,"y":123}
+1470233607842: 	moved	image-5	to	{"x":630,"y":125}
+1470233607851: 	moved	image-5	to	{"x":629,"y":128}
+1470233607860: 	moved	image-5	to	{"x":629,"y":129}
+1470233607867: 	moved	image-5	to	{"x":627,"y":133}
+1470233607876: 	moved	image-5	to	{"x":627,"y":134}
+1470233607884: 	moved	image-5	to	{"x":626,"y":137}
+1470233607893: 	moved	image-5	to	{"x":625,"y":138}
+1470233607901: 	moved	image-5	to	{"x":625,"y":140}
+1470233607910: 	moved	image-5	to	{"x":624,"y":143}
+1470233607917: 	moved	image-5	to	{"x":624,"y":144}
+1470233607926: 	moved	image-5	to	{"x":623,"y":146}
+1470233607935: 	moved	image-5	to	{"x":622,"y":146}
+1470233607942: 	moved	image-5	to	{"x":622,"y":148}
+1470233607950: 	moved	image-5	to	{"x":621,"y":149}
+1470233607959: 	moved	image-5	to	{"x":621,"y":150}
+1470233607976: 	moved	image-5	to	{"x":620,"y":152}
+1470233607993: 	moved	image-5	to	{"x":620,"y":153}
+1470233608010: 	moved	image-5	to	{"x":620,"y":154}
+1470233608043: 	moved	image-5	to	{"x":620,"y":155}
+1470233608144: 	moved	image-5	to	{"x":620,"y":156}
+1470233609353: 	acted on	less
+1470233609737: 	acted on	less
+1470233610020: 	acted on	more
+1470233610303: 	acted on	less
+1470233610521: 	acted on	more
+1470233610778: 	acted on	less
+1470233610937: 	acted on	less
+1470233611195: 	acted on	more
+1470233611403: 	acted on	more
+1470233612595: 	acted on	draw
+1470233612678: 	selected	null
+1470233612678: 	mode	draw
+1470233613278: 	acted on	image-5
+1470233613280: 	draw	image-5	{"x":45,"y":91}
+1470233613280: 	draw	image-5	{"x":45,"y":91}
+1470233613335: 	draw	image-5	{"x":34,"y":102}
+1470233613336: 	draw	image-5	{"x":34,"y":102}
+1470233613342: 	draw	image-5	{"x":33,"y":104}
+1470233613343: 	draw	image-5	{"x":33,"y":104}
+1470233613351: 	draw	image-5	{"x":33,"y":108}
+1470233613352: 	draw	image-5	{"x":33,"y":108}
+1470233613360: 	draw	image-5	{"x":33,"y":110}
+1470233613361: 	draw	image-5	{"x":33,"y":110}
+1470233613367: 	draw	image-5	{"x":34,"y":113}
+1470233613368: 	draw	image-5	{"x":34,"y":113}
+1470233613377: 	draw	image-5	{"x":35,"y":116}
+1470233613377: 	draw	image-5	{"x":35,"y":116}
+1470233613383: 	draw	image-5	{"x":37,"y":118}
+1470233613384: 	draw	image-5	{"x":37,"y":118}
+1470233613393: 	draw	image-5	{"x":40,"y":121}
+1470233613393: 	draw	image-5	{"x":40,"y":121}
+1470233613402: 	draw	image-5	{"x":42,"y":122}
+1470233613403: 	draw	image-5	{"x":42,"y":122}
+1470233613410: 	draw	image-5	{"x":46,"y":124}
+1470233613411: 	draw	image-5	{"x":46,"y":124}
+1470233613417: 	draw	image-5	{"x":47,"y":125}
+1470233613418: 	draw	image-5	{"x":47,"y":125}
+1470233613427: 	draw	image-5	{"x":51,"y":126}
+1470233613428: 	draw	image-5	{"x":51,"y":126}
+1470233613435: 	draw	image-5	{"x":53,"y":126}
+1470233613436: 	draw	image-5	{"x":53,"y":126}
+1470233613444: 	draw	image-5	{"x":56,"y":125}
+1470233613445: 	draw	image-5	{"x":56,"y":125}
+1470233613452: 	draw	image-5	{"x":60,"y":123}
+1470233613452: 	draw	image-5	{"x":60,"y":123}
+1470233613460: 	draw	image-5	{"x":62,"y":122}
+1470233613461: 	draw	image-5	{"x":62,"y":122}
+1470233613468: 	draw	image-5	{"x":65,"y":119}
+1470233613469: 	draw	image-5	{"x":65,"y":119}
+1470233613476: 	draw	image-5	{"x":68,"y":117}
+1470233613477: 	draw	image-5	{"x":68,"y":117}
+1470233613485: 	draw	image-5	{"x":71,"y":114}
+1470233613486: 	draw	image-5	{"x":71,"y":114}
+1470233613493: 	draw	image-5	{"x":73,"y":111}
+1470233613494: 	draw	image-5	{"x":73,"y":111}
+1470233613501: 	draw	image-5	{"x":75,"y":108}
+1470233613502: 	draw	image-5	{"x":75,"y":108}
+1470233613509: 	draw	image-5	{"x":77,"y":105}
+1470233613509: 	draw	image-5	{"x":77,"y":105}
+1470233613517: 	draw	image-5	{"x":77,"y":103}
+1470233613518: 	draw	image-5	{"x":77,"y":103}
+1470233613527: 	draw	image-5	{"x":78,"y":100}
+1470233613527: 	draw	image-5	{"x":78,"y":100}
+1470233613534: 	draw	image-5	{"x":78,"y":98}
+1470233613535: 	draw	image-5	{"x":78,"y":98}
+1470233613542: 	draw	image-5	{"x":77,"y":94}
+1470233613543: 	draw	image-5	{"x":77,"y":94}
+1470233613551: 	draw	image-5	{"x":76,"y":92}
+1470233613552: 	draw	image-5	{"x":76,"y":92}
+1470233613560: 	draw	image-5	{"x":75,"y":90}
+1470233613560: 	draw	image-5	{"x":75,"y":90}
+1470233613567: 	draw	image-5	{"x":73,"y":89}
+1470233613568: 	draw	image-5	{"x":73,"y":89}
+1470233613576: 	draw	image-5	{"x":71,"y":88}
+1470233613577: 	draw	image-5	{"x":71,"y":88}
+1470233613584: 	draw	image-5	{"x":68,"y":86}
+1470233613585: 	draw	image-5	{"x":68,"y":86}
+1470233613592: 	draw	image-5	{"x":65,"y":85}
+1470233613593: 	draw	image-5	{"x":65,"y":85}
+1470233613601: 	draw	image-5	{"x":61,"y":85}
+1470233613602: 	draw	image-5	{"x":61,"y":85}
+1470233613609: 	draw	image-5	{"x":57,"y":85}
+1470233613610: 	draw	image-5	{"x":57,"y":85}
+1470233613617: 	draw	image-5	{"x":53,"y":84}
+1470233613618: 	draw	image-5	{"x":53,"y":84}
+1470233613626: 	draw	image-5	{"x":49,"y":85}
+1470233613626: 	draw	image-5	{"x":49,"y":85}
+1470233613635: 	draw	image-5	{"x":45,"y":86}
+1470233613635: 	draw	image-5	{"x":45,"y":86}
+1470233613642: 	draw	image-5	{"x":42,"y":87}
+1470233613643: 	draw	image-5	{"x":42,"y":87}
+1470233613651: 	draw	image-5	{"x":40,"y":88}
+1470233613652: 	draw	image-5	{"x":40,"y":88}
+1470233613659: 	draw	image-5	{"x":37,"y":90}
+1470233613659: 	draw	image-5	{"x":37,"y":90}
+1470233613667: 	draw	image-5	{"x":35,"y":92}
+1470233613668: 	draw	image-5	{"x":35,"y":92}
+1470233613676: 	draw	image-5	{"x":33,"y":94}
+1470233613676: 	draw	image-5	{"x":33,"y":94}
+1470233613685: 	draw	image-5	{"x":31,"y":97}
+1470233613686: 	draw	image-5	{"x":31,"y":97}
+1470233613692: 	draw	image-5	{"x":30,"y":100}
+1470233613693: 	draw	image-5	{"x":30,"y":100}
+1470233613701: 	draw	image-5	{"x":29,"y":103}
+1470233613702: 	draw	image-5	{"x":29,"y":103}
+1470233613710: 	draw	image-5	{"x":30,"y":105}
+1470233613711: 	draw	image-5	{"x":30,"y":105}
+1470233613717: 	draw	image-5	{"x":30,"y":109}
+1470233613718: 	draw	image-5	{"x":30,"y":109}
+1470233613726: 	draw	image-5	{"x":31,"y":111}
+1470233613727: 	draw	image-5	{"x":31,"y":111}
+1470233613738: 	draw	image-5	{"x":32,"y":113}
+1470233613739: 	draw	image-5	{"x":32,"y":113}
+1470233613742: 	draw	image-5	{"x":34,"y":115}
+1470233613743: 	draw	image-5	{"x":34,"y":115}
+1470233613751: 	draw	image-5	{"x":35,"y":116}
+1470233613752: 	draw	image-5	{"x":35,"y":116}
+1470233613758: 	draw	image-5	{"x":37,"y":118}
+1470233613759: 	draw	image-5	{"x":37,"y":118}
+1470233613767: 	draw	image-5	{"x":39,"y":119}
+1470233613767: 	draw	image-5	{"x":39,"y":119}
+1470233613776: 	draw	image-5	{"x":40,"y":119}
+1470233613776: 	draw	image-5	{"x":40,"y":119}
+1470233613784: 	draw	image-5	{"x":42,"y":119}
+1470233613785: 	draw	image-5	{"x":42,"y":119}
+1470233613792: 	draw	image-5	{"x":44,"y":119}
+1470233613793: 	draw	image-5	{"x":44,"y":119}
+1470233613801: 	draw	image-5	{"x":47,"y":118}
+1470233613802: 	draw	image-5	{"x":47,"y":118}
+1470233613809: 	draw	image-5	{"x":50,"y":116}
+1470233613810: 	draw	image-5	{"x":50,"y":116}
+1470233613817: 	draw	image-5	{"x":54,"y":113}
+1470233613818: 	draw	image-5	{"x":54,"y":113}
+1470233613826: 	draw	image-5	{"x":57,"y":110}
+1470233613827: 	draw	image-5	{"x":57,"y":110}
+1470233613834: 	draw	image-5	{"x":60,"y":108}
+1470233613835: 	draw	image-5	{"x":60,"y":108}
+1470233613843: 	draw	image-5	{"x":64,"y":104}
+1470233613843: 	draw	image-5	{"x":64,"y":104}
+1470233613850: 	draw	image-5	{"x":66,"y":101}
+1470233613851: 	draw	image-5	{"x":66,"y":101}
+1470233613859: 	draw	image-5	{"x":67,"y":99}
+1470233613860: 	draw	image-5	{"x":67,"y":99}
+1470233613869: 	draw	image-5	{"x":68,"y":97}
+1470233613870: 	draw	image-5	{"x":68,"y":97}
+1470233613876: 	draw	image-5	{"x":68,"y":96}
+1470233613877: 	draw	image-5	{"x":68,"y":96}
+1470233613884: 	draw	image-5	{"x":68,"y":94}
+1470233613885: 	draw	image-5	{"x":68,"y":94}
+1470233613893: 	draw	image-5	{"x":68,"y":93}
+1470233613894: 	draw	image-5	{"x":68,"y":93}
+1470233613900: 	draw	image-5	{"x":68,"y":92}
+1470233613901: 	draw	image-5	{"x":68,"y":92}
+1470233613910: 	draw	image-5	{"x":67,"y":91}
+1470233613911: 	draw	image-5	{"x":67,"y":91}
+1470233613917: 	draw	image-5	{"x":66,"y":91}
+1470233613918: 	draw	image-5	{"x":66,"y":91}
+1470233613927: 	draw	image-5	{"x":65,"y":90}
+1470233613928: 	draw	image-5	{"x":65,"y":90}
+1470233613939: 	draw	image-5	{"x":61,"y":90}
+1470233613940: 	draw	image-5	{"x":61,"y":90}
+1470233613943: 	draw	image-5	{"x":57,"y":91}
+1470233613945: 	draw	image-5	{"x":57,"y":91}
+1470233613954: 	draw	image-5	{"x":53,"y":92}
+1470233613956: 	draw	image-5	{"x":53,"y":92}
+1470233613959: 	draw	image-5	{"x":51,"y":94}
+1470233613960: 	draw	image-5	{"x":51,"y":94}
+1470233613971: 	draw	image-5	{"x":48,"y":96}
+1470233613977: 	draw	image-5	{"x":48,"y":96}
+1470233613992: 	draw	image-5	{"x":43,"y":100}
+1470233613993: 	draw	image-5	{"x":43,"y":100}
+1470233613996: 	draw	image-5	{"x":42,"y":102}
+1470233613997: 	draw	image-5	{"x":42,"y":102}
+1470233614001: 	draw	image-5	{"x":40,"y":104}
+1470233614002: 	draw	image-5	{"x":40,"y":104}
+1470233614009: 	draw	image-5	{"x":40,"y":105}
+1470233614010: 	draw	image-5	{"x":40,"y":105}
+1470233614027: 	draw	image-5	{"x":40,"y":106}
+1470233614028: 	draw	image-5	{"x":40,"y":106}
+1470233614034: 	draw	image-5	{"x":40,"y":107}
+1470233614035: 	draw	image-5	{"x":40,"y":107}
+1470233614043: 	draw	image-5	{"x":41,"y":107}
+1470233614044: 	draw	image-5	{"x":41,"y":107}
+1470233614051: 	draw	image-5	{"x":41,"y":109}
+1470233614052: 	draw	image-5	{"x":41,"y":109}
+1470233614059: 	draw	image-5	{"x":43,"y":109}
+1470233614060: 	draw	image-5	{"x":43,"y":109}
+1470233614068: 	draw	image-5	{"x":46,"y":110}
+1470233614069: 	draw	image-5	{"x":46,"y":110}
+1470233614076: 	draw	image-5	{"x":50,"y":109}
+1470233614077: 	draw	image-5	{"x":50,"y":109}
+1470233614085: 	draw	image-5	{"x":54,"y":108}
+1470233614086: 	draw	image-5	{"x":54,"y":108}
+1470233614092: 	draw	image-5	{"x":56,"y":107}
+1470233614093: 	draw	image-5	{"x":56,"y":107}
+1470233614101: 	draw	image-5	{"x":57,"y":106}
+1470233614102: 	draw	image-5	{"x":57,"y":106}
+1470233614109: 	draw	image-5	{"x":59,"y":105}
+1470233614110: 	draw	image-5	{"x":59,"y":105}
+1470233614117: 	draw	image-5	{"x":59,"y":104}
+1470233614118: 	draw	image-5	{"x":59,"y":104}
+1470233614126: 	draw	image-5	{"x":60,"y":103}
+1470233614127: 	draw	image-5	{"x":60,"y":103}
+1470233614142: 	draw	image-5	{"x":60,"y":102}
+1470233614143: 	draw	image-5	{"x":60,"y":102}
+1470233614151: 	draw	image-5	{"x":59,"y":102}
+1470233614152: 	draw	image-5	{"x":59,"y":102}
+1470233614159: 	draw	image-5	{"x":58,"y":101}
+1470233614160: 	draw	image-5	{"x":58,"y":101}
+1470233614167: 	draw	image-5	{"x":55,"y":99}
+1470233614168: 	draw	image-5	{"x":55,"y":99}
+1470233614176: 	draw	image-5	{"x":52,"y":100}
+1470233614177: 	draw	image-5	{"x":52,"y":100}
+1470233614184: 	draw	image-5	{"x":50,"y":100}
+1470233614185: 	draw	image-5	{"x":50,"y":100}
+1470233614191: 	draw	image-5	{"x":47,"y":101}
+1470233614192: 	draw	image-5	{"x":47,"y":101}
+1470233614200: 	draw	image-5	{"x":46,"y":102}
+1470233614201: 	draw	image-5	{"x":46,"y":102}
+1470233614209: 	draw	image-5	{"x":44,"y":103}
+1470233614210: 	draw	image-5	{"x":44,"y":103}
+1470233614218: 	draw	image-5	{"x":43,"y":104}
+1470233614219: 	draw	image-5	{"x":43,"y":104}
+1470233614226: 	draw	image-5	{"x":42,"y":106}
+1470233614227: 	draw	image-5	{"x":42,"y":106}
+1470233614234: 	draw	image-5	{"x":42,"y":107}
+1470233614235: 	draw	image-5	{"x":42,"y":107}
+1470233614477: 	acted on	image-5
+1470233614478: 	draw	image-5	{"x":103,"y":125}
+1470233614479: 	draw	image-5	{"x":103,"y":125}
+1470233614517: 	draw	image-5	{"x":85,"y":132}
+1470233614518: 	draw	image-5	{"x":85,"y":132}
+1470233614526: 	draw	image-5	{"x":82,"y":134}
+1470233614526: 	draw	image-5	{"x":82,"y":134}
+1470233614534: 	draw	image-5	{"x":80,"y":137}
+1470233614534: 	draw	image-5	{"x":80,"y":137}
+1470233614542: 	draw	image-5	{"x":77,"y":140}
+1470233614542: 	draw	image-5	{"x":77,"y":140}
+1470233614551: 	draw	image-5	{"x":75,"y":142}
+1470233614552: 	draw	image-5	{"x":75,"y":142}
+1470233614558: 	draw	image-5	{"x":73,"y":145}
+1470233614559: 	draw	image-5	{"x":73,"y":145}
+1470233614567: 	draw	image-5	{"x":72,"y":146}
+1470233614568: 	draw	image-5	{"x":72,"y":146}
+1470233614576: 	draw	image-5	{"x":70,"y":149}
+1470233614576: 	draw	image-5	{"x":70,"y":149}
+1470233614584: 	draw	image-5	{"x":70,"y":150}
+1470233614585: 	draw	image-5	{"x":70,"y":150}
+1470233614592: 	draw	image-5	{"x":70,"y":152}
+1470233614592: 	draw	image-5	{"x":70,"y":152}
+1470233614601: 	draw	image-5	{"x":71,"y":154}
+1470233614602: 	draw	image-5	{"x":71,"y":154}
+1470233614609: 	draw	image-5	{"x":71,"y":156}
+1470233614610: 	draw	image-5	{"x":71,"y":156}
+1470233614617: 	draw	image-5	{"x":73,"y":157}
+1470233614617: 	draw	image-5	{"x":73,"y":157}
+1470233614625: 	draw	image-5	{"x":75,"y":159}
+1470233614626: 	draw	image-5	{"x":75,"y":159}
+1470233614635: 	draw	image-5	{"x":78,"y":160}
+1470233614635: 	draw	image-5	{"x":78,"y":160}
+1470233614642: 	draw	image-5	{"x":82,"y":161}
+1470233614643: 	draw	image-5	{"x":82,"y":161}
+1470233614650: 	draw	image-5	{"x":86,"y":161}
+1470233614651: 	draw	image-5	{"x":86,"y":161}
+1470233614659: 	draw	image-5	{"x":91,"y":160}
+1470233614660: 	draw	image-5	{"x":91,"y":160}
+1470233614666: 	draw	image-5	{"x":95,"y":158}
+1470233614667: 	draw	image-5	{"x":95,"y":158}
+1470233614676: 	draw	image-5	{"x":100,"y":157}
+1470233614677: 	draw	image-5	{"x":100,"y":157}
+1470233614685: 	draw	image-5	{"x":105,"y":154}
+1470233614685: 	draw	image-5	{"x":105,"y":154}
+1470233614691: 	draw	image-5	{"x":108,"y":151}
+1470233614692: 	draw	image-5	{"x":108,"y":151}
+1470233614701: 	draw	image-5	{"x":111,"y":148}
+1470233614702: 	draw	image-5	{"x":111,"y":148}
+1470233614710: 	draw	image-5	{"x":114,"y":146}
+1470233614710: 	draw	image-5	{"x":114,"y":146}
+1470233614716: 	draw	image-5	{"x":116,"y":144}
+1470233614717: 	draw	image-5	{"x":116,"y":144}
+1470233614726: 	draw	image-5	{"x":117,"y":140}
+1470233614727: 	draw	image-5	{"x":117,"y":140}
+1470233614733: 	draw	image-5	{"x":117,"y":138}
+1470233614734: 	draw	image-5	{"x":117,"y":138}
+1470233614742: 	draw	image-5	{"x":118,"y":134}
+1470233614743: 	draw	image-5	{"x":118,"y":134}
+1470233614751: 	draw	image-5	{"x":117,"y":131}
+1470233614752: 	draw	image-5	{"x":117,"y":131}
+1470233614760: 	draw	image-5	{"x":115,"y":127}
+1470233614760: 	draw	image-5	{"x":115,"y":127}
+1470233614768: 	draw	image-5	{"x":112,"y":124}
+1470233614769: 	draw	image-5	{"x":112,"y":124}
+1470233614776: 	draw	image-5	{"x":109,"y":122}
+1470233614777: 	draw	image-5	{"x":109,"y":122}
+1470233614784: 	draw	image-5	{"x":104,"y":120}
+1470233614784: 	draw	image-5	{"x":104,"y":120}
+1470233614792: 	draw	image-5	{"x":101,"y":119}
+1470233614792: 	draw	image-5	{"x":101,"y":119}
+1470233614801: 	draw	image-5	{"x":96,"y":118}
+1470233614802: 	draw	image-5	{"x":96,"y":118}
+1470233614809: 	draw	image-5	{"x":91,"y":118}
+1470233614810: 	draw	image-5	{"x":91,"y":118}
+1470233614817: 	draw	image-5	{"x":86,"y":119}
+1470233614818: 	draw	image-5	{"x":86,"y":119}
+1470233614826: 	draw	image-5	{"x":82,"y":120}
+1470233614827: 	draw	image-5	{"x":82,"y":120}
+1470233614834: 	draw	image-5	{"x":78,"y":121}
+1470233614835: 	draw	image-5	{"x":78,"y":121}
+1470233614841: 	draw	image-5	{"x":74,"y":124}
+1470233614842: 	draw	image-5	{"x":74,"y":124}
+1470233614851: 	draw	image-5	{"x":71,"y":126}
+1470233614852: 	draw	image-5	{"x":71,"y":126}
+1470233614859: 	draw	image-5	{"x":69,"y":129}
+1470233614860: 	draw	image-5	{"x":69,"y":129}
+1470233614866: 	draw	image-5	{"x":68,"y":131}
+1470233614867: 	draw	image-5	{"x":68,"y":131}
+1470233614876: 	draw	image-5	{"x":67,"y":134}
+1470233614876: 	draw	image-5	{"x":67,"y":134}
+1470233614884: 	draw	image-5	{"x":66,"y":136}
+1470233614885: 	draw	image-5	{"x":66,"y":136}
+1470233614891: 	draw	image-5	{"x":66,"y":140}
+1470233614892: 	draw	image-5	{"x":66,"y":140}
+1470233614901: 	draw	image-5	{"x":67,"y":142}
+1470233614901: 	draw	image-5	{"x":67,"y":142}
+1470233614909: 	draw	image-5	{"x":68,"y":145}
+1470233614909: 	draw	image-5	{"x":68,"y":145}
+1470233614918: 	draw	image-5	{"x":69,"y":147}
+1470233614919: 	draw	image-5	{"x":69,"y":147}
+1470233614926: 	draw	image-5	{"x":71,"y":149}
+1470233614926: 	draw	image-5	{"x":71,"y":149}
+1470233614934: 	draw	image-5	{"x":73,"y":150}
+1470233614935: 	draw	image-5	{"x":73,"y":150}
+1470233614942: 	draw	image-5	{"x":76,"y":152}
+1470233614943: 	draw	image-5	{"x":76,"y":152}
+1470233614951: 	draw	image-5	{"x":78,"y":152}
+1470233614951: 	draw	image-5	{"x":78,"y":152}
+1470233614958: 	draw	image-5	{"x":81,"y":153}
+1470233614959: 	draw	image-5	{"x":81,"y":153}
+1470233614967: 	draw	image-5	{"x":84,"y":154}
+1470233614968: 	draw	image-5	{"x":84,"y":154}
+1470233614977: 	draw	image-5	{"x":87,"y":154}
+1470233614978: 	draw	image-5	{"x":87,"y":154}
+1470233614983: 	draw	image-5	{"x":91,"y":153}
+1470233614984: 	draw	image-5	{"x":91,"y":153}
+1470233614993: 	draw	image-5	{"x":95,"y":152}
+1470233614994: 	draw	image-5	{"x":95,"y":152}
+1470233615001: 	draw	image-5	{"x":98,"y":150}
+1470233615001: 	draw	image-5	{"x":98,"y":150}
+1470233615009: 	draw	image-5	{"x":100,"y":148}
+1470233615009: 	draw	image-5	{"x":100,"y":148}
+1470233615017: 	draw	image-5	{"x":103,"y":145}
+1470233615018: 	draw	image-5	{"x":103,"y":145}
+1470233615027: 	draw	image-5	{"x":105,"y":143}
+1470233615027: 	draw	image-5	{"x":105,"y":143}
+1470233615033: 	draw	image-5	{"x":107,"y":140}
+1470233615034: 	draw	image-5	{"x":107,"y":140}
+1470233615042: 	draw	image-5	{"x":108,"y":137}
+1470233615043: 	draw	image-5	{"x":108,"y":137}
+1470233615051: 	draw	image-5	{"x":108,"y":135}
+1470233615052: 	draw	image-5	{"x":108,"y":135}
+1470233615059: 	draw	image-5	{"x":108,"y":132}
+1470233615060: 	draw	image-5	{"x":108,"y":132}
+1470233615067: 	draw	image-5	{"x":108,"y":130}
+1470233615067: 	draw	image-5	{"x":108,"y":130}
+1470233615076: 	draw	image-5	{"x":107,"y":128}
+1470233615077: 	draw	image-5	{"x":107,"y":128}
+1470233615084: 	draw	image-5	{"x":105,"y":127}
+1470233615085: 	draw	image-5	{"x":105,"y":127}
+1470233615093: 	draw	image-5	{"x":104,"y":126}
+1470233615093: 	draw	image-5	{"x":104,"y":126}
+1470233615101: 	draw	image-5	{"x":101,"y":124}
+1470233615102: 	draw	image-5	{"x":101,"y":124}
+1470233615109: 	draw	image-5	{"x":98,"y":124}
+1470233615109: 	draw	image-5	{"x":98,"y":124}
+1470233615116: 	draw	image-5	{"x":95,"y":124}
+1470233615117: 	draw	image-5	{"x":95,"y":124}
+1470233615126: 	draw	image-5	{"x":90,"y":126}
+1470233615126: 	draw	image-5	{"x":90,"y":126}
+1470233615133: 	draw	image-5	{"x":88,"y":127}
+1470233615134: 	draw	image-5	{"x":88,"y":127}
+1470233615142: 	draw	image-5	{"x":85,"y":129}
+1470233615143: 	draw	image-5	{"x":85,"y":129}
+1470233615151: 	draw	image-5	{"x":83,"y":131}
+1470233615152: 	draw	image-5	{"x":83,"y":131}
+1470233615159: 	draw	image-5	{"x":80,"y":133}
+1470233615160: 	draw	image-5	{"x":80,"y":133}
+1470233615167: 	draw	image-5	{"x":79,"y":135}
+1470233615168: 	draw	image-5	{"x":79,"y":135}
+1470233615176: 	draw	image-5	{"x":78,"y":137}
+1470233615176: 	draw	image-5	{"x":78,"y":137}
+1470233615183: 	draw	image-5	{"x":77,"y":139}
+1470233615184: 	draw	image-5	{"x":77,"y":139}
+1470233615191: 	draw	image-5	{"x":77,"y":141}
+1470233615192: 	draw	image-5	{"x":77,"y":141}
+1470233615201: 	draw	image-5	{"x":77,"y":142}
+1470233615202: 	draw	image-5	{"x":77,"y":142}
+1470233615210: 	draw	image-5	{"x":78,"y":143}
+1470233615210: 	draw	image-5	{"x":78,"y":143}
+1470233615216: 	draw	image-5	{"x":78,"y":144}
+1470233615217: 	draw	image-5	{"x":78,"y":144}
+1470233615226: 	draw	image-5	{"x":80,"y":145}
+1470233615227: 	draw	image-5	{"x":80,"y":145}
+1470233615234: 	draw	image-5	{"x":82,"y":146}
+1470233615234: 	draw	image-5	{"x":82,"y":146}
+1470233615242: 	draw	image-5	{"x":86,"y":147}
+1470233615243: 	draw	image-5	{"x":86,"y":147}
+1470233615251: 	draw	image-5	{"x":90,"y":146}
+1470233615252: 	draw	image-5	{"x":90,"y":146}
+1470233615259: 	draw	image-5	{"x":96,"y":144}
+1470233615260: 	draw	image-5	{"x":96,"y":144}
+1470233615267: 	draw	image-5	{"x":99,"y":143}
+1470233615267: 	draw	image-5	{"x":99,"y":143}
+1470233615276: 	draw	image-5	{"x":103,"y":141}
+1470233615277: 	draw	image-5	{"x":103,"y":141}
+1470233615284: 	draw	image-5	{"x":105,"y":140}
+1470233615285: 	draw	image-5	{"x":105,"y":140}
+1470233615292: 	draw	image-5	{"x":107,"y":138}
+1470233615292: 	draw	image-5	{"x":107,"y":138}
+1470233615309: 	draw	image-5	{"x":108,"y":137}
+1470233615310: 	draw	image-5	{"x":108,"y":137}
+1470233615317: 	draw	image-5	{"x":108,"y":136}
+1470233615318: 	draw	image-5	{"x":108,"y":136}
+1470233615342: 	draw	image-5	{"x":107,"y":136}
+1470233615343: 	draw	image-5	{"x":107,"y":136}
+1470233615359: 	draw	image-5	{"x":102,"y":137}
+1470233615361: 	draw	image-5	{"x":102,"y":137}
+1470233615368: 	draw	image-5	{"x":98,"y":138}
+1470233615370: 	draw	image-5	{"x":98,"y":138}
+1470233615378: 	draw	image-5	{"x":94,"y":140}
+1470233615379: 	draw	image-5	{"x":94,"y":140}
+1470233615386: 	draw	image-5	{"x":92,"y":141}
+1470233615387: 	draw	image-5	{"x":92,"y":141}
+1470233615392: 	draw	image-5	{"x":89,"y":143}
+1470233615393: 	draw	image-5	{"x":89,"y":143}
+1470233615401: 	draw	image-5	{"x":88,"y":144}
+1470233615402: 	draw	image-5	{"x":88,"y":144}
+1470233615409: 	draw	image-5	{"x":87,"y":145}
+1470233615410: 	draw	image-5	{"x":87,"y":145}
+1470233615416: 	draw	image-5	{"x":86,"y":146}
+1470233615418: 	draw	image-5	{"x":86,"y":146}
+1470233615426: 	draw	image-5	{"x":86,"y":147}
+1470233615427: 	draw	image-5	{"x":86,"y":147}
+1470233615434: 	draw	image-5	{"x":86,"y":148}
+1470233615435: 	draw	image-5	{"x":86,"y":148}
+1470233615442: 	draw	image-5	{"x":85,"y":148}
+1470233615443: 	draw	image-5	{"x":85,"y":148}
+1470233615451: 	draw	image-5	{"x":86,"y":149}
+1470233615452: 	draw	image-5	{"x":86,"y":149}
+1470233615458: 	draw	image-5	{"x":87,"y":150}
+1470233615460: 	draw	image-5	{"x":87,"y":150}
+1470233618888: 	acted on	draw
+1470233618960: 	selected	null
+1470233618961: 	mode	null
+1470233621087: 	acted on	path-1470233613281
+1470233621088: 	selected	path-1470233613281
+1470233622528: 	acted on	colorPicker
+1470233623819: 	acted on	#00CC33
+1470233623926: 	sub-instrument	#00CC33		false
+1470233623927: 	changed color	path-1470233613281	rgb(250, 0, 250)
+1470233624669: 	acted on	path-1470233614479
+1470233624670: 	selected	path-1470233614479
+1470233625544: 	acted on	colorPicker
+1470233626302: 	acted on	#00CC33
+1470233626394: 	sub-instrument	#00CC33		false
+1470233626395: 	changed color	path-1470233614479	rgb(250, 0, 250)
+1470233627427: 	acted on	image-5
+1470233627429: 	selected	image-5
+1470233628461: 	acted on	content
+1470233628462: 	selected	null
+1470233632836: 	acted on	colorPicker
+1470233634246: 	acted on	#0066CC
+1470233634335: 	sub-instrument	#0066CC		false
+1470233634336: 	changed color	rgb(88, 255, 88)
+1470233636512: 	acted on	less
+1470233636695: 	acted on	less
+1470233636868: 	acted on	less
+1470233637037: 	acted on	less
+1470233637194: 	acted on	less
+1470233637369: 	acted on	less
+1470233637526: 	acted on	less
+1470233638212: 	acted on	draw
+1470233638270: 	selected	null
+1470233638271: 	mode	draw
+1470233639386: 	acted on	image-5
+1470233639387: 	draw	image-5	{"x":136,"y":31}
+1470233639387: 	draw	image-5	{"x":136,"y":31}
+1470233639610: 	draw	image-5	{"x":136,"y":47}
+1470233639610: 	draw	image-5	{"x":136,"y":47}
+1470233639617: 	draw	image-5	{"x":136,"y":49}
+1470233639618: 	draw	image-5	{"x":136,"y":49}
+1470233639626: 	draw	image-5	{"x":136,"y":51}
+1470233639627: 	draw	image-5	{"x":136,"y":51}
+1470233639634: 	draw	image-5	{"x":136,"y":54}
+1470233639635: 	draw	image-5	{"x":136,"y":54}
+1470233639642: 	draw	image-5	{"x":135,"y":56}
+1470233639643: 	draw	image-5	{"x":135,"y":56}
+1470233639651: 	draw	image-5	{"x":135,"y":59}
+1470233639651: 	draw	image-5	{"x":135,"y":59}
+1470233639658: 	draw	image-5	{"x":134,"y":62}
+1470233639659: 	draw	image-5	{"x":134,"y":62}
+1470233639668: 	draw	image-5	{"x":134,"y":64}
+1470233639668: 	draw	image-5	{"x":134,"y":64}
+1470233639675: 	draw	image-5	{"x":134,"y":67}
+1470233639676: 	draw	image-5	{"x":134,"y":67}
+1470233639684: 	draw	image-5	{"x":134,"y":69}
+1470233639684: 	draw	image-5	{"x":134,"y":69}
+1470233639693: 	draw	image-5	{"x":134,"y":72}
+1470233639693: 	draw	image-5	{"x":134,"y":72}
+1470233639701: 	draw	image-5	{"x":133,"y":74}
+1470233639701: 	draw	image-5	{"x":133,"y":74}
+1470233639709: 	draw	image-5	{"x":133,"y":77}
+1470233639709: 	draw	image-5	{"x":133,"y":77}
+1470233639718: 	draw	image-5	{"x":133,"y":80}
+1470233639718: 	draw	image-5	{"x":133,"y":80}
+1470233639726: 	draw	image-5	{"x":132,"y":83}
+1470233639727: 	draw	image-5	{"x":132,"y":83}
+1470233639734: 	draw	image-5	{"x":132,"y":86}
+1470233639734: 	draw	image-5	{"x":132,"y":86}
+1470233639742: 	draw	image-5	{"x":131,"y":89}
+1470233639743: 	draw	image-5	{"x":131,"y":89}
+1470233639752: 	draw	image-5	{"x":130,"y":92}
+1470233639753: 	draw	image-5	{"x":130,"y":92}
+1470233639759: 	draw	image-5	{"x":129,"y":95}
+1470233639760: 	draw	image-5	{"x":129,"y":95}
+1470233639767: 	draw	image-5	{"x":129,"y":97}
+1470233639769: 	draw	image-5	{"x":129,"y":97}
+1470233639777: 	draw	image-5	{"x":128,"y":100}
+1470233639778: 	draw	image-5	{"x":128,"y":100}
+1470233639784: 	draw	image-5	{"x":127,"y":103}
+1470233639785: 	draw	image-5	{"x":127,"y":103}
+1470233639792: 	draw	image-5	{"x":126,"y":104}
+1470233639793: 	draw	image-5	{"x":126,"y":104}
+1470233639801: 	draw	image-5	{"x":125,"y":107}
+1470233639801: 	draw	image-5	{"x":125,"y":107}
+1470233639809: 	draw	image-5	{"x":124,"y":109}
+1470233639810: 	draw	image-5	{"x":124,"y":109}
+1470233639817: 	draw	image-5	{"x":122,"y":112}
+1470233639818: 	draw	image-5	{"x":122,"y":112}
+1470233639826: 	draw	image-5	{"x":121,"y":115}
+1470233639827: 	draw	image-5	{"x":121,"y":115}
+1470233639834: 	draw	image-5	{"x":120,"y":117}
+1470233639835: 	draw	image-5	{"x":120,"y":117}
+1470233639842: 	draw	image-5	{"x":118,"y":119}
+1470233639843: 	draw	image-5	{"x":118,"y":119}
+1470233639852: 	draw	image-5	{"x":117,"y":121}
+1470233639853: 	draw	image-5	{"x":117,"y":121}
+1470233639859: 	draw	image-5	{"x":116,"y":123}
+1470233639859: 	draw	image-5	{"x":116,"y":123}
+1470233639867: 	draw	image-5	{"x":114,"y":124}
+1470233639868: 	draw	image-5	{"x":114,"y":124}
+1470233639877: 	draw	image-5	{"x":113,"y":125}
+1470233639877: 	draw	image-5	{"x":113,"y":125}
+1470233639884: 	draw	image-5	{"x":112,"y":126}
+1470233639885: 	draw	image-5	{"x":112,"y":126}
+1470233639893: 	draw	image-5	{"x":112,"y":127}
+1470233639893: 	draw	image-5	{"x":112,"y":127}
+1470233639901: 	draw	image-5	{"x":111,"y":127}
+1470233639902: 	draw	image-5	{"x":111,"y":127}
+1470233640261: 	acted on	image-5
+1470233640262: 	draw	image-5	{"x":141,"y":32}
+1470233640263: 	draw	image-5	{"x":141,"y":32}
+1470233640351: 	draw	image-5	{"x":130,"y":47}
+1470233640352: 	draw	image-5	{"x":130,"y":47}
+1470233640359: 	draw	image-5	{"x":127,"y":50}
+1470233640359: 	draw	image-5	{"x":127,"y":50}
+1470233640367: 	draw	image-5	{"x":124,"y":53}
+1470233640367: 	draw	image-5	{"x":124,"y":53}
+1470233640376: 	draw	image-5	{"x":121,"y":56}
+1470233640377: 	draw	image-5	{"x":121,"y":56}
+1470233640384: 	draw	image-5	{"x":117,"y":60}
+1470233640384: 	draw	image-5	{"x":117,"y":60}
+1470233640393: 	draw	image-5	{"x":114,"y":62}
+1470233640393: 	draw	image-5	{"x":114,"y":62}
+1470233640401: 	draw	image-5	{"x":110,"y":65}
+1470233640402: 	draw	image-5	{"x":110,"y":65}
+1470233640409: 	draw	image-5	{"x":107,"y":67}
+1470233640409: 	draw	image-5	{"x":107,"y":67}
+1470233640417: 	draw	image-5	{"x":104,"y":70}
+1470233640418: 	draw	image-5	{"x":104,"y":70}
+1470233640426: 	draw	image-5	{"x":101,"y":71}
+1470233640427: 	draw	image-5	{"x":101,"y":71}
+1470233640434: 	draw	image-5	{"x":98,"y":73}
+1470233640435: 	draw	image-5	{"x":98,"y":73}
+1470233640442: 	draw	image-5	{"x":95,"y":75}
+1470233640443: 	draw	image-5	{"x":95,"y":75}
+1470233640451: 	draw	image-5	{"x":91,"y":77}
+1470233640452: 	draw	image-5	{"x":91,"y":77}
+1470233640459: 	draw	image-5	{"x":90,"y":77}
+1470233640460: 	draw	image-5	{"x":90,"y":77}
+1470233640467: 	draw	image-5	{"x":87,"y":78}
+1470233640468: 	draw	image-5	{"x":87,"y":78}
+1470233640476: 	draw	image-5	{"x":85,"y":79}
+1470233640477: 	draw	image-5	{"x":85,"y":79}
+1470233640484: 	draw	image-5	{"x":83,"y":80}
+1470233640484: 	draw	image-5	{"x":83,"y":80}
+1470233640492: 	draw	image-5	{"x":81,"y":81}
+1470233640493: 	draw	image-5	{"x":81,"y":81}
+1470233640501: 	draw	image-5	{"x":79,"y":82}
+1470233640501: 	draw	image-5	{"x":79,"y":82}
+1470233640509: 	draw	image-5	{"x":78,"y":83}
+1470233640510: 	draw	image-5	{"x":78,"y":83}
+1470233640516: 	draw	image-5	{"x":77,"y":83}
+1470233640517: 	draw	image-5	{"x":77,"y":83}
+1470233640526: 	draw	image-5	{"x":75,"y":84}
+1470233640526: 	draw	image-5	{"x":75,"y":84}
+1470233640535: 	draw	image-5	{"x":74,"y":84}
+1470233640535: 	draw	image-5	{"x":74,"y":84}
+1470233640542: 	draw	image-5	{"x":73,"y":84}
+1470233640543: 	draw	image-5	{"x":73,"y":84}
+1470233640552: 	draw	image-5	{"x":72,"y":85}
+1470233640552: 	draw	image-5	{"x":72,"y":85}
+1470233640559: 	draw	image-5	{"x":71,"y":85}
+1470233640560: 	draw	image-5	{"x":71,"y":85}
+1470233640566: 	draw	image-5	{"x":70,"y":85}
+1470233640567: 	draw	image-5	{"x":70,"y":85}
+1470233640584: 	draw	image-5	{"x":69,"y":86}
+1470233640585: 	draw	image-5	{"x":69,"y":86}
+1470233642336: 	acted on	draw
+1470233642411: 	selected	null
+1470233642412: 	mode	null
+1470233643728: 	acted on	colorPicker
+1470233644562: 	acted on	#0033FF
+1470233644685: 	sub-instrument	#0033FF		false
+1470233644685: 	changed color	rgb(255, 255, 141)
+1470233645604: 	acted on	circle
+1470233645686: 	selected	null
+1470233645687: 	mode	circle
+1470233645688: 	selected	null
+1470233648752: 	acted on	content
+1470233648867: 	shape started	{"x":1010,"y":131}
+1470233648869: 	shape continued	10	circle
+1470233648870: 	selected	shape-1470233648868
+1470233648878: 	shape continued	10	circle
+1470233648880: 	selected	shape-1470233648868
+1470233648884: 	shape continued	10	circle
+1470233648885: 	selected	shape-1470233648868
+1470233648892: 	shape continued	15	circle
+1470233648893: 	selected	shape-1470233648868
+1470233648900: 	shape continued	20	circle
+1470233648901: 	selected	shape-1470233648868
+1470233648910: 	shape continued	25	circle
+1470233648911: 	selected	shape-1470233648868
+1470233648917: 	shape continued	30	circle
+1470233648918: 	selected	shape-1470233648868
+1470233648925: 	shape continued	35	circle
+1470233648926: 	selected	shape-1470233648868
+1470233648935: 	shape continued	40	circle
+1470233648936: 	selected	shape-1470233648868
+1470233648942: 	shape continued	45	circle
+1470233648943: 	selected	shape-1470233648868
+1470233648949: 	shape continued	51	circle
+1470233648951: 	selected	shape-1470233648868
+1470233648959: 	shape continued	56	circle
+1470233648961: 	selected	shape-1470233648868
+1470233648966: 	shape continued	61	circle
+1470233648967: 	selected	shape-1470233648868
+1470233648974: 	shape continued	67	circle
+1470233648976: 	selected	shape-1470233648868
+1470233648984: 	shape continued	74	circle
+1470233648985: 	selected	shape-1470233648868
+1470233648992: 	shape continued	79	circle
+1470233648993: 	selected	shape-1470233648868
+1470233648999: 	shape continued	86	circle
+1470233649001: 	selected	shape-1470233648868
+1470233649009: 	shape continued	92	circle
+1470233649011: 	selected	shape-1470233648868
+1470233649017: 	shape continued	99	circle
+1470233649018: 	selected	shape-1470233648868
+1470233649024: 	shape continued	105	circle
+1470233649025: 	selected	shape-1470233648868
+1470233649034: 	shape continued	112	circle
+1470233649035: 	selected	shape-1470233648868
+1470233649042: 	shape continued	119	circle
+1470233649043: 	selected	shape-1470233648868
+1470233649050: 	shape continued	126	circle
+1470233649051: 	selected	shape-1470233648868
+1470233649058: 	shape continued	133	circle
+1470233649059: 	selected	shape-1470233648868
+1470233649066: 	shape continued	140	circle
+1470233649067: 	selected	shape-1470233648868
+1470233649075: 	shape continued	147	circle
+1470233649076: 	selected	shape-1470233648868
+1470233649084: 	shape continued	155	circle
+1470233649085: 	selected	shape-1470233648868
+1470233649092: 	shape continued	162	circle
+1470233649093: 	selected	shape-1470233648868
+1470233649100: 	shape continued	169	circle
+1470233649101: 	selected	shape-1470233648868
+1470233649108: 	shape continued	176	circle
+1470233649110: 	selected	shape-1470233648868
+1470233649117: 	shape continued	183	circle
+1470233649118: 	selected	shape-1470233648868
+1470233649124: 	shape continued	189	circle
+1470233649125: 	selected	shape-1470233648868
+1470233649134: 	shape continued	196	circle
+1470233649135: 	selected	shape-1470233648868
+1470233649142: 	shape continued	202	circle
+1470233649143: 	selected	shape-1470233648868
+1470233649149: 	shape continued	208	circle
+1470233649151: 	selected	shape-1470233648868
+1470233649159: 	shape continued	215	circle
+1470233649161: 	selected	shape-1470233648868
+1470233649167: 	shape continued	221	circle
+1470233649168: 	selected	shape-1470233648868
+1470233649175: 	shape continued	226	circle
+1470233649176: 	selected	shape-1470233648868
+1470233649184: 	shape continued	232	circle
+1470233649185: 	selected	shape-1470233648868
+1470233649191: 	shape continued	237	circle
+1470233649193: 	selected	shape-1470233648868
+1470233649199: 	shape continued	243	circle
+1470233649200: 	selected	shape-1470233648868
+1470233649208: 	shape continued	249	circle
+1470233649210: 	selected	shape-1470233648868
+1470233649217: 	shape continued	253	circle
+1470233649218: 	selected	shape-1470233648868
+1470233649224: 	shape continued	259	circle
+1470233649225: 	selected	shape-1470233648868
+1470233649234: 	shape continued	263	circle
+1470233649235: 	selected	shape-1470233648868
+1470233649242: 	shape continued	267	circle
+1470233649243: 	selected	shape-1470233648868
+1470233649249: 	shape continued	272	circle
+1470233649250: 	selected	shape-1470233648868
+1470233649260: 	shape continued	276	circle
+1470233649261: 	selected	shape-1470233648868
+1470233649267: 	shape continued	280	circle
+1470233649268: 	selected	shape-1470233648868
+1470233649275: 	shape continued	283	circle
+1470233649276: 	selected	shape-1470233648868
+1470233649284: 	shape continued	288	circle
+1470233649285: 	selected	shape-1470233648868
+1470233649291: 	shape continued	291	circle
+1470233649292: 	selected	shape-1470233648868
+1470233649300: 	shape continued	295	circle
+1470233649301: 	selected	shape-1470233648868
+1470233649309: 	shape continued	298	circle
+1470233649310: 	selected	shape-1470233648868
+1470233649316: 	shape continued	302	circle
+1470233649317: 	selected	shape-1470233648868
+1470233649324: 	shape continued	305	circle
+1470233649325: 	selected	shape-1470233648868
+1470233649334: 	shape continued	308	circle
+1470233649335: 	selected	shape-1470233648868
+1470233649342: 	shape continued	311	circle
+1470233649343: 	selected	shape-1470233648868
+1470233649350: 	shape continued	313	circle
+1470233649351: 	selected	shape-1470233648868
+1470233649358: 	shape continued	315	circle
+1470233649359: 	selected	shape-1470233648868
+1470233649367: 	shape continued	318	circle
+1470233649368: 	selected	shape-1470233648868
+1470233649374: 	shape continued	320	circle
+1470233649375: 	selected	shape-1470233648868
+1470233649384: 	shape continued	323	circle
+1470233649386: 	selected	shape-1470233648868
+1470233649391: 	shape continued	326	circle
+1470233649393: 	selected	shape-1470233648868
+1470233649399: 	shape continued	330	circle
+1470233649401: 	selected	shape-1470233648868
+1470233649426: 	selected	shape-1470233648868
+1470233650550: 	acted on	content
+1470233650552: 	selected	null

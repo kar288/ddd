@@ -1,0 +1,52 @@
+1470665371839: 	acted on	innerText
+1470665371916: 	sub-instrument	start	clipboard	true
+1470665371929: 	activate	clipboard
+1470665375545: 	acted on	copy
+1470665375613: 	sub-instrument	copy	clipboard	true
+1470665386818: 	copied	image-11
+1470665379448: 	acted on	paste
+1470665379642: 	sub-instrument	paste	clipboard	true
+1470665390368: 	pasted	image-11-
+1470665383012: 	acted on	innerText
+1470665383053: 	sub-instrument	stop	clipboard	false
+1470665383062: 	deactivate	clipboard
+1470665391405: 	acted on	menu
+1470665391978: 	acted on	innerText
+1470665392029: 	sub-instrument	start	clipboard	true
+1470665392039: 	activate	clipboard
+1470665392899: 	acted on	delete
+1470665392930: 	sub-instrument	delete	clipboard	true
+1470665403783: 	deleted	image-11-1470665390369
+1470665396142: 	acted on	menu
+1470665397081: 	acted on	innerText
+1470665397120: 	sub-instrument	stop	clipboard	false
+1470665397130: 	deactivate	clipboard
+1470665547588: 	acted on	menu
+1470665548193: 	acted on	menu
+1470665549374: 	acted on	menu
+1470665550127: 	acted on	innerText
+1470665550178: 	sub-instrument	start	clipboard	true
+1470665550187: 	activate	clipboard
+1470665551089: 	acted on	delete
+1470665551158: 	sub-instrument	delete	clipboard	true
+1470665561856: 	deleted	shape-1470665552200
+1470665562414: 	deleted	shape-1470665549178
+1470665563606: 	deleted	shape-1470665547652
+1470665565114: 	deleted	shape-1470665546218
+1470665565939: 	deleted	shape-1470665464204
+1470665560595: 	acted on	innerText
+1470665560631: 	sub-instrument	stop	clipboard	false
+1470665560641: 	deactivate	clipboard
+1470665648256: 	acted on	innerText
+1470665648308: 	sub-instrument	start	clipboard	true
+1470665648321: 	activate	clipboard
+1470665650624: 	acted on	delete
+1470665650755: 	sub-instrument	delete	clipboard	true
+1470665662320: 	deleted	path-1470665648650
+1470665663537: 	deleted	path-1470665640652
+1470665664195: 	deleted	path-1470665637567
+1470665665321: 	deleted	path-1470665635043
+1470665668562: 	deleted	path-1470665411127
+1470665669185: 	deleted	path-1470665410024
+1470665669545: 	deleted	path-1470665447163
+1470665669887: 	deleted	path-1470665447985

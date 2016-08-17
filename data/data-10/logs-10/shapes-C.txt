@@ -1,0 +1,37 @@
+1470226941630: 	acted on	menu
+1470226943180: 	acted on	menu
+1470226943223: 	switched instrument	shapes	to	mover-C
+1470227093357: 	acted on	innerText
+1470227093446: 	sub-instrument	start	shapes	true
+1470227093466: 	activate	shapes
+1470227095414: 	acted on	rectangle
+1470227095471: 	sub-instrument	rectangle	shapes	true
+1470227099616: 	shape started	{"x":289,"y":188}
+1470227099619: 	shape continued	10	rectangle
+1470227114505: 	shape started	{"x":175.83700561523438,"y":290.8059997558594}
+1470227114507: 	shape continued	10	rectangle
+1470227115267: 	acted on	sample
+1470227121709: 	shape started	{"x":9,"y":9}
+1470227121710: 	shape continued	10	rectangle
+1470227123224: 	shape started	{"x":296,"y":208}
+1470227123225: 	shape continued	10	rectangle
+1470227122344: 	acted on	innerText
+1470227122418: 	sub-instrument	stop	shapes	false
+1470227122430: 	deactivate	shapes
+1470227186789: 	acted on	innerText
+1470227186872: 	sub-instrument	start	shapes	true
+1470227186885: 	activate	shapes
+1470227187770: 	acted on	sample
+1470227188932: 	acted on	rectangle
+1470227189126: 	sub-instrument	rectangle	shapes	true
+1470227193752: 	shape started	{"x":66,"y":82}
+1470227193754: 	shape continued	10	rectangle
+1470227196697: 	shape started	{"x":19,"y":91}
+1470227196698: 	shape continued	10	rectangle
+1470227199799: 	shape started	{"x":136,"y":84}
+1470227199800: 	shape continued	10	rectangle
+1470227199891: 	acted on	menu
+1470227201025: 	acted on	innerText
+1470227201839: 	acted on	innerText
+1470227201931: 	sub-instrument	stop	shapes	false
+1470227201942: 	deactivate	shapes

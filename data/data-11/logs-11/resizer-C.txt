@@ -1,0 +1,144 @@
+1470232145905: 	acted on	innerText
+1470232145969: 	sub-instrument	start	resizer	true
+1470232145985: 	activate	resizer
+1470232146479: 	acted on	less-diagonal
+1470232146571: 	sub-instrument	less-diagonal	resizer	true
+1470232150436: 	resizer	less-diagonal	sample
+1470232150547: 	resizer	less-diagonal	sample
+1470232150677: 	resizer	less-diagonal	sample
+1470232150795: 	resizer	less-diagonal	path-1470232131082
+1470232150889: 	resizer	less-diagonal	path-1470232131082
+1470232151034: 	resizer	less-diagonal	sample
+1470232151170: 	resizer	less-diagonal	sample
+1470232151699: 	resizer	less-diagonal	sample
+1470232151811: 	resizer	less-diagonal	sample
+1470232149738: 	acted on	innerText
+1470232149778: 	sub-instrument	stop	resizer	false
+1470232149792: 	deactivate	resizer
+1470232227973: 	acted on	innerText
+1470232228030: 	sub-instrument	start	resizer	true
+1470232228058: 	activate	resizer
+1470232228313: 	acted on	less-diagonal
+1470232228379: 	sub-instrument	less-diagonal	resizer	true
+1470232232045: 	resizer	less-diagonal	sample
+1470232232107: 	resizer	less-diagonal	sample
+1470232232219: 	resizer	less-diagonal	sample
+1470232232338: 	resizer	less-diagonal	sample
+1470232232655: 	resizer	less-diagonal	sample
+1470232230886: 	acted on	innerText
+1470232230915: 	sub-instrument	stop	resizer	false
+1470232230928: 	deactivate	resizer
+1470232238942: 	acted on	innerText
+1470232238983: 	sub-instrument	start	resizer	true
+1470232239003: 	activate	resizer
+1470232239238: 	acted on	less-diagonal
+1470232239328: 	sub-instrument	less-diagonal	resizer	true
+1470232244046: 	resizer	less-diagonal	sample
+1470232244310: 	resizer	less-diagonal	sample
+1470232244689: 	resizer	less-diagonal	sample
+1470232243226: 	acted on	innerText
+1470232243284: 	sub-instrument	stop	resizer	false
+1470232243301: 	deactivate	resizer
+1470232269142: 	acted on	less-diagonal
+1470232269193: 	sub-instrument	less-diagonal	resizer	false
+1470232272261: 	acted on	innerText
+1470232272319: 	sub-instrument	start	resizer	true
+1470232272332: 	activate	resizer
+1470232272823: 	acted on	less-diagonal
+1470232272876: 	sub-instrument	less-diagonal	resizer	true
+1470232276507: 	resizer	less-diagonal	sample
+1470232276958: 	resizer	less-diagonal	sample
+1470232277396: 	resizer	less-diagonal	sample
+1470232277583: 	resizer	less-diagonal	sample
+1470232275330: 	acted on	less-diagonal
+1470232275406: 	sub-instrument	less-diagonal	resizer	true
+1470232275689: 	acted on	innerText
+1470232275761: 	sub-instrument	stop	resizer	false
+1470232275770: 	deactivate	resizer
+1470232307415: 	acted on	innerText
+1470232307484: 	sub-instrument	start	resizer	true
+1470232307498: 	activate	resizer
+1470232307869: 	acted on	more-diagonal
+1470232307905: 	sub-instrument	more-diagonal	resizer	true
+1470232312995: 	resizer	more-diagonal	sample
+1470232313270: 	resizer	more-diagonal	sample
+1470232313410: 	resizer	more-diagonal	sample
+1470232313537: 	resizer	more-diagonal	sample
+1470232313680: 	resizer	more-diagonal	sample
+1470232313770: 	resizer	more-diagonal	sample
+1470232313914: 	resizer	more-diagonal	sample
+1470232314023: 	resizer	more-diagonal	sample
+1470232312568: 	acted on	innerText
+1470232312626: 	sub-instrument	stop	resizer	false
+1470232312644: 	deactivate	resizer
+1470232320509: 	acted on	innerText
+1470232320579: 	sub-instrument	start	resizer	true
+1470232320590: 	activate	resizer
+1470232321011: 	acted on	more-diagonal
+1470232321078: 	sub-instrument	more-diagonal	resizer	true
+1470232327370: 	resizer	more-diagonal	shape-1470232320803
+1470232328234: 	resizer	more-diagonal	shape-1470232320803
+1470232328377: 	resizer	more-diagonal	shape-1470232320803
+1470232328502: 	resizer	more-diagonal	shape-1470232320803
+1470232332178: 	resizer	more-diagonal	shape-1470232320803
+1470232332312: 	resizer	more-diagonal	shape-1470232320803
+1470232332828: 	resizer	more-diagonal	shape-1470232320803
+1470232332970: 	resizer	more-diagonal	shape-1470232320803
+1470232333102: 	resizer	more-diagonal	shape-1470232320803
+1470232333552: 	resizer	more-diagonal	shape-1470232320803
+1470232333910: 	resizer	more-diagonal	shape-1470232320803
+1470232333917: 	resizer	more-diagonal	shape-1470232320803
+1470232333925: 	resizer	more-diagonal	shape-1470232320803
+1470232333934: 	resizer	more-diagonal	shape-1470232320803
+1470232333950: 	resizer	more-diagonal	shape-1470232320803
+1470232333959: 	resizer	more-diagonal	shape-1470232320803
+1470232333968: 	resizer	more-diagonal	shape-1470232320803
+1470232333985: 	resizer	more-diagonal	shape-1470232320803
+1470232334001: 	resizer	more-diagonal	shape-1470232320803
+1470232334009: 	resizer	more-diagonal	shape-1470232320803
+1470232334024: 	resizer	more-diagonal	shape-1470232320803
+1470232334042: 	resizer	more-diagonal	shape-1470232320803
+1470232334050: 	resizer	more-diagonal	shape-1470232320803
+1470232334067: 	resizer	more-diagonal	shape-1470232320803
+1470232334110: 	resizer	more-diagonal	shape-1470232320803
+1470232334117: 	resizer	more-diagonal	shape-1470232320803
+1470232334419: 	resizer	more-diagonal	shape-1470232320803
+1470232334586: 	resizer	more-diagonal	shape-1470232320803
+1470232337893: 	resizer	more-diagonal	shape-1470232320803
+1470232338234: 	resizer	more-diagonal	shape-1470232320803
+1470232338344: 	resizer	more-diagonal	shape-1470232320803
+1470232338468: 	resizer	more-diagonal	shape-1470232320803
+1470232338918: 	resizer	more-diagonal	shape-1470232320803
+1470232339085: 	resizer	more-diagonal	shape-1470232320803
+1470232339235: 	resizer	more-diagonal	shape-1470232320803
+1470232339535: 	resizer	more-diagonal	shape-1470232320803
+1470232339677: 	resizer	more-diagonal	shape-1470232320803
+1470232339827: 	resizer	more-diagonal	shape-1470232320803
+1470232339977: 	resizer	more-diagonal	shape-1470232320803
+1470232340144: 	resizer	more-diagonal	shape-1470232320803
+1470232340286: 	resizer	more-diagonal	shape-1470232320803
+1470232340420: 	resizer	more-diagonal	shape-1470232320803
+1470232340545: 	resizer	more-diagonal	shape-1470232320803
+1470232341685: 	resizer	more-diagonal	shape-1470232320803
+1470232341819: 	resizer	more-diagonal	shape-1470232320803
+1470232341960: 	resizer	more-diagonal	shape-1470232320803
+1470232343201: 	acted on	innerText
+1470232343276: 	sub-instrument	stop	resizer	false
+1470232343289: 	deactivate	resizer
+1470232353647: 	acted on	innerText
+1470232353688: 	sub-instrument	start	resizer	true
+1470232353705: 	activate	resizer
+1470232354024: 	acted on	more-diagonal
+1470232354093: 	sub-instrument	more-diagonal	resizer	true
+1470232357745: 	resizer	more-diagonal	sample
+1470232358198: 	resizer	more-diagonal	sample
+1470232358431: 	resizer	more-diagonal	sample
+1470232358696: 	resizer	more-diagonal	sample
+1470232359165: 	resizer	more-diagonal	sample
+1470232359859: 	resizer	more-diagonal	sample
+1470232358678: 	acted on	innerText
+1470232358745: 	sub-instrument	stop	resizer	false
+1470232358763: 	deactivate	resizer
+1470232593031: 	acted on	innerText
+1470232593075: 	sub-instrument	start	resizer	true
+1470232593092: 	activate	resizer

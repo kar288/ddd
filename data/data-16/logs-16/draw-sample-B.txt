@@ -1,0 +1,197 @@
+1470657832464: 	acted on	innerText
+1470657832528: 	sub-instrument	start	draw	true
+1470657832529: 	activate	draw
+1470657833473: 	draw	image-5	{"x":30.5,"y":49.5}
+1470657833553: 	draw	image-5	{"x":17.5,"y":58.5}
+1470657833560: 	draw	image-5	{"x":16.5,"y":60.5}
+1470657833569: 	draw	image-5	{"x":15.5,"y":61.5}
+1470657833577: 	draw	image-5	{"x":15.5,"y":62.5}
+1470657833586: 	draw	image-5	{"x":15.5,"y":63.5}
+1470657833594: 	draw	image-5	{"x":16.5,"y":64.5}
+1470657833601: 	draw	image-5	{"x":16.5,"y":65.5}
+1470657833610: 	draw	image-5	{"x":17.5,"y":65.5}
+1470657833619: 	draw	image-5	{"x":19.5,"y":66.5}
+1470657833627: 	draw	image-5	{"x":23.5,"y":66.5}
+1470657833635: 	draw	image-5	{"x":26.5,"y":66.5}
+1470657833643: 	draw	image-5	{"x":30.5,"y":64.5}
+1470657833652: 	draw	image-5	{"x":34.5,"y":62.5}
+1470657833660: 	draw	image-5	{"x":37.5,"y":60.5}
+1470657833677: 	draw	image-5	{"x":38.5,"y":58.5}
+1470657833681: 	draw	image-5	{"x":40.5,"y":57.5}
+1470657833692: 	draw	image-5	{"x":40.5,"y":56.5}
+1470657833696: 	draw	image-5	{"x":41.5,"y":54.5}
+1470657833711: 	draw	image-5	{"x":41.5,"y":53.5}
+1470657833716: 	draw	image-5	{"x":41.5,"y":52.5}
+1470657833722: 	draw	image-5	{"x":40.5,"y":50.5}
+1470657833727: 	draw	image-5	{"x":38.5,"y":49.5}
+1470657833745: 	draw	image-5	{"x":35.5,"y":48.5}
+1470657833751: 	draw	image-5	{"x":31.5,"y":47.5}
+1470657833756: 	draw	image-5	{"x":29.5,"y":47.5}
+1470657833768: 	draw	image-5	{"x":26.5,"y":47.5}
+1470657833773: 	draw	image-5	{"x":24.5,"y":47.5}
+1470657833778: 	draw	image-5	{"x":22.5,"y":48.5}
+1470657833787: 	draw	image-5	{"x":20.5,"y":49.5}
+1470657833795: 	draw	image-5	{"x":19.5,"y":50.5}
+1470657833802: 	draw	image-5	{"x":18.5,"y":51.5}
+1470657833817: 	draw	image-5	{"x":17.5,"y":52.5}
+1470657833823: 	draw	image-5	{"x":16.5,"y":55.5}
+1470657833829: 	draw	image-5	{"x":17.5,"y":56.5}
+1470657833835: 	draw	image-5	{"x":17.5,"y":58.5}
+1470657833861: 	draw	image-5	{"x":18.5,"y":60.5}
+1470657833865: 	draw	image-5	{"x":21.5,"y":62.5}
+1470657833871: 	draw	image-5	{"x":23.5,"y":62.5}
+1470657833876: 	draw	image-5	{"x":25.5,"y":62.5}
+1470657833887: 	draw	image-5	{"x":27.5,"y":62.5}
+1470657833894: 	draw	image-5	{"x":29.5,"y":62.5}
+1470657833901: 	draw	image-5	{"x":31.5,"y":61.5}
+1470657833926: 	draw	image-5	{"x":33.5,"y":59.5}
+1470657833936: 	draw	image-5	{"x":35.5,"y":56.5}
+1470657833941: 	draw	image-5	{"x":35.5,"y":54.5}
+1470657833950: 	draw	image-5	{"x":34.5,"y":52.5}
+1470657833956: 	draw	image-5	{"x":33.5,"y":51.5}
+1470657833966: 	draw	image-5	{"x":29.5,"y":50.5}
+1470657833971: 	draw	image-5	{"x":25.5,"y":51.5}
+1470657833987: 	draw	image-5	{"x":22.5,"y":52.5}
+1470657833993: 	draw	image-5	{"x":20.5,"y":53.5}
+1470657834305: 	draw	image-5	{"x":49.5,"y":76.5}
+1470657834428: 	draw	image-5	{"x":59.5,"y":88.5}
+1470657834436: 	draw	image-5	{"x":62.5,"y":87.5}
+1470657834444: 	draw	image-5	{"x":64.5,"y":85.5}
+1470657834451: 	draw	image-5	{"x":66.5,"y":82.5}
+1470657834460: 	draw	image-5	{"x":66.5,"y":79.5}
+1470657834469: 	draw	image-5	{"x":66.5,"y":77.5}
+1470657834477: 	draw	image-5	{"x":65.5,"y":74.5}
+1470657834485: 	draw	image-5	{"x":64.5,"y":72.5}
+1470657834504: 	draw	image-5	{"x":61.5,"y":70.5}
+1470657834518: 	draw	image-5	{"x":56.5,"y":67.5}
+1470657834527: 	draw	image-5	{"x":49.5,"y":67.5}
+1470657834535: 	draw	image-5	{"x":45.5,"y":68.5}
+1470657834544: 	draw	image-5	{"x":43.5,"y":69.5}
+1470657834552: 	draw	image-5	{"x":42.5,"y":70.5}
+1470657834560: 	draw	image-5	{"x":40.5,"y":71.5}
+1470657834569: 	draw	image-5	{"x":39.5,"y":72.5}
+1470657834577: 	draw	image-5	{"x":39.5,"y":73.5}
+1470657834584: 	draw	image-5	{"x":39.5,"y":75.5}
+1470657834593: 	draw	image-5	{"x":39.5,"y":77.5}
+1470657834602: 	draw	image-5	{"x":41.5,"y":80.5}
+1470657834610: 	draw	image-5	{"x":42.5,"y":81.5}
+1470657834619: 	draw	image-5	{"x":44.5,"y":82.5}
+1470657834627: 	draw	image-5	{"x":47.5,"y":83.5}
+1470657834634: 	draw	image-5	{"x":50.5,"y":83.5}
+1470657834644: 	draw	image-5	{"x":54.5,"y":82.5}
+1470657834655: 	draw	image-5	{"x":57.5,"y":81.5}
+1470657834669: 	draw	image-5	{"x":61.5,"y":78.5}
+1470657834702: 	draw	image-5	{"x":62.5,"y":76.5}
+1470657834710: 	draw	image-5	{"x":57.5,"y":68.5}
+1470657834719: 	draw	image-5	{"x":54.5,"y":67.5}
+1470657834726: 	draw	image-5	{"x":49.5,"y":67.5}
+1470657834735: 	draw	image-5	{"x":46.5,"y":68.5}
+1470657834750: 	draw	image-5	{"x":42.5,"y":69.5}
+1470657834760: 	draw	image-5	{"x":38.5,"y":72.5}
+1470657834769: 	draw	image-5	{"x":37.5,"y":75.5}
+1470657834777: 	draw	image-5	{"x":37.5,"y":79.5}
+1470657835787: 	acted on	innerText
+1470657835870: 	sub-instrument	stop	draw	false
+1470657835871: 	deactivate	draw
+1470657844396: 	acted on	sample
+1470657845185: 	acted on	sample
+1470657852121: 	acted on	sample
+1470657852294: 	acted on	sample
+1470657852452: 	acted on	sample
+1470657852619: 	acted on	sample
+1470657852779: 	acted on	sample
+1470657852927: 	acted on	sample
+1470657853085: 	acted on	sample
+1470657853227: 	acted on	sample
+1470657853393: 	acted on	sample
+1470657853552: 	acted on	sample
+1470657854268: 	acted on	sample
+1470657855160: 	acted on	sample
+1470657855338: 	acted on	sample
+1470657855510: 	acted on	sample
+1470657855680: 	acted on	sample
+1470657855845: 	acted on	sample
+1470657856003: 	acted on	sample
+1470657858839: 	acted on	innerText
+1470657858912: 	sub-instrument	start	draw	true
+1470657858913: 	activate	draw
+1470657860164: 	draw	image-5	{"x":76.5,"y":15.5}
+1470657860361: 	draw	image-5	{"x":76.5,"y":31.5}
+1470657860369: 	draw	image-5	{"x":75.5,"y":33.5}
+1470657860378: 	draw	image-5	{"x":75.5,"y":35.5}
+1470657860389: 	draw	image-5	{"x":74.5,"y":36.5}
+1470657860395: 	draw	image-5	{"x":73.5,"y":39.5}
+1470657860402: 	draw	image-5	{"x":72.5,"y":41.5}
+1470657860409: 	draw	image-5	{"x":71.5,"y":42.5}
+1470657860419: 	draw	image-5	{"x":71.5,"y":43.5}
+1470657860427: 	draw	image-5	{"x":71.5,"y":45.5}
+1470657860435: 	draw	image-5	{"x":70.5,"y":47.5}
+1470657860444: 	draw	image-5	{"x":70.5,"y":49.5}
+1470657860489: 	draw	image-5	{"x":69.5,"y":50.5}
+1470657860502: 	draw	image-5	{"x":67.5,"y":57.5}
+1470657860509: 	draw	image-5	{"x":66.5,"y":58.5}
+1470657860518: 	draw	image-5	{"x":66.5,"y":59.5}
+1470657860527: 	draw	image-5	{"x":66.5,"y":60.5}
+1470657860544: 	draw	image-5	{"x":65.5,"y":61.5}
+1470657860553: 	draw	image-5	{"x":64.5,"y":62.5}
+1470657860560: 	draw	image-5	{"x":64.5,"y":63.5}
+1470657860569: 	draw	image-5	{"x":63.5,"y":63.5}
+1470657860604: 	draw	image-5	{"x":63.5,"y":64.5}
+1470657861050: 	draw	image-5	{"x":74.5,"y":16.5}
+1470657861153: 	draw	image-5	{"x":63.5,"y":30.5}
+1470657861160: 	draw	image-5	{"x":61.5,"y":31.5}
+1470657861169: 	draw	image-5	{"x":60.5,"y":33.5}
+1470657861177: 	draw	image-5	{"x":58.5,"y":35.5}
+1470657861185: 	draw	image-5	{"x":57.5,"y":36.5}
+1470657861195: 	draw	image-5	{"x":56.5,"y":38.5}
+1470657861203: 	draw	image-5	{"x":54.5,"y":39.5}
+1470657861210: 	draw	image-5	{"x":53.5,"y":40.5}
+1470657861219: 	draw	image-5	{"x":51.5,"y":41.5}
+1470657861227: 	draw	image-5	{"x":50.5,"y":42.5}
+1470657861235: 	draw	image-5	{"x":47.5,"y":43.5}
+1470657861245: 	draw	image-5	{"x":45.5,"y":43.5}
+1470657861252: 	draw	image-5	{"x":43.5,"y":44.5}
+1470657861269: 	draw	image-5	{"x":40.5,"y":44.5}
+1470657861277: 	draw	image-5	{"x":39.5,"y":44.5}
+1470657861285: 	draw	image-5	{"x":38.5,"y":44.5}
+1470657861294: 	draw	image-5	{"x":38.5,"y":45.5}
+1470657861302: 	draw	image-5	{"x":37.5,"y":45.5}
+1470657862728: 	acted on	innerText
+1470657862827: 	sub-instrument	stop	draw	false
+1470657862828: 	deactivate	draw
+1470658069869: 	acted on	menu
+1470658074959: 	acted on	menu
+1470658075048: 	switched instrument	draw	to	resizer-sample-B
+1470658080551: 	acted on	
+1470658081382: 	acted on	
+1470658082098: 	acted on	draw
+1470658083066: 	acted on	innerText
+1470658083150: 	sub-instrument	start	draw	true
+1470658083151: 	activate	draw
+1470658083681: 	acted on	sample
+1470658083793: 	draw	sample	{"x":52,"y":112}
+1470658084482: 	acted on	draw
+1470658085074: 	acted on	sample
+1470658085185: 	draw	sample	{"x":47,"y":112}
+1470658092590: 	acted on	sample
+1470658092700: 	draw	sample	{"x":45,"y":107}
+1470658105031: 	draw	mover	{"x":0,"y":0}
+1470658107333: 	acted on	innerText
+1470658107433: 	sub-instrument	stop	draw	false
+1470658107434: 	deactivate	draw
+1470658108390: 	acted on	innerText
+1470658108497: 	sub-instrument	start	draw	true
+1470658108498: 	activate	draw
+1470658109105: 	acted on	menu
+1470658110126: 	acted on	menu
+1470658110216: 	sub-instrument	stop	draw	false
+1470658110217: 	deactivate	draw
+1470658110218: 	switched instrument	draw	to	draw-sample-B
+1470658111307: 	acted on	innerText
+1470658111407: 	sub-instrument	start	draw	true
+1470658111409: 	activate	draw
+1470658112273: 	acted on	menu
+1470658113256: 	acted on	menu
+1470658113331: 	sub-instrument	stop	draw	false
+1470658113332: 	deactivate	draw
+1470658113333: 	switched instrument	draw	to	mover-sample-B
