@@ -1,0 +1,2673 @@
+1470138323858: 
+1470138324430: 	selected	null
+1470138389786: 
+1470138390340: 	selected	null
+1470142273189: 	acted on	image-67
+1470142273192: 	selected	image-67
+1470142274236: 	acted on	image-67
+1470142274238: 	selected	image-67
+1470142274352: 	moved	image-67	to	{"x":634,"y":557}
+1470142274360: 	moved	image-67	to	{"x":631,"y":556}
+1470142274368: 	moved	image-67	to	{"x":628,"y":556}
+1470142274376: 	moved	image-67	to	{"x":626,"y":555}
+1470142274386: 	moved	image-67	to	{"x":623,"y":555}
+1470142274393: 	moved	image-67	to	{"x":619,"y":554}
+1470142274401: 	moved	image-67	to	{"x":616,"y":553}
+1470142274410: 	moved	image-67	to	{"x":613,"y":553}
+1470142274417: 	moved	image-67	to	{"x":610,"y":552}
+1470142274425: 	moved	image-67	to	{"x":606,"y":551}
+1470142274435: 	moved	image-67	to	{"x":602,"y":551}
+1470142274444: 	moved	image-67	to	{"x":599,"y":550}
+1470142274451: 	moved	image-67	to	{"x":596,"y":550}
+1470142274460: 	moved	image-67	to	{"x":592,"y":549}
+1470142274467: 	moved	image-67	to	{"x":588,"y":548}
+1470142274476: 	moved	image-67	to	{"x":584,"y":548}
+1470142274485: 	moved	image-67	to	{"x":580,"y":548}
+1470142274493: 	moved	image-67	to	{"x":575,"y":547}
+1470142274501: 	moved	image-67	to	{"x":571,"y":547}
+1470142274510: 	moved	image-67	to	{"x":567,"y":546}
+1470142274517: 	moved	image-67	to	{"x":563,"y":546}
+1470142274526: 	moved	image-67	to	{"x":559,"y":545}
+1470142274535: 	moved	image-67	to	{"x":555,"y":545}
+1470142274543: 	moved	image-67	to	{"x":550,"y":544}
+1470142274551: 	moved	image-67	to	{"x":546,"y":544}
+1470142274560: 	moved	image-67	to	{"x":542,"y":543}
+1470142274568: 	moved	image-67	to	{"x":538,"y":543}
+1470142274577: 	moved	image-67	to	{"x":534,"y":543}
+1470142274585: 	moved	image-67	to	{"x":531,"y":542}
+1470142274593: 	moved	image-67	to	{"x":527,"y":542}
+1470142274601: 	moved	image-67	to	{"x":524,"y":542}
+1470142274610: 	moved	image-67	to	{"x":520,"y":541}
+1470142274618: 	moved	image-67	to	{"x":517,"y":541}
+1470142274627: 	moved	image-67	to	{"x":514,"y":541}
+1470142274635: 	moved	image-67	to	{"x":511,"y":541}
+1470142274643: 	moved	image-67	to	{"x":509,"y":541}
+1470142274651: 	moved	image-67	to	{"x":507,"y":540}
+1470142274660: 	moved	image-67	to	{"x":505,"y":540}
+1470142274669: 	moved	image-67	to	{"x":503,"y":540}
+1470142274676: 	moved	image-67	to	{"x":502,"y":540}
+1470142274685: 	moved	image-67	to	{"x":501,"y":539}
+1470142274692: 	moved	image-67	to	{"x":500,"y":539}
+1470142274710: 	moved	image-67	to	{"x":499,"y":539}
+1470142275102: 	acted on	image-67
+1470142275104: 	selected	image-67
+1470142275261: 	start moving	image-67	from	{"x":82,"y":91}
+1470142275269: 	moved	image-67	to	{"x":662,"y":526}
+1470142275276: 	moved	image-67	to	{"x":661,"y":526}
+1470142275284: 	moved	image-67	to	{"x":658,"y":525}
+1470142275294: 	moved	image-67	to	{"x":656,"y":525}
+1470142275301: 	moved	image-67	to	{"x":653,"y":525}
+1470142275310: 	moved	image-67	to	{"x":650,"y":525}
+1470142275319: 	moved	image-67	to	{"x":648,"y":525}
+1470142275326: 	moved	image-67	to	{"x":646,"y":524}
+1470142275335: 	moved	image-67	to	{"x":643,"y":524}
+1470142275342: 	moved	image-67	to	{"x":641,"y":524}
+1470142275350: 	moved	image-67	to	{"x":638,"y":524}
+1470142275360: 	moved	image-67	to	{"x":636,"y":524}
+1470142275368: 	moved	image-67	to	{"x":634,"y":523}
+1470142275375: 	moved	image-67	to	{"x":633,"y":523}
+1470142275385: 	moved	image-67	to	{"x":631,"y":523}
+1470142275393: 	moved	image-67	to	{"x":630,"y":523}
+1470142275401: 	moved	image-67	to	{"x":629,"y":523}
+1470142275410: 	moved	image-67	to	{"x":627,"y":523}
+1470142275418: 	moved	image-67	to	{"x":626,"y":523}
+1470142275436: 	moved	image-67	to	{"x":625,"y":523}
+1470142275443: 	moved	image-67	to	{"x":624,"y":522}
+1470142275468: 	moved	image-67	to	{"x":623,"y":522}
+1470142275510: 	moved	image-67	to	{"x":622,"y":522}
+1470142275601: 	moved	image-67	to	{"x":621,"y":522}
+1470142275625: 	moved	image-67	to	{"x":621,"y":521}
+1470142275661: 	moved	image-67	to	{"x":620,"y":521}
+1470142275693: 	moved	image-67	to	{"x":619,"y":521}
+1470142275710: 	moved	image-67	to	{"x":617,"y":520}
+1470142275718: 	moved	image-67	to	{"x":615,"y":520}
+1470142275725: 	moved	image-67	to	{"x":613,"y":519}
+1470142275735: 	moved	image-67	to	{"x":611,"y":519}
+1470142275742: 	moved	image-67	to	{"x":610,"y":519}
+1470142275751: 	moved	image-67	to	{"x":608,"y":519}
+1470142275760: 	moved	image-67	to	{"x":606,"y":518}
+1470142275767: 	moved	image-67	to	{"x":604,"y":518}
+1470142275775: 	moved	image-67	to	{"x":601,"y":517}
+1470142275784: 	moved	image-67	to	{"x":599,"y":517}
+1470142275792: 	moved	image-67	to	{"x":596,"y":516}
+1470142275800: 	moved	image-67	to	{"x":593,"y":515}
+1470142275810: 	moved	image-67	to	{"x":590,"y":514}
+1470142275818: 	moved	image-67	to	{"x":587,"y":513}
+1470142275825: 	moved	image-67	to	{"x":584,"y":513}
+1470142275834: 	moved	image-67	to	{"x":581,"y":512}
+1470142275843: 	moved	image-67	to	{"x":578,"y":511}
+1470142275851: 	moved	image-67	to	{"x":574,"y":510}
+1470142275861: 	moved	image-67	to	{"x":570,"y":509}
+1470142275867: 	moved	image-67	to	{"x":567,"y":507}
+1470142275876: 	moved	image-67	to	{"x":563,"y":507}
+1470142275885: 	moved	image-67	to	{"x":559,"y":506}
+1470142275893: 	moved	image-67	to	{"x":555,"y":505}
+1470142275900: 	moved	image-67	to	{"x":550,"y":504}
+1470142275911: 	moved	image-67	to	{"x":546,"y":503}
+1470142275917: 	moved	image-67	to	{"x":542,"y":502}
+1470142275926: 	moved	image-67	to	{"x":537,"y":501}
+1470142275935: 	moved	image-67	to	{"x":532,"y":500}
+1470142275943: 	moved	image-67	to	{"x":528,"y":499}
+1470142275952: 	moved	image-67	to	{"x":523,"y":499}
+1470142275959: 	moved	image-67	to	{"x":519,"y":498}
+1470142275967: 	moved	image-67	to	{"x":515,"y":496}
+1470142275976: 	moved	image-67	to	{"x":510,"y":495}
+1470142275984: 	moved	image-67	to	{"x":506,"y":494}
+1470142275993: 	moved	image-67	to	{"x":502,"y":494}
+1470142276002: 	moved	image-67	to	{"x":498,"y":492}
+1470142276009: 	moved	image-67	to	{"x":494,"y":492}
+1470142276017: 	moved	image-67	to	{"x":489,"y":491}
+1470142276026: 	moved	image-67	to	{"x":485,"y":490}
+1470142276034: 	moved	image-67	to	{"x":482,"y":489}
+1470142276043: 	moved	image-67	to	{"x":478,"y":489}
+1470142276052: 	moved	image-67	to	{"x":474,"y":488}
+1470142276059: 	moved	image-67	to	{"x":471,"y":488}
+1470142276068: 	moved	image-67	to	{"x":468,"y":487}
+1470142276077: 	moved	image-67	to	{"x":465,"y":487}
+1470142276085: 	moved	image-67	to	{"x":463,"y":487}
+1470142276092: 	moved	image-67	to	{"x":460,"y":486}
+1470142276101: 	moved	image-67	to	{"x":458,"y":486}
+1470142276109: 	moved	image-67	to	{"x":456,"y":486}
+1470142276118: 	moved	image-67	to	{"x":455,"y":485}
+1470142276126: 	moved	image-67	to	{"x":453,"y":485}
+1470142276134: 	moved	image-67	to	{"x":452,"y":485}
+1470142276143: 	moved	image-67	to	{"x":451,"y":485}
+1470142276151: 	moved	image-67	to	{"x":450,"y":484}
+1470142276159: 	moved	image-67	to	{"x":449,"y":484}
+1470142276177: 	moved	image-67	to	{"x":448,"y":484}
+1470142276209: 	moved	image-67	to	{"x":447,"y":484}
+1470142276218: 	moved	image-67	to	{"x":447,"y":483}
+1470142276285: 	moved	image-67	to	{"x":448,"y":483}
+1470142276293: 	moved	image-67	to	{"x":449,"y":484}
+1470142276301: 	moved	image-67	to	{"x":451,"y":484}
+1470142276310: 	moved	image-67	to	{"x":455,"y":484}
+1470142276317: 	moved	image-67	to	{"x":457,"y":485}
+1470142276326: 	moved	image-67	to	{"x":460,"y":486}
+1470142276335: 	moved	image-67	to	{"x":462,"y":486}
+1470142276342: 	moved	image-67	to	{"x":465,"y":487}
+1470142276351: 	moved	image-67	to	{"x":468,"y":487}
+1470142276360: 	moved	image-67	to	{"x":471,"y":488}
+1470142276367: 	moved	image-67	to	{"x":473,"y":489}
+1470142276377: 	moved	image-67	to	{"x":476,"y":490}
+1470142276384: 	moved	image-67	to	{"x":479,"y":490}
+1470142276393: 	moved	image-67	to	{"x":482,"y":491}
+1470142276401: 	moved	image-67	to	{"x":485,"y":492}
+1470142276410: 	moved	image-67	to	{"x":488,"y":493}
+1470142276418: 	moved	image-67	to	{"x":491,"y":494}
+1470142276426: 	moved	image-67	to	{"x":493,"y":495}
+1470142276435: 	moved	image-67	to	{"x":495,"y":496}
+1470142276444: 	moved	image-67	to	{"x":497,"y":497}
+1470142276452: 	moved	image-67	to	{"x":499,"y":498}
+1470142276461: 	moved	image-67	to	{"x":502,"y":499}
+1470142276469: 	moved	image-67	to	{"x":504,"y":501}
+1470142276478: 	moved	image-67	to	{"x":507,"y":502}
+1470142276487: 	moved	image-67	to	{"x":508,"y":503}
+1470142276495: 	moved	image-67	to	{"x":510,"y":504}
+1470142276504: 	moved	image-67	to	{"x":511,"y":505}
+1470142276514: 	moved	image-67	to	{"x":513,"y":507}
+1470142276524: 	moved	image-67	to	{"x":515,"y":509}
+1470142276533: 	moved	image-67	to	{"x":516,"y":511}
+1470142276565: 	moved	image-67	to	{"x":520,"y":519}
+1470142276576: 	moved	image-67	to	{"x":520,"y":521}
+1470142276584: 	moved	image-67	to	{"x":521,"y":523}
+1470142276593: 	moved	image-67	to	{"x":522,"y":524}
+1470142276603: 	moved	image-67	to	{"x":523,"y":528}
+1470142276612: 	moved	image-67	to	{"x":523,"y":530}
+1470142276621: 	moved	image-67	to	{"x":524,"y":532}
+1470142276629: 	moved	image-67	to	{"x":524,"y":533}
+1470142276636: 	moved	image-67	to	{"x":524,"y":535}
+1470142276643: 	moved	image-67	to	{"x":524,"y":536}
+1470142276652: 	moved	image-67	to	{"x":524,"y":538}
+1470142276659: 	moved	image-67	to	{"x":524,"y":539}
+1470142276667: 	moved	image-67	to	{"x":524,"y":540}
+1470142276677: 	moved	image-67	to	{"x":525,"y":541}
+1470142276692: 	moved	image-67	to	{"x":525,"y":542}
+1470142276710: 	moved	image-67	to	{"x":525,"y":543}
+1470142276743: 	moved	image-67	to	{"x":525,"y":544}
+1470142276917: 	moved	image-67	to	{"x":525,"y":545}
+1470142277194: 	acted on	image-67
+1470142277195: 	selected	image-67
+1470142277577: 	acted on	content
+1470142277579: 	selected	null
+1470142310085: 	acted on	image-27
+1470142310087: 	selected	image-27
+1470142311086: 	acted on	image-27
+1470142311088: 	selected	image-27
+1470142311251: 	start moving	image-27	from	{"x":112,"y":77}
+1470142311259: 	moved	image-27	to	{"x":171,"y":513}
+1470142311267: 	moved	image-27	to	{"x":173,"y":510}
+1470142311277: 	moved	image-27	to	{"x":174,"y":508}
+1470142311288: 	moved	image-27	to	{"x":176,"y":507}
+1470142311302: 	moved	image-27	to	{"x":178,"y":504}
+1470142311313: 	moved	image-27	to	{"x":182,"y":499}
+1470142311325: 	moved	image-27	to	{"x":184,"y":497}
+1470142311336: 	moved	image-27	to	{"x":189,"y":492}
+1470142311346: 	moved	image-27	to	{"x":191,"y":490}
+1470142311357: 	moved	image-27	to	{"x":193,"y":488}
+1470142311368: 	moved	image-27	to	{"x":197,"y":483}
+1470142311379: 	moved	image-27	to	{"x":200,"y":480}
+1470142311390: 	moved	image-27	to	{"x":202,"y":478}
+1470142311402: 	moved	image-27	to	{"x":207,"y":474}
+1470142311413: 	moved	image-27	to	{"x":209,"y":471}
+1470142311424: 	moved	image-27	to	{"x":211,"y":469}
+1470142311435: 	moved	image-27	to	{"x":214,"y":466}
+1470142311448: 	moved	image-27	to	{"x":217,"y":463}
+1470142311460: 	moved	image-27	to	{"x":218,"y":463}
+1470142311471: 	moved	image-27	to	{"x":222,"y":459}
+1470142311484: 	moved	image-27	to	{"x":224,"y":458}
+1470142311494: 	moved	image-27	to	{"x":227,"y":454}
+1470142311506: 	moved	image-27	to	{"x":229,"y":453}
+1470142311516: 	moved	image-27	to	{"x":231,"y":451}
+1470142311527: 	moved	image-27	to	{"x":236,"y":447}
+1470142311538: 	moved	image-27	to	{"x":239,"y":444}
+1470142311549: 	moved	image-27	to	{"x":242,"y":442}
+1470142311561: 	moved	image-27	to	{"x":248,"y":436}
+1470142311572: 	moved	image-27	to	{"x":251,"y":434}
+1470142311583: 	moved	image-27	to	{"x":255,"y":430}
+1470142311595: 	moved	image-27	to	{"x":263,"y":423}
+1470142311607: 	moved	image-27	to	{"x":267,"y":419}
+1470142311618: 	moved	image-27	to	{"x":276,"y":410}
+1470142311629: 	moved	image-27	to	{"x":281,"y":406}
+1470142311640: 	moved	image-27	to	{"x":285,"y":402}
+1470142311651: 	moved	image-27	to	{"x":296,"y":393}
+1470142311663: 	moved	image-27	to	{"x":301,"y":389}
+1470142311675: 	moved	image-27	to	{"x":307,"y":385}
+1470142311687: 	moved	image-27	to	{"x":319,"y":377}
+1470142311699: 	moved	image-27	to	{"x":326,"y":373}
+1470142311711: 	moved	image-27	to	{"x":339,"y":364}
+1470142311723: 	moved	image-27	to	{"x":345,"y":360}
+1470142311735: 	moved	image-27	to	{"x":358,"y":353}
+1470142311747: 	moved	image-27	to	{"x":364,"y":348}
+1470142311758: 	moved	image-27	to	{"x":371,"y":344}
+1470142311771: 	moved	image-27	to	{"x":383,"y":338}
+1470142311783: 	moved	image-27	to	{"x":390,"y":335}
+1470142311796: 	moved	image-27	to	{"x":402,"y":328}
+1470142311808: 	moved	image-27	to	{"x":408,"y":326}
+1470142311821: 	moved	image-27	to	{"x":420,"y":320}
+1470142311834: 	moved	image-27	to	{"x":426,"y":318}
+1470142311847: 	moved	image-27	to	{"x":438,"y":313}
+1470142311859: 	moved	image-27	to	{"x":443,"y":312}
+1470142311872: 	moved	image-27	to	{"x":455,"y":306}
+1470142311885: 	moved	image-27	to	{"x":461,"y":304}
+1470142311898: 	moved	image-27	to	{"x":471,"y":300}
+1470142311911: 	moved	image-27	to	{"x":481,"y":297}
+1470142311924: 	moved	image-27	to	{"x":486,"y":296}
+1470142311936: 	moved	image-27	to	{"x":495,"y":294}
+1470142311951: 	moved	image-27	to	{"x":499,"y":292}
+1470142311963: 	moved	image-27	to	{"x":505,"y":290}
+1470142311977: 	moved	image-27	to	{"x":512,"y":288}
+1470142311990: 	moved	image-27	to	{"x":514,"y":287}
+1470142312003: 	moved	image-27	to	{"x":518,"y":286}
+1470142312017: 	moved	image-27	to	{"x":520,"y":285}
+1470142312031: 	moved	image-27	to	{"x":523,"y":284}
+1470142312044: 	moved	image-27	to	{"x":525,"y":283}
+1470142312059: 	moved	image-27	to	{"x":526,"y":283}
+1470142312070: 	moved	image-27	to	{"x":527,"y":282}
+1470142312105: 	moved	image-27	to	{"x":529,"y":281}
+1470142312119: 	moved	image-27	to	{"x":529,"y":280}
+1470142312132: 	moved	image-27	to	{"x":530,"y":280}
+1470142312150: 	moved	image-27	to	{"x":530,"y":279}
+1470142314085: 	acted on	content
+1470142314086: 	selected	null
+1470142314977: 	acted on	image-67
+1470142314978: 	selected	image-67
+1470142315992: 	acted on	image-67
+1470142315994: 	selected	image-67
+1470142316227: 	start moving	image-67	from	{"x":90,"y":68}
+1470142316241: 	moved	image-67	to	{"x":535,"y":522}
+1470142316253: 	moved	image-67	to	{"x":537,"y":521}
+1470142316266: 	moved	image-67	to	{"x":538,"y":520}
+1470142316280: 	moved	image-67	to	{"x":539,"y":520}
+1470142316292: 	moved	image-67	to	{"x":540,"y":520}
+1470142316304: 	moved	image-67	to	{"x":541,"y":519}
+1470142316326: 	moved	image-67	to	{"x":542,"y":519}
+1470142316350: 	moved	image-67	to	{"x":543,"y":519}
+1470142317285: 	acted on	image-67
+1470142317287: 	selected	image-67
+1470142317409: 	start moving	image-67	from	{"x":63,"y":58}
+1470142317424: 	moved	image-67	to	{"x":518,"y":510}
+1470142317440: 	moved	image-67	to	{"x":524,"y":511}
+1470142317455: 	moved	image-67	to	{"x":531,"y":511}
+1470142317467: 	moved	image-67	to	{"x":535,"y":510}
+1470142317480: 	moved	image-67	to	{"x":541,"y":510}
+1470142317495: 	moved	image-67	to	{"x":549,"y":511}
+1470142317509: 	moved	image-67	to	{"x":552,"y":510}
+1470142317524: 	moved	image-67	to	{"x":559,"y":510}
+1470142317536: 	moved	image-67	to	{"x":566,"y":511}
+1470142317551: 	moved	image-67	to	{"x":570,"y":511}
+1470142317562: 	moved	image-67	to	{"x":577,"y":511}
+1470142317573: 	moved	image-67	to	{"x":581,"y":510}
+1470142317588: 	moved	image-67	to	{"x":589,"y":511}
+1470142317603: 	moved	image-67	to	{"x":596,"y":511}
+1470142317615: 	moved	image-67	to	{"x":600,"y":511}
+1470142317628: 	moved	image-67	to	{"x":608,"y":511}
+1470142317641: 	moved	image-67	to	{"x":612,"y":511}
+1470142317653: 	moved	image-67	to	{"x":619,"y":511}
+1470142317665: 	moved	image-67	to	{"x":624,"y":511}
+1470142317676: 	moved	image-67	to	{"x":628,"y":510}
+1470142317693: 	moved	image-67	to	{"x":636,"y":510}
+1470142317705: 	moved	image-67	to	{"x":646,"y":510}
+1470142317717: 	moved	image-67	to	{"x":651,"y":511}
+1470142317732: 	moved	image-67	to	{"x":661,"y":511}
+1470142317746: 	moved	image-67	to	{"x":671,"y":510}
+1470142317761: 	moved	image-67	to	{"x":681,"y":510}
+1470142317773: 	moved	image-67	to	{"x":686,"y":510}
+1470142317786: 	moved	image-67	to	{"x":695,"y":510}
+1470142317799: 	moved	image-67	to	{"x":700,"y":510}
+1470142317812: 	moved	image-67	to	{"x":708,"y":510}
+1470142317824: 	moved	image-67	to	{"x":713,"y":510}
+1470142317837: 	moved	image-67	to	{"x":721,"y":511}
+1470142317853: 	moved	image-67	to	{"x":729,"y":512}
+1470142317869: 	moved	image-67	to	{"x":734,"y":513}
+1470142317884: 	moved	image-67	to	{"x":737,"y":513}
+1470142317898: 	moved	image-67	to	{"x":742,"y":513}
+1470142317910: 	moved	image-67	to	{"x":745,"y":514}
+1470142317926: 	moved	image-67	to	{"x":747,"y":514}
+1470142317939: 	moved	image-67	to	{"x":749,"y":514}
+1470142317953: 	moved	image-67	to	{"x":751,"y":515}
+1470142317969: 	moved	image-67	to	{"x":752,"y":515}
+1470142317983: 	moved	image-67	to	{"x":753,"y":515}
+1470142318779: 	acted on	image-79
+1470142318781: 	selected	image-79
+1470142319777: 	acted on	image-27
+1470142319779: 	selected	image-27
+1470142319950: 	start moving	image-27	from	{"x":64,"y":124}
+1470142319969: 	moved	image-27	to	{"x":480,"y":327}
+1470142319986: 	moved	image-27	to	{"x":477,"y":329}
+1470142320003: 	moved	image-27	to	{"x":475,"y":332}
+1470142320021: 	moved	image-27	to	{"x":473,"y":334}
+1470142320037: 	moved	image-27	to	{"x":471,"y":336}
+1470142320055: 	moved	image-27	to	{"x":469,"y":338}
+1470142320073: 	moved	image-27	to	{"x":468,"y":339}
+1470142320089: 	moved	image-27	to	{"x":468,"y":340}
+1470142320104: 	moved	image-27	to	{"x":467,"y":340}
+1470142320117: 	moved	image-27	to	{"x":467,"y":341}
+1470142320377: 	acted on	image-27
+1470142320378: 	selected	image-27
+1470142320505: 	start moving	image-27	from	{"x":63,"y":117}
+1470142320535: 	moved	image-27	to	{"x":457,"y":337}
+1470142320556: 	moved	image-27	to	{"x":447,"y":340}
+1470142320571: 	moved	image-27	to	{"x":440,"y":343}
+1470142320589: 	moved	image-27	to	{"x":432,"y":346}
+1470142320607: 	moved	image-27	to	{"x":423,"y":349}
+1470142320624: 	moved	image-27	to	{"x":413,"y":352}
+1470142320644: 	moved	image-27	to	{"x":399,"y":356}
+1470142320662: 	moved	image-27	to	{"x":390,"y":359}
+1470142320679: 	moved	image-27	to	{"x":380,"y":363}
+1470142320695: 	moved	image-27	to	{"x":371,"y":366}
+1470142320713: 	moved	image-27	to	{"x":361,"y":368}
+1470142320731: 	moved	image-27	to	{"x":354,"y":371}
+1470142320749: 	moved	image-27	to	{"x":344,"y":374}
+1470142320766: 	moved	image-27	to	{"x":337,"y":377}
+1470142320783: 	moved	image-27	to	{"x":330,"y":378}
+1470142320801: 	moved	image-27	to	{"x":321,"y":381}
+1470142320818: 	moved	image-27	to	{"x":313,"y":383}
+1470142320836: 	moved	image-27	to	{"x":301,"y":386}
+1470142320854: 	moved	image-27	to	{"x":292,"y":388}
+1470142320872: 	moved	image-27	to	{"x":281,"y":390}
+1470142320890: 	moved	image-27	to	{"x":270,"y":392}
+1470142320907: 	moved	image-27	to	{"x":259,"y":394}
+1470142320924: 	moved	image-27	to	{"x":248,"y":397}
+1470142320942: 	moved	image-27	to	{"x":238,"y":399}
+1470142320959: 	moved	image-27	to	{"x":228,"y":402}
+1470142320977: 	moved	image-27	to	{"x":212,"y":405}
+1470142320995: 	moved	image-27	to	{"x":205,"y":407}
+1470142321012: 	moved	image-27	to	{"x":197,"y":407}
+1470142321026: 	moved	image-27	to	{"x":190,"y":407}
+1470142321042: 	moved	image-27	to	{"x":186,"y":407}
+1470142321056: 	moved	image-27	to	{"x":180,"y":406}
+1470142321074: 	moved	image-27	to	{"x":173,"y":402}
+1470142321092: 	moved	image-27	to	{"x":168,"y":399}
+1470142321110: 	moved	image-27	to	{"x":161,"y":394}
+1470142321130: 	moved	image-27	to	{"x":157,"y":390}
+1470142321148: 	moved	image-27	to	{"x":152,"y":386}
+1470142321166: 	moved	image-27	to	{"x":148,"y":383}
+1470142321184: 	moved	image-27	to	{"x":144,"y":378}
+1470142321203: 	moved	image-27	to	{"x":142,"y":376}
+1470142321222: 	moved	image-27	to	{"x":140,"y":374}
+1470142321240: 	moved	image-27	to	{"x":138,"y":371}
+1470142321259: 	moved	image-27	to	{"x":136,"y":370}
+1470142321276: 	moved	image-27	to	{"x":134,"y":368}
+1470142321294: 	moved	image-27	to	{"x":133,"y":367}
+1470142321359: 	moved	image-27	to	{"x":133,"y":368}
+1470142321372: 	moved	image-27	to	{"x":132,"y":368}
+1470142321388: 	moved	image-27	to	{"x":132,"y":369}
+1470142321404: 	moved	image-27	to	{"x":131,"y":371}
+1470142321422: 	moved	image-27	to	{"x":131,"y":374}
+1470142321436: 	moved	image-27	to	{"x":131,"y":376}
+1470142321451: 	moved	image-27	to	{"x":132,"y":377}
+1470142321469: 	moved	image-27	to	{"x":134,"y":380}
+1470142321489: 	moved	image-27	to	{"x":136,"y":381}
+1470142321507: 	moved	image-27	to	{"x":139,"y":383}
+1470142321526: 	moved	image-27	to	{"x":145,"y":385}
+1470142321545: 	moved	image-27	to	{"x":149,"y":387}
+1470142321563: 	moved	image-27	to	{"x":155,"y":388}
+1470142321582: 	moved	image-27	to	{"x":160,"y":389}
+1470142321601: 	moved	image-27	to	{"x":165,"y":389}
+1470142321617: 	moved	image-27	to	{"x":172,"y":390}
+1470142321636: 	moved	image-27	to	{"x":182,"y":391}
+1470142321656: 	moved	image-27	to	{"x":189,"y":391}
+1470142321670: 	moved	image-27	to	{"x":196,"y":391}
+1470142321687: 	moved	image-27	to	{"x":203,"y":390}
+1470142321707: 	moved	image-27	to	{"x":210,"y":390}
+1470142321724: 	moved	image-27	to	{"x":217,"y":389}
+1470142321743: 	moved	image-27	to	{"x":223,"y":388}
+1470142321763: 	moved	image-27	to	{"x":232,"y":387}
+1470142321784: 	moved	image-27	to	{"x":239,"y":386}
+1470142321804: 	moved	image-27	to	{"x":248,"y":383}
+1470142321824: 	moved	image-27	to	{"x":254,"y":382}
+1470142321844: 	moved	image-27	to	{"x":264,"y":379}
+1470142321864: 	moved	image-27	to	{"x":269,"y":377}
+1470142321884: 	moved	image-27	to	{"x":274,"y":375}
+1470142321903: 	moved	image-27	to	{"x":283,"y":372}
+1470142321925: 	moved	image-27	to	{"x":287,"y":371}
+1470142321945: 	moved	image-27	to	{"x":291,"y":369}
+1470142321966: 	moved	image-27	to	{"x":295,"y":367}
+1470142321986: 	moved	image-27	to	{"x":298,"y":365}
+1470142322007: 	moved	image-27	to	{"x":300,"y":364}
+1470142322025: 	moved	image-27	to	{"x":301,"y":364}
+1470142322041: 	moved	image-27	to	{"x":302,"y":363}
+1470142322061: 	moved	image-27	to	{"x":303,"y":362}
+1470142322108: 	moved	image-27	to	{"x":304,"y":362}
+1470142322126: 	moved	image-27	to	{"x":304,"y":361}
+1470142322243: 	moved	image-27	to	{"x":304,"y":360}
+1470142322276: 	moved	image-27	to	{"x":305,"y":360}
+1470142322309: 	moved	image-27	to	{"x":305,"y":359}
+1470142322351: 	moved	image-27	to	{"x":304,"y":359}
+1470142322376: 	moved	image-27	to	{"x":304,"y":358}
+1470142322409: 	moved	image-27	to	{"x":304,"y":357}
+1470142322425: 	moved	image-27	to	{"x":304,"y":356}
+1470142322459: 	moved	image-27	to	{"x":304,"y":355}
+1470142322475: 	moved	image-27	to	{"x":304,"y":354}
+1470142322525: 	moved	image-27	to	{"x":304,"y":353}
+1470142322577: 	moved	image-27	to	{"x":304,"y":352}
+1470142322605: 	moved	image-27	to	{"x":304,"y":351}
+1470142323060: 	acted on	image-79
+1470142323062: 	selected	image-79
+1470142323535: 	acted on	image-79
+1470142323536: 	selected	image-79
+1470142323643: 	start moving	image-79	from	{"x":89,"y":99}
+1470142323672: 	moved	image-79	to	{"x":144,"y":197}
+1470142323704: 	moved	image-79	to	{"x":138,"y":208}
+1470142323733: 	moved	image-79	to	{"x":135,"y":216}
+1470142323755: 	moved	image-79	to	{"x":133,"y":224}
+1470142323777: 	moved	image-79	to	{"x":132,"y":232}
+1470142323800: 	moved	image-79	to	{"x":131,"y":238}
+1470142323820: 	moved	image-79	to	{"x":131,"y":248}
+1470142323837: 	moved	image-79	to	{"x":131,"y":254}
+1470142323856: 	moved	image-79	to	{"x":131,"y":259}
+1470142323872: 	moved	image-79	to	{"x":130,"y":263}
+1470142323895: 	moved	image-79	to	{"x":131,"y":272}
+1470142323916: 	moved	image-79	to	{"x":132,"y":277}
+1470142323940: 	moved	image-79	to	{"x":133,"y":285}
+1470142323972: 	moved	image-79	to	{"x":135,"y":300}
+1470142324004: 	moved	image-79	to	{"x":136,"y":320}
+1470142324026: 	moved	image-79	to	{"x":137,"y":330}
+1470142324048: 	moved	image-79	to	{"x":138,"y":347}
+1470142324071: 	moved	image-79	to	{"x":139,"y":365}
+1470142324094: 	moved	image-79	to	{"x":141,"y":382}
+1470142324116: 	moved	image-79	to	{"x":145,"y":393}
+1470142324140: 	moved	image-79	to	{"x":152,"y":408}
+1470142324161: 	moved	image-79	to	{"x":161,"y":421}
+1470142324185: 	moved	image-79	to	{"x":172,"y":433}
+1470142324207: 	moved	image-79	to	{"x":182,"y":440}
+1470142324229: 	moved	image-79	to	{"x":197,"y":448}
+1470142324251: 	moved	image-79	to	{"x":208,"y":454}
+1470142324272: 	moved	image-79	to	{"x":225,"y":460}
+1470142324296: 	moved	image-79	to	{"x":244,"y":466}
+1470142324320: 	moved	image-79	to	{"x":262,"y":471}
+1470142324345: 	moved	image-79	to	{"x":281,"y":478}
+1470142324374: 	moved	image-79	to	{"x":300,"y":483}
+1470142324401: 	moved	image-79	to	{"x":326,"y":490}
+1470142324426: 	moved	image-79	to	{"x":345,"y":494}
+1470142324450: 	moved	image-79	to	{"x":358,"y":496}
+1470142324474: 	moved	image-79	to	{"x":376,"y":501}
+1470142324501: 	moved	image-79	to	{"x":393,"y":505}
+1470142324526: 	moved	image-79	to	{"x":409,"y":510}
+1470142324551: 	moved	image-79	to	{"x":427,"y":516}
+1470142324585: 	moved	image-79	to	{"x":439,"y":520}
+1470142324618: 	moved	image-79	to	{"x":460,"y":526}
+1470142324652: 	moved	image-79	to	{"x":473,"y":529}
+1470142324675: 	moved	image-79	to	{"x":479,"y":530}
+1470142324698: 	moved	image-79	to	{"x":487,"y":531}
+1470142324721: 	moved	image-79	to	{"x":493,"y":532}
+1470142324743: 	moved	image-79	to	{"x":496,"y":532}
+1470142324761: 	moved	image-79	to	{"x":498,"y":532}
+1470142324781: 	moved	image-79	to	{"x":500,"y":533}
+1470142324804: 	moved	image-79	to	{"x":501,"y":533}
+1470142324859: 	moved	image-79	to	{"x":501,"y":534}
+1470142324893: 	moved	image-79	to	{"x":500,"y":534}
+1470142324910: 	moved	image-79	to	{"x":498,"y":534}
+1470142324929: 	moved	image-79	to	{"x":491,"y":539}
+1470142324954: 	moved	image-79	to	{"x":485,"y":541}
+1470142324976: 	moved	image-79	to	{"x":478,"y":543}
+1470142325001: 	moved	image-79	to	{"x":474,"y":544}
+1470142325024: 	moved	image-79	to	{"x":469,"y":545}
+1470142325048: 	moved	image-79	to	{"x":465,"y":546}
+1470142325071: 	moved	image-79	to	{"x":461,"y":546}
+1470142325090: 	moved	image-79	to	{"x":459,"y":546}
+1470142325108: 	moved	image-79	to	{"x":457,"y":546}
+1470142325127: 	moved	image-79	to	{"x":455,"y":546}
+1470142325146: 	moved	image-79	to	{"x":454,"y":546}
+1470142325165: 	moved	image-79	to	{"x":452,"y":545}
+1470142325189: 	moved	image-79	to	{"x":451,"y":544}
+1470142325214: 	moved	image-79	to	{"x":449,"y":544}
+1470142325234: 	moved	image-79	to	{"x":449,"y":543}
+1470142325253: 	moved	image-79	to	{"x":448,"y":543}
+1470142325342: 	moved	image-79	to	{"x":448,"y":542}
+1470142325360: 	moved	image-79	to	{"x":447,"y":542}
+1470142325869: 	acted on	image-27
+1470142325872: 	selected	image-27
+1470142326335: 	acted on	image-27
+1470142326337: 	selected	image-27
+1470142326525: 	start moving	image-27	from	{"x":107,"y":96}
+1470142326552: 	moved	image-27	to	{"x":353,"y":327}
+1470142326574: 	moved	image-27	to	{"x":357,"y":325}
+1470142326598: 	moved	image-27	to	{"x":363,"y":322}
+1470142326622: 	moved	image-27	to	{"x":369,"y":319}
+1470142326647: 	moved	image-27	to	{"x":376,"y":317}
+1470142326673: 	moved	image-27	to	{"x":383,"y":314}
+1470142326698: 	moved	image-27	to	{"x":390,"y":312}
+1470142326723: 	moved	image-27	to	{"x":396,"y":309}
+1470142326746: 	moved	image-27	to	{"x":404,"y":306}
+1470142326770: 	moved	image-27	to	{"x":410,"y":303}
+1470142326793: 	moved	image-27	to	{"x":417,"y":300}
+1470142326817: 	moved	image-27	to	{"x":422,"y":299}
+1470142326839: 	moved	image-27	to	{"x":429,"y":296}
+1470142326863: 	moved	image-27	to	{"x":436,"y":293}
+1470142326892: 	moved	image-27	to	{"x":443,"y":291}
+1470142326929: 	moved	image-27	to	{"x":454,"y":287}
+1470142326965: 	moved	image-27	to	{"x":463,"y":285}
+1470142326990: 	moved	image-27	to	{"x":469,"y":282}
+1470142327015: 	moved	image-27	to	{"x":475,"y":280}
+1470142327038: 	moved	image-27	to	{"x":480,"y":278}
+1470142327063: 	moved	image-27	to	{"x":484,"y":275}
+1470142327090: 	moved	image-27	to	{"x":488,"y":273}
+1470142327115: 	moved	image-27	to	{"x":491,"y":271}
+1470142327141: 	moved	image-27	to	{"x":493,"y":269}
+1470142327166: 	moved	image-27	to	{"x":494,"y":268}
+1470142327193: 	moved	image-27	to	{"x":495,"y":267}
+1470142327218: 	moved	image-27	to	{"x":496,"y":266}
+1470142327259: 	moved	image-27	to	{"x":497,"y":266}
+1470142327887: 	acted on	image-79
+1470142327889: 	selected	image-79
+1470142327984: 	start moving	image-79	from	{"x":117,"y":64}
+1470142328027: 	moved	image-79	to	{"x":482,"y":501}
+1470142328052: 	moved	image-79	to	{"x":488,"y":496}
+1470142328079: 	moved	image-79	to	{"x":493,"y":492}
+1470142328107: 	moved	image-79	to	{"x":497,"y":489}
+1470142328135: 	moved	image-79	to	{"x":503,"y":484}
+1470142328163: 	moved	image-79	to	{"x":506,"y":481}
+1470142328200: 	moved	image-79	to	{"x":510,"y":476}
+1470142328237: 	moved	image-79	to	{"x":513,"y":473}
+1470142328265: 	moved	image-79	to	{"x":515,"y":470}
+1470142328290: 	moved	image-79	to	{"x":517,"y":466}
+1470142328315: 	moved	image-79	to	{"x":518,"y":463}
+1470142328339: 	moved	image-79	to	{"x":518,"y":460}
+1470142328360: 	moved	image-79	to	{"x":519,"y":457}
+1470142328387: 	moved	image-79	to	{"x":519,"y":456}
+1470142328409: 	moved	image-79	to	{"x":519,"y":455}
+1470142328430: 	moved	image-79	to	{"x":519,"y":454}
+1470142328451: 	moved	image-79	to	{"x":518,"y":453}
+1470142328478: 	moved	image-79	to	{"x":518,"y":452}
+1470142328499: 	moved	image-79	to	{"x":518,"y":451}
+1470142328521: 	moved	image-79	to	{"x":517,"y":451}
+1470142328542: 	moved	image-79	to	{"x":517,"y":450}
+1470142328566: 	moved	image-79	to	{"x":516,"y":450}
+1470142328588: 	moved	image-79	to	{"x":516,"y":449}
+1470142328609: 	moved	image-79	to	{"x":513,"y":448}
+1470142328635: 	moved	image-79	to	{"x":508,"y":448}
+1470142328654: 	moved	image-79	to	{"x":505,"y":449}
+1470142328680: 	moved	image-79	to	{"x":502,"y":449}
+1470142328700: 	moved	image-79	to	{"x":500,"y":450}
+1470142328727: 	moved	image-79	to	{"x":499,"y":450}
+1470142328749: 	moved	image-79	to	{"x":498,"y":450}
+1470142328817: 	moved	image-79	to	{"x":497,"y":451}
+1470142328926: 	moved	image-79	to	{"x":496,"y":451}
+1470142329108: 	moved	image-79	to	{"x":496,"y":452}
+1470142329226: 	moved	image-79	to	{"x":497,"y":452}
+1470142329283: 	moved	image-79	to	{"x":497,"y":453}
+1470142329304: 	moved	image-79	to	{"x":498,"y":453}
+1470142329326: 	moved	image-79	to	{"x":498,"y":454}
+1470142329348: 	moved	image-79	to	{"x":499,"y":455}
+1470142329376: 	moved	image-79	to	{"x":501,"y":456}
+1470142329402: 	moved	image-79	to	{"x":502,"y":458}
+1470142329467: 	moved	image-79	to	{"x":503,"y":458}
+1470142329508: 	moved	image-79	to	{"x":503,"y":459}
+1470142329559: 	moved	image-79	to	{"x":504,"y":459}
+1470142329579: 	moved	image-79	to	{"x":504,"y":460}
+1470142329718: 	moved	image-79	to	{"x":504,"y":461}
+1470142329777: 	moved	image-79	to	{"x":504,"y":462}
+1470142329801: 	moved	image-79	to	{"x":504,"y":463}
+1470142329826: 	moved	image-79	to	{"x":504,"y":464}
+1470142329851: 	moved	image-79	to	{"x":504,"y":465}
+1470142329876: 	moved	image-79	to	{"x":503,"y":465}
+1470142329909: 	moved	image-79	to	{"x":503,"y":466}
+1470142329951: 	moved	image-79	to	{"x":503,"y":467}
+1470142330002: 	moved	image-79	to	{"x":503,"y":468}
+1470142330652: 	acted on	image-67
+1470142330654: 	selected	image-67
+1470142334851: 	acted on	image-6
+1470142334852: 	selected	image-6
+1470142335033: 	start moving	image-6	from	{"x":84,"y":120}
+1470142335050: 	moved	image-6	to	{"x":640,"y":165}
+1470142335066: 	moved	image-6	to	{"x":643,"y":169}
+1470142335093: 	moved	image-6	to	{"x":647,"y":175}
+1470142335122: 	moved	image-6	to	{"x":651,"y":182}
+1470142335151: 	moved	image-6	to	{"x":658,"y":191}
+1470142335179: 	moved	image-6	to	{"x":663,"y":198}
+1470142335211: 	moved	image-6	to	{"x":669,"y":207}
+1470142335239: 	moved	image-6	to	{"x":673,"y":213}
+1470142335265: 	moved	image-6	to	{"x":675,"y":219}
+1470142335293: 	moved	image-6	to	{"x":677,"y":224}
+1470142335319: 	moved	image-6	to	{"x":679,"y":230}
+1470142335347: 	moved	image-6	to	{"x":680,"y":235}
+1470142335383: 	moved	image-6	to	{"x":680,"y":247}
+1470142335411: 	moved	image-6	to	{"x":681,"y":254}
+1470142335448: 	moved	image-6	to	{"x":682,"y":265}
+1470142335495: 	moved	image-6	to	{"x":685,"y":278}
+1470142335538: 	moved	image-6	to	{"x":689,"y":289}
+1470142335569: 	moved	image-6	to	{"x":692,"y":297}
+1470142335599: 	moved	image-6	to	{"x":694,"y":302}
+1470142335627: 	moved	image-6	to	{"x":696,"y":308}
+1470142335656: 	moved	image-6	to	{"x":697,"y":311}
+1470142335685: 	moved	image-6	to	{"x":698,"y":315}
+1470142335715: 	moved	image-6	to	{"x":698,"y":318}
+1470142335738: 	moved	image-6	to	{"x":698,"y":321}
+1470142335770: 	moved	image-6	to	{"x":697,"y":323}
+1470142335811: 	moved	image-6	to	{"x":697,"y":324}
+1470142335857: 	moved	image-6	to	{"x":697,"y":325}
+1470142335966: 	moved	image-6	to	{"x":697,"y":326}
+1470142335988: 	moved	image-6	to	{"x":696,"y":326}
+1470142339051: 	acted on	image-67
+1470142339053: 	selected	image-67
+1470142340093: 	acted on	image-8
+1470142340095: 	selected	image-8
+1470142340175: 	start moving	image-8	from	{"x":32,"y":126}
+1470142340204: 	moved	image-8	to	{"x":1086,"y":137}
+1470142340234: 	moved	image-8	to	{"x":1077,"y":142}
+1470142340265: 	moved	image-8	to	{"x":1068,"y":148}
+1470142340293: 	moved	image-8	to	{"x":1057,"y":155}
+1470142340324: 	moved	image-8	to	{"x":1049,"y":162}
+1470142340354: 	moved	image-8	to	{"x":1040,"y":172}
+1470142340386: 	moved	image-8	to	{"x":1031,"y":182}
+1470142340417: 	moved	image-8	to	{"x":1024,"y":188}
+1470142340448: 	moved	image-8	to	{"x":1015,"y":199}
+1470142340479: 	moved	image-8	to	{"x":1003,"y":210}
+1470142340523: 	moved	image-8	to	{"x":987,"y":227}
+1470142340561: 	moved	image-8	to	{"x":970,"y":244}
+1470142340594: 	moved	image-8	to	{"x":956,"y":259}
+1470142340625: 	moved	image-8	to	{"x":947,"y":268}
+1470142340656: 	moved	image-8	to	{"x":935,"y":280}
+1470142340687: 	moved	image-8	to	{"x":923,"y":292}
+1470142340716: 	moved	image-8	to	{"x":916,"y":300}
+1470142340746: 	moved	image-8	to	{"x":907,"y":312}
+1470142340785: 	moved	image-8	to	{"x":896,"y":324}
+1470142340826: 	moved	image-8	to	{"x":886,"y":335}
+1470142340855: 	moved	image-8	to	{"x":879,"y":342}
+1470142340885: 	moved	image-8	to	{"x":869,"y":352}
+1470142340914: 	moved	image-8	to	{"x":861,"y":357}
+1470142340946: 	moved	image-8	to	{"x":847,"y":367}
+1470142340977: 	moved	image-8	to	{"x":830,"y":377}
+1470142341010: 	moved	image-8	to	{"x":813,"y":386}
+1470142341040: 	moved	image-8	to	{"x":799,"y":394}
+1470142341070: 	moved	image-8	to	{"x":779,"y":403}
+1470142341101: 	moved	image-8	to	{"x":758,"y":412}
+1470142341133: 	moved	image-8	to	{"x":742,"y":419}
+1470142341164: 	moved	image-8	to	{"x":720,"y":427}
+1470142341194: 	moved	image-8	to	{"x":699,"y":432}
+1470142341224: 	moved	image-8	to	{"x":683,"y":437}
+1470142341256: 	moved	image-8	to	{"x":662,"y":442}
+1470142341286: 	moved	image-8	to	{"x":640,"y":445}
+1470142341318: 	moved	image-8	to	{"x":618,"y":446}
+1470142341350: 	moved	image-8	to	{"x":594,"y":448}
+1470142341380: 	moved	image-8	to	{"x":577,"y":449}
+1470142341411: 	moved	image-8	to	{"x":554,"y":448}
+1470142341454: 	moved	image-8	to	{"x":527,"y":446}
+1470142341497: 	moved	image-8	to	{"x":501,"y":443}
+1470142341527: 	moved	image-8	to	{"x":481,"y":443}
+1470142341554: 	moved	image-8	to	{"x":467,"y":443}
+1470142341579: 	moved	image-8	to	{"x":453,"y":444}
+1470142341612: 	moved	image-8	to	{"x":434,"y":447}
+1470142341645: 	moved	image-8	to	{"x":416,"y":450}
+1470142341678: 	moved	image-8	to	{"x":402,"y":456}
+1470142341710: 	moved	image-8	to	{"x":396,"y":459}
+1470142342326: 	acted on	image-8
+1470142342328: 	selected	image-8
+1470142342476: 	start moving	image-8	from	{"x":104,"y":125}
+1470142342501: 	moved	image-8	to	{"x":464,"y":462}
+1470142342531: 	moved	image-8	to	{"x":460,"y":467}
+1470142342563: 	moved	image-8	to	{"x":454,"y":473}
+1470142342595: 	moved	image-8	to	{"x":447,"y":480}
+1470142342626: 	moved	image-8	to	{"x":440,"y":489}
+1470142342657: 	moved	image-8	to	{"x":437,"y":494}
+1470142342691: 	moved	image-8	to	{"x":431,"y":502}
+1470142342734: 	moved	image-8	to	{"x":426,"y":513}
+1470142342768: 	moved	image-8	to	{"x":421,"y":525}
+1470142342802: 	moved	image-8	to	{"x":420,"y":533}
+1470142342835: 	moved	image-8	to	{"x":420,"y":542}
+1470142342861: 	moved	image-8	to	{"x":420,"y":550}
+1470142342886: 	moved	image-8	to	{"x":422,"y":557}
+1470142342919: 	moved	image-8	to	{"x":426,"y":564}
+1470142342952: 	moved	image-8	to	{"x":433,"y":572}
+1470142342985: 	moved	image-8	to	{"x":441,"y":579}
+1470142343015: 	moved	image-8	to	{"x":447,"y":583}
+1470142343046: 	moved	image-8	to	{"x":457,"y":590}
+1470142343079: 	moved	image-8	to	{"x":467,"y":595}
+1470142343111: 	moved	image-8	to	{"x":474,"y":599}
+1470142343143: 	moved	image-8	to	{"x":481,"y":601}
+1470142343176: 	moved	image-8	to	{"x":485,"y":602}
+1470142343210: 	moved	image-8	to	{"x":488,"y":603}
+1470142343243: 	moved	image-8	to	{"x":490,"y":603}
+1470142343278: 	moved	image-8	to	{"x":491,"y":604}
+1470142343326: 	moved	image-8	to	{"x":492,"y":604}
+1470142343433: 	moved	image-8	to	{"x":493,"y":604}
+1470142343492: 	moved	image-8	to	{"x":494,"y":604}
+1470142343716: 	moved	image-8	to	{"x":494,"y":603}
+1470142343784: 	moved	image-8	to	{"x":493,"y":603}
+1470142343842: 	moved	image-8	to	{"x":493,"y":602}
+1470142343925: 	moved	image-8	to	{"x":493,"y":601}
+1470142343949: 	moved	image-8	to	{"x":492,"y":601}
+1470142343984: 	moved	image-8	to	{"x":492,"y":600}
+1470142344041: 	moved	image-8	to	{"x":491,"y":599}
+1470142344092: 	moved	image-8	to	{"x":491,"y":598}
+1470142344125: 	moved	image-8	to	{"x":490,"y":598}
+1470142344149: 	moved	image-8	to	{"x":490,"y":597}
+1470142344209: 	moved	image-8	to	{"x":490,"y":596}
+1470142344233: 	moved	image-8	to	{"x":489,"y":596}
+1470142344267: 	moved	image-8	to	{"x":489,"y":595}
+1470142344341: 	moved	image-8	to	{"x":489,"y":594}
+1470142344402: 	moved	image-8	to	{"x":488,"y":594}
+1470142344426: 	moved	image-8	to	{"x":488,"y":593}
+1470142344483: 	moved	image-8	to	{"x":488,"y":592}
+1470142344510: 	moved	image-8	to	{"x":487,"y":592}
+1470142344535: 	moved	image-8	to	{"x":487,"y":591}
+1470142344576: 	moved	image-8	to	{"x":486,"y":591}
+1470142344600: 	moved	image-8	to	{"x":486,"y":590}
+1470142344633: 	moved	image-8	to	{"x":486,"y":589}
+1470142344657: 	moved	image-8	to	{"x":485,"y":589}
+1470142344701: 	moved	image-8	to	{"x":485,"y":588}
+1470142344733: 	moved	image-8	to	{"x":484,"y":588}
+1470142344808: 	moved	image-8	to	{"x":484,"y":587}
+1470142344851: 	moved	image-8	to	{"x":483,"y":587}
+1470142344892: 	moved	image-8	to	{"x":483,"y":586}
+1470142344918: 	moved	image-8	to	{"x":482,"y":585}
+1470142344952: 	moved	image-8	to	{"x":479,"y":581}
+1470142344986: 	moved	image-8	to	{"x":473,"y":576}
+1470142345021: 	moved	image-8	to	{"x":466,"y":569}
+1470142345056: 	moved	image-8	to	{"x":459,"y":561}
+1470142345104: 	moved	image-8	to	{"x":448,"y":549}
+1470142345146: 	moved	image-8	to	{"x":440,"y":539}
+1470142345181: 	moved	image-8	to	{"x":433,"y":531}
+1470142345213: 	moved	image-8	to	{"x":425,"y":523}
+1470142345248: 	moved	image-8	to	{"x":417,"y":514}
+1470142345283: 	moved	image-8	to	{"x":409,"y":503}
+1470142345317: 	moved	image-8	to	{"x":398,"y":490}
+1470142345351: 	moved	image-8	to	{"x":392,"y":479}
+1470142345385: 	moved	image-8	to	{"x":383,"y":464}
+1470142345420: 	moved	image-8	to	{"x":374,"y":454}
+1470142345455: 	moved	image-8	to	{"x":365,"y":445}
+1470142345488: 	moved	image-8	to	{"x":357,"y":438}
+1470142345522: 	moved	image-8	to	{"x":349,"y":433}
+1470142345557: 	moved	image-8	to	{"x":337,"y":429}
+1470142345591: 	moved	image-8	to	{"x":326,"y":426}
+1470142345628: 	moved	image-8	to	{"x":314,"y":422}
+1470142345664: 	moved	image-8	to	{"x":306,"y":419}
+1470142345704: 	moved	image-8	to	{"x":300,"y":415}
+1470142345750: 	moved	image-8	to	{"x":297,"y":411}
+1470142345782: 	moved	image-8	to	{"x":295,"y":409}
+1470142345815: 	moved	image-8	to	{"x":295,"y":408}
+1470142345842: 	moved	image-8	to	{"x":295,"y":407}
+1470142345875: 	moved	image-8	to	{"x":295,"y":406}
+1470142345909: 	moved	image-8	to	{"x":296,"y":405}
+1470142345942: 	moved	image-8	to	{"x":297,"y":404}
+1470142345975: 	moved	image-8	to	{"x":299,"y":403}
+1470142346010: 	moved	image-8	to	{"x":302,"y":402}
+1470142346045: 	moved	image-8	to	{"x":305,"y":402}
+1470142346070: 	moved	image-8	to	{"x":307,"y":402}
+1470142346098: 	moved	image-8	to	{"x":310,"y":404}
+1470142346132: 	moved	image-8	to	{"x":313,"y":406}
+1470142346166: 	moved	image-8	to	{"x":316,"y":409}
+1470142346200: 	moved	image-8	to	{"x":318,"y":413}
+1470142346233: 	moved	image-8	to	{"x":319,"y":415}
+1470142346277: 	moved	image-8	to	{"x":320,"y":418}
+1470142346330: 	moved	image-8	to	{"x":321,"y":418}
+1470142346363: 	moved	image-8	to	{"x":321,"y":419}
+1470142346408: 	moved	image-8	to	{"x":322,"y":419}
+1470142346475: 	moved	image-8	to	{"x":323,"y":419}
+1470142346559: 	moved	image-8	to	{"x":324,"y":419}
+1470142346743: 	moved	image-8	to	{"x":325,"y":419}
+1470142347008: 	moved	image-8	to	{"x":325,"y":420}
+1470142347049: 	moved	image-8	to	{"x":326,"y":420}
+1470142347319: 	moved	image-8	to	{"x":327,"y":420}
+1470142347505: 	moved	image-8	to	{"x":327,"y":421}
+1470142348769: 	acted on	image-8
+1470142348771: 	selected	image-8
+1470142348842: 	start moving	image-8	from	{"x":85,"y":101}
+1470142348877: 	moved	image-8	to	{"x":300,"y":394}
+1470142348915: 	moved	image-8	to	{"x":291,"y":390}
+1470142348950: 	moved	image-8	to	{"x":280,"y":386}
+1470142348987: 	moved	image-8	to	{"x":270,"y":382}
+1470142349025: 	moved	image-8	to	{"x":260,"y":379}
+1470142349062: 	moved	image-8	to	{"x":248,"y":376}
+1470142349100: 	moved	image-8	to	{"x":237,"y":372}
+1470142349136: 	moved	image-8	to	{"x":224,"y":364}
+1470142349172: 	moved	image-8	to	{"x":215,"y":355}
+1470142349207: 	moved	image-8	to	{"x":205,"y":344}
+1470142349242: 	moved	image-8	to	{"x":198,"y":333}
+1470142349279: 	moved	image-8	to	{"x":185,"y":322}
+1470142349328: 	moved	image-8	to	{"x":172,"y":310}
+1470142349372: 	moved	image-8	to	{"x":162,"y":303}
+1470142349411: 	moved	image-8	to	{"x":154,"y":298}
+1470142349448: 	moved	image-8	to	{"x":149,"y":295}
+1470142349487: 	moved	image-8	to	{"x":145,"y":293}
+1470142349525: 	moved	image-8	to	{"x":143,"y":291}
+1470142349560: 	moved	image-8	to	{"x":140,"y":289}
+1470142349598: 	moved	image-8	to	{"x":139,"y":288}
+1470142349635: 	moved	image-8	to	{"x":138,"y":287}
+1470142349758: 	moved	image-8	to	{"x":137,"y":287}
+1470142350551: 	acted on	image-72
+1470142350552: 	selected	image-72
+1470142351001: 	acted on	image-72
+1470142351002: 	selected	image-72
+1470142351114: 	start moving	image-72	from	{"x":70,"y":113}
+1470142351183: 	moved	image-72	to	{"x":1084,"y":467}
+1470142351227: 	moved	image-72	to	{"x":1061,"y":470}
+1470142351266: 	moved	image-72	to	{"x":1045,"y":472}
+1470142351304: 	moved	image-72	to	{"x":1023,"y":473}
+1470142351340: 	moved	image-72	to	{"x":1005,"y":473}
+1470142351369: 	moved	image-72	to	{"x":993,"y":472}
+1470142351407: 	moved	image-72	to	{"x":989,"y":472}
+1470142351436: 	moved	image-72	to	{"x":987,"y":472}
+1470142351466: 	moved	image-72	to	{"x":986,"y":473}
+1470142351505: 	moved	image-72	to	{"x":984,"y":473}
+1470142351535: 	moved	image-72	to	{"x":972,"y":473}
+1470142351565: 	moved	image-72	to	{"x":963,"y":471}
+1470142351603: 	moved	image-72	to	{"x":942,"y":469}
+1470142351642: 	moved	image-72	to	{"x":914,"y":464}
+1470142351682: 	moved	image-72	to	{"x":884,"y":458}
+1470142351721: 	moved	image-72	to	{"x":830,"y":449}
+1470142351776: 	moved	image-72	to	{"x":742,"y":438}
+1470142351823: 	moved	image-72	to	{"x":672,"y":434}
+1470142351862: 	moved	image-72	to	{"x":600,"y":432}
+1470142351901: 	moved	image-72	to	{"x":531,"y":435}
+1470142351938: 	moved	image-72	to	{"x":479,"y":439}
+1470142351974: 	moved	image-72	to	{"x":430,"y":447}
+1470142352012: 	moved	image-72	to	{"x":372,"y":458}
+1470142352052: 	moved	image-72	to	{"x":322,"y":472}
+1470142352090: 	moved	image-72	to	{"x":288,"y":484}
+1470142352126: 	moved	image-72	to	{"x":252,"y":497}
+1470142352163: 	moved	image-72	to	{"x":228,"y":508}
+1470142352202: 	moved	image-72	to	{"x":204,"y":518}
+1470142352240: 	moved	image-72	to	{"x":190,"y":524}
+1470142352278: 	moved	image-72	to	{"x":178,"y":528}
+1470142352317: 	moved	image-72	to	{"x":168,"y":529}
+1470142352357: 	moved	image-72	to	{"x":162,"y":530}
+1470142352395: 	moved	image-72	to	{"x":157,"y":529}
+1470142352450: 	moved	image-72	to	{"x":150,"y":526}
+1470142352496: 	moved	image-72	to	{"x":147,"y":522}
+1470142352535: 	moved	image-72	to	{"x":144,"y":516}
+1470142352573: 	moved	image-72	to	{"x":143,"y":512}
+1470142352611: 	moved	image-72	to	{"x":143,"y":510}
+1470142352641: 	moved	image-72	to	{"x":143,"y":509}
+1470142352701: 	moved	image-72	to	{"x":144,"y":509}
+1470142352740: 	moved	image-72	to	{"x":145,"y":509}
+1470142352770: 	moved	image-72	to	{"x":149,"y":511}
+1470142352809: 	moved	image-72	to	{"x":155,"y":515}
+1470142352850: 	moved	image-72	to	{"x":159,"y":519}
+1470142352891: 	moved	image-72	to	{"x":165,"y":525}
+1470142352931: 	moved	image-72	to	{"x":173,"y":529}
+1470142352971: 	moved	image-72	to	{"x":180,"y":533}
+1470142353008: 	moved	image-72	to	{"x":188,"y":536}
+1470142353057: 	moved	image-72	to	{"x":194,"y":537}
+1470142353108: 	moved	image-72	to	{"x":199,"y":537}
+1470142353137: 	moved	image-72	to	{"x":201,"y":537}
+1470142353169: 	moved	image-72	to	{"x":202,"y":537}
+1470142353198: 	moved	image-72	to	{"x":203,"y":537}
+1470142353308: 	moved	image-72	to	{"x":202,"y":536}
+1470142353349: 	moved	image-72	to	{"x":198,"y":533}
+1470142353388: 	moved	image-72	to	{"x":195,"y":531}
+1470142353426: 	moved	image-72	to	{"x":193,"y":529}
+1470142353466: 	moved	image-72	to	{"x":192,"y":529}
+1470142353583: 	moved	image-72	to	{"x":192,"y":528}
+1470142353615: 	moved	image-72	to	{"x":191,"y":528}
+1470142353724: 	moved	image-72	to	{"x":192,"y":528}
+1470142354311: 	acted on	image-6
+1470142354313: 	selected	image-6
+1470142354710: 	acted on	content
+1470142354711: 	selected	null
+1470142355501: 	acted on	image-6
+1470142355502: 	selected	image-6
+1470142356408: 	acted on	image-6
+1470142356411: 	selected	image-6
+1470142356993: 	acted on	image-6
+1470142356995: 	selected	image-6
+1470142357635: 	acted on	content
+1470142357636: 	selected	null
+1470142358803: 	acted on	image-67
+1470142358805: 	selected	image-67
+1470142359826: 	acted on	image-67
+1470142359828: 	selected	image-67
+1470142360493: 	acted on	image-67
+1470142360495: 	selected	image-67
+1470142361801: 	acted on	image-67
+1470142361803: 	selected	image-67
+1470142362009: 	acted on	image-67
+1470142362011: 	selected	image-67
+1470142362562: 	acted on	content
+1470142362563: 	selected	null
+1470142363135: 	acted on	content
+1470142363137: 	selected	null
+1470142363834: 	acted on	image-67
+1470142363836: 	selected	image-67
+1470142364626: 	acted on	image-67
+1470142364628: 	selected	image-67
+1470142365134: 	acted on	content
+1470142365136: 	selected	null
+1470142366100: 	acted on	image-67
+1470142366102: 	selected	image-67
+1470142368433: 	acted on	image-67
+1470142368435: 	selected	image-67
+1470142368709: 	start moving	image-67	from	{"x":123,"y":122}
+1470142368751: 	moved	image-67	to	{"x":820,"y":577}
+1470142368791: 	moved	image-67	to	{"x":821,"y":577}
+1470142368828: 	moved	image-67	to	{"x":821,"y":576}
+1470142368875: 	moved	image-67	to	{"x":822,"y":576}
+1470142369326: 	acted on	image-67
+1470142369328: 	selected	image-67
+1470142369451: 	start moving	image-67	from	{"x":117,"y":82}
+1470142369492: 	moved	image-67	to	{"x":824,"y":534}
+1470142369532: 	moved	image-67	to	{"x":834,"y":531}
+1470142369590: 	moved	image-67	to	{"x":850,"y":526}
+1470142369638: 	moved	image-67	to	{"x":861,"y":522}
+1470142369679: 	moved	image-67	to	{"x":871,"y":519}
+1470142369723: 	moved	image-67	to	{"x":881,"y":516}
+1470142369767: 	moved	image-67	to	{"x":891,"y":512}
+1470142369809: 	moved	image-67	to	{"x":907,"y":506}
+1470142369850: 	moved	image-67	to	{"x":925,"y":502}
+1470142369891: 	moved	image-67	to	{"x":952,"y":493}
+1470142369937: 	moved	image-67	to	{"x":983,"y":485}
+1470142369982: 	moved	image-67	to	{"x":1003,"y":479}
+1470142370027: 	moved	image-67	to	{"x":1023,"y":474}
+1470142370088: 	moved	image-67	to	{"x":1041,"y":468}
+1470142370135: 	moved	image-67	to	{"x":1052,"y":465}
+1470142370179: 	moved	image-67	to	{"x":1059,"y":464}
+1470142370224: 	moved	image-67	to	{"x":1066,"y":464}
+1470142370257: 	moved	image-67	to	{"x":1068,"y":463}
+1470142370300: 	moved	image-67	to	{"x":1069,"y":463}
+1470142370400: 	moved	image-67	to	{"x":1070,"y":463}
+1470142370934: 	acted on	image-6
+1470142370935: 	selected	image-6
+1470142371427: 	acted on	content
+1470142371428: 	selected	null
+1470142372919: 	acted on	image-79
+1470142372921: 	selected	image-79
+1470142373784: 	acted on	content
+1470142373785: 	selected	null
+1470142374667: 	acted on	image-27
+1470142374669: 	selected	image-27
+1470142380635: 	acted on	content
+1470142380637: 	selected	null
+1470142381226: 	acted on	draw
+1470142381311: 	selected	null
+1470142381312: 	mode	draw
+1470142384525: 	acted on	image-79
+1470142384527: 	draw	image-79	{"x":86,"y":69}
+1470142384658: 	draw	image-79	{"x":88,"y":84}
+1470142384674: 	draw	image-79	{"x":88,"y":87}
+1470142384675: 	draw	image-79	{"x":88,"y":87}
+1470142384690: 	draw	image-79	{"x":88,"y":88}
+1470142384707: 	draw	image-79	{"x":89,"y":90}
+1470142384708: 	draw	image-79	{"x":89,"y":90}
+1470142384732: 	draw	image-79	{"x":89,"y":92}
+1470142384733: 	draw	image-79	{"x":89,"y":92}
+1470142384757: 	draw	image-79	{"x":89,"y":96}
+1470142384758: 	draw	image-79	{"x":89,"y":96}
+1470142384774: 	draw	image-79	{"x":89,"y":97}
+1470142384775: 	draw	image-79	{"x":89,"y":97}
+1470142384790: 	draw	image-79	{"x":90,"y":99}
+1470142384791: 	draw	image-79	{"x":90,"y":99}
+1470142384807: 	draw	image-79	{"x":90,"y":101}
+1470142384808: 	draw	image-79	{"x":90,"y":101}
+1470142384824: 	draw	image-79	{"x":90,"y":102}
+1470142384840: 	draw	image-79	{"x":91,"y":104}
+1470142384841: 	draw	image-79	{"x":91,"y":104}
+1470142384857: 	draw	image-79	{"x":91,"y":105}
+1470142384890: 	draw	image-79	{"x":91,"y":106}
+1470142391050: 	acted on	content
+1470142391052: 	draw	content	{"x":490,"y":354}
+1470142391257: 	draw	content	{"x":481,"y":367}
+1470142391273: 	draw	content	{"x":480,"y":369}
+1470142391274: 	draw	content	{"x":480,"y":369}
+1470142391289: 	draw	content	{"x":479,"y":371}
+1470142391290: 	draw	content	{"x":479,"y":371}
+1470142391323: 	draw	content	{"x":478,"y":376}
+1470142391324: 	draw	content	{"x":478,"y":376}
+1470142391357: 	draw	content	{"x":479,"y":381}
+1470142391358: 	draw	content	{"x":479,"y":381}
+1470142391410: 	draw	content	{"x":480,"y":386}
+1470142391459: 	draw	content	{"x":483,"y":391}
+1470142391460: 	draw	content	{"x":483,"y":391}
+1470142391497: 	draw	content	{"x":487,"y":394}
+1470142391530: 	draw	content	{"x":490,"y":395}
+1470142391531: 	draw	content	{"x":490,"y":395}
+1470142391565: 	draw	content	{"x":494,"y":396}
+1470142391601: 	draw	content	{"x":502,"y":393}
+1470142391638: 	draw	content	{"x":508,"y":389}
+1470142391639: 	draw	content	{"x":508,"y":389}
+1470142391686: 	draw	content	{"x":516,"y":384}
+1470142391737: 	draw	content	{"x":524,"y":377}
+1470142391738: 	draw	content	{"x":524,"y":377}
+1470142391774: 	draw	content	{"x":529,"y":371}
+1470142391775: 	draw	content	{"x":529,"y":371}
+1470142391811: 	draw	content	{"x":532,"y":366}
+1470142391812: 	draw	content	{"x":532,"y":366}
+1470142391850: 	draw	content	{"x":534,"y":361}
+1470142391885: 	draw	content	{"x":534,"y":356}
+1470142391886: 	draw	content	{"x":534,"y":356}
+1470142391924: 	draw	content	{"x":534,"y":352}
+1470142391977: 	draw	content	{"x":531,"y":346}
+1470142391978: 	draw	content	{"x":531,"y":346}
+1470142392023: 	draw	content	{"x":528,"y":343}
+1470142392024: 	draw	content	{"x":528,"y":343}
+1470142392062: 	draw	content	{"x":525,"y":341}
+1470142392063: 	draw	content	{"x":525,"y":341}
+1470142392100: 	draw	content	{"x":521,"y":340}
+1470142392137: 	draw	content	{"x":518,"y":340}
+1470142392138: 	draw	content	{"x":518,"y":340}
+1470142392175: 	draw	content	{"x":514,"y":340}
+1470142392176: 	draw	content	{"x":514,"y":340}
+1470142392212: 	draw	content	{"x":511,"y":341}
+1470142392213: 	draw	content	{"x":511,"y":341}
+1470142392249: 	draw	content	{"x":509,"y":341}
+1470142392250: 	draw	content	{"x":509,"y":341}
+1470142392288: 	draw	content	{"x":507,"y":342}
+1470142392326: 	draw	content	{"x":506,"y":342}
+1470142392327: 	draw	content	{"x":506,"y":342}
+1470142392366: 	draw	content	{"x":504,"y":343}
+1470142392367: 	draw	content	{"x":504,"y":343}
+1470142392405: 	draw	content	{"x":501,"y":345}
+1470142392406: 	draw	content	{"x":501,"y":345}
+1470142392444: 	draw	content	{"x":496,"y":349}
+1470142392482: 	draw	content	{"x":494,"y":352}
+1470142392483: 	draw	content	{"x":494,"y":352}
+1470142392519: 	draw	content	{"x":491,"y":356}
+1470142392558: 	draw	content	{"x":488,"y":361}
+1470142392559: 	draw	content	{"x":488,"y":361}
+1470142392595: 	draw	content	{"x":485,"y":365}
+1470142392597: 	draw	content	{"x":485,"y":365}
+1470142392641: 	draw	content	{"x":485,"y":368}
+1470142392691: 	draw	content	{"x":484,"y":369}
+1470142392798: 	draw	content	{"x":484,"y":370}
+1470142392799: 	draw	content	{"x":484,"y":370}
+1470142395468: 	acted on	draw
+1470142395542: 	selected	null
+1470142395543: 	mode	null
+1470142396166: 	acted on	image-27
+1470142396168: 	selected	image-27
+1470142397567: 	acted on	image-27
+1470142397570: 	selected	image-27
+1470142397900: 	start moving	image-27	from	{"x":91,"y":42}
+1470142397941: 	moved	image-27	to	{"x":481,"y":210}
+1470142397990: 	moved	image-27	to	{"x":481,"y":208}
+1470142398015: 	moved	image-27	to	{"x":481,"y":207}
+1470142398052: 	moved	image-27	to	{"x":481,"y":206}
+1470142398482: 	acted on	image-27
+1470142398484: 	selected	image-27
+1470142398683: 	start moving	image-27	from	{"x":92,"y":43}
+1470142398714: 	moved	image-27	to	{"x":480,"y":203}
+1470142398748: 	moved	image-27	to	{"x":478,"y":198}
+1470142398781: 	moved	image-27	to	{"x":476,"y":193}
+1470142398838: 	moved	image-27	to	{"x":473,"y":184}
+1470142398889: 	moved	image-27	to	{"x":468,"y":173}
+1470142398937: 	moved	image-27	to	{"x":465,"y":166}
+1470142398986: 	moved	image-27	to	{"x":460,"y":156}
+1470142399056: 	moved	image-27	to	{"x":453,"y":138}
+1470142399111: 	moved	image-27	to	{"x":446,"y":121}
+1470142399160: 	moved	image-27	to	{"x":441,"y":106}
+1470142399211: 	moved	image-27	to	{"x":436,"y":94}
+1470142399262: 	moved	image-27	to	{"x":431,"y":84}
+1470142399313: 	moved	image-27	to	{"x":426,"y":77}
+1470142399365: 	moved	image-27	to	{"x":423,"y":72}
+1470142399415: 	moved	image-27	to	{"x":422,"y":68}
+1470142399467: 	moved	image-27	to	{"x":421,"y":66}
+1470142399519: 	moved	image-27	to	{"x":422,"y":65}
+1470142399580: 	moved	image-27	to	{"x":433,"y":62}
+1470142399649: 	moved	image-27	to	{"x":453,"y":63}
+1470142399703: 	moved	image-27	to	{"x":469,"y":65}
+1470142399755: 	moved	image-27	to	{"x":482,"y":68}
+1470142399804: 	moved	image-27	to	{"x":493,"y":72}
+1470142399856: 	moved	image-27	to	{"x":500,"y":75}
+1470142399908: 	moved	image-27	to	{"x":505,"y":80}
+1470142399960: 	moved	image-27	to	{"x":508,"y":83}
+1470142400009: 	moved	image-27	to	{"x":509,"y":86}
+1470142400058: 	moved	image-27	to	{"x":510,"y":87}
+1470142400110: 	moved	image-27	to	{"x":510,"y":88}
+1470142400226: 	moved	image-27	to	{"x":511,"y":88}
+1470142400276: 	moved	image-27	to	{"x":511,"y":89}
+1470142401459: 	acted on	colorPicker
+1470142402899: 	acted on	colorPicker
+1470142404917: 	acted on	colorPicker
+1470142405691: 	acted on	draw
+1470142405799: 	selected	null
+1470142407748: 	acted on	content
+1470142407749: 	draw	content	{"x":412,"y":322}
+1470142407750: 	draw	content	{"x":412,"y":322}
+1470142407890: 	draw	content	{"x":414,"y":337}
+1470142407891: 	draw	content	{"x":414,"y":337}
+1470142407906: 	draw	content	{"x":415,"y":339}
+1470142407923: 	draw	content	{"x":417,"y":343}
+1470142407924: 	draw	content	{"x":417,"y":343}
+1470142407949: 	draw	content	{"x":419,"y":348}
+1470142407973: 	draw	content	{"x":421,"y":352}
+1470142407974: 	draw	content	{"x":421,"y":352}
+1470142407995: 	draw	content	{"x":423,"y":355}
+1470142407996: 	draw	content	{"x":423,"y":355}
+1470142408048: 	draw	content	{"x":427,"y":361}
+1470142408049: 	draw	content	{"x":427,"y":361}
+1470142408091: 	draw	content	{"x":432,"y":366}
+1470142408092: 	draw	content	{"x":432,"y":366}
+1470142408132: 	draw	content	{"x":436,"y":368}
+1470142408171: 	draw	content	{"x":441,"y":369}
+1470142408172: 	draw	content	{"x":441,"y":369}
+1470142408211: 	draw	content	{"x":445,"y":369}
+1470142408212: 	draw	content	{"x":445,"y":369}
+1470142408262: 	draw	content	{"x":455,"y":366}
+1470142408263: 	draw	content	{"x":455,"y":366}
+1470142408316: 	draw	content	{"x":463,"y":356}
+1470142408317: 	draw	content	{"x":463,"y":356}
+1470142408357: 	draw	content	{"x":467,"y":349}
+1470142408396: 	draw	content	{"x":471,"y":340}
+1470142408397: 	draw	content	{"x":471,"y":340}
+1470142408436: 	draw	content	{"x":471,"y":329}
+1470142408437: 	draw	content	{"x":471,"y":329}
+1470142408478: 	draw	content	{"x":468,"y":320}
+1470142408479: 	draw	content	{"x":468,"y":320}
+1470142408521: 	draw	content	{"x":465,"y":311}
+1470142408522: 	draw	content	{"x":465,"y":311}
+1470142408564: 	draw	content	{"x":460,"y":303}
+1470142408565: 	draw	content	{"x":460,"y":303}
+1470142408607: 	draw	content	{"x":453,"y":297}
+1470142408608: 	draw	content	{"x":453,"y":297}
+1470142408649: 	draw	content	{"x":446,"y":290}
+1470142408692: 	draw	content	{"x":439,"y":286}
+1470142408736: 	draw	content	{"x":432,"y":284}
+1470142408737: 	draw	content	{"x":432,"y":284}
+1470142408787: 	draw	content	{"x":425,"y":284}
+1470142408846: 	draw	content	{"x":417,"y":288}
+1470142408848: 	draw	content	{"x":417,"y":288}
+1470142408890: 	draw	content	{"x":412,"y":293}
+1470142408932: 	draw	content	{"x":410,"y":297}
+1470142408975: 	draw	content	{"x":407,"y":305}
+1470142409018: 	draw	content	{"x":407,"y":313}
+1470142409019: 	draw	content	{"x":407,"y":313}
+1470142409063: 	draw	content	{"x":407,"y":321}
+1470142409104: 	draw	content	{"x":409,"y":329}
+1470142409144: 	draw	content	{"x":412,"y":336}
+1470142409145: 	draw	content	{"x":412,"y":336}
+1470142409185: 	draw	content	{"x":414,"y":342}
+1470142409186: 	draw	content	{"x":414,"y":342}
+1470142409229: 	draw	content	{"x":415,"y":345}
+1470142409230: 	draw	content	{"x":415,"y":345}
+1470142409270: 	draw	content	{"x":416,"y":347}
+1470142409271: 	draw	content	{"x":416,"y":347}
+1470142411233: 	acted on	content
+1470142411235: 	draw	content	{"x":515,"y":227}
+1470142411357: 	draw	content	{"x":502,"y":238}
+1470142411398: 	draw	content	{"x":498,"y":245}
+1470142411399: 	draw	content	{"x":498,"y":245}
+1470142411445: 	draw	content	{"x":494,"y":257}
+1470142411489: 	draw	content	{"x":493,"y":268}
+1470142411490: 	draw	content	{"x":493,"y":268}
+1470142411534: 	draw	content	{"x":494,"y":281}
+1470142411535: 	draw	content	{"x":494,"y":281}
+1470142411579: 	draw	content	{"x":496,"y":289}
+1470142411580: 	draw	content	{"x":496,"y":289}
+1470142411622: 	draw	content	{"x":500,"y":295}
+1470142411665: 	draw	content	{"x":507,"y":298}
+1470142411710: 	draw	content	{"x":518,"y":298}
+1470142411757: 	draw	content	{"x":526,"y":295}
+1470142411758: 	draw	content	{"x":526,"y":295}
+1470142411816: 	draw	content	{"x":537,"y":281}
+1470142411817: 	draw	content	{"x":537,"y":281}
+1470142411863: 	draw	content	{"x":540,"y":273}
+1470142411864: 	draw	content	{"x":540,"y":273}
+1470142411909: 	draw	content	{"x":543,"y":260}
+1470142411954: 	draw	content	{"x":543,"y":251}
+1470142411955: 	draw	content	{"x":543,"y":251}
+1470142411996: 	draw	content	{"x":542,"y":242}
+1470142412037: 	draw	content	{"x":541,"y":235}
+1470142412038: 	draw	content	{"x":541,"y":235}
+1470142412081: 	draw	content	{"x":538,"y":230}
+1470142412126: 	draw	content	{"x":535,"y":227}
+1470142412127: 	draw	content	{"x":535,"y":227}
+1470142412171: 	draw	content	{"x":531,"y":226}
+1470142412172: 	draw	content	{"x":531,"y":226}
+1470142412231: 	draw	content	{"x":520,"y":229}
+1470142412232: 	draw	content	{"x":520,"y":229}
+1470142412287: 	draw	content	{"x":513,"y":234}
+1470142412288: 	draw	content	{"x":513,"y":234}
+1470142412333: 	draw	content	{"x":506,"y":242}
+1470142412334: 	draw	content	{"x":506,"y":242}
+1470142412377: 	draw	content	{"x":504,"y":245}
+1470142412378: 	draw	content	{"x":504,"y":245}
+1470142415599: 	acted on	content
+1470142415602: 	draw	content	{"x":431,"y":304}
+1470142415723: 	draw	content	{"x":428,"y":319}
+1470142415740: 	draw	content	{"x":429,"y":322}
+1470142415773: 	draw	content	{"x":430,"y":323}
+1470142415790: 	draw	content	{"x":431,"y":323}
+1470142415815: 	draw	content	{"x":432,"y":323}
+1470142415858: 	draw	content	{"x":434,"y":322}
+1470142415904: 	draw	content	{"x":435,"y":323}
+1470142415905: 	draw	content	{"x":435,"y":323}
+1470142415948: 	draw	content	{"x":437,"y":331}
+1470142415949: 	draw	content	{"x":437,"y":331}
+1470142415992: 	draw	content	{"x":437,"y":334}
+1470142416041: 	draw	content	{"x":442,"y":332}
+1470142416042: 	draw	content	{"x":442,"y":332}
+1470142416100: 	draw	content	{"x":444,"y":332}
+1470142416101: 	draw	content	{"x":444,"y":332}
+1470142416144: 	draw	content	{"x":443,"y":343}
+1470142416187: 	draw	content	{"x":443,"y":350}
+1470142416188: 	draw	content	{"x":443,"y":350}
+1470142416230: 	draw	content	{"x":444,"y":352}
+1470142416279: 	draw	content	{"x":446,"y":353}
+1470142416280: 	draw	content	{"x":446,"y":353}
+1470142416337: 	draw	content	{"x":447,"y":353}
+1470142416338: 	draw	content	{"x":447,"y":353}
+1470142416391: 	draw	content	{"x":447,"y":358}
+1470142416392: 	draw	content	{"x":447,"y":358}
+1470142416437: 	draw	content	{"x":446,"y":361}
+1470142416438: 	draw	content	{"x":446,"y":361}
+1470142416774: 	acted on	content
+1470142416775: 	draw	content	{"x":523,"y":245}
+1470142416873: 	draw	content	{"x":514,"y":260}
+1470142416874: 	draw	content	{"x":514,"y":260}
+1470142416898: 	draw	content	{"x":511,"y":266}
+1470142416946: 	draw	content	{"x":510,"y":268}
+1470142416994: 	draw	content	{"x":514,"y":265}
+1470142417040: 	draw	content	{"x":516,"y":263}
+1470142417085: 	draw	content	{"x":516,"y":268}
+1470142417086: 	draw	content	{"x":516,"y":268}
+1470142417132: 	draw	content	{"x":512,"y":277}
+1470142417133: 	draw	content	{"x":512,"y":277}
+1470142417179: 	draw	content	{"x":513,"y":279}
+1470142417237: 	draw	content	{"x":524,"y":272}
+1470142417296: 	draw	content	{"x":525,"y":270}
+1470142417297: 	draw	content	{"x":525,"y":270}
+1470142417342: 	draw	content	{"x":525,"y":271}
+1470142417343: 	draw	content	{"x":525,"y":271}
+1470142417389: 	draw	content	{"x":524,"y":271}
+1470142417390: 	draw	content	{"x":524,"y":271}
+1470142417455: 	draw	content	{"x":527,"y":257}
+1470142417456: 	draw	content	{"x":527,"y":257}
+1470142417500: 	draw	content	{"x":531,"y":244}
+1470142417501: 	draw	content	{"x":531,"y":244}
+1470142417544: 	draw	content	{"x":531,"y":243}
+1470142417545: 	draw	content	{"x":531,"y":243}
+1470142417591: 	draw	content	{"x":517,"y":256}
+1470142417592: 	draw	content	{"x":517,"y":256}
+1470142417639: 	draw	content	{"x":508,"y":269}
+1470142417684: 	draw	content	{"x":507,"y":275}
+1470142418165: 	acted on	image-79
+1470142418166: 	draw	image-79	{"x":44,"y":56}
+1470142418167: 	draw	image-79	{"x":44,"y":56}
+1470142419316: 	acted on	image-79
+1470142419317: 	draw	image-79	{"x":51,"y":59}
+1470142419318: 	draw	image-79	{"x":51,"y":59}
+1470142419699: 	acted on	image-79
+1470142419700: 	draw	image-79	{"x":51,"y":57}
+1470142419874: 	acted on	image-79
+1470142419875: 	draw	image-79	{"x":48,"y":57}
+1470142420999: 	acted on	content
+1470142421000: 	draw	content	{"x":512,"y":375}
+1470142423332: 	acted on	clipboard
+1470142424141: 	acted on	delete
+1470142425190: 	acted on	path-1470142415603
+1470142425191: 	draw	content	{"x":439,"y":327}
+1470142425192: 	draw	content	{"x":439,"y":327}
+1470142425740: 	acted on	path-1470142415603
+1470142425742: 	draw	content	{"x":445,"y":350}
+1470142427924: 	acted on	draw
+1470142428025: 	selected	null
+1470142429457: 	acted on	delete
+1470142430199: 	acted on	path-1470142415603
+1470142430201: 	selected	path-1470142415603
+1470142430731: 	acted on	path-1470142415603
+1470142430734: 	selected	path-1470142415603
+1470142431748: 	acted on	path-1470142415603
+1470142431750: 	selected	path-1470142415603
+1470142432456: 	acted on	content
+1470142432458: 	selected	null
+1470142433084: 	acted on	content
+1470142433086: 	selected	null
+1470142433623: 	acted on	content
+1470142433624: 	selected	null
+1470142434349: 	acted on	path-1470142416776
+1470142434351: 	selected	path-1470142416776
+1470142435140: 	acted on	path-1470142416776
+1470142435143: 	selected	path-1470142416776
+1470142435975: 	acted on	delete
+1470142436100: 	cut	path-1470142416776
+1470142436101: 	deleted	path-1470142416776
+1470142437107: 	acted on	path-1470142415603
+1470142437110: 	selected	path-1470142415603
+1470142438667: 	acted on	delete
+1470142438765: 	cut	path-1470142415603
+1470142438767: 	deleted	path-1470142415603
+1470142441432: 	acted on	delete
+1470142441523: 	cut	path-1470142415603
+1470142441524: 	deleted	path-1470142415603
+1470142443392: 	acted on	content
+1470142443393: 	selected	null
+1470142443966: 	acted on	content
+1470142443968: 	selected	null
+1470142453357: 	acted on	draw
+1470142453406: 	selected	null
+1470142453407: 	mode	draw
+1470142453486: 	acted on	draw
+1470142453575: 	selected	null
+1470142455934: 	acted on	colorPicker
+1470142456925: 	acted on	#00CC66
+1470142457066: 	sub-instrument	#00CC66		false
+1470142457067: 	changed color	rgb(0, 0, 240)
+1470142458209: 	acted on	content
+1470142458211: 	selected	null
+1470142459141: 	acted on	content
+1470142459142: 	selected	null
+1470142461158: 	acted on	draw
+1470142461250: 	selected	null
+1470142462099: 	acted on	content
+1470142462100: 	draw	content	{"x":656,"y":392}
+1470142462101: 	draw	content	{"x":656,"y":392}
+1470142462240: 	draw	content	{"x":657,"y":409}
+1470142462243: 	draw	content	{"x":657,"y":409}
+1470142462274: 	draw	content	{"x":658,"y":410}
+1470142462857: 	acted on	content
+1470142462858: 	draw	content	{"x":714,"y":401}
+1470142462859: 	draw	content	{"x":714,"y":401}
+1470142462982: 	draw	content	{"x":713,"y":418}
+1470142463025: 	draw	content	{"x":713,"y":422}
+1470142463315: 	acted on	content
+1470142463317: 	draw	content	{"x":688,"y":460}
+1470142463432: 	draw	content	{"x":689,"y":476}
+1470142463458: 	draw	content	{"x":688,"y":485}
+1470142463459: 	draw	content	{"x":688,"y":485}
+1470142463777: 	acted on	content
+1470142463779: 	draw	content	{"x":640,"y":493}
+1470142463780: 	draw	content	{"x":640,"y":493}
+1470142463874: 	draw	content	{"x":642,"y":510}
+1470142463906: 	draw	content	{"x":643,"y":513}
+1470142463907: 	draw	content	{"x":643,"y":513}
+1470142464191: 	acted on	content
+1470142464192: 	draw	content	{"x":728,"y":480}
+1470142464193: 	draw	content	{"x":728,"y":480}
+1470142464565: 	acted on	content
+1470142464566: 	draw	content	{"x":693,"y":532}
+1470142464567: 	draw	content	{"x":693,"y":532}
+1470142464682: 	draw	content	{"x":690,"y":547}
+1470142464706: 	draw	content	{"x":689,"y":553}
+1470142464740: 	draw	content	{"x":689,"y":554}
+1470142464741: 	draw	content	{"x":689,"y":554}
+1470142465041: 	acted on	content
+1470142465042: 	draw	content	{"x":741,"y":467}
+1470142465043: 	draw	content	{"x":741,"y":467}
+1470142465132: 	draw	content	{"x":745,"y":483}
+1470142465133: 	draw	content	{"x":745,"y":483}
+1470142465166: 	draw	content	{"x":745,"y":486}
+1470142465574: 	acted on	content
+1470142465575: 	draw	content	{"x":758,"y":429}
+1470142466132: 	acted on	content
+1470142466134: 	draw	content	{"x":688,"y":369}
+1470142466135: 	draw	content	{"x":688,"y":369}
+1470142466690: 	acted on	content
+1470142466691: 	draw	content	{"x":682,"y":402}
+1470142466693: 	draw	content	{"x":682,"y":402}
+1470142466781: 	draw	content	{"x":682,"y":421}
+1470142466805: 	draw	content	{"x":682,"y":428}
+1470142466807: 	draw	content	{"x":682,"y":428}
+1470142466831: 	draw	content	{"x":681,"y":431}
+1470142467132: 	acted on	content
+1470142467133: 	draw	content	{"x":630,"y":458}
+1470142467134: 	draw	content	{"x":630,"y":458}
+1470142467232: 	draw	content	{"x":631,"y":475}
+1470142467233: 	draw	content	{"x":631,"y":475}
+1470142467267: 	draw	content	{"x":631,"y":478}
+1470142467665: 	acted on	content
+1470142467666: 	draw	content	{"x":618,"y":541}
+1470142467667: 	draw	content	{"x":618,"y":541}
+1470142467748: 	draw	content	{"x":617,"y":557}
+1470142467772: 	draw	content	{"x":616,"y":563}
+1470142467798: 	draw	content	{"x":616,"y":568}
+1470142468390: 	acted on	content
+1470142468392: 	draw	content	{"x":655,"y":572}
+1470142468393: 	draw	content	{"x":655,"y":572}
+1470142468873: 	acted on	content
+1470142468875: 	draw	content	{"x":739,"y":534}
+1470142468980: 	draw	content	{"x":737,"y":551}
+1470142468981: 	draw	content	{"x":737,"y":551}
+1470142469005: 	draw	content	{"x":736,"y":556}
+1470142469007: 	draw	content	{"x":736,"y":556}
+1470142469031: 	draw	content	{"x":736,"y":559}
+1470142469081: 	draw	content	{"x":736,"y":561}
+1470142469082: 	draw	content	{"x":736,"y":561}
+1470142469758: 	acted on	content
+1470142469759: 	draw	content	{"x":737,"y":380}
+1470142470598: 	acted on	content
+1470142470599: 	draw	content	{"x":744,"y":397}
+1470142477968: 	acted on	colorPicker
+1470142479357: 	acted on	#006666
+1470142479473: 	sub-instrument	#006666		false
+1470142480515: 	acted on	draw
+1470142480624: 	selected	null
+1470142480625: 	mode	null
+1470142482051: 	acted on	draw
+1470142482142: 	selected	null
+1470142484873: 	acted on	content
+1470142484875: 	draw	content	{"x":734,"y":590}
+1470142484981: 	draw	content	{"x":720,"y":596}
+1470142484982: 	draw	content	{"x":720,"y":596}
+1470142485052: 	draw	content	{"x":711,"y":607}
+1470142485053: 	draw	content	{"x":711,"y":607}
+1470142485115: 	draw	content	{"x":708,"y":618}
+1470142485117: 	draw	content	{"x":708,"y":618}
+1470142485168: 	draw	content	{"x":713,"y":626}
+1470142485169: 	draw	content	{"x":713,"y":626}
+1470142485221: 	draw	content	{"x":722,"y":629}
+1470142485222: 	draw	content	{"x":722,"y":629}
+1470142485282: 	draw	content	{"x":740,"y":624}
+1470142485283: 	draw	content	{"x":740,"y":624}
+1470142485361: 	draw	content	{"x":756,"y":613}
+1470142485366: 	draw	content	{"x":756,"y":613}
+1470142485419: 	draw	content	{"x":766,"y":601}
+1470142485469: 	draw	content	{"x":773,"y":590}
+1470142485534: 	draw	content	{"x":779,"y":580}
+1470142485535: 	draw	content	{"x":779,"y":580}
+1470142485599: 	draw	content	{"x":781,"y":572}
+1470142485600: 	draw	content	{"x":781,"y":572}
+1470142485655: 	draw	content	{"x":781,"y":569}
+1470142485711: 	draw	content	{"x":779,"y":566}
+1470142485768: 	draw	content	{"x":772,"y":566}
+1470142485825: 	draw	content	{"x":762,"y":570}
+1470142485826: 	draw	content	{"x":762,"y":570}
+1470142485885: 	draw	content	{"x":752,"y":574}
+1470142485953: 	draw	content	{"x":741,"y":580}
+1470142485954: 	draw	content	{"x":741,"y":580}
+1470142486018: 	draw	content	{"x":731,"y":588}
+1470142486019: 	draw	content	{"x":731,"y":588}
+1470142486073: 	draw	content	{"x":726,"y":593}
+1470142486127: 	draw	content	{"x":723,"y":599}
+1470142486128: 	draw	content	{"x":723,"y":599}
+1470142486182: 	draw	content	{"x":722,"y":603}
+1470142486236: 	draw	content	{"x":721,"y":604}
+1470142486237: 	draw	content	{"x":721,"y":604}
+1470142486683: 	acted on	path-1470142484876
+1470142486686: 	draw	content	{"x":710,"y":616}
+1470142486797: 	draw	content	{"x":706,"y":600}
+1470142486822: 	draw	content	{"x":704,"y":595}
+1470142486846: 	draw	content	{"x":701,"y":589}
+1470142486847: 	draw	path-1470142484876	{"x":701,"y":589}
+1470142486872: 	draw	content	{"x":697,"y":585}
+1470142486873: 	draw	path-1470142484876	{"x":697,"y":585}
+1470142486898: 	draw	content	{"x":694,"y":581}
+1470142486965: 	draw	content	{"x":683,"y":578}
+1470142487028: 	draw	content	{"x":672,"y":580}
+1470142487029: 	draw	path-1470142484876	{"x":672,"y":580}
+1470142487080: 	draw	content	{"x":668,"y":587}
+1470142487081: 	draw	path-1470142484876	{"x":668,"y":587}
+1470142487132: 	draw	content	{"x":668,"y":598}
+1470142487187: 	draw	content	{"x":673,"y":610}
+1470142487188: 	draw	path-1470142484876	{"x":673,"y":610}
+1470142487243: 	draw	content	{"x":681,"y":621}
+1470142487295: 	draw	content	{"x":688,"y":628}
+1470142487296: 	draw	path-1470142484876	{"x":688,"y":628}
+1470142487356: 	draw	content	{"x":693,"y":632}
+1470142487357: 	draw	path-1470142484876	{"x":693,"y":632}
+1470142487421: 	draw	content	{"x":698,"y":633}
+1470142487422: 	draw	path-1470142484876	{"x":698,"y":633}
+1470142487475: 	draw	content	{"x":700,"y":633}
+1470142487526: 	draw	content	{"x":701,"y":632}
+1470142487527: 	draw	path-1470142484876	{"x":701,"y":632}
+1470142487581: 	draw	content	{"x":702,"y":632}
+1470142487582: 	draw	path-1470142484876	{"x":702,"y":632}
+1470142487636: 	draw	content	{"x":703,"y":631}
+1470142487689: 	draw	content	{"x":704,"y":631}
+1470142487690: 	draw	path-1470142484876	{"x":704,"y":631}
+1470142487754: 	draw	content	{"x":704,"y":630}
+1470142487755: 	draw	path-1470142484876	{"x":704,"y":630}
+1470142487874: 	draw	content	{"x":704,"y":629}
+1470142487875: 	draw	path-1470142484876	{"x":704,"y":629}
+1470142487930: 	draw	content	{"x":703,"y":629}
+1470142488123: 	acted on	content
+1470142488124: 	draw	content	{"x":671,"y":613}
+1470142488264: 	draw	content	{"x":668,"y":596}
+1470142488289: 	draw	content	{"x":666,"y":591}
+1470142488313: 	draw	content	{"x":662,"y":587}
+1470142488339: 	draw	content	{"x":657,"y":585}
+1470142488402: 	draw	content	{"x":642,"y":585}
+1470142488403: 	draw	content	{"x":642,"y":585}
+1470142488467: 	draw	content	{"x":632,"y":594}
+1470142488468: 	draw	content	{"x":632,"y":594}
+1470142488523: 	draw	content	{"x":631,"y":603}
+1470142488524: 	draw	content	{"x":631,"y":603}
+1470142488579: 	draw	content	{"x":635,"y":614}
+1470142488631: 	draw	content	{"x":640,"y":623}
+1470142488682: 	draw	content	{"x":648,"y":630}
+1470142488739: 	draw	content	{"x":656,"y":633}
+1470142488740: 	draw	content	{"x":656,"y":633}
+1470142488815: 	draw	content	{"x":670,"y":633}
+1470142488816: 	draw	content	{"x":670,"y":633}
+1470142488867: 	draw	content	{"x":679,"y":632}
+1470142488868: 	draw	content	{"x":679,"y":632}
+1470142488920: 	draw	content	{"x":682,"y":631}
+1470142488921: 	draw	content	{"x":682,"y":631}
+1470142488971: 	draw	content	{"x":683,"y":630}
+1470142488972: 	draw	content	{"x":683,"y":630}
+1470142489024: 	draw	content	{"x":684,"y":630}
+1470142489097: 	draw	content	{"x":684,"y":629}
+1470142489098: 	draw	content	{"x":684,"y":629}
+1470142489151: 	draw	content	{"x":685,"y":629}
+1470142489235: 	draw	content	{"x":684,"y":629}
+1470142489236: 	draw	content	{"x":684,"y":629}
+1470142489294: 	draw	content	{"x":684,"y":628}
+1470142489295: 	draw	content	{"x":684,"y":628}
+1470142490199: 	acted on	path-1470142488125
+1470142490200: 	draw	content	{"x":649,"y":630}
+1470142490201: 	draw	content	{"x":649,"y":630}
+1470142490314: 	draw	content	{"x":632,"y":625}
+1470142490372: 	draw	content	{"x":619,"y":628}
+1470142490447: 	draw	content	{"x":613,"y":634}
+1470142490448: 	draw	path-1470142488125	{"x":613,"y":634}
+1470142490501: 	draw	content	{"x":619,"y":648}
+1470142490557: 	draw	content	{"x":633,"y":660}
+1470142490558: 	draw	path-1470142488125	{"x":633,"y":660}
+1470142490611: 	draw	content	{"x":653,"y":664}
+1470142490667: 	draw	content	{"x":677,"y":667}
+1470142490668: 	draw	path-1470142488125	{"x":677,"y":667}
+1470142490724: 	draw	content	{"x":701,"y":668}
+1470142490725: 	draw	path-1470142488125	{"x":701,"y":668}
+1470142490780: 	draw	content	{"x":722,"y":668}
+1470142490781: 	draw	path-1470142488125	{"x":722,"y":668}
+1470142490850: 	draw	content	{"x":756,"y":662}
+1470142490851: 	draw	path-1470142488125	{"x":756,"y":662}
+1470142490914: 	draw	content	{"x":777,"y":655}
+1470142490915: 	draw	path-1470142488125	{"x":777,"y":655}
+1470142490968: 	draw	content	{"x":787,"y":650}
+1470142491021: 	draw	content	{"x":791,"y":646}
+1470142491074: 	draw	content	{"x":791,"y":638}
+1470142491129: 	draw	content	{"x":779,"y":632}
+1470142491186: 	draw	content	{"x":757,"y":629}
+1470142491187: 	draw	path-1470142488125	{"x":757,"y":629}
+1470142491240: 	draw	content	{"x":741,"y":630}
+1470142491241: 	draw	path-1470142488125	{"x":741,"y":630}
+1470142491313: 	draw	content	{"x":737,"y":630}
+1470142491315: 	draw	path-1470142488125	{"x":737,"y":630}
+1470142505495: 	acted on	colorPicker
+1470142506690: 	acted on	#0066FF
+1470142506815: 	sub-instrument	#0066FF		false
+1470142508766: 	acted on	content
+1470142508767: 	draw	content	{"x":311,"y":203}
+1470142508922: 	draw	content	{"x":294,"y":211}
+1470142508923: 	draw	content	{"x":294,"y":211}
+1470142508988: 	draw	content	{"x":265,"y":235}
+1470142508989: 	draw	content	{"x":265,"y":235}
+1470142509070: 	draw	content	{"x":253,"y":256}
+1470142509071: 	draw	content	{"x":253,"y":256}
+1470142509129: 	draw	content	{"x":264,"y":259}
+1470142509185: 	draw	content	{"x":297,"y":249}
+1470142509186: 	draw	content	{"x":297,"y":249}
+1470142509247: 	draw	content	{"x":312,"y":246}
+1470142509304: 	draw	content	{"x":314,"y":247}
+1470142509363: 	draw	content	{"x":304,"y":259}
+1470142509432: 	draw	content	{"x":269,"y":293}
+1470142509433: 	draw	content	{"x":269,"y":293}
+1470142509502: 	draw	content	{"x":249,"y":316}
+1470142509503: 	draw	content	{"x":249,"y":316}
+1470142509561: 	draw	content	{"x":247,"y":318}
+1470142509622: 	draw	content	{"x":258,"y":312}
+1470142509623: 	draw	content	{"x":258,"y":312}
+1470142509684: 	draw	content	{"x":294,"y":295}
+1470142509685: 	draw	content	{"x":294,"y":295}
+1470142509745: 	draw	content	{"x":318,"y":284}
+1470142509746: 	draw	content	{"x":318,"y":284}
+1470142509802: 	draw	content	{"x":324,"y":283}
+1470142509803: 	draw	content	{"x":324,"y":283}
+1470142509882: 	draw	content	{"x":318,"y":298}
+1470142509883: 	draw	content	{"x":318,"y":298}
+1470142509941: 	draw	content	{"x":289,"y":323}
+1470142509942: 	draw	content	{"x":289,"y":323}
+1470142510000: 	draw	content	{"x":266,"y":348}
+1470142510058: 	draw	content	{"x":254,"y":363}
+1470142510059: 	draw	content	{"x":254,"y":363}
+1470142510117: 	draw	content	{"x":251,"y":366}
+1470142510616: 	acted on	content
+1470142510618: 	draw	content	{"x":243,"y":350}
+1470142510713: 	draw	content	{"x":237,"y":367}
+1470142510714: 	draw	content	{"x":237,"y":367}
+1470142510738: 	draw	content	{"x":235,"y":375}
+1470142510763: 	draw	content	{"x":234,"y":382}
+1470142510788: 	draw	content	{"x":234,"y":387}
+1470142510813: 	draw	content	{"x":234,"y":389}
+1470142510856: 	draw	content	{"x":233,"y":390}
+1470142511014: 	draw	content	{"x":234,"y":390}
+1470142511069: 	draw	content	{"x":252,"y":383}
+1470142511070: 	draw	content	{"x":252,"y":383}
+1470142511129: 	draw	content	{"x":276,"y":371}
+1470142511189: 	draw	content	{"x":295,"y":363}
+1470142511274: 	draw	content	{"x":302,"y":360}
+1470142511275: 	draw	content	{"x":302,"y":360}
+1470142511364: 	draw	content	{"x":301,"y":360}
+1470142511419: 	draw	content	{"x":286,"y":368}
+1470142511474: 	draw	content	{"x":266,"y":378}
+1470142511475: 	draw	content	{"x":266,"y":378}
+1470142511530: 	draw	content	{"x":250,"y":388}
+1470142511587: 	draw	content	{"x":244,"y":391}
+1470142511643: 	draw	content	{"x":243,"y":391}
+1470142511730: 	draw	content	{"x":244,"y":391}
+1470142511731: 	draw	content	{"x":244,"y":391}
+1470142511786: 	draw	content	{"x":252,"y":388}
+1470142511787: 	draw	content	{"x":252,"y":388}
+1470142512064: 	acted on	path-1470142510619
+1470142512066: 	draw	content	{"x":243,"y":366}
+1470142512067: 	draw	content	{"x":243,"y":366}
+1470142512214: 	draw	content	{"x":258,"y":368}
+1470142512274: 	draw	content	{"x":267,"y":372}
+1470142512334: 	draw	content	{"x":270,"y":373}
+1470142512335: 	draw	path-1470142510619	{"x":270,"y":373}
+1470142512417: 	draw	content	{"x":265,"y":371}
+1470142512418: 	draw	path-1470142510619	{"x":265,"y":371}
+1470142512474: 	draw	content	{"x":248,"y":367}
+1470142512475: 	draw	path-1470142510619	{"x":248,"y":367}
+1470142512530: 	draw	content	{"x":245,"y":366}
+1470142512531: 	draw	path-1470142510619	{"x":245,"y":366}
+1470142512586: 	draw	content	{"x":247,"y":368}
+1470142512587: 	draw	path-1470142510619	{"x":247,"y":368}
+1470142512647: 	draw	content	{"x":259,"y":378}
+1470142512648: 	draw	path-1470142510619	{"x":259,"y":378}
+1470142512708: 	draw	content	{"x":263,"y":381}
+1470142512771: 	draw	content	{"x":262,"y":380}
+1470142512849: 	draw	content	{"x":260,"y":380}
+1470142512850: 	draw	path-1470142510619	{"x":260,"y":380}
+1470142533016: 	acted on	path-1470142490201
+1470142533019: 	draw	content	{"x":631,"y":656}
+1470142533020: 	draw	content	{"x":631,"y":656}
+1470142534642: 	acted on	content
+1470142534644: 	draw	content	{"x":861,"y":561}
+1470142536250: 	acted on	draw
+1470142536343: 	selected	null
+1470142538114: 	acted on	content
+1470142538116: 	selected	null
+1470142538964: 	acted on	content
+1470142538966: 	selected	null
+1470142539781: 	acted on	content
+1470142539783: 	selected	null
+1470142542383: 	acted on	content
+1470142542385: 	selected	null
+1470142543025: 	acted on	content
+1470142543027: 	selected	null
+1470142543773: 	acted on	content
+1470142543775: 	selected	null
+1470142545430: 	acted on	image-67
+1470142545432: 	selected	image-67
+1470142547651: 	acted on	content
+1470142547656: 	selected	null
+1470142548647: 	acted on	content
+1470142548649: 	selected	null
+1470142549297: 	acted on	path-1470142490201
+1470142549300: 	selected	path-1470142490201
+1470142550344: 	acted on	content
+1470142550347: 	selected	null
+1470142553357: 	acted on	path-1470142490201
+1470142553359: 	selected	path-1470142490201
+1470142554576: 	acted on	path-1470142490201
+1470142554579: 	selected	path-1470142490201
+1470142556974: 	acted on	colorPicker
+1470142558448: 	acted on	#00FFFF
+1470142558580: 	sub-instrument	#00FFFF		false
+1470142558581: 	changed color	path-1470142490201	rgb(146, 146, 0)
+1470142563134: 	acted on	draw
+1470142563240: 	selected	null
+1470142563241: 	mode	draw
+1470142564317: 	acted on	content
+1470142564323: 	draw	content	{"x":736,"y":58}
+1470142564324: 	draw	content	{"x":736,"y":58}
+1470142575183: 	acted on	colorPicker
+1470142576623: 	acted on	#00CC99
+1470142576747: 	sub-instrument	#00CC99		false
+1470142579280: 	acted on	content
+1470142579281: 	draw	content	{"x":621,"y":89}
+1470142579282: 	draw	content	{"x":621,"y":89}
+1470142579396: 	draw	content	{"x":608,"y":99}
+1470142579459: 	draw	content	{"x":600,"y":115}
+1470142579460: 	draw	content	{"x":600,"y":115}
+1470142579543: 	draw	content	{"x":605,"y":137}
+1470142579544: 	draw	content	{"x":605,"y":137}
+1470142579607: 	draw	content	{"x":624,"y":141}
+1470142579608: 	draw	content	{"x":624,"y":141}
+1470142579685: 	draw	content	{"x":645,"y":131}
+1470142579686: 	draw	content	{"x":645,"y":131}
+1470142579759: 	draw	content	{"x":650,"y":126}
+1470142579760: 	draw	content	{"x":650,"y":126}
+1470142579849: 	draw	content	{"x":649,"y":126}
+1470142579850: 	draw	content	{"x":649,"y":126}
+1470142579916: 	draw	content	{"x":646,"y":143}
+1470142579917: 	draw	content	{"x":646,"y":143}
+1470142579993: 	draw	content	{"x":651,"y":156}
+1470142579994: 	draw	content	{"x":651,"y":156}
+1470142580065: 	draw	content	{"x":672,"y":161}
+1470142580066: 	draw	content	{"x":672,"y":161}
+1470142580126: 	draw	content	{"x":692,"y":157}
+1470142580127: 	draw	content	{"x":692,"y":157}
+1470142580187: 	draw	content	{"x":707,"y":146}
+1470142580188: 	draw	content	{"x":707,"y":146}
+1470142580249: 	draw	content	{"x":709,"y":143}
+1470142580310: 	draw	content	{"x":709,"y":147}
+1470142580370: 	draw	content	{"x":711,"y":160}
+1470142580371: 	draw	content	{"x":711,"y":160}
+1470142580454: 	draw	content	{"x":738,"y":173}
+1470142580455: 	draw	content	{"x":738,"y":173}
+1470142580517: 	draw	content	{"x":772,"y":167}
+1470142580583: 	draw	content	{"x":801,"y":148}
+1470142580584: 	draw	content	{"x":801,"y":148}
+1470142580649: 	draw	content	{"x":813,"y":126}
+1470142580650: 	draw	content	{"x":813,"y":126}
+1470142580711: 	draw	content	{"x":810,"y":115}
+1470142580712: 	draw	content	{"x":810,"y":115}
+1470142580772: 	draw	content	{"x":795,"y":111}
+1470142580773: 	draw	content	{"x":795,"y":111}
+1470142580840: 	draw	content	{"x":786,"y":116}
+1470142580841: 	draw	content	{"x":786,"y":116}
+1470142580927: 	draw	content	{"x":813,"y":120}
+1470142580928: 	draw	content	{"x":813,"y":120}
+1470142580990: 	draw	content	{"x":838,"y":109}
+1470142581056: 	draw	content	{"x":853,"y":86}
+1470142581057: 	draw	content	{"x":853,"y":86}
+1470142581119: 	draw	content	{"x":851,"y":68}
+1470142581120: 	draw	content	{"x":851,"y":68}
+1470142581184: 	draw	content	{"x":829,"y":47}
+1470142581185: 	draw	content	{"x":829,"y":47}
+1470142581249: 	draw	content	{"x":805,"y":45}
+1470142581332: 	draw	content	{"x":798,"y":58}
+1470142581333: 	draw	content	{"x":798,"y":58}
+1470142581396: 	draw	content	{"x":803,"y":60}
+1470142581397: 	draw	content	{"x":803,"y":60}
+1470142581462: 	draw	content	{"x":806,"y":48}
+1470142581463: 	draw	content	{"x":806,"y":48}
+1470142581525: 	draw	content	{"x":783,"y":33}
+1470142581526: 	draw	content	{"x":783,"y":33}
+1470142581608: 	draw	content	{"x":742,"y":30}
+1470142581609: 	draw	content	{"x":742,"y":30}
+1470142581677: 	draw	content	{"x":719,"y":42}
+1470142581744: 	draw	content	{"x":719,"y":53}
+1470142581745: 	draw	content	{"x":719,"y":53}
+1470142581809: 	draw	content	{"x":731,"y":52}
+1470142581872: 	draw	content	{"x":731,"y":42}
+1470142581940: 	draw	content	{"x":703,"y":23}
+1470142581941: 	draw	content	{"x":703,"y":23}
+1470142582030: 	draw	content	{"x":665,"y":23}
+1470142582032: 	draw	content	{"x":665,"y":23}
+1470142582098: 	draw	content	{"x":649,"y":43}
+1470142582099: 	draw	content	{"x":649,"y":43}
+1470142582166: 	draw	content	{"x":653,"y":51}
+1470142582167: 	draw	content	{"x":653,"y":51}
+1470142582231: 	draw	content	{"x":656,"y":48}
+1470142582232: 	draw	content	{"x":656,"y":48}
+1470142582299: 	draw	content	{"x":647,"y":36}
+1470142582300: 	draw	content	{"x":647,"y":36}
+1470142582365: 	draw	content	{"x":628,"y":37}
+1470142582453: 	draw	content	{"x":609,"y":60}
+1470142582454: 	draw	content	{"x":609,"y":60}
+1470142582522: 	draw	content	{"x":608,"y":74}
+1470142582523: 	draw	content	{"x":608,"y":74}
+1470142582591: 	draw	content	{"x":609,"y":75}
+1470142582592: 	draw	content	{"x":609,"y":75}
+1470142582661: 	draw	content	{"x":610,"y":76}
+1470142582662: 	draw	content	{"x":610,"y":76}
+1470142582727: 	draw	content	{"x":610,"y":77}
+1470142582728: 	draw	content	{"x":610,"y":77}
+1470142582791: 	draw	content	{"x":611,"y":78}
+1470142582792: 	draw	content	{"x":611,"y":78}
+1470142582871: 	draw	content	{"x":612,"y":81}
+1470142582872: 	draw	content	{"x":612,"y":81}
+1470142582945: 	draw	content	{"x":615,"y":84}
+1470142582946: 	draw	content	{"x":615,"y":84}
+1470142583016: 	draw	content	{"x":616,"y":85}
+1470142583017: 	draw	content	{"x":616,"y":85}
+1470142583086: 	draw	content	{"x":618,"y":86}
+1470142583087: 	draw	content	{"x":618,"y":86}
+1470142588599: 	acted on	content
+1470142588601: 	draw	content	{"x":85,"y":56}
+1470142588602: 	draw	content	{"x":85,"y":56}
+1470142588646: 	draw	content	{"x":67,"y":59}
+1470142588719: 	draw	content	{"x":50,"y":87}
+1470142588720: 	draw	content	{"x":50,"y":87}
+1470142588791: 	draw	content	{"x":62,"y":126}
+1470142588859: 	draw	content	{"x":87,"y":127}
+1470142588860: 	draw	content	{"x":87,"y":127}
+1470142588953: 	draw	content	{"x":98,"y":123}
+1470142588954: 	draw	content	{"x":98,"y":123}
+1470142589022: 	draw	content	{"x":107,"y":149}
+1470142589023: 	draw	content	{"x":107,"y":149}
+1470142589114: 	draw	content	{"x":149,"y":151}
+1470142589115: 	draw	content	{"x":149,"y":151}
+1470142589188: 	draw	content	{"x":169,"y":141}
+1470142589277: 	draw	content	{"x":184,"y":152}
+1470142589278: 	draw	content	{"x":184,"y":152}
+1470142589344: 	draw	content	{"x":211,"y":126}
+1470142589345: 	draw	content	{"x":211,"y":126}
+1470142589410: 	draw	content	{"x":214,"y":92}
+1470142589411: 	draw	content	{"x":214,"y":92}
+1470142589492: 	draw	content	{"x":199,"y":75}
+1470142589573: 	draw	content	{"x":192,"y":75}
+1470142589574: 	draw	content	{"x":192,"y":75}
+1470142589646: 	draw	content	{"x":194,"y":69}
+1470142589714: 	draw	content	{"x":179,"y":48}
+1470142589786: 	draw	content	{"x":150,"y":50}
+1470142589787: 	draw	content	{"x":150,"y":50}
+1470142589859: 	draw	content	{"x":142,"y":59}
+1470142589860: 	draw	content	{"x":142,"y":59}
+1470142589933: 	draw	content	{"x":130,"y":54}
+1470142589934: 	draw	content	{"x":130,"y":54}
+1470142590026: 	draw	content	{"x":104,"y":52}
+1470142590027: 	draw	content	{"x":104,"y":52}
+1470142590099: 	draw	content	{"x":85,"y":74}
+1470142590100: 	draw	content	{"x":85,"y":74}
+1470142590170: 	draw	content	{"x":83,"y":75}
+1470142590171: 	draw	content	{"x":83,"y":75}
+1470142590499: 	acted on	content
+1470142590501: 	draw	content	{"x":270,"y":78}
+1470142590502: 	draw	content	{"x":270,"y":78}
+1470142590570: 	draw	content	{"x":254,"y":86}
+1470142590571: 	draw	content	{"x":254,"y":86}
+1470142590669: 	draw	content	{"x":237,"y":142}
+1470142590670: 	draw	content	{"x":237,"y":142}
+1470142590743: 	draw	content	{"x":256,"y":161}
+1470142590815: 	draw	content	{"x":263,"y":158}
+1470142590816: 	draw	content	{"x":263,"y":158}
+1470142590886: 	draw	content	{"x":286,"y":169}
+1470142590887: 	draw	content	{"x":286,"y":169}
+1470142590958: 	draw	content	{"x":315,"y":166}
+1470142590959: 	draw	content	{"x":315,"y":166}
+1470142591032: 	draw	content	{"x":333,"y":153}
+1470142591033: 	draw	content	{"x":333,"y":153}
+1470142591130: 	draw	content	{"x":368,"y":142}
+1470142591131: 	draw	content	{"x":368,"y":142}
+1470142591200: 	draw	content	{"x":376,"y":106}
+1470142591201: 	draw	content	{"x":376,"y":106}
+1470142591273: 	draw	content	{"x":376,"y":98}
+1470142591274: 	draw	content	{"x":376,"y":98}
+1470142591347: 	draw	content	{"x":364,"y":76}
+1470142591348: 	draw	content	{"x":364,"y":76}
+1470142591421: 	draw	content	{"x":337,"y":53}
+1470142591422: 	draw	content	{"x":337,"y":53}
+1470142591495: 	draw	content	{"x":305,"y":57}
+1470142591581: 	draw	content	{"x":268,"y":51}
+1470142591665: 	draw	content	{"x":242,"y":40}
+1470142591666: 	draw	content	{"x":242,"y":40}
+1470142591741: 	draw	content	{"x":225,"y":42}
+1470142591742: 	draw	content	{"x":225,"y":42}
+1470142591814: 	draw	content	{"x":207,"y":37}
+1470142591815: 	draw	content	{"x":207,"y":37}
+1470142591888: 	draw	content	{"x":199,"y":36}
+1470142591889: 	draw	content	{"x":199,"y":36}
+1470142591962: 	draw	content	{"x":192,"y":58}
+1470142591963: 	draw	content	{"x":192,"y":58}
+1470142592036: 	draw	content	{"x":194,"y":64}
+1470142592037: 	draw	content	{"x":194,"y":64}
+1470142592132: 	draw	content	{"x":209,"y":81}
+1470142592133: 	draw	content	{"x":209,"y":81}
+1470142592205: 	draw	content	{"x":235,"y":82}
+1470142592289: 	draw	content	{"x":254,"y":93}
+1470142592290: 	draw	content	{"x":254,"y":93}
+1470142592358: 	draw	content	{"x":258,"y":107}
+1470142592430: 	draw	content	{"x":276,"y":105}
+1470142592431: 	draw	content	{"x":276,"y":105}
+1470142592499: 	draw	content	{"x":280,"y":105}
+1470142592500: 	draw	content	{"x":280,"y":105}
+1470142593856: 	acted on	content
+1470142593858: 	draw	content	{"x":256,"y":55}
+1470142593929: 	draw	content	{"x":264,"y":42}
+1470142593930: 	draw	content	{"x":264,"y":42}
+1470142593963: 	draw	content	{"x":280,"y":33}
+1470142594032: 	draw	content	{"x":297,"y":34}
+1470142594033: 	draw	content	{"x":297,"y":34}
+1470142594104: 	draw	content	{"x":318,"y":46}
+1470142594175: 	draw	content	{"x":339,"y":38}
+1470142594176: 	draw	content	{"x":339,"y":38}
+1470142594276: 	draw	content	{"x":365,"y":52}
+1470142594277: 	draw	content	{"x":365,"y":52}
+1470142594352: 	draw	content	{"x":386,"y":48}
+1470142594353: 	draw	content	{"x":386,"y":48}
+1470142594427: 	draw	content	{"x":399,"y":63}
+1470142594428: 	draw	content	{"x":399,"y":63}
+1470142594502: 	draw	content	{"x":405,"y":78}
+1470142594575: 	draw	content	{"x":402,"y":95}
+1470142594576: 	draw	content	{"x":402,"y":95}
+1470142594647: 	draw	content	{"x":394,"y":119}
+1470142594648: 	draw	content	{"x":394,"y":119}
+1470142594749: 	draw	content	{"x":408,"y":126}
+1470142594750: 	draw	content	{"x":408,"y":126}
+1470142594824: 	draw	content	{"x":411,"y":140}
+1470142594898: 	draw	content	{"x":403,"y":155}
+1470142594899: 	draw	content	{"x":403,"y":155}
+1470142594976: 	draw	content	{"x":383,"y":157}
+1470142594977: 	draw	content	{"x":383,"y":157}
+1470142595048: 	draw	content	{"x":376,"y":152}
+1470142595049: 	draw	content	{"x":376,"y":152}
+1470142595124: 	draw	content	{"x":377,"y":141}
+1470142595125: 	draw	content	{"x":377,"y":141}
+1470142595222: 	draw	content	{"x":368,"y":128}
+1470142595223: 	draw	content	{"x":368,"y":128}
+1470142595295: 	draw	content	{"x":354,"y":139}
+1470142595296: 	draw	content	{"x":354,"y":139}
+1470142595367: 	draw	content	{"x":354,"y":150}
+1470142595368: 	draw	content	{"x":354,"y":150}
+1470142597505: 	acted on	content
+1470142597506: 	draw	content	{"x":300,"y":80}
+1470142597507: 	draw	content	{"x":300,"y":80}
+1470142597604: 	draw	content	{"x":285,"y":77}
+1470142597605: 	draw	content	{"x":285,"y":77}
+1470142597700: 	draw	content	{"x":278,"y":83}
+1470142597702: 	draw	content	{"x":278,"y":83}
+1470142597777: 	draw	content	{"x":297,"y":69}
+1470142597853: 	draw	content	{"x":292,"y":86}
+1470142597854: 	draw	content	{"x":292,"y":86}
+1470142597924: 	draw	content	{"x":303,"y":85}
+1470142597925: 	draw	content	{"x":303,"y":85}
+1470142597996: 	draw	content	{"x":317,"y":78}
+1470142598066: 	draw	content	{"x":315,"y":89}
+1470142598067: 	draw	content	{"x":315,"y":89}
+1470142598159: 	draw	content	{"x":333,"y":87}
+1470142598160: 	draw	content	{"x":333,"y":87}
+1470142598230: 	draw	content	{"x":338,"y":91}
+1470142598231: 	draw	content	{"x":338,"y":91}
+1470142598306: 	draw	content	{"x":337,"y":104}
+1470142598381: 	draw	content	{"x":366,"y":91}
+1470142598458: 	draw	content	{"x":366,"y":104}
+1470142598557: 	draw	content	{"x":383,"y":108}
+1470142598558: 	draw	content	{"x":383,"y":108}
+1470142598633: 	draw	content	{"x":388,"y":106}
+1470142598634: 	draw	content	{"x":388,"y":106}
+1470142598709: 	draw	content	{"x":387,"y":119}
+1470142598710: 	draw	content	{"x":387,"y":119}
+1470142598785: 	draw	content	{"x":390,"y":119}
+1470142598862: 	draw	content	{"x":390,"y":125}
+1470142598863: 	draw	content	{"x":390,"y":125}
+1470142598938: 	draw	content	{"x":387,"y":137}
+1470142601765: 	acted on	content
+1470142601767: 	draw	content	{"x":344,"y":56}
+1470142601768: 	draw	content	{"x":344,"y":56}
+1470142602363: 	acted on	path-1470142590502
+1470142602365: 	draw	content	{"x":353,"y":71}
+1470142602366: 	draw	content	{"x":353,"y":71}
+1470142603290: 	acted on	delete
+1470142604971: 	acted on	draw
+1470142605064: 	selected	null
+1470142606289: 	acted on	delete
+1470142606947: 	acted on	content
+1470142606949: 	selected	null
+1470142607497: 	acted on	path-1470142590502
+1470142607499: 	selected	path-1470142590502
+1470142609061: 	acted on	path-1470142590502
+1470142609067: 	selected	path-1470142590502
+1470142610139: 	acted on	delete
+1470142610247: 	cut	path-1470142590502
+1470142610249: 	deleted	path-1470142590502
+1470142611549: 	acted on	path-1470142593859
+1470142611551: 	selected	path-1470142593859
+1470142612364: 	acted on	delete
+1470142612447: 	cut	path-1470142593859
+1470142612448: 	deleted	path-1470142593859
+1470142613231: 	acted on	path-1470142597507
+1470142613234: 	selected	path-1470142597507
+1470142613864: 	acted on	delete
+1470142613938: 	cut	path-1470142597507
+1470142613939: 	deleted	path-1470142597507
+1470142615475: 	acted on	colorPicker
+1470142616972: 	acted on	colorPicker
+1470142617413: 	acted on	draw
+1470142617515: 	selected	null
+1470142619022: 	acted on	
+1470142619061: 	acted on	image-27
+1470142619063: 	draw	image-27	{"x":11,"y":19}
+1470142620480: 	acted on	content
+1470142620481: 	draw	content	{"x":272,"y":73}
+1470142620562: 	draw	content	{"x":256,"y":73}
+1470142620563: 	draw	content	{"x":256,"y":73}
+1470142620640: 	draw	content	{"x":240,"y":85}
+1470142620720: 	draw	content	{"x":240,"y":109}
+1470142620721: 	draw	content	{"x":240,"y":109}
+1470142620797: 	draw	content	{"x":248,"y":116}
+1470142620891: 	draw	content	{"x":252,"y":116}
+1470142620892: 	draw	content	{"x":252,"y":116}
+1470142620980: 	draw	content	{"x":255,"y":145}
+1470142620981: 	draw	content	{"x":255,"y":145}
+1470142621054: 	draw	content	{"x":271,"y":160}
+1470142621055: 	draw	content	{"x":271,"y":160}
+1470142621136: 	draw	content	{"x":290,"y":151}
+1470142621211: 	draw	content	{"x":301,"y":151}
+1470142621285: 	draw	content	{"x":322,"y":156}
+1470142621286: 	draw	content	{"x":322,"y":156}
+1470142621377: 	draw	content	{"x":336,"y":146}
+1470142621378: 	draw	content	{"x":336,"y":146}
+1470142621462: 	draw	content	{"x":354,"y":142}
+1470142621464: 	draw	content	{"x":354,"y":142}
+1470142621542: 	draw	content	{"x":371,"y":134}
+1470142621543: 	draw	content	{"x":371,"y":134}
+1470142621622: 	draw	content	{"x":381,"y":116}
+1470142621623: 	draw	content	{"x":381,"y":116}
+1470142621702: 	draw	content	{"x":389,"y":107}
+1470142621703: 	draw	content	{"x":389,"y":107}
+1470142621781: 	draw	content	{"x":401,"y":85}
+1470142621782: 	draw	content	{"x":401,"y":85}
+1470142621875: 	draw	content	{"x":399,"y":59}
+1470142621876: 	draw	content	{"x":399,"y":59}
+1470142621962: 	draw	content	{"x":390,"y":53}
+1470142621963: 	draw	content	{"x":390,"y":53}
+1470142622040: 	draw	content	{"x":382,"y":51}
+1470142622041: 	draw	content	{"x":382,"y":51}
+1470142622118: 	draw	content	{"x":366,"y":40}
+1470142622119: 	draw	content	{"x":366,"y":40}
+1470142622198: 	draw	content	{"x":348,"y":46}
+1470142622199: 	draw	content	{"x":348,"y":46}
+1470142622277: 	draw	content	{"x":338,"y":48}
+1470142622278: 	draw	content	{"x":338,"y":48}
+1470142622372: 	draw	content	{"x":317,"y":37}
+1470142622373: 	draw	content	{"x":317,"y":37}
+1470142622461: 	draw	content	{"x":302,"y":45}
+1470142622462: 	draw	content	{"x":302,"y":45}
+1470142622542: 	draw	content	{"x":278,"y":43}
+1470142622543: 	draw	content	{"x":278,"y":43}
+1470142622622: 	draw	content	{"x":265,"y":48}
+1470142622623: 	draw	content	{"x":265,"y":48}
+1470142622704: 	draw	content	{"x":258,"y":60}
+1470142622705: 	draw	content	{"x":258,"y":60}
+1470142622780: 	draw	content	{"x":258,"y":62}
+1470142622781: 	draw	content	{"x":258,"y":62}
+1470142622870: 	draw	content	{"x":258,"y":63}
+1470142627548: 	acted on	colorPicker
+1470142630933: 	acted on	#00FF00
+1470142631063: 	sub-instrument	#00FF00		false
+1470142675805: 	acted on	content
+1470142675807: 	draw	content	{"x":944,"y":232}
+1470142675910: 	draw	content	{"x":929,"y":238}
+1470142675911: 	draw	content	{"x":929,"y":238}
+1470142676016: 	draw	content	{"x":914,"y":266}
+1470142676017: 	draw	content	{"x":914,"y":266}
+1470142676096: 	draw	content	{"x":922,"y":288}
+1470142676097: 	draw	content	{"x":922,"y":288}
+1470142676202: 	draw	content	{"x":946,"y":296}
+1470142676203: 	draw	content	{"x":946,"y":296}
+1470142676285: 	draw	content	{"x":966,"y":284}
+1470142676286: 	draw	content	{"x":966,"y":284}
+1470142676370: 	draw	content	{"x":978,"y":263}
+1470142676457: 	draw	content	{"x":979,"y":237}
+1470142676541: 	draw	content	{"x":976,"y":221}
+1470142676643: 	draw	content	{"x":963,"y":212}
+1470142676644: 	draw	content	{"x":963,"y":212}
+1470142676727: 	draw	content	{"x":945,"y":217}
+1470142676810: 	draw	content	{"x":930,"y":232}
+1470142676811: 	draw	content	{"x":930,"y":232}
+1470142676889: 	draw	content	{"x":922,"y":248}
+1470142676890: 	draw	content	{"x":922,"y":248}
+1470142676997: 	draw	content	{"x":921,"y":263}
+1470142676998: 	draw	content	{"x":921,"y":263}
+1470142677446: 	acted on	content
+1470142677447: 	draw	content	{"x":1029,"y":223}
+1470142677448: 	draw	content	{"x":1029,"y":223}
+1470142677527: 	draw	content	{"x":1018,"y":236}
+1470142677528: 	draw	content	{"x":1018,"y":236}
+1470142677610: 	draw	content	{"x":1001,"y":263}
+1470142677611: 	draw	content	{"x":1001,"y":263}
+1470142677712: 	draw	content	{"x":997,"y":298}
+1470142677713: 	draw	content	{"x":997,"y":298}
+1470142677789: 	draw	content	{"x":1018,"y":308}
+1470142677790: 	draw	content	{"x":1018,"y":308}
+1470142677865: 	draw	content	{"x":1045,"y":297}
+1470142677867: 	draw	content	{"x":1045,"y":297}
+1470142677950: 	draw	content	{"x":1067,"y":273}
+1470142678027: 	draw	content	{"x":1070,"y":250}
+1470142678113: 	draw	content	{"x":1060,"y":229}
+1470142678114: 	draw	content	{"x":1060,"y":229}
+1470142678215: 	draw	content	{"x":1040,"y":222}
+1470142678216: 	draw	content	{"x":1040,"y":222}
+1470142678299: 	draw	content	{"x":1017,"y":238}
+1470142678382: 	draw	content	{"x":1010,"y":255}
+1470142678383: 	draw	content	{"x":1010,"y":255}
+1470142678771: 	acted on	content
+1470142678773: 	draw	content	{"x":1117,"y":232}
+1470142678853: 	draw	content	{"x":1105,"y":245}
+1470142678932: 	draw	content	{"x":1087,"y":278}
+1470142678933: 	draw	content	{"x":1087,"y":278}
+1470142679012: 	draw	content	{"x":1090,"y":304}
+1470142679095: 	draw	content	{"x":1112,"y":309}
+1470142679096: 	draw	content	{"x":1112,"y":309}
+1470142679204: 	draw	content	{"x":1144,"y":285}
+1470142679205: 	draw	content	{"x":1144,"y":285}
+1470142679282: 	draw	content	{"x":1153,"y":259}
+1470142679283: 	draw	content	{"x":1153,"y":259}
+1470142679366: 	draw	content	{"x":1143,"y":239}
+1470142679449: 	draw	content	{"x":1124,"y":233}
+1470142679450: 	draw	content	{"x":1124,"y":233}
+1470142679529: 	draw	content	{"x":1097,"y":257}
+1470142679530: 	draw	content	{"x":1097,"y":257}
+1470142679607: 	draw	content	{"x":1091,"y":269}
+1470142679608: 	draw	content	{"x":1091,"y":269}
+1470142682063: 	acted on	draw
+1470142682164: 	selected	null
+1470142682165: 	mode	null
+1470142682887: 	acted on	image-67
+1470142682889: 	selected	image-67
+1470142684818: 	acted on	image-67
+1470142684824: 	selected	image-67
+1470142684930: 	start moving	image-67	from	{"x":68,"y":85}
+1470142685140: 	acted on	image-67
+1470142685144: 	selected	image-67
+1470142685262: 	start moving	image-67	from	{"x":55,"y":137}
+1470142685376: 	moved	image-67	to	{"x":1000,"y":519}
+1470142686087: 	acted on	image-67
+1470142686089: 	selected	image-67
+1470142686234: 	start moving	image-67	from	{"x":46,"y":115}
+1470142686346: 	moved	image-67	to	{"x":961,"y":496}
+1470142686454: 	moved	image-67	to	{"x":935,"y":487}
+1470142686559: 	moved	image-67	to	{"x":913,"y":477}
+1470142686689: 	moved	image-67	to	{"x":875,"y":457}
+1470142686796: 	moved	image-67	to	{"x":834,"y":419}
+1470142686901: 	moved	image-67	to	{"x":822,"y":349}
+1470142687013: 	moved	image-67	to	{"x":845,"y":252}
+1470142687152: 	moved	image-67	to	{"x":876,"y":167}
+1470142687257: 	moved	image-67	to	{"x":902,"y":123}
+1470142687368: 	moved	image-67	to	{"x":926,"y":94}
+1470142687479: 	moved	image-67	to	{"x":939,"y":78}
+1470142687615: 	moved	image-67	to	{"x":941,"y":76}
+1470142687724: 	moved	image-67	to	{"x":941,"y":75}
+1470142687806: 	moved	image-67	to	{"x":941,"y":76}
+1470142687891: 	moved	image-67	to	{"x":940,"y":86}
+1470142688019: 	moved	image-67	to	{"x":939,"y":101}
+1470142688142: 	moved	image-67	to	{"x":938,"y":111}
+1470142688252: 	moved	image-67	to	{"x":938,"y":115}
+1470142688335: 	moved	image-67	to	{"x":938,"y":116}
+1470142688419: 	moved	image-67	to	{"x":938,"y":117}
+1470142689180: 	acted on	draw
+1470142689272: 	selected	null
+1470142689273: 	mode	draw
+1470142690994: 	acted on	draw
+1470142691005: 	selected	null
+1470142691006: 	mode	null
+1470142691109: 	acted on	draw
+1470142691113: 	selected	null
+1470142691114: 	mode	draw
+1470142691251: 	acted on	content
+1470142691252: 	draw	content	{"x":951,"y":312}
+1470142691253: 	draw	content	{"x":951,"y":312}
+1470142691285: 	draw	content	{"x":940,"y":340}
+1470142691400: 	draw	content	{"x":937,"y":358}
+1470142691401: 	draw	content	{"x":937,"y":358}
+1470142691485: 	draw	content	{"x":934,"y":374}
+1470142691486: 	draw	content	{"x":934,"y":374}
+1470142691569: 	draw	content	{"x":930,"y":389}
+1470142691570: 	draw	content	{"x":930,"y":389}
+1470142691655: 	draw	content	{"x":930,"y":396}
+1470142691656: 	draw	content	{"x":930,"y":396}
+1470142691739: 	draw	content	{"x":930,"y":397}
+1470142691740: 	draw	content	{"x":930,"y":397}
+1470142691841: 	draw	content	{"x":930,"y":398}
+1470142691842: 	draw	content	{"x":930,"y":398}
+1470142691952: 	draw	content	{"x":930,"y":399}
+1470142691953: 	draw	content	{"x":930,"y":399}
+1470142692033: 	draw	content	{"x":930,"y":400}
+1470142692120: 	draw	content	{"x":926,"y":415}
+1470142692202: 	draw	content	{"x":926,"y":418}
+1470142692203: 	draw	content	{"x":926,"y":418}
+1470142692288: 	draw	content	{"x":920,"y":404}
+1470142692401: 	draw	content	{"x":895,"y":360}
+1470142692402: 	draw	content	{"x":895,"y":360}
+1470142692483: 	draw	content	{"x":866,"y":343}
+1470142692569: 	draw	content	{"x":853,"y":342}
+1470142692988: 	acted on	content
+1470142692990: 	draw	content	{"x":932,"y":416}
+1470142692991: 	draw	content	{"x":932,"y":416}
+1470142693094: 	draw	content	{"x":943,"y":404}
+1470142693095: 	draw	content	{"x":943,"y":404}
+1470142693183: 	draw	content	{"x":970,"y":381}
+1470142693184: 	draw	content	{"x":970,"y":381}
+1470142693265: 	draw	content	{"x":985,"y":371}
+1470142693266: 	draw	content	{"x":985,"y":371}
+1470142693350: 	draw	content	{"x":994,"y":367}
+1470142693451: 	draw	content	{"x":995,"y":367}
+1470142693452: 	draw	content	{"x":995,"y":367}
+1470142693547: 	draw	content	{"x":968,"y":380}
+1470142693548: 	draw	content	{"x":968,"y":380}
+1470142693628: 	draw	content	{"x":942,"y":398}
+1470142693629: 	draw	content	{"x":942,"y":398}
+1470142693716: 	draw	content	{"x":921,"y":420}
+1470142693717: 	draw	content	{"x":921,"y":420}
+1470142693804: 	draw	content	{"x":915,"y":433}
+1470142693805: 	draw	content	{"x":915,"y":433}
+1470142693886: 	draw	content	{"x":914,"y":435}
+1470142693887: 	draw	content	{"x":914,"y":435}
+1470142693995: 	draw	content	{"x":914,"y":436}
+1470142693996: 	draw	content	{"x":914,"y":436}
+1470142694081: 	draw	content	{"x":915,"y":449}
+1470142694082: 	draw	content	{"x":915,"y":449}
+1470142694169: 	draw	content	{"x":914,"y":472}
+1470142694255: 	draw	content	{"x":915,"y":494}
+1470142694256: 	draw	content	{"x":915,"y":494}
+1470142694340: 	draw	content	{"x":915,"y":498}
+1470142694341: 	draw	content	{"x":915,"y":498}
+1470142694428: 	draw	content	{"x":907,"y":497}
+1470142694539: 	draw	content	{"x":868,"y":507}
+1470142694541: 	draw	content	{"x":868,"y":507}
+1470142694626: 	draw	content	{"x":852,"y":524}
+1470142694627: 	draw	content	{"x":852,"y":524}
+1470142694715: 	draw	content	{"x":847,"y":534}
+1470142694797: 	draw	content	{"x":847,"y":536}
+1470142694798: 	draw	content	{"x":847,"y":536}
+1470142694885: 	draw	content	{"x":853,"y":531}
+1470142694886: 	draw	content	{"x":853,"y":531}
+1470142694986: 	draw	content	{"x":882,"y":514}
+1470142694987: 	draw	content	{"x":882,"y":514}
+1470142695086: 	draw	content	{"x":914,"y":510}
+1470142695087: 	draw	content	{"x":914,"y":510}
+1470142695174: 	draw	content	{"x":938,"y":522}
+1470142695175: 	draw	content	{"x":938,"y":522}
+1470142695260: 	draw	content	{"x":953,"y":543}
+1470142695261: 	draw	content	{"x":953,"y":543}
+1470142695345: 	draw	content	{"x":958,"y":561}
+1470142695426: 	draw	content	{"x":959,"y":563}
+1470142695427: 	draw	content	{"x":959,"y":563}
+1470142695887: 	acted on	content
+1470142695889: 	draw	content	{"x":1015,"y":319}
+1470142695890: 	draw	content	{"x":1015,"y":319}
+1470142695978: 	draw	content	{"x":1014,"y":335}
+1470142696010: 	draw	content	{"x":1013,"y":348}
+1470142696011: 	draw	content	{"x":1013,"y":348}
+1470142696053: 	draw	content	{"x":1010,"y":370}
+1470142696054: 	draw	content	{"x":1010,"y":370}
+1470142696086: 	draw	content	{"x":1008,"y":387}
+1470142696118: 	draw	content	{"x":1006,"y":402}
+1470142696119: 	draw	content	{"x":1006,"y":402}
+1470142696152: 	draw	content	{"x":1004,"y":414}
+1470142696153: 	draw	content	{"x":1004,"y":414}
+1470142696239: 	draw	content	{"x":1004,"y":422}
+1470142696240: 	draw	content	{"x":1004,"y":422}
+1470142696354: 	draw	content	{"x":1012,"y":414}
+1470142696447: 	draw	content	{"x":1055,"y":392}
+1470142696537: 	draw	content	{"x":1080,"y":389}
+1470142696538: 	draw	content	{"x":1080,"y":389}
+1470142696620: 	draw	content	{"x":1083,"y":389}
+1470142696621: 	draw	content	{"x":1083,"y":389}
+1470142696710: 	draw	content	{"x":1056,"y":391}
+1470142696711: 	draw	content	{"x":1056,"y":391}
+1470142696809: 	draw	content	{"x":1014,"y":407}
+1470142696810: 	draw	content	{"x":1014,"y":407}
+1470142696906: 	draw	content	{"x":1000,"y":429}
+1470142696907: 	draw	content	{"x":1000,"y":429}
+1470142696996: 	draw	content	{"x":999,"y":432}
+1470142697084: 	draw	content	{"x":989,"y":418}
+1470142697168: 	draw	content	{"x":960,"y":407}
+1470142697169: 	draw	content	{"x":960,"y":407}
+1470142697253: 	draw	content	{"x":936,"y":411}
+1470142697254: 	draw	content	{"x":936,"y":411}
+1470142697358: 	draw	content	{"x":938,"y":411}
+1470142697359: 	draw	content	{"x":938,"y":411}
+1470142697449: 	draw	content	{"x":981,"y":411}
+1470142697533: 	draw	content	{"x":1002,"y":420}
+1470142697534: 	draw	content	{"x":1002,"y":420}
+1470142697632: 	draw	content	{"x":1011,"y":437}
+1470142697633: 	draw	content	{"x":1011,"y":437}
+1470142697732: 	draw	content	{"x":1013,"y":447}
+1470142697733: 	draw	content	{"x":1013,"y":447}
+1470142697821: 	draw	content	{"x":1013,"y":448}
+1470142697910: 	draw	content	{"x":1012,"y":449}
+1470142697998: 	draw	content	{"x":1008,"y":472}
+1470142698090: 	draw	content	{"x":1006,"y":498}
+1470142698207: 	draw	content	{"x":1005,"y":515}
+1470142698208: 	draw	content	{"x":1005,"y":515}
+1470142698298: 	draw	content	{"x":1005,"y":516}
+1470142698299: 	draw	content	{"x":1005,"y":516}
+1470142698386: 	draw	content	{"x":1004,"y":517}
+1470142698387: 	draw	content	{"x":1004,"y":517}
+1470142698478: 	draw	content	{"x":980,"y":520}
+1470142698479: 	draw	content	{"x":980,"y":520}
+1470142698569: 	draw	content	{"x":960,"y":540}
+1470142698676: 	draw	content	{"x":953,"y":556}
+1470142698677: 	draw	content	{"x":953,"y":556}
+1470142698767: 	draw	content	{"x":954,"y":556}
+1470142698768: 	draw	content	{"x":954,"y":556}
+1470142698859: 	draw	content	{"x":981,"y":532}
+1470142698860: 	draw	content	{"x":981,"y":532}
+1470142698965: 	draw	content	{"x":1006,"y":526}
+1470142698966: 	draw	content	{"x":1006,"y":526}
+1470142699064: 	draw	content	{"x":1029,"y":537}
+1470142699065: 	draw	content	{"x":1029,"y":537}
+1470142699156: 	draw	content	{"x":1043,"y":556}
+1470142699251: 	draw	content	{"x":1046,"y":566}
+1470142699341: 	draw	content	{"x":1046,"y":567}
+1470142699342: 	draw	content	{"x":1046,"y":567}
+1470142699880: 	acted on	path-1470142678774
+1470142699882: 	draw	content	{"x":1116,"y":308}
+1470142699995: 	draw	content	{"x":1115,"y":326}
+1470142699996: 	draw	path-1470142678774	{"x":1115,"y":326}
+1470142700028: 	draw	content	{"x":1114,"y":340}
+1470142700029: 	draw	path-1470142678774	{"x":1114,"y":340}
+1470142700060: 	draw	content	{"x":1115,"y":357}
+1470142700061: 	draw	path-1470142678774	{"x":1115,"y":357}
+1470142700095: 	draw	content	{"x":1114,"y":374}
+1470142700136: 	draw	content	{"x":1112,"y":396}
+1470142700137: 	draw	path-1470142678774	{"x":1112,"y":396}
+1470142700169: 	draw	content	{"x":1110,"y":411}
+1470142700170: 	draw	path-1470142678774	{"x":1110,"y":411}
+1470142700220: 	draw	content	{"x":1109,"y":424}
+1470142700221: 	draw	path-1470142678774	{"x":1109,"y":424}
+1470142700286: 	draw	content	{"x":1109,"y":428}
+1470142700335: 	draw	content	{"x":1110,"y":427}
+1470142700336: 	draw	path-1470142678774	{"x":1110,"y":427}
+1470142700422: 	draw	content	{"x":1122,"y":408}
+1470142700423: 	draw	path-1470142678774	{"x":1122,"y":408}
+1470142700514: 	draw	content	{"x":1148,"y":391}
+1470142700515: 	draw	path-1470142678774	{"x":1148,"y":391}
+1470142700606: 	draw	content	{"x":1165,"y":383}
+1470142700607: 	draw	path-1470142678774	{"x":1165,"y":383}
+1470142700700: 	draw	content	{"x":1167,"y":382}
+1470142700701: 	draw	path-1470142678774	{"x":1167,"y":382}
+1470142700813: 	draw	content	{"x":1149,"y":393}
+1470142700814: 	draw	path-1470142678774	{"x":1149,"y":393}
+1470142700903: 	draw	content	{"x":1122,"y":411}
+1470142701014: 	draw	content	{"x":1097,"y":433}
+1470142701107: 	draw	content	{"x":1094,"y":436}
+1470142701108: 	draw	path-1470142678774	{"x":1094,"y":436}
+1470142701202: 	draw	content	{"x":1087,"y":427}
+1470142701203: 	draw	path-1470142678774	{"x":1087,"y":427}
+1470142701317: 	draw	content	{"x":1052,"y":407}
+1470142701318: 	draw	path-1470142678774	{"x":1052,"y":407}
+1470142701412: 	draw	content	{"x":1015,"y":412}
+1470142701413: 	draw	path-1470142678774	{"x":1015,"y":412}
+1470142701505: 	draw	content	{"x":1012,"y":414}
+1470142701599: 	draw	content	{"x":1065,"y":415}
+1470142701600: 	draw	path-1470142678774	{"x":1065,"y":415}
+1470142701694: 	draw	content	{"x":1096,"y":423}
+1470142701695: 	draw	path-1470142678774	{"x":1096,"y":423}
+1470142701812: 	draw	content	{"x":1108,"y":447}
+1470142701813: 	draw	path-1470142678774	{"x":1108,"y":447}
+1470142701906: 	draw	content	{"x":1103,"y":476}
+1470142701907: 	draw	path-1470142678774	{"x":1103,"y":476}
+1470142702000: 	draw	content	{"x":1096,"y":498}
+1470142702090: 	draw	content	{"x":1096,"y":506}
+1470142702091: 	draw	path-1470142678774	{"x":1096,"y":506}
+1470142702210: 	draw	content	{"x":1096,"y":505}
+1470142702211: 	draw	path-1470142678774	{"x":1096,"y":505}
+1470142702304: 	draw	content	{"x":1096,"y":500}
+1470142702306: 	draw	path-1470142678774	{"x":1096,"y":500}
+1470142702399: 	draw	content	{"x":1082,"y":502}
+1470142702400: 	draw	path-1470142678774	{"x":1082,"y":502}
+1470142702493: 	draw	content	{"x":1064,"y":525}
+1470142702494: 	draw	path-1470142678774	{"x":1064,"y":525}
+1470142702588: 	draw	content	{"x":1051,"y":553}
+1470142702589: 	draw	path-1470142678774	{"x":1051,"y":553}
+1470142702709: 	draw	content	{"x":1050,"y":557}
+1470142702710: 	draw	path-1470142678774	{"x":1050,"y":557}
+1470142702804: 	draw	content	{"x":1071,"y":528}
+1470142702898: 	draw	content	{"x":1092,"y":510}
+1470142702899: 	draw	path-1470142678774	{"x":1092,"y":510}
+1470142702992: 	draw	content	{"x":1115,"y":508}
+1470142702993: 	draw	path-1470142678774	{"x":1115,"y":508}
+1470142703104: 	draw	content	{"x":1144,"y":524}
+1470142703105: 	draw	path-1470142678774	{"x":1144,"y":524}
+1470142703208: 	draw	content	{"x":1157,"y":549}
+1470142703210: 	draw	path-1470142678774	{"x":1157,"y":549}
+1470142703300: 	draw	content	{"x":1159,"y":574}
+1470142703392: 	draw	content	{"x":1158,"y":581}
+1470142703393: 	draw	path-1470142678774	{"x":1158,"y":581}
+1470142703482: 	draw	content	{"x":1158,"y":582}
+1470142703483: 	draw	path-1470142678774	{"x":1158,"y":582}
+1470142703648: 	draw	content	{"x":1158,"y":581}
+1470142703649: 	draw	path-1470142678774	{"x":1158,"y":581}
+1470142703759: 	draw	content	{"x":1159,"y":580}
+1470142703760: 	draw	path-1470142678774	{"x":1159,"y":580}
+1470142727831: 	acted on	draw
+1470142727938: 	selected	null
+1470142727939: 	mode	null
+1470142730337: 	acted on	path-1470142695890
+1470142730340: 	selected	path-1470142695890
+1470142732613: 	acted on	content
+1470142732618: 	selected	null
+1470142734765: 	acted on	colorPicker
+1470142736771: 	acted on	#006666
+1470142736886: 	sub-instrument	#006666		false
+1470142736887: 	changed color	rgb(109, 109, 255)
+1470142738035: 	acted on	content
+1470142738038: 	selected	null
+1470142738610: 	acted on	content
+1470142738612: 	selected	null
+1470142739555: 	acted on	content
+1470142739557: 	selected	null
+1470142740987: 	acted on	colorPicker
+1470142744405: 	acted on	colorPicker
+1470142745212: 	acted on	draw
+1470142745321: 	selected	null
+1470142746513: 	acted on	content
+1470142746514: 	draw	content	{"x":1101,"y":108}
+1470142746515: 	draw	content	{"x":1101,"y":108}
+1470142746635: 	draw	content	{"x":1094,"y":123}
+1470142746636: 	draw	content	{"x":1094,"y":123}
+1470142746675: 	draw	content	{"x":1088,"y":138}
+1470142746676: 	draw	content	{"x":1088,"y":138}
+1470142746796: 	draw	content	{"x":1083,"y":179}
+1470142746797: 	draw	content	{"x":1083,"y":179}
+1470142746917: 	draw	content	{"x":1098,"y":208}
+1470142746918: 	draw	content	{"x":1098,"y":208}
+1470142747023: 	draw	content	{"x":1120,"y":214}
+1470142747024: 	draw	content	{"x":1120,"y":214}
+1470142747120: 	draw	content	{"x":1141,"y":196}
+1470142747217: 	draw	content	{"x":1157,"y":168}
+1470142747218: 	draw	content	{"x":1157,"y":168}
+1470142747312: 	draw	content	{"x":1168,"y":145}
+1470142747438: 	draw	content	{"x":1175,"y":128}
+1470142747439: 	draw	content	{"x":1175,"y":128}
+1470142747533: 	draw	content	{"x":1175,"y":127}
+1470142747534: 	draw	content	{"x":1175,"y":127}
+1470142747634: 	draw	content	{"x":1175,"y":126}
+1470142747635: 	draw	content	{"x":1175,"y":126}
+1470142748085: 	draw	content	{"x":1175,"y":127}
+1470142748268: 	draw	content	{"x":1175,"y":128}
+1470142748395: 	draw	content	{"x":1172,"y":135}
+1470142748396: 	draw	content	{"x":1172,"y":135}
+1470142748494: 	draw	content	{"x":1162,"y":140}
+1470142748592: 	draw	content	{"x":1158,"y":120}
+1470142748593: 	draw	content	{"x":1158,"y":120}
+1470142748685: 	draw	content	{"x":1157,"y":116}
+1470142748686: 	draw	content	{"x":1157,"y":116}
+1470142748784: 	draw	content	{"x":1145,"y":127}
+1470142748785: 	draw	content	{"x":1145,"y":127}
+1470142748909: 	draw	content	{"x":1138,"y":124}
+1470142748911: 	draw	content	{"x":1138,"y":124}
+1470142749009: 	draw	content	{"x":1131,"y":115}
+1470142749010: 	draw	content	{"x":1131,"y":115}
+1470142749104: 	draw	content	{"x":1118,"y":120}
+1470142749105: 	draw	content	{"x":1118,"y":120}
+1470142749202: 	draw	content	{"x":1113,"y":117}
+1470142749203: 	draw	content	{"x":1113,"y":117}
+1470142749302: 	draw	content	{"x":1109,"y":113}
+1470142749427: 	draw	content	{"x":1101,"y":121}
+1470142749428: 	draw	content	{"x":1101,"y":121}
+1470142749527: 	draw	content	{"x":1101,"y":122}
+1470142749627: 	draw	content	{"x":1095,"y":107}
+1470142749628: 	draw	content	{"x":1095,"y":107}
+1470142749723: 	draw	content	{"x":1094,"y":87}
+1470142749724: 	draw	content	{"x":1094,"y":87}
+1470142749828: 	draw	content	{"x":1099,"y":68}
+1470142749958: 	draw	content	{"x":1104,"y":56}
+1470142749959: 	draw	content	{"x":1104,"y":56}
+1470142750058: 	draw	content	{"x":1108,"y":49}
+1470142750059: 	draw	content	{"x":1108,"y":49}
+1470142750157: 	draw	content	{"x":1111,"y":47}
+1470142750256: 	draw	content	{"x":1121,"y":44}
+1470142750258: 	draw	content	{"x":1121,"y":44}
+1470142750360: 	draw	content	{"x":1135,"y":44}
+1470142750481: 	draw	content	{"x":1152,"y":52}
+1470142750482: 	draw	content	{"x":1152,"y":52}
+1470142750579: 	draw	content	{"x":1162,"y":62}
+1470142750580: 	draw	content	{"x":1162,"y":62}
+1470142750682: 	draw	content	{"x":1167,"y":72}
+1470142750683: 	draw	content	{"x":1167,"y":72}
+1470142750778: 	draw	content	{"x":1171,"y":78}
+1470142750779: 	draw	content	{"x":1171,"y":78}
+1470142750900: 	draw	content	{"x":1175,"y":87}
+1470142750902: 	draw	content	{"x":1175,"y":87}
+1470142751007: 	draw	content	{"x":1178,"y":100}
+1470142751009: 	draw	content	{"x":1178,"y":100}
+1470142751109: 	draw	content	{"x":1179,"y":110}
+1470142751110: 	draw	content	{"x":1179,"y":110}
+1470142751206: 	draw	content	{"x":1181,"y":121}
+1470142751207: 	draw	content	{"x":1181,"y":121}
+1470142751304: 	draw	content	{"x":1180,"y":129}
+1470142751305: 	draw	content	{"x":1180,"y":129}
+1470142751420: 	draw	content	{"x":1180,"y":131}
+1470142751421: 	draw	content	{"x":1180,"y":131}
+1470142751526: 	draw	content	{"x":1179,"y":128}
+1470142751527: 	draw	content	{"x":1179,"y":128}
+1470142751629: 	draw	content	{"x":1178,"y":122}
+1470142751729: 	draw	content	{"x":1176,"y":121}
+1470142751730: 	draw	content	{"x":1176,"y":121}
+1470142751828: 	draw	content	{"x":1166,"y":121}
+1470142751829: 	draw	content	{"x":1166,"y":121}
+1470142751946: 	draw	content	{"x":1162,"y":118}
+1470142751947: 	draw	content	{"x":1162,"y":118}
+1470142752053: 	draw	content	{"x":1159,"y":118}
+1470142752054: 	draw	content	{"x":1159,"y":118}
+1470142752158: 	draw	content	{"x":1151,"y":114}
+1470142752258: 	draw	content	{"x":1144,"y":115}
+1470142752259: 	draw	content	{"x":1144,"y":115}
+1470142752355: 	draw	content	{"x":1137,"y":110}
+1470142752356: 	draw	content	{"x":1137,"y":110}
+1470142752486: 	draw	content	{"x":1124,"y":108}
+1470142752488: 	draw	content	{"x":1124,"y":108}
+1470142752591: 	draw	content	{"x":1121,"y":107}
+1470142752691: 	draw	content	{"x":1111,"y":103}
+1470142752692: 	draw	content	{"x":1111,"y":103}
+1470142752788: 	draw	content	{"x":1102,"y":108}
+1470142752789: 	draw	content	{"x":1102,"y":108}
+1470142752895: 	draw	content	{"x":1100,"y":109}
+1470142753022: 	draw	content	{"x":1100,"y":110}
+1470142753024: 	draw	content	{"x":1100,"y":110}
+1470142759978: 	acted on	path-1470142677449
+1470142759980: 	draw	content	{"x":1030,"y":301}
+1470142760935: 	acted on	content
+1470142760937: 	draw	content	{"x":1036,"y":311}
+1470142760938: 	draw	content	{"x":1036,"y":311}
+1470142761804: 	acted on	content
+1470142761805: 	draw	content	{"x":1035,"y":311}
+1470142761806: 	draw	content	{"x":1035,"y":311}
+1470142763105: 	acted on	draw
+1470142763264: 	selected	null
+1470142763265: 	mode	null
+1470142764093: 	acted on	content
+1470142764096: 	selected	null
+1470142764737: 	acted on	path-1470142699883
+1470142764740: 	selected	path-1470142699883
+1470142767384: 	acted on	path-1470142695890
+1470142767391: 	selected	path-1470142695890
+1470142767628: 	acted on	path-1470142695890
+1470142767632: 	selected	path-1470142695890
+1470142767859: 	acted on	content
+1470142767862: 	selected	null
+1470142770507: 	acted on	content
+1470142770512: 	selected	null
+1470142770515: 	acted on	path-1470142695890
+1470142770518: 	selected	path-1470142695890
+1470142773537: 	acted on	content
+1470142773541: 	selected	null
+1470142775918: 	acted on	content
+1470142775924: 	selected	null
+1470142776457: 	acted on	path-1470142695890
+1470142776461: 	selected	path-1470142695890
+1470142779149: 	acted on	path-1470142695890
+1470142779155: 	selected	path-1470142695890
+1470142779363: 	acted on	content
+1470142779365: 	selected	null
+1470142781986: 	acted on	content
+1470142781990: 	selected	null
+1470142782123: 	acted on	content
+1470142782125: 	selected	null
+1470142782288: 	acted on	content
+1470142782292: 	selected	null
+1470142782677: 	acted on	content
+1470142782679: 	selected	null
+1470142783413: 	acted on	content
+1470142783414: 	selected	null
+1470142784338: 	acted on	path-1470142695890
+1470142784341: 	selected	path-1470142695890
+1470142787075: 	acted on	path-1470142695890
+1470142787081: 	selected	path-1470142695890
+1470142787292: 	acted on	path-1470142695890
+1470142787296: 	selected	path-1470142695890
+1470142787504: 	acted on	path-1470142695890
+1470142787506: 	selected	path-1470142695890
+1470142797126: 	acted on	path-1470142695890
+1470142797129: 	selected	path-1470142695890
+1470142797561: 	start moving	path-1470142695890	from	{"x":975,"y":544}
+1470142797633: 	moved	path-1470142695890	to	{"x":969,"y":547}
+1470142797760: 	moved	path-1470142695890	to	{"x":963,"y":550}
+1470142797891: 	moved	path-1470142695890	to	{"x":960,"y":553}
+1470142798019: 	moved	path-1470142695890	to	{"x":955,"y":556}
+1470142798161: 	moved	path-1470142695890	to	{"x":946,"y":560}
+1470142798290: 	moved	path-1470142695890	to	{"x":937,"y":565}
+1470142798397: 	moved	path-1470142695890	to	{"x":930,"y":572}
+1470142798508: 	moved	path-1470142695890	to	{"x":925,"y":585}
+1470142798617: 	moved	path-1470142695890	to	{"x":927,"y":597}
+1470142798753: 	moved	path-1470142695890	to	{"x":930,"y":609}
+1470142798868: 	moved	path-1470142695890	to	{"x":934,"y":616}
+1470142798980: 	moved	path-1470142695890	to	{"x":938,"y":623}
+1470142799088: 	moved	path-1470142695890	to	{"x":944,"y":629}
+1470142799222: 	moved	path-1470142695890	to	{"x":952,"y":634}
+1470142799333: 	moved	path-1470142695890	to	{"x":956,"y":636}
+1470142799439: 	moved	path-1470142695890	to	{"x":957,"y":637}
+1470142799544: 	moved	path-1470142695890	to	{"x":958,"y":638}
+1470142800220: 	acted on	content
+1470142800224: 	selected	null
+1470142802933: 	acted on	content
+1470142802938: 	selected	null
+1470142803083: 	acted on	path-1470142692991
+1470142803086: 	selected	path-1470142692991
+1470142805903: 	acted on	content
+1470142805909: 	selected	null
+1470142808670: 	acted on	path-1470142677449
+1470142808678: 	selected	path-1470142677449
+1470142811467: 	acted on	path-1470142677449
+1470142811473: 	selected	path-1470142677449
+1470142811713: 	acted on	content
+1470142811717: 	selected	null
+1470142814455: 	acted on	content
+1470142814460: 	selected	null
+1470142814758: 	acted on	path-1470142677449
+1470142814763: 	selected	path-1470142677449
+1470142817773: 	acted on	path-1470142692991
+1470142817779: 	selected	path-1470142692991
+1470142817877: 	start moving	path-1470142692991	from	{"x":894,"y":545}
+1470142818164: 	acted on	path-1470142692991
+1470142818168: 	selected	path-1470142692991
+1470142818243: 	start moving	path-1470142692991	from	{"x":865,"y":567}
+1470142818562: 	acted on	path-1470142695890
+1470142818566: 	selected	path-1470142695890
+1470142818828: 	acted on	path-1470142695890
+1470142818833: 	selected	path-1470142695890
+1470142819062: 	acted on	content
+1470142819064: 	selected	null
+1470142821878: 	acted on	path-1470142695890
+1470142821883: 	selected	path-1470142695890
+1470142824720: 	acted on	path-1470142695890
+1470142824727: 	selected	path-1470142695890
+1470142824970: 	acted on	path-1470142695890
+1470142824973: 	selected	path-1470142695890
+1470142825195: 	acted on	path-1470142695890
+1470142825197: 	selected	path-1470142695890
+1470142825441: 	acted on	content
+1470142825443: 	selected	null
+1470142828289: 	acted on	path-1470142695890
+1470142828294: 	selected	path-1470142695890
+1470142831313: 	acted on	path-1470142695890
+1470142831320: 	selected	path-1470142695890
+1470142831395: 	start moving	path-1470142695890	from	{"x":1013,"y":378}
+1470142831578: 	acted on	path-1470142695890
+1470142831582: 	selected	path-1470142695890
+1470142831819: 	acted on	path-1470142695890
+1470142831822: 	selected	path-1470142695890
+1470142832080: 	acted on	path-1470142695890
+1470142832083: 	selected	path-1470142695890
+1470142832160: 	start moving	path-1470142695890	from	{"x":1015,"y":333}
+1470142832465: 	acted on	content
+1470142832469: 	selected	null
+1470142835507: 	acted on	path-1470142695890
+1470142835514: 	selected	path-1470142695890
+1470142838423: 	acted on	path-1470142695890
+1470142838429: 	selected	path-1470142695890
+1470142838679: 	acted on	path-1470142695890
+1470142838682: 	selected	path-1470142695890
+1470142838759: 	start moving	path-1470142695890	from	{"x":1013,"y":434}
+1470142839084: 	acted on	path-1470142695890
+1470142839088: 	selected	path-1470142695890
+1470142843916: 	acted on	path-1470142695890
+1470142843919: 	selected	path-1470142695890
+1470142844449: 	start moving	path-1470142695890	from	{"x":993,"y":518}
+1470142844465: 	moved	path-1470142695890	to	{"x":977,"y":611}
+1470142844641: 	moved	path-1470142695890	to	{"x":984,"y":596}
+1470142844786: 	moved	path-1470142695890	to	{"x":988,"y":586}
+1470142844925: 	moved	path-1470142695890	to	{"x":991,"y":575}
+1470142845042: 	moved	path-1470142695890	to	{"x":994,"y":564}
+1470142845183: 	moved	path-1470142695890	to	{"x":997,"y":544}
+1470142845303: 	moved	path-1470142695890	to	{"x":999,"y":528}
+1470142845426: 	moved	path-1470142695890	to	{"x":1000,"y":516}
+1470142845546: 	moved	path-1470142695890	to	{"x":1001,"y":509}
+1470142845682: 	moved	path-1470142695890	to	{"x":1000,"y":503}
+1470142845796: 	moved	path-1470142695890	to	{"x":999,"y":500}
+1470142845915: 	moved	path-1470142695890	to	{"x":999,"y":498}
+1470142846037: 	moved	path-1470142695890	to	{"x":999,"y":497}
+1470142846178: 	moved	path-1470142695890	to	{"x":999,"y":498}
+1470142846295: 	moved	path-1470142695890	to	{"x":999,"y":499}
+1470142846415: 	moved	path-1470142695890	to	{"x":1000,"y":500}
+1470142849692: 	acted on	content
+1470142849695: 	selected	null
+1470142852558: 	acted on	content
+1470142852563: 	selected	null
