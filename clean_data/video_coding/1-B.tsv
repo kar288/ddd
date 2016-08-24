@@ -1,0 +1,56 @@
+Observation id	1-B				
+					
+Media file(s)					
+					
+Player #1	/Volumes/Untitled/Maters Experiment Videos/1-8/1-2-B.MTS				
+					
+Observation date	2016-08-22 17:38:49				
+					
+Description					
+					
+Time offset (s)	0.0				
+					
+independent variables					
+variable	value				
+					
+Time	Subject	Behavior	Modifier 1	Comment	Status
+18.86		F	V		START
+24.224		B	A		POINT
+36.61		F	V		STOP
+36.611		F	T		START
+50.554		F	T		STOP
+50.555		F	V		START
+74.92		F	V		STOP
+74.921		F	T		START
+103.14		B	A		POINT
+118.195		B	A		POINT
+118.561		F	T		STOP
+118.562		F	V		START
+121.178		F	V		STOP
+121.179		F	T		START
+132.226		F	T		STOP
+132.227		F	V		START
+137.298		F	V		STOP
+137.299		F			START
+138.816		B	R		POINT
+154.455		B	R		POINT
+166.122		F			STOP
+166.123		F	V		START
+182.602		F	V		STOP
+182.603		F			START
+183.012		B	A		POINT
+196.216		B	C		POINT
+219.039		B	M	moving a shape brings it to front, all images that were over it have to be moved again	POINT
+278.639		B	R	trying to use gesture for resizing 	POINT
+306.111		B	A		POINT
+321.392		B	R		POINT
+338.912		B	P		POINT
+363.855		B	R		POINT
+386.087		B	M		POINT
+424.806		B	R		POINT
+440.953		F			STOP
+440.954		F	T		START
+450.593		F	T		STOP
+450.594		F	V		START
+460.912		B	R		POINT
+470.633		B	A		POINT
